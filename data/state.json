@@ -934,6 +934,21 @@
    "published": "2026-09-15T09:00:44+00:00",
    "status": "baseline"
   },
+  "LAoFbg4QflA": {
+   "errors": 0,
+   "first_seen": "2026-10-09T08:33:36+00:00",
+   "published": "2026-10-09T08:30:04+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCYgVl2XoMfkvg1BzTFiyOiw",
+    "channel_name": "홈즈 부동산",
+    "description": "홈즈 부동산 밴드(급매 정보, 성남 투자시 필수)\n: https://band.us/band/91293447\n\n홈즈부동산 전화번호*  : 031-752-4984, 010-2082-0826\n(상담 및 매물 접수)\n\n네이버 블로그: https://blog.naver.com/11jhlee1199\n카카오톡 상담 채널: http://pf.kakao.com/_ciEcK\n\n홈즈 부동산 종합 링크 \nhttps://link.inpock.co.kr/homesrealestate\n\n주소: 경기도 성남시 수정구 산성대로 207, 109호(수진역 4번출구)",
+    "published": "2026-10-09T08:30:04+00:00",
+    "title": "분담금 폭탄 터지기 시작했습니다, 이런 재건축 조심하세요",
+    "video_id": "LAoFbg4QflA"
+   },
+   "wait_checks": 1
+  },
   "LDOuqa0H4UA": {
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-09-21T11:30:18+00:00",
