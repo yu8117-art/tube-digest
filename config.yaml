@@ -15,7 +15,7 @@ claude:
 site:
   base_url: https://yu8117-art.github.io/tube-digest   # GitHub Pages 주소로 바꿀 것
   output_dir: docs             # Pages 소스 폴더 (main 브랜치 /docs)
-  git_push: false              # 저장소 연결 후 true
+  git_push: true              # 저장소 연결 후 true
   wait_until_live_sec: 180     # push 후 기사 URL이 열릴 때까지 기다리는 최대 시간
 
 notify:
