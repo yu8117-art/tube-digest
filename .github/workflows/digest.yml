@@ -40,13 +40,14 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
+      # 새 기사가 있을 때, 또는 Actions 탭에서 수동 실행했을 때(첫 설정 등) 배포
       - name: Pages 아티팩트 업로드
-        if: steps.run.outputs.published != '0'
+        if: steps.run.outputs.published != '0' || github.event_name == 'workflow_dispatch'
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs
       - name: Pages 배포
-        if: steps.run.outputs.published != '0'
+        if: steps.run.outputs.published != '0' || github.event_name == 'workflow_dispatch'
         uses: actions/deploy-pages@v4
 
       - name: 폰 알림 (배포 후)

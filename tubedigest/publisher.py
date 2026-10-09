@@ -78,6 +78,10 @@ def git_publish(message: str) -> bool:
     ahead = _git("rev-list", "--count", "@{u}..HEAD")
     if ahead.returncode == 0 and ahead.stdout.strip() == "0":
         return False
+    # GitHub Actions가 먼저 상태를 커밋해 둔 경우 그 위에 얹는다 (PC에서 수동 실행할 때 대비)
+    pull = _git("pull", "--rebase", "--autostash")
+    if pull.returncode != 0:
+        raise RuntimeError(f"git pull 실패: {pull.stderr.strip()}")
     p = _git("push")
     if p.returncode != 0:
         raise RuntimeError(f"git push 실패: {p.stderr.strip()}")
