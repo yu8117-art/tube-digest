@@ -182,7 +182,7 @@
     "title": "\"너라면 1사겠냐?\" 비웃던 사람들 오열 중! 3년 만에 8억 뛴 '이 곳'(투미 부동산 김제경 박사)",
     "video_id": "0fZq8JxMiX0"
    },
-   "wait_checks": 1
+   "wait_checks": 2
   },
   "11gs1nyMBPo": {
    "first_seen": "2026-10-09T08:14:34+00:00",
@@ -462,7 +462,7 @@
     "title": "\"머스크 초대형 베팅\" 구글·스페이스X 역사적 협업, AI 천지개벽 시작 ㄷㄷ",
     "video_id": "7jD67zXfr0g"
    },
-   "wait_checks": 1
+   "wait_checks": 2
   },
   "7jI7ztTxz6o": {
    "first_seen": "2026-10-09T08:14:38+00:00",
@@ -977,7 +977,7 @@
     "title": "분담금 폭탄 터지기 시작했습니다, 이런 재건축 조심하세요",
     "video_id": "LAoFbg4QflA"
    },
-   "wait_checks": 3
+   "wait_checks": 4
   },
   "LDOuqa0H4UA": {
    "first_seen": "2026-10-09T08:14:32+00:00",
@@ -1298,6 +1298,21 @@
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-09-05T07:13:21+00:00",
    "status": "baseline"
+  },
+  "SQ8_MmMFhus": {
+   "errors": 0,
+   "first_seen": "2026-10-09T09:28:40+00:00",
+   "published": "2026-10-09T09:00:08+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCstI8HwGQsHdqLDgyH0PImw",
+    "channel_name": "최준영 박사의 지구본 연구소",
+    "description": "🌏지구본 연구소 멤버십에 가입하여 혜택을 누려보세요!\nhttps://www.youtube.com/channel/UCstI8HwGQsHdqLDgyH0PImw/join\n\n놀라운 라인업으로 다시 돌아온 위즈덤 칼리지 2026!\n최준영 박사님과 함께 새로운 지혜의 여정이 시작됩니다.\n🎁 최대 할인 + 30만 원 상당의 혜택 전원 증정\n🎓 지금 바로 입학 등록하기 👉 https://bit.ly/3IRcyte\n\n👉https://3protv.page.link/dvgJ\n⏰바빠서 방송 볼 시간이 없다면? 핵심만 콕 짚은 요약본으로 빠르게!\n삼프로 오리지널 뉴스 콘텐츠로 만나보세요.\n👉https://3protv.page.link/dvgJ\n\n#지구본연구소 #최준영박사 #최준영\n\n🌎타임코드🌎\n00:00 세계에서 가장 모순적인 국가, 중국의 딜레마 f.박민희 기자 [지구본 도서관]\n51:27 중국을 이렇게 키운 건 시진핑이 아니다? f. 박민희 기자 [지구본 초대석]\n01:37:25 다시 중국을 넘으려면, 한국 과학기술에 무엇이 필요한가? f. 이석봉 대표 [지구본 도서관]",
+    "published": "2026-10-09T09:00:08+00:00",
+    "title": "[합본] 세계 패권에 도전하는 중국, 왜 딜레마에 빠졌을까?",
+    "video_id": "SQ8_MmMFhus"
+   },
+   "wait_checks": 1
   },
   "SRS4lLZow8U": {
    "first_seen": "2026-10-09T08:14:36+00:00",
@@ -2691,6 +2706,21 @@
    "first_seen": "2026-10-09T08:14:33+00:00",
    "published": "2026-10-09T06:00:36+00:00",
    "status": "baseline"
+  },
+  "zHRkl6Kg_oQ": {
+   "errors": 0,
+   "first_seen": "2026-10-09T09:28:36+00:00",
+   "published": "2026-10-09T09:01:45+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "0:00 유럽 축구계가 뒤집어진 맨시티 스캔들\n4:50 영국 총리가 취임 2달 만에 찾아온 위기\n14:41 스코틀랜드, 북아일랜드, 웨일즈 독립 선언?\n24:59 영국의 묘수, EU 재가입",
+    "published": "2026-10-09T09:01:45+00:00",
+    "title": "취임 2달만에 사퇴 위기? 영국 총리는 임시직인가?",
+    "video_id": "zHRkl6Kg_oQ"
+   },
+   "wait_checks": 1
   },
   "zHjp91qgEkQ": {
    "first_seen": "2026-10-09T08:14:38+00:00",
