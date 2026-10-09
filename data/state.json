@@ -2380,6 +2380,7 @@
    "done_at": "2026-10-09T11:54:41+00:00",
    "errors": 0,
    "first_seen": "2026-10-09T11:54:29+00:00",
+   "notified": "2026-10-09T11:54:54+00:00",
    "published": "2026-10-09T11:30:18+00:00",
    "status": "done",
    "transcript_status": "blocked:RequestBlocked",
