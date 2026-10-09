@@ -410,6 +410,16 @@
    "published": "2026-09-24T10:51:28+00:00",
    "status": "baseline"
   },
+  "5pHUSWWaGcM": {
+   "article_url": "https://yu8117-art.github.io/tube-digest/a/5pHUSWWaGcM.html",
+   "done_at": "2026-10-09T11:05:19+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-09T11:05:07+00:00",
+   "published": "2026-10-09T11:00:33+00:00",
+   "status": "done",
+   "transcript_status": "blocked:RequestBlocked",
+   "wait_checks": 0
+  },
   "69QvyMteB00": {
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-09-30T09:00:01+00:00",
@@ -2027,6 +2037,21 @@
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-10-08T12:00:09+00:00",
    "status": "baseline"
+  },
+  "iV5qxc5DLfw": {
+   "errors": 0,
+   "first_seen": "2026-10-09T11:05:02+00:00",
+   "published": "2026-10-09T11:00:31+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+    "channel_name": "에스오디 SOD",
+    "description": "Samsung vs SK hynix - what's the difference?\n\nTayama Ver.\n\n#에스오디 #samsung #skhynix #smokingbehindthesupermarketwithyou #tayama💜",
+    "published": "2026-10-09T11:00:31+00:00",
+    "title": "삼성과 SK하이스의 차이를 알려줄게",
+    "video_id": "iV5qxc5DLfw"
+   },
+   "wait_checks": 0
   },
   "iZ4x9iZPZ8o": {
    "first_seen": "2026-10-09T08:14:38+00:00",
