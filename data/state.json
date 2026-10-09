@@ -300,6 +300,21 @@
    "published": "2026-05-18T03:11:52+00:00",
    "status": "baseline"
   },
+  "3bEj8e2WEd0": {
+   "errors": 0,
+   "first_seen": "2026-10-09T10:55:01+00:00",
+   "published": "2026-10-09T10:30:07+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n지방 광역시 '이곳' 보세요, 아직 전고점 못 간 지역들입니다\n\n☞촬영일: 26년 9월 30일",
+    "published": "2026-10-09T10:30:07+00:00",
+    "title": "지방 광역시 '이곳' 보세요, 아직 전고점 못 간 지역들입니다 [김준영 소장]",
+    "video_id": "3bEj8e2WEd0"
+   },
+   "wait_checks": 0
+  },
   "3kiVBJSxwgk": {
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-10-04T21:23:33+00:00",
@@ -2457,6 +2472,21 @@
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-08-15T01:30:26+00:00",
    "status": "baseline"
+  },
+  "tKaUk1pKvOQ": {
+   "errors": 0,
+   "first_seen": "2026-10-09T10:54:54+00:00",
+   "published": "2026-10-09T10:30:08+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "description": "* Manus 바로가기 - http://manus.im/\n* Cue 바로가기 -  https://cue.im/\n\n마누스 2.0으로 패치가 직접 반도체를 모으는 게임을 만들어봤습니다.\n메모리 쇼티지와 파운드리를 배경으로, 직접 플레이하며 캐릭터의 움직임과 점프 높이를 다듬었습니다.\n게임 화면과 채널 이미지를 활용해 트레일러와 안될공학 인트로도 제작했습니다.\n참고 영상으로 원하는 분위기를 전달하고, 타임라인에서 필요한 부분을 수정하는 과정도 살펴봤습니다.\n영상 생성과 코드 기반 그래픽이 어떻게 함께 쓰이는지도 소개합니다.\n\n별도 앱인 Cue에서는 광고 업무와 여행 준비를 맡을 AI 팀을 구성했습니다.\n광고 협업 메일을 정리하고, 항공·숙소 예약 메일을 바탕으로 일정 충돌과 빠진 준비 사항을 확인했습니다.\n에이전트들이 역할을 나눠 작업하고, 결과를 한눈에 볼 수 있는 여행 대시보드로 정리하는 모습도 담았습니다.\n새 메일처럼 특정한 일이 생기면 작업을 시작하는 자동화와, 외부 AI 모델을 연결하는 Flex Mode도 살펴봅니다.\n직접 사용해본 사례를 통해 AI에게 일을 맡겼을 때 사람이 중간에서 처리할 일이 얼마나 줄어드는지 짚어봤습니다.\n\n*본 영상은 Manus 의 지원 하에 제작되었습니다.\n\nWritten by 패치\nEdited by 이재현\n\nunrealtech2021@gmail.com",
+    "published": "2026-10-09T10:30:08+00:00",
+    "title": "Manus 2.0으로 만든 반도체 쇼티지 게임!! ㅋㅋㅋ 원하는 영상 넣으면 스타일도 만들어준다!",
+    "video_id": "tKaUk1pKvOQ"
+   },
+   "wait_checks": 0
   },
   "tT_lp3AvkkM": {
    "first_seen": "2026-10-09T08:14:40+00:00",
