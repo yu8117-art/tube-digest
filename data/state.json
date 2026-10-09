@@ -697,6 +697,16 @@
    "published": "2026-09-19T01:20:35+00:00",
    "status": "baseline"
   },
+  "DTrh7Z9HWvE": {
+   "article_url": "https://yu8117-art.github.io/tube-digest/a/DTrh7Z9HWvE.html",
+   "done_at": "2026-10-09T23:04:43+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-09T23:04:31+00:00",
+   "published": "2026-10-09T23:00:32+00:00",
+   "status": "done",
+   "transcript_status": "blocked:RequestBlocked",
+   "wait_checks": 0
+  },
   "DiIfIWjTPWA": {
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-10-04T09:01:49+00:00",
@@ -2666,7 +2676,7 @@
     "title": "전세가 사라지는 자리에, 월세와 영끌과 14평이 들어선다!",
     "video_id": "uc4tG9swVLc"
    },
-   "wait_checks": 1
+   "wait_checks": 2
   },
   "uvDniF5al8E": {
    "first_seen": "2026-10-09T08:14:35+00:00",
