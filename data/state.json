@@ -2321,6 +2321,21 @@
    "published": "2026-09-21T08:30:07+00:00",
    "status": "baseline"
   },
+  "oNujAwYEh5I": {
+   "errors": 0,
+   "first_seen": "2026-10-09T22:40:50+00:00",
+   "published": "2026-10-09T22:30:31+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n인센티브 받은 삼성전자 임직원들 '여기'로 몰려갑니다\n\n☞촬영일: 26년 9월 30일",
+    "published": "2026-10-09T22:30:31+00:00",
+    "title": "인센티브 받은 삼성전자 임직원들 '여기'로 몰려갑니다 [빠숑]",
+    "video_id": "oNujAwYEh5I"
+   },
+   "wait_checks": 0
+  },
   "oS4r_naM8aE": {
    "first_seen": "2026-10-09T08:14:33+00:00",
    "published": "2026-06-25T12:38:13+00:00",
