@@ -1,0 +1,2658 @@
+{
+ "channels": {
+  "UC1Do3xw9OuUk7FQuPTmSVOw": {
+   "initialized": "2026-10-09T08:14:36+00:00"
+  },
+  "UC2QeHNJFfuQWB4cy3M-745g": {
+   "initialized": "2026-10-09T08:14:39+00:00"
+  },
+  "UC7F6UDq3gykPZHWRhrj_BDw": {
+   "initialized": "2026-10-09T08:14:35+00:00"
+  },
+  "UC9JrTOkuLwzpyudwQqavXGg": {
+   "initialized": "2026-10-09T08:14:34+00:00"
+  },
+  "UCAVdqlngIAxHtwlCA2hjv3A": {
+   "initialized": "2026-10-09T08:14:38+00:00"
+  },
+  "UCC3yfxS5qC6PCwDzetUuEWg": {
+   "initialized": "2026-10-09T08:14:37+00:00"
+  },
+  "UCCQPdv4o4ywVZQkAMOlvFbw": {
+   "initialized": "2026-10-09T08:14:31+00:00"
+  },
+  "UCCScEriE--bvE5R5qRhasaw": {
+   "initialized": "2026-10-09T08:14:36+00:00"
+  },
+  "UCDSj40X9FFUAnx1nv7gQhcA": {
+   "initialized": "2026-10-09T08:14:39+00:00"
+  },
+  "UCFhF5oooL5ugxHKvTxBD75Q": {
+   "initialized": "2026-10-09T08:14:38+00:00"
+  },
+  "UCGHG_gTZ780LicZmc-WUVPQ": {
+   "initialized": "2026-10-09T08:14:37+00:00"
+  },
+  "UCHOPWa8g36QPHB00JmdZluw": {
+   "initialized": "2026-10-09T08:14:39+00:00"
+  },
+  "UCIk1-yPCTnFuzfgu4gyfWqw": {
+   "initialized": "2026-10-09T08:14:31+00:00"
+  },
+  "UCKosTo5bqKm4v264z2zDnFQ": {
+   "initialized": "2026-10-09T08:14:38+00:00"
+  },
+  "UCMc4EmuDxnHPc6pgGW-QWvQ": {
+   "initialized": "2026-10-09T08:14:33+00:00"
+  },
+  "UCPHt56f4p6wVsPIDttxXZ2g": {
+   "initialized": "2026-10-09T08:14:39+00:00"
+  },
+  "UCRCNBeNS8MrOwFV6h6Yjemw": {
+   "initialized": "2026-10-09T08:14:40+00:00"
+  },
+  "UCSPMRoAphbObUYeDaX367Fg": {
+   "initialized": "2026-10-09T08:14:34+00:00"
+  },
+  "UCWrBzLKCUS3Ifl1hkd8X-wQ": {
+   "initialized": "2026-10-09T08:14:32+00:00"
+  },
+  "UCXql5C57vS4ogUt6CPEWWHA": {
+   "initialized": "2026-10-09T08:14:36+00:00"
+  },
+  "UCYgVl2XoMfkvg1BzTFiyOiw": {
+   "initialized": "2026-10-09T08:14:38+00:00"
+  },
+  "UCcJsCcWlSPDC5dFNRqVxy_A": {
+   "initialized": "2026-10-09T08:14:32+00:00"
+  },
+  "UCcKN1z6bmSiEPaDZ45n7jEQ": {
+   "initialized": "2026-10-09T08:14:40+00:00"
+  },
+  "UCcYk_KPZZMLv_bcaSAWSSxA": {
+   "initialized": "2026-10-09T08:14:37+00:00"
+  },
+  "UCdUcjkyZtf-1WJyPPiETF1g": {
+   "initialized": "2026-10-09T08:14:32+00:00"
+  },
+  "UCdh5nloZ9eo5YpZ2DRWwIew": {
+   "initialized": "2026-10-09T08:14:35+00:00"
+  },
+  "UCeN2YeJcBCRJoXgzF_OU3qw": {
+   "initialized": "2026-10-09T08:14:31+00:00"
+  },
+  "UChb4gtsgSdwMDktdLukfrfw": {
+   "initialized": "2026-10-09T08:14:33+00:00"
+  },
+  "UCoCvTlU0KpNYwnMIgs7MPrA": {
+   "initialized": "2026-10-09T08:14:30+00:00"
+  },
+  "UCsJ6RuBiTVWRX156FVbeaGg": {
+   "initialized": "2026-10-09T08:14:30+00:00"
+  },
+  "UCstI8HwGQsHdqLDgyH0PImw": {
+   "initialized": "2026-10-09T08:14:35+00:00"
+  },
+  "UCuKKkBSGK4e9fuaquWXorJg": {
+   "initialized": "2026-10-09T08:14:36+00:00"
+  },
+  "UCvW8norVMTLt7QN-s2pS4Bw": {
+   "initialized": "2026-10-09T08:14:34+00:00"
+  },
+  "UCvdouBVrBJwX7p7Ptaf7vpw": {
+   "initialized": "2026-10-09T08:14:40+00:00"
+  }
+ },
+ "videos": {
+  "-48AyBQY0pQ": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-20T08:00:31+00:00",
+   "status": "baseline"
+  },
+  "-Cyn9GBRJF4": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-08-07T08:00:37+00:00",
+   "status": "baseline"
+  },
+  "-FTRl-sHTUQ": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-09-28T12:00:30+00:00",
+   "status": "baseline"
+  },
+  "-Mx1BTqeqlc": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-06T03:15:10+00:00",
+   "status": "baseline"
+  },
+  "-U4n0s0bZgQ": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-09-24T02:00:39+00:00",
+   "status": "baseline"
+  },
+  "-f5kn2s6uI8": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-08-08T11:00:02+00:00",
+   "status": "baseline"
+  },
+  "-hYSrZJEnJk": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-07T09:30:36+00:00",
+   "status": "baseline"
+  },
+  "-iPghmu0dfw": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-05-17T11:08:41+00:00",
+   "status": "baseline"
+  },
+  "-wDXelc-R2U": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-06T08:30:21+00:00",
+   "status": "baseline"
+  },
+  "02SKy36Vlq8": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-05T08:30:04+00:00",
+   "status": "baseline"
+  },
+  "0CAVCbxUuP0": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2025-01-07T05:24:10+00:00",
+   "status": "baseline"
+  },
+  "0K52Ex714NU": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-10-03T10:22:25+00:00",
+   "status": "baseline"
+  },
+  "0Vus9Vv6txo": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-03T11:00:24+00:00",
+   "status": "baseline"
+  },
+  "11gs1nyMBPo": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-09-24T00:15:10+00:00",
+   "status": "baseline"
+  },
+  "128Atbma07g": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-10-01T12:00:38+00:00",
+   "status": "baseline"
+  },
+  "19iDIXbOCR8": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-29T13:00:41+00:00",
+   "status": "baseline"
+  },
+  "1Ca5zN_W4-k": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-10-03T11:00:39+00:00",
+   "status": "baseline"
+  },
+  "1II0pCrcG2Y": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-08T09:00:17+00:00",
+   "status": "baseline"
+  },
+  "1SV1MJzT9Z8": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-05T06:00:25+00:00",
+   "status": "baseline"
+  },
+  "1XB-Rten_y0": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-25T02:00:04+00:00",
+   "status": "baseline"
+  },
+  "1eV18vbBzZE": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-17T09:35:49+00:00",
+   "status": "baseline"
+  },
+  "1fBBhjyre0w": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-09-07T06:08:36+00:00",
+   "status": "baseline"
+  },
+  "1kSnlBrByww": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-08T23:00:22+00:00",
+   "status": "baseline"
+  },
+  "1xxcRGaHi0Y": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-10-07T10:00:10+00:00",
+   "status": "baseline"
+  },
+  "2-4sgLx28Pc": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-08-05T11:00:09+00:00",
+   "status": "baseline"
+  },
+  "23MK8riMljY": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-10-06T04:49:43+00:00",
+   "status": "baseline"
+  },
+  "2KRUYNigcW0": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-24T23:00:23+00:00",
+   "status": "baseline"
+  },
+  "2On5TLhsyCQ": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-07T01:03:57+00:00",
+   "status": "baseline"
+  },
+  "2ZjPRUtdDYc": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-09T04:30:36+00:00",
+   "status": "baseline"
+  },
+  "2bJ31-lG7iQ": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-08T22:30:34+00:00",
+   "status": "baseline"
+  },
+  "2cduC5_rK9I": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-10-01T12:02:43+00:00",
+   "status": "baseline"
+  },
+  "31_3pJPeFec": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-08-31T03:40:25+00:00",
+   "status": "baseline"
+  },
+  "3EV4ENpywws": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-24T08:00:29+00:00",
+   "status": "baseline"
+  },
+  "3ND2sRBMoNQ": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-14T09:13:26+00:00",
+   "status": "baseline"
+  },
+  "3Nh-lUFOFaI": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-01T08:30:32+00:00",
+   "status": "baseline"
+  },
+  "3Qk1TRTrthE": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-07T12:48:58+00:00",
+   "status": "baseline"
+  },
+  "3TBrgN00Kx8": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-05-18T03:11:52+00:00",
+   "status": "baseline"
+  },
+  "3kiVBJSxwgk": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-10-04T21:23:33+00:00",
+   "status": "baseline"
+  },
+  "40ea8JvdZhs": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2025-02-26T02:08:11+00:00",
+   "status": "baseline"
+  },
+  "46cgwUb6wl4": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-10-02T12:42:21+00:00",
+   "status": "baseline"
+  },
+  "4MpgKa_PYgM": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-10T09:00:45+00:00",
+   "status": "baseline"
+  },
+  "4N5NtERtbgU": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-10-05T07:00:23+00:00",
+   "status": "baseline"
+  },
+  "4jcAop_vEVI": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-28T14:21:43+00:00",
+   "status": "baseline"
+  },
+  "4muqJe1bX-I": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-28T12:10:04+00:00",
+   "status": "baseline"
+  },
+  "4oGPrl2KKGc": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-18T02:23:33+00:00",
+   "status": "baseline"
+  },
+  "4p3Wm76DtRs": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-09T07:42:58+00:00",
+   "status": "baseline"
+  },
+  "4rHz4eic7os": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-07-22T10:00:06+00:00",
+   "status": "baseline"
+  },
+  "4uCava9BL3k": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-08T11:00:24+00:00",
+   "status": "baseline"
+  },
+  "5H1kX7kp2tc": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-09-29T04:19:28+00:00",
+   "status": "baseline"
+  },
+  "5TF8BKFWERo": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-23T23:00:27+00:00",
+   "status": "baseline"
+  },
+  "5XEtvCBdH0E": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2025-08-25T08:18:45+00:00",
+   "status": "baseline"
+  },
+  "5_8T0sgYbAY": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-10-06T07:39:34+00:00",
+   "status": "baseline"
+  },
+  "5hjhtJu2Yis": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-09-24T23:02:55+00:00",
+   "status": "baseline"
+  },
+  "5kQkgwOQ1RY": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-08-16T08:00:06+00:00",
+   "status": "baseline"
+  },
+  "5m3WXrVzeCM": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-02-05T06:17:03+00:00",
+   "status": "baseline"
+  },
+  "5nVidZkAC6A": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-24T10:51:28+00:00",
+   "status": "baseline"
+  },
+  "69QvyMteB00": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-30T09:00:01+00:00",
+   "status": "baseline"
+  },
+  "6BBteaP8dHc": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-08-12T10:00:31+00:00",
+   "status": "baseline"
+  },
+  "6bQzP4_T4WU": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-06T11:00:37+00:00",
+   "status": "baseline"
+  },
+  "6eoFHHQY5bk": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-09-05T00:00:16+00:00",
+   "status": "baseline"
+  },
+  "6uABQFVeAmc": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-08-28T09:00:31+00:00",
+   "status": "baseline"
+  },
+  "6uz6kBtQf8U": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-05-12T15:37:51+00:00",
+   "status": "baseline"
+  },
+  "6w1q8kM9xx4": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-10-02T09:57:06+00:00",
+   "status": "baseline"
+  },
+  "74TCX71J8Lc": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-16T06:59:50+00:00",
+   "status": "baseline"
+  },
+  "7AB9gH3AlCU": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-08-14T10:30:39+00:00",
+   "status": "baseline"
+  },
+  "7XClqcYZkko": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-29T08:07:42+00:00",
+   "status": "baseline"
+  },
+  "7jI7ztTxz6o": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-09-18T23:30:33+00:00",
+   "status": "baseline"
+  },
+  "7m_KLFhfn1g": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-10-05T21:12:36+00:00",
+   "status": "baseline"
+  },
+  "7p1A415EryE": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-29T09:19:04+00:00",
+   "status": "baseline"
+  },
+  "85PlYho9mHQ": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-08T07:46:34+00:00",
+   "status": "baseline"
+  },
+  "8CCRqJjxI6Q": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-28T11:09:09+00:00",
+   "status": "baseline"
+  },
+  "8LVCYv6C458": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-07-23T09:00:13+00:00",
+   "status": "baseline"
+  },
+  "8PHXOsipEhI": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-20T09:25:40+00:00",
+   "status": "baseline"
+  },
+  "8PfDIcVNJlQ": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-10-07T01:32:15+00:00",
+   "status": "baseline"
+  },
+  "8SSwcGCfNh0": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-08T23:00:08+00:00",
+   "status": "baseline"
+  },
+  "8aEGw6UXRJQ": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-01T11:35:27+00:00",
+   "status": "baseline"
+  },
+  "9DwkIQ4AdoY": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-05-12T15:33:36+00:00",
+   "status": "baseline"
+  },
+  "9Tt05OXby2M": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-07-12T08:00:30+00:00",
+   "status": "baseline"
+  },
+  "9ZQiVxTP0bY": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-06T09:18:40+00:00",
+   "status": "baseline"
+  },
+  "9pZ3Pr6yKd4": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-21T05:10:35+00:00",
+   "status": "baseline"
+  },
+  "9qpytLZbLDg": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-29T23:00:10+00:00",
+   "status": "baseline"
+  },
+  "9t8qSmw_5sg": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-27T04:11:39+00:00",
+   "status": "baseline"
+  },
+  "A1j-pOb-vYY": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-09-28T09:47:37+00:00",
+   "status": "baseline"
+  },
+  "A7D28b2bxT8": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-10-02T10:00:00+00:00",
+   "status": "baseline"
+  },
+  "AE8yYZGflqw": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-09-30T09:30:25+00:00",
+   "status": "baseline"
+  },
+  "AEeqgiLNGWw": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-21T10:48:51+00:00",
+   "status": "baseline"
+  },
+  "AWFlIcnGKYk": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-29T05:00:13+00:00",
+   "status": "baseline"
+  },
+  "Aep0Y8EHimA": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-09T05:35:15+00:00",
+   "status": "baseline"
+  },
+  "B0GFSEeVT2M": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-10-08T05:07:30+00:00",
+   "status": "baseline"
+  },
+  "B37W0Lz5qbE": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-06T09:09:22+00:00",
+   "status": "baseline"
+  },
+  "BCR8Ccx-IO0": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2025-08-27T03:46:34+00:00",
+   "status": "baseline"
+  },
+  "BJbt3GQRVzI": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-08T13:44:37+00:00",
+   "status": "baseline"
+  },
+  "BN5BTbHxI5U": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-10-06T07:12:06+00:00",
+   "status": "baseline"
+  },
+  "BTg1OXXx2SY": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-07-09T14:57:11+00:00",
+   "status": "baseline"
+  },
+  "Bjdkna5a8Zo": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-06T14:38:22+00:00",
+   "status": "baseline"
+  },
+  "Bov8EyyVixY": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-01T13:13:46+00:00",
+   "status": "baseline"
+  },
+  "C7Xe6REXPO4": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-10-07T11:00:13+00:00",
+   "status": "baseline"
+  },
+  "CHv8f629K7c": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-06T12:00:34+00:00",
+   "status": "baseline"
+  },
+  "CIYOkNoiCyY": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-08T09:00:15+00:00",
+   "status": "baseline"
+  },
+  "CLkv3AVHESY": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-06-12T08:00:28+00:00",
+   "status": "baseline"
+  },
+  "COXgs5AA_b0": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-18T09:30:22+00:00",
+   "status": "baseline"
+  },
+  "CW3CNsJ8HDg": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-05T12:45:39+00:00",
+   "status": "baseline"
+  },
+  "Cl5MOcdJTxc": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-07-01T10:24:12+00:00",
+   "status": "baseline"
+  },
+  "Cswz8biSRHs": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-29T12:39:56+00:00",
+   "status": "baseline"
+  },
+  "CxlT-HSTd6g": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-20T02:00:28+00:00",
+   "status": "baseline"
+  },
+  "D7AVY_VPoEY": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-09-19T01:20:35+00:00",
+   "status": "baseline"
+  },
+  "DiIfIWjTPWA": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-04T09:01:49+00:00",
+   "status": "baseline"
+  },
+  "DtAwTT8Lhos": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-05T10:34:50+00:00",
+   "status": "baseline"
+  },
+  "E1Wbjfpv24o": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-09-12T00:00:15+00:00",
+   "status": "baseline"
+  },
+  "EN_ln9vL_to": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-25T23:00:19+00:00",
+   "status": "baseline"
+  },
+  "EV4lh-0eSxw": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-30T03:00:04+00:00",
+   "status": "baseline"
+  },
+  "EtNDC9293MA": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-10-05T10:01:07+00:00",
+   "status": "baseline"
+  },
+  "EtNzFcoDP6E": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-02T07:42:45+00:00",
+   "status": "baseline"
+  },
+  "EyGOHzcO8DI": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-06T11:00:34+00:00",
+   "status": "baseline"
+  },
+  "Ez4Su9C-uiQ": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-29T10:00:34+00:00",
+   "status": "baseline"
+  },
+  "EzjJQ15pGqE": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-08T03:00:24+00:00",
+   "status": "baseline"
+  },
+  "FBVr38uMohw": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-09T04:00:14+00:00",
+   "status": "baseline"
+  },
+  "FRMadJC2524": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-09T02:20:22+00:00",
+   "status": "baseline"
+  },
+  "Fj8kM6zg55g": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-19T13:52:41+00:00",
+   "status": "baseline"
+  },
+  "Fu3tgSonpfE": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-01T03:00:13+00:00",
+   "status": "baseline"
+  },
+  "FvXR1Q6Z6t8": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-06-04T12:20:28+00:00",
+   "status": "baseline"
+  },
+  "G3G4inPpGSY": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-08T04:20:24+00:00",
+   "status": "baseline"
+  },
+  "G3S9W688kag": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-09T08:00:31+00:00",
+   "status": "baseline"
+  },
+  "G8iYbWStlDc": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-08T05:58:47+00:00",
+   "status": "baseline"
+  },
+  "GBcsbqQcnNU": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-08T02:47:06+00:00",
+   "status": "baseline"
+  },
+  "GKy9FTKJbeE": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-03T09:00:07+00:00",
+   "status": "baseline"
+  },
+  "GV72lQhUnVs": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-06T12:00:12+00:00",
+   "status": "baseline"
+  },
+  "GZfuM2sDVhs": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-07T09:00:30+00:00",
+   "status": "baseline"
+  },
+  "GcMlG3JoKbQ": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-26T10:00:17+00:00",
+   "status": "baseline"
+  },
+  "Gc_frG15GOk": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-10-08T00:11:58+00:00",
+   "status": "baseline"
+  },
+  "GepnGGhkUsk": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-08T09:29:17+00:00",
+   "status": "baseline"
+  },
+  "GevpbkxepoA": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-07T02:00:25+00:00",
+   "status": "baseline"
+  },
+  "GtX4xSd4WrM": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-08-21T08:00:28+00:00",
+   "status": "baseline"
+  },
+  "Gy9zZfrYwUo": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-09-28T13:18:09+00:00",
+   "status": "baseline"
+  },
+  "GyfXy7Pegqs": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-05-20T02:33:49+00:00",
+   "status": "baseline"
+  },
+  "H5kd_vFdc78": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-02T11:00:30+00:00",
+   "status": "baseline"
+  },
+  "HGziiIzeWdY": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-05-17T10:25:51+00:00",
+   "status": "baseline"
+  },
+  "HPRtix8b3S4": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-10-08T06:16:18+00:00",
+   "status": "baseline"
+  },
+  "HoAy7rY3s_I": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-08-02T02:00:27+00:00",
+   "status": "baseline"
+  },
+  "HqV7T-AmCCY": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-08T08:01:39+00:00",
+   "status": "baseline"
+  },
+  "IKIJNUg6jAU": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-05-20T08:20:12+00:00",
+   "status": "baseline"
+  },
+  "IPJeBBCnwis": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-04T09:30:20+00:00",
+   "status": "baseline"
+  },
+  "IQ-d1pL_SoE": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-28T11:00:26+00:00",
+   "status": "baseline"
+  },
+  "IU1KyEyMNcA": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-09-01T02:01:56+00:00",
+   "status": "baseline"
+  },
+  "IU2J8gtUtz8": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-14T11:00:20+00:00",
+   "status": "baseline"
+  },
+  "IaTxdu8JugE": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-06T13:21:40+00:00",
+   "status": "baseline"
+  },
+  "IeAQkGvq2Pw": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-11T09:30:25+00:00",
+   "status": "baseline"
+  },
+  "IoCmpQ60-Wo": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-10-02T21:37:12+00:00",
+   "status": "baseline"
+  },
+  "Ity2j2OA8xQ": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-07-19T12:50:44+00:00",
+   "status": "baseline"
+  },
+  "JEPAT_i7Cb8": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-07T07:00:35+00:00",
+   "status": "baseline"
+  },
+  "JRTjw5L88g8": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-07T09:00:11+00:00",
+   "status": "baseline"
+  },
+  "J_XC1FGw9fA": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-16T12:02:20+00:00",
+   "status": "baseline"
+  },
+  "JiZ-cZFopDM": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-07T11:00:09+00:00",
+   "status": "baseline"
+  },
+  "Jwy_cN7SyiQ": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-01T10:14:14+00:00",
+   "status": "baseline"
+  },
+  "K4GxJwCwNeY": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-15T08:21:37+00:00",
+   "status": "baseline"
+  },
+  "KDQCs7G6_7Y": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-07T07:24:59+00:00",
+   "status": "baseline"
+  },
+  "KEdQ_841ERE": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-26T23:00:11+00:00",
+   "status": "baseline"
+  },
+  "KK7tFzK4kZE": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-02T23:00:15+00:00",
+   "status": "baseline"
+  },
+  "KOO_2eh1VJQ": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-07-08T11:47:16+00:00",
+   "status": "baseline"
+  },
+  "KWQDKTHMtRI": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-08T04:00:18+00:00",
+   "status": "baseline"
+  },
+  "KlQRzbU0i-M": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-30T04:42:30+00:00",
+   "status": "baseline"
+  },
+  "KmJP9ffSXgw": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-21T10:19:52+00:00",
+   "status": "baseline"
+  },
+  "KtrTKE8ta2A": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-06T02:00:37+00:00",
+   "status": "baseline"
+  },
+  "L3Ac-hwViNU": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-24T04:00:30+00:00",
+   "status": "baseline"
+  },
+  "L5atx5d7CDE": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-10-05T04:18:28+00:00",
+   "status": "baseline"
+  },
+  "LAQHlel75oM": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-15T09:00:44+00:00",
+   "status": "baseline"
+  },
+  "LDOuqa0H4UA": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-21T11:30:18+00:00",
+   "status": "baseline"
+  },
+  "LHxREeaUzy0": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-17T08:00:44+00:00",
+   "status": "baseline"
+  },
+  "LKrggqQ3ayU": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-10-06T12:34:57+00:00",
+   "status": "baseline"
+  },
+  "LYP-gPh18NA": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-19T23:00:11+00:00",
+   "status": "baseline"
+  },
+  "LgZfyVHDC38": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-18T04:00:18+00:00",
+   "status": "baseline"
+  },
+  "Liexsr1QAHM": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-01T11:00:05+00:00",
+   "status": "baseline"
+  },
+  "LqUDDc55wAE": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-17T11:48:09+00:00",
+   "status": "baseline"
+  },
+  "LthgU9sBTlc": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-01T23:00:35+00:00",
+   "status": "baseline"
+  },
+  "Lvocc-2bw-o": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-27T01:20:11+00:00",
+   "status": "baseline"
+  },
+  "Lw6G--XCh5I": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-05T11:00:22+00:00",
+   "status": "baseline"
+  },
+  "LwR2iid0n7I": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-05T23:00:33+00:00",
+   "status": "baseline"
+  },
+  "MJfJX_m5UKU": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2023-12-06T04:29:04+00:00",
+   "status": "baseline"
+  },
+  "M_Y0jE9P8wE": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-10-07T09:55:36+00:00",
+   "status": "baseline"
+  },
+  "MgbqpjQe1OA": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-31T09:00:42+00:00",
+   "status": "baseline"
+  },
+  "MhfQ6McVvEs": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-10T16:00:28+00:00",
+   "status": "baseline"
+  },
+  "MjEc_J9gYko": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-10-08T10:17:57+00:00",
+   "status": "baseline"
+  },
+  "Mr1IAsjchCo": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-04-28T03:22:12+00:00",
+   "status": "baseline"
+  },
+  "Mr593u0q6R8": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-08-23T02:00:14+00:00",
+   "status": "baseline"
+  },
+  "N8hjfIoLtV8": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-23T12:44:32+00:00",
+   "status": "baseline"
+  },
+  "NA8d-xq8_JY": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-02T09:00:20+00:00",
+   "status": "baseline"
+  },
+  "NHSLix_-E2o": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-24T09:30:48+00:00",
+   "status": "baseline"
+  },
+  "NOLY6CuYLo0": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-06T11:00:36+00:00",
+   "status": "baseline"
+  },
+  "NSk4HSpWv2g": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-10-05T10:58:28+00:00",
+   "status": "baseline"
+  },
+  "NXpl9WQYwZE": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-30T11:39:27+00:00",
+   "status": "baseline"
+  },
+  "NnOsM0rlDYg": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-16T10:32:20+00:00",
+   "status": "baseline"
+  },
+  "NnjrwL0gb1s": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-05-11T09:57:00+00:00",
+   "status": "baseline"
+  },
+  "NoTsMPTCkM4": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-09-27T08:30:03+00:00",
+   "status": "baseline"
+  },
+  "NrwmfTYar_8": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-08T00:11:19+00:00",
+   "status": "baseline"
+  },
+  "O-ySEVAxQBA": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-05-16T09:38:01+00:00",
+   "status": "baseline"
+  },
+  "O0zOjMarBUg": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-27T08:00:10+00:00",
+   "status": "baseline"
+  },
+  "O6sC67Ai6zE": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-09-30T22:39:50+00:00",
+   "status": "baseline"
+  },
+  "OH8Nmx4YoZA": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-04T11:00:02+00:00",
+   "status": "baseline"
+  },
+  "OHQhh36d8lQ": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-03T00:00:12+00:00",
+   "status": "baseline"
+  },
+  "ONaeefena7g": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-09T05:30:26+00:00",
+   "status": "baseline"
+  },
+  "O_7rdwatkAw": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-07T09:00:12+00:00",
+   "status": "baseline"
+  },
+  "O_9Yqth7Uv8": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-07-24T08:00:22+00:00",
+   "status": "baseline"
+  },
+  "OeBxAZ_R2t8": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-13T10:13:28+00:00",
+   "status": "baseline"
+  },
+  "Oi750nQmO4M": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-10-02T07:11:35+00:00",
+   "status": "baseline"
+  },
+  "OuEXN5M_Vag": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-01T07:25:47+00:00",
+   "status": "baseline"
+  },
+  "Ox0d88fpHC4": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-10-07T12:02:55+00:00",
+   "status": "baseline"
+  },
+  "P-B-KnSIAPY": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-21T10:00:23+00:00",
+   "status": "baseline"
+  },
+  "P13t65dbIdo": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-10-01T12:18:08+00:00",
+   "status": "baseline"
+  },
+  "P4HKEJi2lbA": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-10-04T08:00:27+00:00",
+   "status": "baseline"
+  },
+  "P7Fj0Pnh-7w": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-09T06:00:01+00:00",
+   "status": "baseline"
+  },
+  "PCfiAmjBYfU": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-23T09:00:21+00:00",
+   "status": "baseline"
+  },
+  "PmFxX8Ka3ag": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-10-02T07:54:19+00:00",
+   "status": "baseline"
+  },
+  "PqxhEdh3mMs": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-09-29T10:02:12+00:00",
+   "status": "baseline"
+  },
+  "Q-U_4zV407U": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-05-29T09:00:23+00:00",
+   "status": "baseline"
+  },
+  "QAKJhQwc6Qs": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-08-15T00:00:09+00:00",
+   "status": "baseline"
+  },
+  "QEP_JANVctU": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-04T09:00:18+00:00",
+   "status": "baseline"
+  },
+  "QeOquW9atts": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-08T07:37:59+00:00",
+   "status": "baseline"
+  },
+  "Qg0QWiUUnrw": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-08T00:40:46+00:00",
+   "status": "baseline"
+  },
+  "QuCEwTPL8Jo": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-07-17T08:00:34+00:00",
+   "status": "baseline"
+  },
+  "R0pLWe2pczM": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-04T08:00:27+00:00",
+   "status": "baseline"
+  },
+  "R2HXJzOWqmA": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-10-07T07:15:02+00:00",
+   "status": "baseline"
+  },
+  "R9ZazWS_NYc": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-27T09:04:49+00:00",
+   "status": "baseline"
+  },
+  "RFlatM-S6IE": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-30T12:05:53+00:00",
+   "status": "baseline"
+  },
+  "RUxoy6Aq0ZU": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-25T23:00:19+00:00",
+   "status": "baseline"
+  },
+  "RfLoJGCN0Co": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-07-10T06:00:29+00:00",
+   "status": "baseline"
+  },
+  "Rop_dHBWGH8": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-08T08:00:21+00:00",
+   "status": "baseline"
+  },
+  "RssZO2FK0XI": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-10-07T06:06:39+00:00",
+   "status": "baseline"
+  },
+  "S-QJINp5p28": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-06-05T08:00:39+00:00",
+   "status": "baseline"
+  },
+  "S35ayIWBYKg": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-07-26T08:00:35+00:00",
+   "status": "baseline"
+  },
+  "SHBRdSuJs3w": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-09-05T07:13:21+00:00",
+   "status": "baseline"
+  },
+  "SRS4lLZow8U": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-07T10:00:24+00:00",
+   "status": "baseline"
+  },
+  "SS0zXCbi9rY": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-29T13:09:02+00:00",
+   "status": "baseline"
+  },
+  "SVu_7xifRaI": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-17T05:35:38+00:00",
+   "status": "baseline"
+  },
+  "SZbv5oTjwAM": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-08-29T14:42:45+00:00",
+   "status": "baseline"
+  },
+  "Sh14nUq0mWE": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-10-01T21:02:22+00:00",
+   "status": "baseline"
+  },
+  "Sj6Eqo12QcI": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-23T09:00:07+00:00",
+   "status": "baseline"
+  },
+  "St5Ccz3__xk": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-29T12:57:05+00:00",
+   "status": "baseline"
+  },
+  "SuglEJ7F9ng": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-18T11:32:24+00:00",
+   "status": "baseline"
+  },
+  "TATuU6RN1Zc": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-05-25T02:45:50+00:00",
+   "status": "baseline"
+  },
+  "TFr4KhF4UjE": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-07-19T02:00:35+00:00",
+   "status": "baseline"
+  },
+  "TKs4oI8_LvY": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-10-08T10:00:15+00:00",
+   "status": "baseline"
+  },
+  "TWNPw96iuDM": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-10T09:00:31+00:00",
+   "status": "baseline"
+  },
+  "TkOVxT302EY": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-29T13:07:33+00:00",
+   "status": "baseline"
+  },
+  "TrutC6STZxs": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-09T00:00:18+00:00",
+   "status": "baseline"
+  },
+  "TvDM_jpRPkg": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-02T07:38:29+00:00",
+   "status": "baseline"
+  },
+  "UC26ggRrYCM": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-05-18T07:05:29+00:00",
+   "status": "baseline"
+  },
+  "UD8MG24tjdk": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-06T22:00:26+00:00",
+   "status": "baseline"
+  },
+  "UHUsRc2kcOQ": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-06-19T08:00:24+00:00",
+   "status": "baseline"
+  },
+  "UNwCRBPZztU": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-10-04T02:00:29+00:00",
+   "status": "baseline"
+  },
+  "Ubhhn8W7MCY": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-06T22:43:52+00:00",
+   "status": "baseline"
+  },
+  "V2-cc8JaiVg": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-03T00:29:09+00:00",
+   "status": "baseline"
+  },
+  "V3ZQ02Syf5U": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-10-05T12:07:39+00:00",
+   "status": "baseline"
+  },
+  "V674KKrcF3w": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-09-26T02:00:49+00:00",
+   "status": "baseline"
+  },
+  "VBq1n3rbZ18": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-13T08:00:29+00:00",
+   "status": "baseline"
+  },
+  "VE1MNJvwuSA": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-09-10T11:21:18+00:00",
+   "status": "baseline"
+  },
+  "VE410J3eRow": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-08T23:30:39+00:00",
+   "status": "baseline"
+  },
+  "VQKL5ojuTmg": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-08-14T10:00:15+00:00",
+   "status": "baseline"
+  },
+  "V_UPzeG15ns": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-13T02:00:04+00:00",
+   "status": "baseline"
+  },
+  "VfF_x7_hJDE": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-05-22T08:00:20+00:00",
+   "status": "baseline"
+  },
+  "VfQpAgA9eAo": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-09-09T10:02:37+00:00",
+   "status": "baseline"
+  },
+  "Vluuw2vM0_o": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-27T10:55:59+00:00",
+   "status": "baseline"
+  },
+  "VwjhD-cp2N4": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-05-29T08:41:57+00:00",
+   "status": "baseline"
+  },
+  "W5hqOLRMR4g": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-16T10:00:27+00:00",
+   "status": "baseline"
+  },
+  "WmTcNn597FA": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-10-08T12:04:14+00:00",
+   "status": "baseline"
+  },
+  "WoPga5_DLeY": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-08-19T11:52:54+00:00",
+   "status": "baseline"
+  },
+  "Wx2LS6edFUQ": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-27T02:00:33+00:00",
+   "status": "baseline"
+  },
+  "X8FxCAUlQSA": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-07-08T10:00:18+00:00",
+   "status": "baseline"
+  },
+  "XA2FrVhmXw8": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-08-07T09:00:17+00:00",
+   "status": "baseline"
+  },
+  "XBqWO1N7s3s": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-09T00:00:36+00:00",
+   "status": "baseline"
+  },
+  "XJLJRU97Zak": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-09T02:00:13+00:00",
+   "status": "baseline"
+  },
+  "XYSVIxGQwmE": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-06-12T09:00:13+00:00",
+   "status": "baseline"
+  },
+  "XZYy6zYASak": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-28T14:11:50+00:00",
+   "status": "baseline"
+  },
+  "Xk9d__EhrqU": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-06T13:39:33+00:00",
+   "status": "baseline"
+  },
+  "Y2TmrgVsezU": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-23T03:00:39+00:00",
+   "status": "baseline"
+  },
+  "Y5d4_GotA4A": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-02T11:00:30+00:00",
+   "status": "baseline"
+  },
+  "YBWd-GCjwHM": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-23T01:40:31+00:00",
+   "status": "baseline"
+  },
+  "YIFRjO22I9s": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-07-15T12:00:38+00:00",
+   "status": "baseline"
+  },
+  "YP90xaf1mYI": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2025-01-24T07:06:50+00:00",
+   "status": "baseline"
+  },
+  "YYLGrgkfXpc": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-09-29T11:00:28+00:00",
+   "status": "baseline"
+  },
+  "YbBJ0kOZTiM": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-07-29T08:00:03+00:00",
+   "status": "baseline"
+  },
+  "Yj4qoYI7baQ": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-06-28T02:00:09+00:00",
+   "status": "baseline"
+  },
+  "YpESF9Lea3o": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-07-19T08:00:38+00:00",
+   "status": "baseline"
+  },
+  "Yt6u3q4lSlk": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-09-28T23:03:06+00:00",
+   "status": "baseline"
+  },
+  "Yu0RVxBC7tc": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-06T15:48:54+00:00",
+   "status": "baseline"
+  },
+  "YuGIjjAeYzI": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-08T08:30:17+00:00",
+   "status": "baseline"
+  },
+  "YwtUidvUjkk": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-07-31T09:00:34+00:00",
+   "status": "baseline"
+  },
+  "YzaYwMXGG2k": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-28T05:02:11+00:00",
+   "status": "baseline"
+  },
+  "Z0xYfFfpWNk": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-07-05T08:00:30+00:00",
+   "status": "baseline"
+  },
+  "ZBhu1J2VxZI": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-18T08:00:35+00:00",
+   "status": "baseline"
+  },
+  "ZkJsZ7YojjA": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-07-11T07:41:20+00:00",
+   "status": "baseline"
+  },
+  "Zm-wHSE8vP8": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-02T09:00:34+00:00",
+   "status": "baseline"
+  },
+  "Zx-ujRRDpSk": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-07-26T02:00:11+00:00",
+   "status": "baseline"
+  },
+  "_NmzLX2bGU4": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-02T03:30:12+00:00",
+   "status": "baseline"
+  },
+  "_WLBkU9wWKg": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-02T07:40:30+00:00",
+   "status": "baseline"
+  },
+  "_wi_8L_l6bE": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-16T12:00:16+00:00",
+   "status": "baseline"
+  },
+  "a-ZE_GN9yho": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-30T22:00:22+00:00",
+   "status": "baseline"
+  },
+  "aOTWNjuJ9qI": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-09-20T23:00:18+00:00",
+   "status": "baseline"
+  },
+  "aXaqrC2qamE": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-09T04:30:08+00:00",
+   "status": "baseline"
+  },
+  "aivOcLG9-6o": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-10-05T02:00:34+00:00",
+   "status": "baseline"
+  },
+  "awJGoNlbv4I": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-05T01:56:45+00:00",
+   "status": "baseline"
+  },
+  "b183zJozLZE": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-03-20T09:00:57+00:00",
+   "status": "baseline"
+  },
+  "b2hurrJlogk": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-26T11:00:26+00:00",
+   "status": "baseline"
+  },
+  "b4M8AV2j9Co": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-08-28T22:45:06+00:00",
+   "status": "baseline"
+  },
+  "b61LbkoCBFM": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-08-09T02:00:16+00:00",
+   "status": "baseline"
+  },
+  "b7k_Yt5_ogY": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-05-14T07:37:19+00:00",
+   "status": "baseline"
+  },
+  "b8MZ-ylGDLs": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-09T13:46:51+00:00",
+   "status": "baseline"
+  },
+  "bFKTCy_IJbo": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-09-25T02:00:24+00:00",
+   "status": "baseline"
+  },
+  "bL2q1ZfwdJA": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-10-07T12:05:04+00:00",
+   "status": "baseline"
+  },
+  "bRb-DEsgPBQ": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-10-09T04:00:06+00:00",
+   "status": "baseline"
+  },
+  "b_qGMGkte0s": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-09-28T11:00:20+00:00",
+   "status": "baseline"
+  },
+  "bfOXHaIFfuY": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-09T01:00:04+00:00",
+   "status": "baseline"
+  },
+  "by-DsvEURd4": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-07T11:35:09+00:00",
+   "status": "baseline"
+  },
+  "by8-XCHZS5M": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-15T09:13:37+00:00",
+   "status": "baseline"
+  },
+  "c5J-YaFH8PE": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-10-07T21:25:08+00:00",
+   "status": "baseline"
+  },
+  "c5p4YYEWH_I": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-16T12:09:05+00:00",
+   "status": "baseline"
+  },
+  "c5r6-YU1a3I": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-28T22:00:26+00:00",
+   "status": "baseline"
+  },
+  "cFv2dXfVLzM": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-08-09T08:00:16+00:00",
+   "status": "baseline"
+  },
+  "cNiqvNwYD4U": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-21T10:43:39+00:00",
+   "status": "baseline"
+  },
+  "cm9RdXXX7yc": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-19T14:17:03+00:00",
+   "status": "baseline"
+  },
+  "czWSHIsWTfs": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-08T08:48:49+00:00",
+   "status": "baseline"
+  },
+  "dBY4dYC-yzI": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-15T09:10:27+00:00",
+   "status": "baseline"
+  },
+  "dC7bF_vaIQM": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-10-03T02:01:45+00:00",
+   "status": "baseline"
+  },
+  "dFSJxnwbxFQ": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-07T10:00:10+00:00",
+   "status": "baseline"
+  },
+  "dMWoarzBPFw": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-10-09T04:24:54+00:00",
+   "status": "baseline"
+  },
+  "dPkRF9divYY": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-07T11:00:07+00:00",
+   "status": "baseline"
+  },
+  "dTTiz4e7U7M": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-09T09:00:03+00:00",
+   "status": "baseline"
+  },
+  "dvbfpJcYkx8": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-08T08:15:30+00:00",
+   "status": "baseline"
+  },
+  "e0Ols9moZ9k": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-10-01T07:17:04+00:00",
+   "status": "baseline"
+  },
+  "e2zHqdHRwJc": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2025-08-11T01:40:45+00:00",
+   "status": "baseline"
+  },
+  "eDkBla8nrsA": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-17T05:00:09+00:00",
+   "status": "baseline"
+  },
+  "eKswJZFf_Lo": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-08T10:00:23+00:00",
+   "status": "baseline"
+  },
+  "ekZ30e6Lxvw": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-06T09:00:18+00:00",
+   "status": "baseline"
+  },
+  "et0wbqt6swQ": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-02T10:00:15+00:00",
+   "status": "baseline"
+  },
+  "ezcb_B7-zYE": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-04T23:00:27+00:00",
+   "status": "baseline"
+  },
+  "f6mOzkdTALc": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-10-08T02:00:02+00:00",
+   "status": "baseline"
+  },
+  "f7sIceaVPH8": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-03T23:00:26+00:00",
+   "status": "baseline"
+  },
+  "f8XB6x6E4DI": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-22T09:00:26+00:00",
+   "status": "baseline"
+  },
+  "fIY9jeS5lpw": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-22T09:18:37+00:00",
+   "status": "baseline"
+  },
+  "fI_Ap0rL8X0": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-06T16:05:07+00:00",
+   "status": "baseline"
+  },
+  "fQFaL5a7ytA": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-09-30T09:00:26+00:00",
+   "status": "baseline"
+  },
+  "fSqFioGT9FE": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2025-02-14T00:17:50+00:00",
+   "status": "baseline"
+  },
+  "fbzkTLuChj0": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-24T09:33:48+00:00",
+   "status": "baseline"
+  },
+  "fgfXx5u1Gms": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-09-30T11:00:02+00:00",
+   "status": "baseline"
+  },
+  "fkYJfITJn-U": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-29T12:50:21+00:00",
+   "status": "baseline"
+  },
+  "fo4pW_DIcl4": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-08-15T01:00:18+00:00",
+   "status": "baseline"
+  },
+  "gEHV4hlWhyA": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-06T07:00:04+00:00",
+   "status": "baseline"
+  },
+  "gM4YxX6S6KA": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-06T08:00:25+00:00",
+   "status": "baseline"
+  },
+  "gMNvvResqu0": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-15T09:00:39+00:00",
+   "status": "baseline"
+  },
+  "gVdw1MdgFE4": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-10-05T05:44:11+00:00",
+   "status": "baseline"
+  },
+  "gajnmDAUQBU": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-10-08T07:19:19+00:00",
+   "status": "baseline"
+  },
+  "gwi16U85X5U": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-08-30T02:00:34+00:00",
+   "status": "baseline"
+  },
+  "h43Y_hlUOGk": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-05-15T09:00:57+00:00",
+   "status": "baseline"
+  },
+  "hF_a4HTZxik": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-29T12:37:20+00:00",
+   "status": "baseline"
+  },
+  "hNH4Kefl5aQ": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-08T09:00:01+00:00",
+   "status": "baseline"
+  },
+  "hQB9azkV904": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-06-27T04:51:02+00:00",
+   "status": "baseline"
+  },
+  "hRTTUnNt8gw": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-04-24T09:01:03+00:00",
+   "status": "baseline"
+  },
+  "ha4-lyhvafM": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-10-06T08:30:29+00:00",
+   "status": "baseline"
+  },
+  "hdualf1tcrA": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-08-22T00:00:15+00:00",
+   "status": "baseline"
+  },
+  "heJtmOTo-FQ": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-07-12T02:00:05+00:00",
+   "status": "baseline"
+  },
+  "htSk5aAMcGk": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-25T09:44:04+00:00",
+   "status": "baseline"
+  },
+  "hwZ8kU3fwEo": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-13T09:15:37+00:00",
+   "status": "baseline"
+  },
+  "hzipaOjfgxc": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-04T06:00:18+00:00",
+   "status": "baseline"
+  },
+  "iKQ8VBRZ5Zs": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-09T07:30:12+00:00",
+   "status": "baseline"
+  },
+  "iL3TwwD2Ftw": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-08T12:00:09+00:00",
+   "status": "baseline"
+  },
+  "iZ4x9iZPZ8o": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-09-30T21:03:17+00:00",
+   "status": "baseline"
+  },
+  "ieL4DV2_xKU": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-26T12:15:21+00:00",
+   "status": "baseline"
+  },
+  "ikvhiremUZE": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-28T05:00:16+00:00",
+   "status": "baseline"
+  },
+  "izM605Qavok": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-10-06T12:57:15+00:00",
+   "status": "baseline"
+  },
+  "jO-7FadXU5s": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-12T14:46:43+00:00",
+   "status": "baseline"
+  },
+  "jYDD1Ql6dvg": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-08T08:00:18+00:00",
+   "status": "baseline"
+  },
+  "jmhc3gamSac": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-07T09:30:11+00:00",
+   "status": "baseline"
+  },
+  "jusQSDQU-Rc": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-07T13:04:40+00:00",
+   "status": "baseline"
+  },
+  "k0n_OYT_oAk": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-02T08:30:13+00:00",
+   "status": "baseline"
+  },
+  "k29BnCBAhpw": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-09T05:00:08+00:00",
+   "status": "baseline"
+  },
+  "kOYV61v_nGc": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-10-06T21:13:59+00:00",
+   "status": "baseline"
+  },
+  "kOkUsmBqmXE": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-10-05T11:00:35+00:00",
+   "status": "baseline"
+  },
+  "kWF5eWj5TSU": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-08-30T08:00:17+00:00",
+   "status": "baseline"
+  },
+  "kiQ_USot1go": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-30T11:34:25+00:00",
+   "status": "baseline"
+  },
+  "kpYGrIs44Rs": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-27T09:03:53+00:00",
+   "status": "baseline"
+  },
+  "l4yHDKSTD04": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-04T03:00:16+00:00",
+   "status": "baseline"
+  },
+  "l8kRYkK8ptc": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-09-30T10:31:21+00:00",
+   "status": "baseline"
+  },
+  "lCXhGuRQJyU": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-10-01T11:00:39+00:00",
+   "status": "baseline"
+  },
+  "lDlX6i6DcXU": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-16T12:45:06+00:00",
+   "status": "baseline"
+  },
+  "lpiWlIiP2Ts": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-23T11:01:06+00:00",
+   "status": "baseline"
+  },
+  "ls72anciRIA": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-09-29T08:30:04+00:00",
+   "status": "baseline"
+  },
+  "ltl9oVgByTE": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-08T14:25:22+00:00",
+   "status": "baseline"
+  },
+  "mDdvMRr3Hcs": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-08T23:00:17+00:00",
+   "status": "baseline"
+  },
+  "mDeg5wLBihI": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-07-03T08:00:29+00:00",
+   "status": "baseline"
+  },
+  "mFXuWJfKONQ": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-06T07:33:17+00:00",
+   "status": "baseline"
+  },
+  "mIXfOAQLnNc": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-12T04:47:50+00:00",
+   "status": "baseline"
+  },
+  "mKZ4W1AYbaM": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-07T08:30:08+00:00",
+   "status": "baseline"
+  },
+  "mar3QQzQ6RM": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-06T23:00:17+00:00",
+   "status": "baseline"
+  },
+  "mdWgsa49wuY": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-23T11:00:00+00:00",
+   "status": "baseline"
+  },
+  "mkOoS_Ef2a0": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-08T09:16:50+00:00",
+   "status": "baseline"
+  },
+  "mo2ukCmz_uc": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-16T09:52:42+00:00",
+   "status": "baseline"
+  },
+  "mqmrnxrCTq8": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-10-03T05:00:18+00:00",
+   "status": "baseline"
+  },
+  "n3kiARLCHEM": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-06T09:34:18+00:00",
+   "status": "baseline"
+  },
+  "nOdLfDOAMvg": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-09-25T11:03:16+00:00",
+   "status": "baseline"
+  },
+  "nQ9OdOHToJo": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-07T23:00:08+00:00",
+   "status": "baseline"
+  },
+  "nREVs_xYb_Q": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-27T06:09:34+00:00",
+   "status": "baseline"
+  },
+  "nY8VJOgxVBI": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-09T00:00:09+00:00",
+   "status": "baseline"
+  },
+  "nl9nQEv1u3U": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-01T08:30:24+00:00",
+   "status": "baseline"
+  },
+  "nm2f8NrsX94": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-10-02T09:00:24+00:00",
+   "status": "baseline"
+  },
+  "nvaPZmfRbKI": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2025-01-13T05:18:02+00:00",
+   "status": "baseline"
+  },
+  "ny4MC-WzyYE": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-09-02T08:25:22+00:00",
+   "status": "baseline"
+  },
+  "o6-ZG9Ish4o": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-22T08:20:32+00:00",
+   "status": "baseline"
+  },
+  "o7SsicsXeQ8": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-07-21T02:17:39+00:00",
+   "status": "baseline"
+  },
+  "o9CMAPTZMw4": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-10-01T08:04:45+00:00",
+   "status": "baseline"
+  },
+  "o9zillExufE": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-03T09:00:39+00:00",
+   "status": "baseline"
+  },
+  "oLdLro9TKRM": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-09-21T08:30:07+00:00",
+   "status": "baseline"
+  },
+  "oS4r_naM8aE": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-06-25T12:38:13+00:00",
+   "status": "baseline"
+  },
+  "oaLTzqbqKiQ": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-09-18T23:00:32+00:00",
+   "status": "baseline"
+  },
+  "oeCOgYbng6U": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2024-12-27T01:17:44+00:00",
+   "status": "baseline"
+  },
+  "p79OmUwOLY4": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-23T11:40:25+00:00",
+   "status": "baseline"
+  },
+  "pHbx8cPFwd0": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-11T14:22:19+00:00",
+   "status": "baseline"
+  },
+  "pJ_5cs0NSI4": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-07-03T09:00:38+00:00",
+   "status": "baseline"
+  },
+  "pJkIlYiQEp4": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-03T08:30:37+00:00",
+   "status": "baseline"
+  },
+  "pM5jRqbrqz4": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-10-05T23:10:21+00:00",
+   "status": "baseline"
+  },
+  "pN1Jpz72SXk": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-11T09:00:15+00:00",
+   "status": "baseline"
+  },
+  "pX-QjtFdL_I": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-06T08:15:09+00:00",
+   "status": "baseline"
+  },
+  "pgDEK7NlCVc": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-11T10:03:00+00:00",
+   "status": "baseline"
+  },
+  "psHrvjFgxVI": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-09-25T08:30:25+00:00",
+   "status": "baseline"
+  },
+  "pvRkqqlhtEo": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-16T12:00:08+00:00",
+   "status": "baseline"
+  },
+  "q1uKWk7_ODo": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2023-04-19T04:55:58+00:00",
+   "status": "baseline"
+  },
+  "qAkCyyGP0_g": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-05-23T11:36:33+00:00",
+   "status": "baseline"
+  },
+  "qCPnWHT7_V8": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-02T23:00:12+00:00",
+   "status": "baseline"
+  },
+  "qJ4QyS5GTbs": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-09-18T12:16:42+00:00",
+   "status": "baseline"
+  },
+  "qKWbsmby-Z4": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-05T23:10:48+00:00",
+   "status": "baseline"
+  },
+  "qKiEKqja78k": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-08-15T00:30:05+00:00",
+   "status": "baseline"
+  },
+  "qMQGd3uRdxI": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-22T16:15:15+00:00",
+   "status": "baseline"
+  },
+  "qR04V6CAcOE": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-10-03T21:27:28+00:00",
+   "status": "baseline"
+  },
+  "qTZNtjZ82r4": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-08-30T04:50:47+00:00",
+   "status": "baseline"
+  },
+  "qpsPEK3OdBo": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-27T08:04:25+00:00",
+   "status": "baseline"
+  },
+  "r5K12ZSqbhc": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-09T10:00:09+00:00",
+   "status": "baseline"
+  },
+  "r70cIrAjg2E": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-28T11:50:15+00:00",
+   "status": "baseline"
+  },
+  "rO0rYhx08rM": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-09-28T09:30:01+00:00",
+   "status": "baseline"
+  },
+  "r_jkNhL2i4A": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-08T11:00:10+00:00",
+   "status": "baseline"
+  },
+  "rdnyZA4Tv1M": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-06T07:31:29+00:00",
+   "status": "baseline"
+  },
+  "rh2V5kFRYms": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-04T10:09:33+00:00",
+   "status": "baseline"
+  },
+  "rr3LIUi_I1I": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-09-22T13:13:14+00:00",
+   "status": "baseline"
+  },
+  "s5CVMzlH0BU": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-27T05:00:21+00:00",
+   "status": "baseline"
+  },
+  "s7cPzKqb65M": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-09-24T08:00:11+00:00",
+   "status": "baseline"
+  },
+  "s8yrhAj6RFY": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2024-02-07T07:57:26+00:00",
+   "status": "baseline"
+  },
+  "sL-TxOwboNw": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-18T11:00:40+00:00",
+   "status": "baseline"
+  },
+  "sQkoe27kwpw": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-08T08:00:09+00:00",
+   "status": "baseline"
+  },
+  "snB34iPym3s": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-29T02:54:14+00:00",
+   "status": "baseline"
+  },
+  "sobFKfVYl7Y": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-08T17:42:11+00:00",
+   "status": "baseline"
+  },
+  "suSaQX0xj48": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-09-19T08:30:23+00:00",
+   "status": "baseline"
+  },
+  "suxc2hRSSXM": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-08-23T08:00:08+00:00",
+   "status": "baseline"
+  },
+  "swqGt_hSfdk": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-10-09T02:00:39+00:00",
+   "status": "baseline"
+  },
+  "t4kKxaJS4TA": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-08T11:00:08+00:00",
+   "status": "baseline"
+  },
+  "tBEQYbE0LmQ": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-10-09T05:00:07+00:00",
+   "status": "baseline"
+  },
+  "tI7KT2IAx5c": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-08-15T01:30:26+00:00",
+   "status": "baseline"
+  },
+  "tT_lp3AvkkM": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2024-10-10T07:32:59+00:00",
+   "status": "baseline"
+  },
+  "ta3lArKuck4": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-09-18T00:02:55+00:00",
+   "status": "baseline"
+  },
+  "tb61jHQ_qZ8": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-06T09:30:33+00:00",
+   "status": "baseline"
+  },
+  "thnwKtZQ6s8": {
+   "first_seen": "2026-10-09T08:14:40+00:00",
+   "published": "2026-10-08T21:53:55+00:00",
+   "status": "baseline"
+  },
+  "tlVSuaOykFk": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-09-27T02:01:14+00:00",
+   "status": "baseline"
+  },
+  "to0eXMSWmpc": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-09-08T06:44:09+00:00",
+   "status": "baseline"
+  },
+  "tw9uLzRQTo0": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-08-25T12:17:59+00:00",
+   "status": "baseline"
+  },
+  "u1SQD8HTRKI": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-06T07:42:37+00:00",
+   "status": "baseline"
+  },
+  "uPHZo7zsB00": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-09-04T08:45:06+00:00",
+   "status": "baseline"
+  },
+  "uWZtDWUzO94": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-22T12:03:00+00:00",
+   "status": "baseline"
+  },
+  "uWslL8g_x_A": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-05T09:00:35+00:00",
+   "status": "baseline"
+  },
+  "uYxqjw2l7p8": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-08-16T02:00:12+00:00",
+   "status": "baseline"
+  },
+  "uvDniF5al8E": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-07T12:00:14+00:00",
+   "status": "baseline"
+  },
+  "v8Et1BqFpwI": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-10-01T04:39:51+00:00",
+   "status": "baseline"
+  },
+  "vJojO910IlI": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-08T08:15:30+00:00",
+   "status": "baseline"
+  },
+  "vS9yhPNOENw": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-29T03:45:07+00:00",
+   "status": "baseline"
+  },
+  "vbDEHKhogXU": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-10-01T09:44:51+00:00",
+   "status": "baseline"
+  },
+  "vdQmLxUs2so": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-05T10:00:22+00:00",
+   "status": "baseline"
+  },
+  "voqHsOP4m54": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-09-29T11:59:46+00:00",
+   "status": "baseline"
+  },
+  "vp1Eet1Rmfk": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-10-04T01:59:08+00:00",
+   "status": "baseline"
+  },
+  "vrhxtDD72R8": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-07-29T10:00:13+00:00",
+   "status": "baseline"
+  },
+  "vw3uj4IPkMk": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-09T01:30:08+00:00",
+   "status": "baseline"
+  },
+  "vzYkWQllK-k": {
+   "first_seen": "2026-10-09T08:14:39+00:00",
+   "published": "2026-10-09T02:30:34+00:00",
+   "status": "baseline"
+  },
+  "w56IxMajSHY": {
+   "first_seen": "2026-10-09T08:14:30+00:00",
+   "published": "2026-09-23T10:00:30+00:00",
+   "status": "baseline"
+  },
+  "w7b_oqMVJEg": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-10-01T08:18:30+00:00",
+   "status": "baseline"
+  },
+  "wAce9U2pRWI": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-01T14:26:08+00:00",
+   "status": "baseline"
+  },
+  "wAxAupYWtSE": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-09-29T09:30:21+00:00",
+   "status": "baseline"
+  },
+  "wBuHCuumA6s": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-10-04T02:24:24+00:00",
+   "status": "baseline"
+  },
+  "wGsIU4Kxx4Q": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-09-26T11:15:09+00:00",
+   "status": "baseline"
+  },
+  "wMP6f3bX96c": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-07T07:30:42+00:00",
+   "status": "baseline"
+  },
+  "win7PLNvuIA": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-08T13:35:31+00:00",
+   "status": "baseline"
+  },
+  "wn_NlmZKoxY": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-22T06:37:48+00:00",
+   "status": "baseline"
+  },
+  "wsJlqnKknuY": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-03T06:00:04+00:00",
+   "status": "baseline"
+  },
+  "xBoDm9Mdjyc": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-06T02:00:24+00:00",
+   "status": "baseline"
+  },
+  "xDlAMTCi8PQ": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-07T07:00:05+00:00",
+   "status": "baseline"
+  },
+  "xNH2PcqPpPU": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-07T08:50:00+00:00",
+   "status": "baseline"
+  },
+  "xcezHTbeSdc": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-08T11:00:27+00:00",
+   "status": "baseline"
+  },
+  "y-p5Jpzoht8": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-10-04T09:19:38+00:00",
+   "status": "baseline"
+  },
+  "y5-m91xlb7o": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-26T08:04:13+00:00",
+   "status": "baseline"
+  },
+  "yJrsZ5Y72RU": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-07-24T09:00:31+00:00",
+   "status": "baseline"
+  },
+  "yKSuPt2aS0w": {
+   "first_seen": "2026-10-09T08:14:35+00:00",
+   "published": "2026-10-02T09:30:01+00:00",
+   "status": "baseline"
+  },
+  "yTz1y3uW-yo": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-07-05T02:00:17+00:00",
+   "status": "baseline"
+  },
+  "yeWkK-Cljbk": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-09-17T08:30:21+00:00",
+   "status": "baseline"
+  },
+  "yhjo3pwloZ4": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-08-07T13:45:41+00:00",
+   "status": "baseline"
+  },
+  "yviSHdii6f0": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-04-03T09:01:17+00:00",
+   "status": "baseline"
+  },
+  "yxKsFfuY3rc": {
+   "first_seen": "2026-10-09T08:14:32+00:00",
+   "published": "2026-07-22T08:00:03+00:00",
+   "status": "baseline"
+  },
+  "yzqVdLQgDdY": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-09-17T05:45:37+00:00",
+   "status": "baseline"
+  },
+  "z6cT_Z8MGn0": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-08-29T00:00:09+00:00",
+   "status": "baseline"
+  },
+  "zEXwOuf3n4A": {
+   "first_seen": "2026-10-09T08:14:34+00:00",
+   "published": "2026-08-14T09:30:38+00:00",
+   "status": "baseline"
+  },
+  "zFhVYgsnQmw": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-01T08:00:27+00:00",
+   "status": "baseline"
+  },
+  "zHO42-Jo89I": {
+   "first_seen": "2026-10-09T08:14:33+00:00",
+   "published": "2026-10-09T06:00:36+00:00",
+   "status": "baseline"
+  },
+  "zHjp91qgEkQ": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-10-09T08:00:13+00:00",
+   "status": "baseline"
+  },
+  "zeoM90bEp2Q": {
+   "first_seen": "2026-10-09T08:14:31+00:00",
+   "published": "2026-09-29T12:30:20+00:00",
+   "status": "baseline"
+  },
+  "zlbnoiiUahs": {
+   "first_seen": "2026-10-09T08:14:38+00:00",
+   "published": "2026-09-23T08:30:27+00:00",
+   "status": "baseline"
+  },
+  "zpXk6OXJkso": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-10-08T05:09:04+00:00",
+   "status": "baseline"
+  },
+  "zrNxtZW6yQ8": {
+   "first_seen": "2026-10-09T08:14:37+00:00",
+   "published": "2026-09-17T07:16:02+00:00",
+   "status": "baseline"
+  },
+  "zw9sVOxV3Fo": {
+   "first_seen": "2026-10-09T08:14:36+00:00",
+   "published": "2026-09-20T09:00:22+00:00",
+   "status": "baseline"
+  }
+ }
+}
