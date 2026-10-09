@@ -2677,7 +2677,7 @@
     "title": "전세가 사라지는 자리에, 월세와 영끌과 14평이 들어선다!",
     "video_id": "uc4tG9swVLc"
    },
-   "wait_checks": 2
+   "wait_checks": 3
   },
   "uvDniF5al8E": {
    "first_seen": "2026-10-09T08:14:35+00:00",
@@ -2784,6 +2784,16 @@
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-10-08T13:35:31+00:00",
    "status": "baseline"
+  },
+  "wkPHJl-OBgo": {
+   "article_url": "https://yu8117-art.github.io/tube-digest/a/wkPHJl-OBgo.html",
+   "done_at": "2026-10-09T23:24:59+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-09T23:24:42+00:00",
+   "published": "2026-10-09T23:00:13+00:00",
+   "status": "done",
+   "transcript_status": "blocked:RequestBlocked",
+   "wait_checks": 0
   },
   "wn_NlmZKoxY": {
    "first_seen": "2026-10-09T08:14:37+00:00",
