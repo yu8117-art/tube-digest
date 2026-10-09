@@ -10,10 +10,14 @@ from dataclasses import dataclass, field
 import requests
 from youtube_transcript_api import (
     CouldNotRetrieveTranscript,
-    IpBlocked,
+    PoTokenRequired,
     RequestBlocked,
+    YouTubeRequestFailed,
     YouTubeTranscriptApi,
 )
+
+# 자막이 '없는' 게 아니라 '못 받는' 경우. 주로 클라우드 IP(GitHub Actions 등)에서 생긴다. IpBlocked는 RequestBlocked의 하위 클래스.
+BLOCKED_ERRORS = (RequestBlocked, PoTokenRequired, YouTubeRequestFailed)
 
 RSS_URL = "https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
 UA = {"User-Agent": "Mozilla/5.0 (tube-digest)", "Accept-Language": "ko-KR,ko;q=0.9"}
@@ -184,8 +188,8 @@ def fetch_transcript(video_id: str, languages: list[str]) -> Transcript | None:
         except CouldNotRetrieveTranscript:
             t = tl.find_generated_transcript(languages)
         fetched = t.fetch()
-    except (RequestBlocked, IpBlocked) as e:
-        raise TranscriptBlocked(str(e).splitlines()[0]) from e
+    except BLOCKED_ERRORS as e:
+        raise TranscriptBlocked(f"{type(e).__name__}: {str(e).strip().splitlines()[0]}") from e
     except CouldNotRetrieveTranscript:
         return None
     return Transcript(

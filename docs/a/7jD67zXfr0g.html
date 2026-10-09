@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#faf8f3" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#141414" media="(prefers-color-scheme: dark)">
+<title>구글 우주 AI 칩, 메모리 슈퍼사이클을 우주로 넓힌다 · Tube Digest</title>
+<meta name="description" content="구글과 스페이스X의 우주 데이터센터 협업은 AI 산업의 전력·부지 병목을 풀 시도라고 화자는 평가한다. 냉각과 발사 경제성은 아직 풀리지 않은 과제다. 우주용 칩이 늘면 HBM 수요도 함께 늘어 우주 기반 메모리 슈퍼사이클이 올 수 있다고 화자는 본다. 화자의...">
+<meta property="og:type" content="article">
+<meta property="og:title" content="구글 우주 AI 칩, 메모리 슈퍼사이클을 우주로 넓힌다">
+<meta property="og:description" content="구글과 스페이스X의 우주 데이터센터 협업은 AI 산업의 전력·부지 병목을 풀 시도라고 화자는 평가한다. 냉각과 발사 경제성은 아직 풀리지 않은 과제다. 우주용 칩이 늘면 HBM 수요도 함께 늘어 우주 기반 메모리 슈퍼사이클이 올 수 있다고 화자는 본다. 화자의...">
+<meta property="og:image" content="https://i.ytimg.com/vi/7jD67zXfr0g/maxresdefault.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;900&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: #faf8f3; --ink: #1b1a17; --muted: #6b665c; --rule: #ddd7ca;
+  --accent: #c8102e; --accent-tint: #f6e9e6; --card: #ffffff; --chip: #1b1a17; --chip-ink: #faf8f3;
+  --serif: "Noto Serif KR", "Nanum Myeongjo", serif;
+  --sans: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard", "Malgun Gothic", "Noto Sans KR", sans-serif;
+  --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #141414; --ink: #ece8df; --muted: #9c968a; --rule: #2e2c28;
+    --accent: #ff5d6c; --accent-tint: #2a1a1c; --card: #1c1c1b; --chip: #ece8df; --chip-ink: #141414;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 17px/1.7 var(--sans); word-break: keep-all; overflow-wrap: anywhere; }
+a { color: inherit; }
+.wrap { max-width: 680px; margin: 0 auto; padding: 0 18px calc(40px + env(safe-area-inset-bottom)); }
+.topbar { display: flex; justify-content: space-between; align-items: baseline; padding: 14px 0 10px; border-bottom: 3px double var(--ink); }
+.wordmark { font: 900 18px/1 var(--serif); letter-spacing: .12em; text-decoration: none; }
+.topbar time { font-size: 12px; color: var(--muted); }
+.kicker { display: inline-block; margin-top: 22px; font-size: 13px; font-weight: 700; letter-spacing: .04em; color: var(--accent); text-decoration: none; }
+h1.headline { font: 900 clamp(26px, 7vw, 36px)/1.3 var(--serif); margin: 6px 0 10px; letter-spacing: -.01em; }
+.deck { color: var(--muted); font-size: 15px; line-height: 1.55; margin: 0 0 14px; }
+.byline { display: flex; flex-wrap: wrap; gap: 6px 12px; font-size: 13px; color: var(--muted); padding-bottom: 16px; border-bottom: 1px solid var(--rule); }
+.badge { border: 1px solid var(--rule); border-radius: 999px; padding: 0 8px; font-size: 12px; }
+.badge.warn { border-color: var(--accent); color: var(--accent); }
+.hero { position: relative; display: block; margin: 18px -18px 0; aspect-ratio: 16/9; background: #000; overflow: hidden; }
+.hero img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.hero .play { position: absolute; right: 14px; bottom: 14px; background: rgba(0,0,0,.72); color: #fff; font-size: 13px; font-weight: 700; padding: 6px 12px; border-radius: 999px; text-decoration: none; }
+@media (min-width: 700px) { .hero { margin: 18px 0 0; border-radius: 4px; } }
+.qa { margin: 26px 0 8px; background: var(--accent-tint); border-left: 4px solid var(--accent); padding: 16px 16px 14px; }
+.qa .label { font-size: 12px; font-weight: 800; letter-spacing: .08em; color: var(--accent); }
+.qa blockquote { margin: 6px 0 12px; font: 600 20px/1.45 var(--serif); }
+.qa .answer { margin: 0; font-weight: 600; }
+.qa .answer::before { content: "→ "; color: var(--accent); font-weight: 900; }
+section { margin-top: 30px; }
+h2 { font: 900 13px/1 var(--sans); letter-spacing: .14em; color: var(--accent); margin: 0 0 12px; padding-top: 12px; border-top: 2px solid var(--ink); }
+.lead { font: 600 19px/1.65 var(--serif); margin: 0; }
+ol.points { list-style: none; counter-reset: p; padding: 0; margin: 0; }
+ol.points li { counter-increment: p; position: relative; padding: 10px 0 10px 34px; border-bottom: 1px solid var(--rule); }
+ol.points li::before { content: counter(p, decimal-leading-zero); position: absolute; left: 0; top: 11px; font: 900 15px/1.6 var(--serif); color: var(--accent); }
+.timeline { list-style: none; padding: 0; margin: 0; }
+.timeline > li { display: grid; grid-template-columns: 76px 1fr; gap: 0 12px; padding: 12px 0; border-bottom: 1px solid var(--rule); }
+.ts { align-self: start; justify-self: start; font: 700 13px/1 var(--mono); background: var(--chip); color: var(--chip-ink); padding: 6px 8px; border-radius: 4px; text-decoration: none; margin-top: 3px; }
+.timeline h3 { font-size: 16px; line-height: 1.5; margin: 0 0 4px; }
+.timeline ul { margin: 0; padding-left: 18px; color: var(--ink); font-size: 15px; }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 26px; }
+.tags span { font-size: 13px; color: var(--muted); }
+.cta { display: block; margin: 28px 0 0; text-align: center; background: var(--accent); color: #fff; font-weight: 800; padding: 14px; border-radius: 8px; text-decoration: none; }
+.foot { margin-top: 26px; font-size: 12px; color: var(--muted); line-height: 1.6; }
+/* index */
+.masthead { text-align: center; padding: 26px 0 14px; border-bottom: 3px double var(--ink); }
+.masthead h1 { font: 900 clamp(34px, 11vw, 52px)/1 var(--serif); letter-spacing: .06em; margin: 0; }
+.masthead p { margin: 8px 0 0; font-size: 13px; color: var(--muted); }
+.story { display: block; text-decoration: none; padding: 18px 0; border-bottom: 1px solid var(--rule); }
+.story .thumb { aspect-ratio: 16/9; background: #000; overflow: hidden; }
+.story .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.story.lead-story .thumb { margin: 0 -18px 12px; }
+@media (min-width: 700px) { .story.lead-story .thumb { margin: 0 0 12px; } }
+.story .k { font-size: 12px; font-weight: 700; color: var(--accent); }
+.story h2 { all: unset; display: block; font: 900 19px/1.4 var(--serif); margin: 2px 0 6px; }
+.story.lead-story h2 { font-size: 25px; }
+.story p { margin: 0; font-size: 14px; line-height: 1.6; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.story time { display: block; margin-top: 6px; font-size: 12px; color: var(--muted); }
+.row { display: grid; grid-template-columns: 1fr 120px; gap: 14px; align-items: start; }
+.row .thumb { border-radius: 3px; }
+.empty { padding: 60px 0; text-align: center; color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topbar">
+  <a class="wordmark" href="../index.html">TUBE DIGEST</a>
+  <time datetime="2026-10-09T09:00:11+00:00">2026년 10월 9일 18:00</time>
+</header>
+
+<article>
+  <a class="kicker" href="https://www.youtube.com/channel/UCSPMRoAphbObUYeDaX367Fg">에스오디 SOD</a>
+  <h1 class="headline">구글 우주 AI 칩, 메모리 슈퍼사이클을 우주로 넓힌다</h1>
+  <p class="deck">&#34;머스크 초대형 베팅&#34; 구글·스페이스X 역사적 협업, AI 천지개벽 시작 ㄷㄷ</p>
+  <div class="byline">
+    <span>2026년 10월 9일 18:00 업로드</span>
+<span>약 10분</span><span class="badge">자동 자막 기반</span>
+  </div>
+
+  <a class="hero" href="https://www.youtube.com/watch?v=7jD67zXfr0g">
+    <img src="https://i.ytimg.com/vi/7jD67zXfr0g/maxresdefault.jpg" alt="&#34;머스크 초대형 베팅&#34; 구글·스페이스X 역사적 협업, AI 천지개벽 시작 ㄷㄷ 썸네일" loading="eager">
+    <span class="play">▶ 영상 보기</span>
+  </a>
+
+  <aside class="qa">
+    <div class="label">썸네일이 던진 질문</div>
+    <blockquote>“머스크 초대형 베팅 &#34;데이터센터 천지개벽&#34;”</blockquote>
+    <p class="answer">영상은 구글 TPU 칩을 스페이스X 로켓에 실어 보낸 우주 데이터센터 협업이 AI 인프라의 전력·부지 병목을 풀 계기가 된다고 답한다. 다만 냉각과 발사비 경제성은 아직 미해결이라고 인정한다. &#39;머스크의 베팅&#39;이라는 표현에 비해 영상 내용은 구글 프로젝트 선캐처 중심이다. 천지개벽은 화자의 전망이지 확정된 결과가 아니다.</p>
+  </aside>
+
+  <section>
+    <h2>1. 결론</h2>
+    <p class="lead">구글과 스페이스X의 우주 데이터센터 협업은 AI 산업의 전력·부지 병목을 풀 시도라고 화자는 평가한다. 냉각과 발사 경제성은 아직 풀리지 않은 과제다. 우주용 칩이 늘면 HBM 수요도 함께 늘어 우주 기반 메모리 슈퍼사이클이 올 수 있다고 화자는 본다. 화자의 결론은 삼성전자·SK하이닉스에 LPS(부지·전력·건물) 기업을 더하는 투자다. 영상은 DS자산운용의 지원으로 제작됐다.</p>
+  </section>
+
+  <section>
+    <h2>핵심 요약</h2>
+    <ol class="points">
+<li>구글이 자체 AI 칩(TPU)을 스페이스X 로켓에 실어 처음 우주로 보냈다.</li><li>AI 데이터센터의 병목은 반도체에서 전력과 부지로 옮겨갔다.</li><li>구글의 궤도는 낮과 밤의 경계선을 따라 돌아 태양전지가 지상보다 최대 8배 많은 전기를 만든다고 한다.</li><li>엔비디아는 부지·전력·건물(LPS)을 보증하며 20년간 지원한다. 우주는 임대료 부담이 없다는 것이 화자의 논리다.</li><li>이번 위성에는 TPU가 4개뿐이고 한 번에 15분씩만 가동한다. 이유는 방열 문제다.</li><li>진공에는 열을 옮길 매질이 없어 큰 방열판이 필요하고, 수십 개 TPU 냉각은 아직 미해결이다.</li><li>구글은 발사량이 2배가 될 때마다 비용이 20% 내려가 2035년쯤 kg당 200달러 아래가 될 수 있다고 본다. 그러려면 스타십이 연 180번쯤 떠야 한다.</li><li>방사선 시험에서 TPU는 멀쩡했지만 HBM은 약해서 우주용 메모리 수요와 가격 상승 가능성이 있다고 화자는 본다.</li><li>화자는 삼성전자·SK하이닉스에 LPS 기업을 더하는 투자가 올바르다고 주장한다.</li>    </ol>
+  </section>
+
+  <section>
+    <h2>2. 타임라인</h2>
+    <ol class="timeline">
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=7jD67zXfr0g&t=0s">00:00</a>
+        <div>
+          <h3>구글·스페이스X 협업 시작</h3>
+<ul><li>구글이 AI 칩을 스페이스X 로켓으로 우주에 보냈다.</li><li>AI 산업의 전력·부지 병목이 해소될 사건이라고 화자가 평가한다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=7jD67zXfr0g&t=38s">00:38</a>
+        <div>
+          <h3>왜 우주로 가는가</h3>
+<ul><li>AI 데이터센터는 반도체, 전력, 인프라로 나뉜다.</li><li>경계선 궤도에서는 태양전지가 지상보다 최대 8배 전기를 만든다.</li><li>구글은 소형 원전 계약도 맺어 우주와 지상을 병행한다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=7jD67zXfr0g&t=129s">02:09</a>
+        <div>
+          <h3>엔비디아의 LPS와 우주의 이점</h3>
+<ul><li>LPS는 부지·전력·건물을 뜻한다.</li><li>엔비디아가 오픈AI의 부지 임대료와 전기요금을 보증한다.</li><li>우주는 임대료, 냉각수, 송전망, 인허가 문제를 피할 수 있다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=7jD67zXfr0g&t=192s">03:12</a>
+        <div>
+          <h3>프로젝트 선캐처와 냉각 문제</h3>
+<ul><li>이번 위성에는 TPU 4개만 탑재된다.</li><li>TPU는 한 번에 15분만 가동하며 이유는 방열이다.</li><li>진공에서는 복사로만 열을 내보내 방열판이 TPU보다 약 333배 커야 한다.</li><li>수십 개 TPU 냉각은 아직 미해결이다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=7jD67zXfr0g&t=320s">05:20</a>
+        <div>
+          <h3>스페이스X의 경제성</h3>
+<ul><li>발사량이 2배가 될 때마다 가격이 20%씩 내려간다.</li><li>2035년쯤 kg당 200달러 아래가 될 수 있다.</li><li>스타십이 연 180번쯤 떠야 한다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=7jD67zXfr0g&t=363s">06:03</a>
+        <div>
+          <h3>방사선과 HBM 수요</h3>
+<ul><li>TPU는 5년 치 방사선의 20배 이상을 견뎠다.</li><li>HBM은 약 2천 수준에서 이상 신호가 나왔다.</li><li>우주용 HBM은 더 튼튼해야 하고 수요도 늘 수 있다.</li><li>골드만삭스는 올해 자체 칩용 HBM 수요가 82% 뛴다고 본다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=7jD67zXfr0g&t=469s">07:49</a>
+        <div>
+          <h3>투자 관점과 DS ETF 소개</h3>
+<ul><li>화자는 삼성전자·SK하이닉스에 LPS를 더하는 투자가 올바르다고 본다.</li><li>DS자산운용의 AI 반도체 액티브 ETF를 소개한다.</li><li>퀴즈 이벤트도 안내한다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=7jD67zXfr0g&t=525s">08:45</a>
+        <div>
+          <h3>앞으로의 미래</h3>
+<ul><li>AI 기업들은 더 많은 컴퓨팅 확보 경쟁을 한다.</li><li>지상 기반 메모리 슈퍼사이클이 우주 기반으로 확장될 수 있다고 전망한다.</li><li>컴퓨터를 어디에 띄울지 고민하는 시대가 온다고 말한다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=7jD67zXfr0g&t=577s">09:37</a>
+        <div>
+          <h3>이벤트 안내와 마무리</h3>
+<ul><li>카카오톡에서 DSETF를 검색해 친구 추가 후 참여한다.</li><li>경품은 아이폰 듀오 등이다.</li><li>좋아요와 댓글을 부탁하며 마무리한다.</li></ul>        </div>
+      </li>
+    </ol>
+  </section>
+
+<div class="tags"><span>#우주 데이터센터</span><span>#프로젝트 선캐처</span><span>#구글 TPU</span><span>#스페이스X</span><span>#HBM</span><span>#LPS</span></div>
+  <a class="cta" href="https://www.youtube.com/watch?v=7jD67zXfr0g">▶ 유튜브에서 전체 영상 보기</a>
+  <p class="foot">
+    원본: <a href="https://www.youtube.com/watch?v=7jD67zXfr0g">https://www.youtube.com/watch?v=7jD67zXfr0g</a><br>
+    이 기사는 썸네일과 자막을 바탕으로 AI가 요약한 것이라 원본과 다를 수 있다.
+    타임스탬프를 누르면 해당 시점부터 재생된다.
+  </p>
+</article>
+</div>
+</body>
+</html>

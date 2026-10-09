@@ -56,14 +56,23 @@ def discover(cfg: Config, state: State) -> int:
     return added
 
 
-def build_article(cfg: Config, video: Video, force: bool = False) -> dict | None:
-    """자막이 아직 없고 대기 시간이 남았으면 None(다음 회차에 재시도). force면 기다리지 않는다."""
+def build_article(cfg: Config, video: Video, force: bool = False, rec: dict | None = None) -> dict | None:
+    """자막이 아직 없고 대기 시간이 남았으면 None(다음 회차에 재시도). force면 기다리지 않는다.
+
+    자막 요청이 차단된 경우(GitHub Actions 등 클라우드 IP)는 기다려도 소용없으므로 바로 자막 없이 요약한다.
+    rec를 주면 자막 상태(ok / missing / blocked:원인)를 기록해 상태 파일에서 원인을 볼 수 있게 한다.
+    """
+    status = "ok"
     try:
         tr = fetch_transcript(video.video_id, cfg.transcript_languages)
+        if tr is None:
+            status = "missing"
     except TranscriptBlocked as e:
-        log.warning("자막 요청이 차단됨(IP 차단 추정): %s", e)
-        tr = None
-    if tr is None and not force and _age_hours(video.published) < cfg.transcript_wait_hours:
+        log.warning("자막 요청이 차단됨 → 자막 없이 요약: %s", e)
+        tr, status = None, f"blocked:{str(e).split(':')[0]}"
+    if rec is not None:
+        rec["transcript_status"] = status
+    if status == "missing" and not force and _age_hours(video.published) < cfg.transcript_wait_hours:
         return None
 
     thumb = thumbnail_url(video.video_id)
@@ -87,11 +96,15 @@ def process_pending(cfg: Config, state: State) -> list[str]:
     if state.pending() and not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
         log.error("ANTHROPIC_API_KEY가 없어 요약을 건너뜀 (.env 확인). 대기 영상 %d개는 그대로 둔다.", len(state.pending()))
         return published
-    for vid, rec in state.pending()[: cfg.max_videos_per_run]:
+    attempts = 0  # 요약까지 간 횟수만 센다. 자막 대기로 넘긴 영상은 상한을 차지하지 않는다.
+    for vid, rec in state.pending():
+        if attempts >= cfg.max_videos_per_run:
+            break
         video = Video(**rec["video"])
         try:
-            article = build_article(cfg, video)
+            article = build_article(cfg, video, rec=rec)
         except Exception as e:  # 영상 하나의 실패가 나머지 처리를 막지 않게, 기록 후 다음 회차에 재시도
+            attempts += 1
             rec["errors"] += 1
             rec["last_error"] = f"{type(e).__name__}: {e}"[:500]
             if rec["errors"] >= MAX_ERRORS:
@@ -102,8 +115,9 @@ def process_pending(cfg: Config, state: State) -> list[str]:
             continue
         if article is None:
             rec["wait_checks"] += 1
-            log.info("자막 대기 중 (%d회째): %s", rec["wait_checks"], video.title)
+            log.info("자막 대기 중 (%d회째, %s): %s", rec["wait_checks"], rec["transcript_status"], video.title)
             continue
+        attempts += 1
         save_article(vid, article)
         publisher.render_article(cfg, article)
         rec.update(status=DONE, done_at=now_iso(), article_url=publisher.article_url(cfg, vid))

@@ -1,0 +1,133 @@
+{
+ "video": {
+  "video_id": "7jD67zXfr0g",
+  "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+  "channel_name": "에스오디 SOD",
+  "title": "\"머스크 초대형 베팅\" 구글·스페이스X 역사적 협업, AI 천지개벽 시작 ㄷㄷ",
+  "published": "2026-10-09T09:00:11+00:00",
+  "description": "AI 에이전트 시대에 젠슨황이 가장 강조하는 LPS.\n이를 해결하기 위해 구글은 우주 데이터센터를 위한 '프로젝트 선캐쳐'를 진행하고 있습니다.\n\n\n📌나는 반도체 투자 고수인가? 반도체 퀴즈 풀고 아이폰 듀오 받아가자!\n\n- DS ETF 친구 추가: https://m.site.naver.com/2hQEU\n- 이벤트 링크: https://m.site.naver.com/2hQBP\n\n\n\n*이 영상은 DS 자산운용의 지원으로 제작되었습니다.\n\n- 하이젠버그에서 더 자세한 정보를 얻어가세요: https://heisenberg.kr\n\n- 인스타그램: https://www.instagram.com/softdragon__/\n\n- Chapter\n0:00 인트로\n0:38 구글의 생각\n3:20 스페이스X의 경제성\n6:12 HBM 수요\n8:45 앞으로의 미래\n\n- 내용 출처\n1. Travis Beals, \"Behind Project Suncatcher, our moonshot to put AI in space\", Google The Keyword, 2026\n2. Next Spaceflight, \"Transporter 18 | Falcon 9 Block 5\", nextspaceflight.com, 2026\n3. Travis Beals, \"Exploring a space-based, scalable AI infrastructure system design\", Google Research Blog, 2025\n4. Blaise Agüera y Arcas, Travis Beals, Maria Biggs, Jessica V. Bloom, Thomas Fischbacher, Konstantin Gromov, Urs Köster, Rishiraj Pravahan, James Manyika, \"Towards a future space-based, highly scalable AI infrastructure system design\", arXiv 2511.19468v2, 2026\n5. Jensen Huang, \"Securing the Infrastructure of Intelligence\", NVIDIA Blog, 2026\n6. Michael Terrell, \"New nuclear clean energy agreement with Kairos Power\", Google The Keyword, 2024\n7. NASA Small Spacecraft Systems Virtual Institute, \"7.0 Thermal Control — State-of-the-Art of Small Spacecraft Technology\", NASA, 2026\n8. Mike Wheatley, \"Google's first Project Suncatcher AI satellite set to blast off into orbit next week\", SiliconANGLE, 2026\n9. Duncan Riley, \"SpaceX puts Starship into orbit for the first time, deploys 26 Starlink satellites\", SiliconANGLE, 2026\n10. SK하이닉스, \"2026년 시장 전망… 'HBM이 이끄는 메모리 슈퍼사이클에 주목'\", SK하이닉스 뉴스룸, 2026\n\n- BGM\n1. Break It Down - Creative Cut - Alternative 2 by Ikoliks\n2. Rise Again by Francesco DAndrea\n3. Omega by Ardie Son\n4. Mountain Climbing by C.K.Martain\n5. Dominion by AlexGrohl",
+  "url": "https://www.youtube.com/watch?v=7jD67zXfr0g"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/7jD67zXfr0g/maxresdefault.jpg",
+ "thumbnail_small": "https://i.ytimg.com/vi/7jD67zXfr0g/mqdefault.jpg",
+ "transcript": {
+  "source": "generated",
+  "language": "ko",
+  "duration": 616
+ },
+ "summary": {
+  "headline": "구글 우주 AI 칩, 메모리 슈퍼사이클을 우주로 넓힌다",
+  "thumbnail_text": "머스크 초대형 베팅 \"데이터센터 천지개벽\"",
+  "thumbnail_answer": "영상은 구글 TPU 칩을 스페이스X 로켓에 실어 보낸 우주 데이터센터 협업이 AI 인프라의 전력·부지 병목을 풀 계기가 된다고 답한다. 다만 냉각과 발사비 경제성은 아직 미해결이라고 인정한다. '머스크의 베팅'이라는 표현에 비해 영상 내용은 구글 프로젝트 선캐처 중심이다. 천지개벽은 화자의 전망이지 확정된 결과가 아니다.",
+  "conclusion": "구글과 스페이스X의 우주 데이터센터 협업은 AI 산업의 전력·부지 병목을 풀 시도라고 화자는 평가한다. 냉각과 발사 경제성은 아직 풀리지 않은 과제다. 우주용 칩이 늘면 HBM 수요도 함께 늘어 우주 기반 메모리 슈퍼사이클이 올 수 있다고 화자는 본다. 화자의 결론은 삼성전자·SK하이닉스에 LPS(부지·전력·건물) 기업을 더하는 투자다. 영상은 DS자산운용의 지원으로 제작됐다.",
+  "key_points": [
+   "구글이 자체 AI 칩(TPU)을 스페이스X 로켓에 실어 처음 우주로 보냈다.",
+   "AI 데이터센터의 병목은 반도체에서 전력과 부지로 옮겨갔다.",
+   "구글의 궤도는 낮과 밤의 경계선을 따라 돌아 태양전지가 지상보다 최대 8배 많은 전기를 만든다고 한다.",
+   "엔비디아는 부지·전력·건물(LPS)을 보증하며 20년간 지원한다. 우주는 임대료 부담이 없다는 것이 화자의 논리다.",
+   "이번 위성에는 TPU가 4개뿐이고 한 번에 15분씩만 가동한다. 이유는 방열 문제다.",
+   "진공에는 열을 옮길 매질이 없어 큰 방열판이 필요하고, 수십 개 TPU 냉각은 아직 미해결이다.",
+   "구글은 발사량이 2배가 될 때마다 비용이 20% 내려가 2035년쯤 kg당 200달러 아래가 될 수 있다고 본다. 그러려면 스타십이 연 180번쯤 떠야 한다.",
+   "방사선 시험에서 TPU는 멀쩡했지만 HBM은 약해서 우주용 메모리 수요와 가격 상승 가능성이 있다고 화자는 본다.",
+   "화자는 삼성전자·SK하이닉스에 LPS 기업을 더하는 투자가 올바르다고 주장한다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "구글·스페이스X 협업 시작",
+    "points": [
+     "구글이 AI 칩을 스페이스X 로켓으로 우주에 보냈다.",
+     "AI 산업의 전력·부지 병목이 해소될 사건이라고 화자가 평가한다."
+    ]
+   },
+   {
+    "seconds": 38,
+    "title": "왜 우주로 가는가",
+    "points": [
+     "AI 데이터센터는 반도체, 전력, 인프라로 나뉜다.",
+     "경계선 궤도에서는 태양전지가 지상보다 최대 8배 전기를 만든다.",
+     "구글은 소형 원전 계약도 맺어 우주와 지상을 병행한다."
+    ]
+   },
+   {
+    "seconds": 129,
+    "title": "엔비디아의 LPS와 우주의 이점",
+    "points": [
+     "LPS는 부지·전력·건물을 뜻한다.",
+     "엔비디아가 오픈AI의 부지 임대료와 전기요금을 보증한다.",
+     "우주는 임대료, 냉각수, 송전망, 인허가 문제를 피할 수 있다."
+    ]
+   },
+   {
+    "seconds": 192,
+    "title": "프로젝트 선캐처와 냉각 문제",
+    "points": [
+     "이번 위성에는 TPU 4개만 탑재된다.",
+     "TPU는 한 번에 15분만 가동하며 이유는 방열이다.",
+     "진공에서는 복사로만 열을 내보내 방열판이 TPU보다 약 333배 커야 한다.",
+     "수십 개 TPU 냉각은 아직 미해결이다."
+    ]
+   },
+   {
+    "seconds": 320,
+    "title": "스페이스X의 경제성",
+    "points": [
+     "발사량이 2배가 될 때마다 가격이 20%씩 내려간다.",
+     "2035년쯤 kg당 200달러 아래가 될 수 있다.",
+     "스타십이 연 180번쯤 떠야 한다."
+    ]
+   },
+   {
+    "seconds": 363,
+    "title": "방사선과 HBM 수요",
+    "points": [
+     "TPU는 5년 치 방사선의 20배 이상을 견뎠다.",
+     "HBM은 약 2천 수준에서 이상 신호가 나왔다.",
+     "우주용 HBM은 더 튼튼해야 하고 수요도 늘 수 있다.",
+     "골드만삭스는 올해 자체 칩용 HBM 수요가 82% 뛴다고 본다."
+    ]
+   },
+   {
+    "seconds": 469,
+    "title": "투자 관점과 DS ETF 소개",
+    "points": [
+     "화자는 삼성전자·SK하이닉스에 LPS를 더하는 투자가 올바르다고 본다.",
+     "DS자산운용의 AI 반도체 액티브 ETF를 소개한다.",
+     "퀴즈 이벤트도 안내한다."
+    ]
+   },
+   {
+    "seconds": 525,
+    "title": "앞으로의 미래",
+    "points": [
+     "AI 기업들은 더 많은 컴퓨팅 확보 경쟁을 한다.",
+     "지상 기반 메모리 슈퍼사이클이 우주 기반으로 확장될 수 있다고 전망한다.",
+     "컴퓨터를 어디에 띄울지 고민하는 시대가 온다고 말한다."
+    ]
+   },
+   {
+    "seconds": 577,
+    "title": "이벤트 안내와 마무리",
+    "points": [
+     "카카오톡에서 DSETF를 검색해 친구 추가 후 참여한다.",
+     "경품은 아이폰 듀오 등이다.",
+     "좋아요와 댓글을 부탁하며 마무리한다."
+    ]
+   }
+  ],
+  "tags": [
+   "우주 데이터센터",
+   "프로젝트 선캐처",
+   "구글 TPU",
+   "스페이스X",
+   "HBM",
+   "LPS"
+  ],
+  "_usage": {
+   "model": "claude-sonnet-5-5",
+   "input_tokens": 9324,
+   "output_tokens": 2224
+  }
+ },
+ "created_at": "2026-10-09T10:10:55+00:00"
+}

@@ -1,0 +1,29 @@
+# PC에서 push한 기사(docs/)를 GitHub Pages에 배포한다.
+# digest.yml(봇)이 만든 기사는 digest.yml이 직접 배포한다. 봇의 push는 워크플로를 다시 트리거하지 않으므로 중복 배포는 없다.
+name: pages
+
+on:
+  push:
+    branches: [main]
+    paths: ["docs/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: github-pages
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - uses: actions/deploy-pages@v4

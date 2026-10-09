@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#faf8f3" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#141414" media="(prefers-color-scheme: dark)">
+<title>눈은 60Hz와 144Hz의 부드러움 차이를 구분한다 · Tube Digest</title>
+<meta name="description" content="사람 눈은 60Hz와 144Hz의 화면 부드러움 차이를 구분하고 게임 수행에도 도움을 받는다. 다만 문서 작업이나 영화 감상 정도면 60Hz로도 충분하다. 주사율이 높아질수록 차이가 계속 커지는 것은 아니다. 컴퓨터 성능이 받쳐줘야 의미가 있다.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="눈은 60Hz와 144Hz의 부드러움 차이를 구분한다">
+<meta property="og:description" content="사람 눈은 60Hz와 144Hz의 화면 부드러움 차이를 구분하고 게임 수행에도 도움을 받는다. 다만 문서 작업이나 영화 감상 정도면 60Hz로도 충분하다. 주사율이 높아질수록 차이가 계속 커지는 것은 아니다. 컴퓨터 성능이 받쳐줘야 의미가 있다.">
+<meta property="og:image" content="https://i.ytimg.com/vi/cdb-jRmQhSg/maxresdefault.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;900&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: #faf8f3; --ink: #1b1a17; --muted: #6b665c; --rule: #ddd7ca;
+  --accent: #c8102e; --accent-tint: #f6e9e6; --card: #ffffff; --chip: #1b1a17; --chip-ink: #faf8f3;
+  --serif: "Noto Serif KR", "Nanum Myeongjo", serif;
+  --sans: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard", "Malgun Gothic", "Noto Sans KR", sans-serif;
+  --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #141414; --ink: #ece8df; --muted: #9c968a; --rule: #2e2c28;
+    --accent: #ff5d6c; --accent-tint: #2a1a1c; --card: #1c1c1b; --chip: #ece8df; --chip-ink: #141414;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 17px/1.7 var(--sans); word-break: keep-all; overflow-wrap: anywhere; }
+a { color: inherit; }
+.wrap { max-width: 680px; margin: 0 auto; padding: 0 18px calc(40px + env(safe-area-inset-bottom)); }
+.topbar { display: flex; justify-content: space-between; align-items: baseline; padding: 14px 0 10px; border-bottom: 3px double var(--ink); }
+.wordmark { font: 900 18px/1 var(--serif); letter-spacing: .12em; text-decoration: none; }
+.topbar time { font-size: 12px; color: var(--muted); }
+.kicker { display: inline-block; margin-top: 22px; font-size: 13px; font-weight: 700; letter-spacing: .04em; color: var(--accent); text-decoration: none; }
+h1.headline { font: 900 clamp(26px, 7vw, 36px)/1.3 var(--serif); margin: 6px 0 10px; letter-spacing: -.01em; }
+.deck { color: var(--muted); font-size: 15px; line-height: 1.55; margin: 0 0 14px; }
+.byline { display: flex; flex-wrap: wrap; gap: 6px 12px; font-size: 13px; color: var(--muted); padding-bottom: 16px; border-bottom: 1px solid var(--rule); }
+.badge { border: 1px solid var(--rule); border-radius: 999px; padding: 0 8px; font-size: 12px; }
+.badge.warn { border-color: var(--accent); color: var(--accent); }
+.hero { position: relative; display: block; margin: 18px -18px 0; aspect-ratio: 16/9; background: #000; overflow: hidden; }
+.hero img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.hero .play { position: absolute; right: 14px; bottom: 14px; background: rgba(0,0,0,.72); color: #fff; font-size: 13px; font-weight: 700; padding: 6px 12px; border-radius: 999px; text-decoration: none; }
+@media (min-width: 700px) { .hero { margin: 18px 0 0; border-radius: 4px; } }
+.qa { margin: 26px 0 8px; background: var(--accent-tint); border-left: 4px solid var(--accent); padding: 16px 16px 14px; }
+.qa .label { font-size: 12px; font-weight: 800; letter-spacing: .08em; color: var(--accent); }
+.qa blockquote { margin: 6px 0 12px; font: 600 20px/1.45 var(--serif); }
+.qa .answer { margin: 0; font-weight: 600; }
+.qa .answer::before { content: "→ "; color: var(--accent); font-weight: 900; }
+section { margin-top: 30px; }
+h2 { font: 900 13px/1 var(--sans); letter-spacing: .14em; color: var(--accent); margin: 0 0 12px; padding-top: 12px; border-top: 2px solid var(--ink); }
+.lead { font: 600 19px/1.65 var(--serif); margin: 0; }
+ol.points { list-style: none; counter-reset: p; padding: 0; margin: 0; }
+ol.points li { counter-increment: p; position: relative; padding: 10px 0 10px 34px; border-bottom: 1px solid var(--rule); }
+ol.points li::before { content: counter(p, decimal-leading-zero); position: absolute; left: 0; top: 11px; font: 900 15px/1.6 var(--serif); color: var(--accent); }
+.timeline { list-style: none; padding: 0; margin: 0; }
+.timeline > li { display: grid; grid-template-columns: 76px 1fr; gap: 0 12px; padding: 12px 0; border-bottom: 1px solid var(--rule); }
+.ts { align-self: start; justify-self: start; font: 700 13px/1 var(--mono); background: var(--chip); color: var(--chip-ink); padding: 6px 8px; border-radius: 4px; text-decoration: none; margin-top: 3px; }
+.timeline h3 { font-size: 16px; line-height: 1.5; margin: 0 0 4px; }
+.timeline ul { margin: 0; padding-left: 18px; color: var(--ink); font-size: 15px; }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 26px; }
+.tags span { font-size: 13px; color: var(--muted); }
+.cta { display: block; margin: 28px 0 0; text-align: center; background: var(--accent); color: #fff; font-weight: 800; padding: 14px; border-radius: 8px; text-decoration: none; }
+.foot { margin-top: 26px; font-size: 12px; color: var(--muted); line-height: 1.6; }
+/* index */
+.masthead { text-align: center; padding: 26px 0 14px; border-bottom: 3px double var(--ink); }
+.masthead h1 { font: 900 clamp(34px, 11vw, 52px)/1 var(--serif); letter-spacing: .06em; margin: 0; }
+.masthead p { margin: 8px 0 0; font-size: 13px; color: var(--muted); }
+.story { display: block; text-decoration: none; padding: 18px 0; border-bottom: 1px solid var(--rule); }
+.story .thumb { aspect-ratio: 16/9; background: #000; overflow: hidden; }
+.story .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.story.lead-story .thumb { margin: 0 -18px 12px; }
+@media (min-width: 700px) { .story.lead-story .thumb { margin: 0 0 12px; } }
+.story .k { font-size: 12px; font-weight: 700; color: var(--accent); }
+.story h2 { all: unset; display: block; font: 900 19px/1.4 var(--serif); margin: 2px 0 6px; }
+.story.lead-story h2 { font-size: 25px; }
+.story p { margin: 0; font-size: 14px; line-height: 1.6; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.story time { display: block; margin-top: 6px; font-size: 12px; color: var(--muted); }
+.row { display: grid; grid-template-columns: 1fr 120px; gap: 14px; align-items: start; }
+.row .thumb { border-radius: 3px; }
+.empty { padding: 60px 0; text-align: center; color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topbar">
+  <a class="wordmark" href="../index.html">TUBE DIGEST</a>
+  <time datetime="2026-10-09T09:30:06+00:00">2026년 10월 9일 18:30</time>
+</header>
+
+<article>
+  <a class="kicker" href="https://www.youtube.com/channel/UC7F6UDq3gykPZHWRhrj_BDw">사물궁이 잡학지식</a>
+  <h1 class="headline">눈은 60Hz와 144Hz의 부드러움 차이를 구분한다</h1>
+  <p class="deck">사람의 눈은 144Hz를 구분할 수 있을까?</p>
+  <div class="byline">
+    <span>2026년 10월 9일 18:30 업로드</span>
+<span>약 5분</span><span class="badge">자동 자막 기반</span>
+  </div>
+
+  <a class="hero" href="https://www.youtube.com/watch?v=cdb-jRmQhSg">
+    <img src="https://i.ytimg.com/vi/cdb-jRmQhSg/maxresdefault.jpg" alt="사람의 눈은 144Hz를 구분할 수 있을까? 썸네일" loading="eager">
+    <span class="play">▶ 영상 보기</span>
+  </a>
+
+  <aside class="qa">
+    <div class="label">썸네일이 던진 질문</div>
+    <blockquote>“사람 눈이 구별할 수 있을까?”</blockquote>
+    <p class="answer">구별할 수 있다. 144장을 하나하나 구분하는 게 아니라 시간 간격 차이에서 나오는 움직임의 부드러움을 구분한다. 60Hz와 144Hz, 60Hz와 360Hz는 구분했지만 144Hz와 360Hz는 유의미하게 구분하지 못했다.</p>
+  </aside>
+
+  <section>
+    <h2>1. 결론</h2>
+    <p class="lead">사람 눈은 60Hz와 144Hz의 화면 부드러움 차이를 구분하고 게임 수행에도 도움을 받는다. 다만 문서 작업이나 영화 감상 정도면 60Hz로도 충분하다. 주사율이 높아질수록 차이가 계속 커지는 것은 아니다. 컴퓨터 성능이 받쳐줘야 의미가 있다.</p>
+  </section>
+
+  <section>
+    <h2>핵심 요약</h2>
+    <ol class="points">
+<li>주사율은 모니터가 1초에 화면을 새로 보여주는 횟수다.</li><li>눈의 원추세포와 간상세포는 분포와 반응 특성이 달라 빠른 변화의 구분력은 조건에 따라 달라진다.</li><li>임계 깜빡임 주파수는 일부 문헌에서 60Hz 정도로 보고되지만 조건에 따라 값이 달라진다.</li><li>임계 깜빡임 주파수는 깜빡이는 빛의 한계라서 모니터 움직임 구분 능력과 같지 않다.</li><li>2026년 FPS 게임 이용자 연구에서 60Hz와 144Hz, 60Hz와 360Hz의 부드러움 차이는 구분됐다. 144Hz와 360Hz는 구분되지 않았다.</li><li>144Hz는 약 6.9ms, 60Hz는 약 16.7ms마다 화면을 갱신해 움직임이 더 촘촘하고 지연도 줄 수 있다.</li><li>60Hz에서 144Hz나 360Hz로 올리면 표적 정확도가 3% 이상 오르고 제거 시간이 100ms 이상 줄었다.</li><li>컴퓨터가 144 FPS를 내지 못하면 144Hz 모니터의 성능을 살리기 어렵다.</li>    </ol>
+  </section>
+
+  <section>
+    <h2>2. 타임라인</h2>
+    <ol class="timeline">
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=cdb-jRmQhSg&t=5s">00:05</a>
+        <div>
+          <h3>주사율의 의미</h3>
+<ul><li>60Hz, 120Hz, 144Hz는 1초에 화면을 몇 번 새로 보여주는지를 뜻한다.</li><li>주사율이 높으면 화면 전환이 빠르다.</li><li>반응이 중요한 게임 이용자가 높은 주사율을 선호한다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=cdb-jRmQhSg&t=26s">00:26</a>
+        <div>
+          <h3>눈의 시세포 구조</h3>
+<ul><li>망막에는 원추세포와 간상세포가 있다.</li><li>원추세포는 색 인식, 간상세포는 명암 감지에 주로 관여한다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=cdb-jRmQhSg&t=46s">00:46</a>
+        <div>
+          <h3>시세포 분포의 불균형</h3>
+<ul><li>중심와에는 원추세포가 촘촘하다.</li><li>중심와를 벗어나면 원추세포는 줄고 간상세포는 많아진다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=cdb-jRmQhSg&t=68s">01:08</a>
+        <div>
+          <h3>조건에 따라 달라지는 구분력</h3>
+<ul><li>주변 밝기에 따라 두 세포의 작동 정도가 달라진다.</li><li>두 세포는 빠르게 변하는 빛에 대한 반응 특성도 다르다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=cdb-jRmQhSg&t=90s">01:30</a>
+        <div>
+          <h3>임계 깜빡임 주파수</h3>
+<ul><li>깜빡이는 빛이 연속된 빛처럼 느껴지기 시작하는 경계 주파수다.</li><li>일부 문헌은 인간의 값을 60Hz 정도로 본다.</li><li>조건에 따라 값이 달라 단순화하기 어렵다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=cdb-jRmQhSg&t=111s">01:51</a>
+        <div>
+          <h3>지표의 한계</h3>
+<ul><li>임계 깜빡임 주파수는 깜빡이는 빛의 구분 한계다.</li><li>60Hz와 144Hz 모니터의 움직임 구분 여부를 그대로 뜻하지 않는다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=cdb-jRmQhSg&t=131s">02:11</a>
+        <div>
+          <h3>2026년 모니터 비교 연구</h3>
+<ul><li>PC 액션 게임 이용자가 60Hz, 144Hz, 360Hz 모니터를 직접 비교했다.</li><li>참가자는 표적 과제 후 직전보다 더 부드러운지 판단했다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=cdb-jRmQhSg&t=153s">02:33</a>
+        <div>
+          <h3>연구 결과</h3>
+<ul><li>60Hz와 144Hz, 60Hz와 360Hz의 차이는 유의미하게 구분했다.</li><li>144Hz와 360Hz 사이는 유의미하게 구분하지 못했다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=cdb-jRmQhSg&t=175s">02:55</a>
+        <div>
+          <h3>차이가 생기는 원리</h3>
+<ul><li>60Hz는 약 16.7ms, 144Hz는 약 6.9ms마다 화면을 갱신한다.</li><li>물체 위치가 더 짧은 간격으로 바뀌어 움직임이 부드럽게 보인다.</li><li>입력 지연 시간도 줄 수 있다.</li><li>144장을 따로 구분한 게 아니라 시간 간격 차이로 생긴 부드러움을 구분한 것이다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=cdb-jRmQhSg&t=195s">03:15</a>
+        <div>
+          <h3>컴퓨터 성능과 FPS</h3>
+<ul><li>컴퓨터가 1초에 만드는 화면 수를 프레임(FPS)이라 한다.</li><li>144 FPS를 내지 못하면 144Hz 모니터를 활용하기 어렵다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=cdb-jRmQhSg&t=236s">03:56</a>
+        <div>
+          <h3>게임 수행 능력 변화</h3>
+<ul><li>60Hz에서 144Hz나 360Hz로 올리면 정확도가 3% 이상 향상됐다.</li><li>표적 제거 시간이 100ms 이상 줄었다.</li><li>144Hz와 360Hz 사이에는 뚜렷한 수행 차이가 없었다.</li></ul>        </div>
+      </li>
+      <li>
+        <a class="ts" href="https://www.youtube.com/watch?v=cdb-jRmQhSg&t=256s">04:16</a>
+        <div>
+          <h3>정리</h3>
+<ul><li>눈은 60Hz와 144Hz의 부드러움 차이를 구분한다.</li><li>문서 작업이나 영화 감상 위주면 60Hz로 충분하다.</li><li>주사율이 높다고 차이가 계속 커지지 않고 컴퓨터 성능이 받쳐줘야 한다.</li></ul>        </div>
+      </li>
+    </ol>
+  </section>
+
+<div class="tags"><span>#모니터주사율</span><span>#144Hz</span><span>#60Hz</span><span>#시각</span><span>#게이밍모니터</span><span>#임계깜빡임주파수</span></div>
+  <a class="cta" href="https://www.youtube.com/watch?v=cdb-jRmQhSg">▶ 유튜브에서 전체 영상 보기</a>
+  <p class="foot">
+    원본: <a href="https://www.youtube.com/watch?v=cdb-jRmQhSg">https://www.youtube.com/watch?v=cdb-jRmQhSg</a><br>
+    이 기사는 썸네일과 자막을 바탕으로 AI가 요약한 것이라 원본과 다를 수 있다.
+    타임스탬프를 누르면 해당 시점부터 재생된다.
+  </p>
+</article>
+</div>
+</body>
+</html>
