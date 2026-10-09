@@ -1,0 +1,34 @@
+{% extends "base.html.j2" %}
+{% block title %}Tube Digest{% endblock %}
+{% block body %}
+<header class="masthead">
+  <h1>TUBE DIGEST</h1>
+  <p>구독 채널 새 영상 요약 · {{ updated|kdate }} 업데이트</p>
+</header>
+
+{% if not articles %}
+<p class="empty">아직 발행된 기사가 없다.</p>
+{% endif %}
+
+{% for a in articles %}{% set v = a.video %}{% set s = a.summary %}
+{% if loop.first %}
+<a class="story lead-story" href="a/{{ v.video_id }}.html">
+  <div class="thumb"><img src="{{ a.thumbnail }}" alt="" loading="eager"></div>
+  <span class="k">{{ v.channel_name }}</span>
+  <h2>{{ s.headline }}</h2>
+  <p>{{ s.conclusion }}</p>
+  <time datetime="{{ v.published }}">{{ v.published|kdate }}</time>
+</a>
+{% else %}
+<a class="story row" href="a/{{ v.video_id }}.html">
+  <div>
+    <span class="k">{{ v.channel_name }}</span>
+    <h2>{{ s.headline }}</h2>
+    <p>{{ s.conclusion }}</p>
+    <time datetime="{{ v.published }}">{{ v.published|kdate }}</time>
+  </div>
+  <div class="thumb"><img src="{{ a.thumbnail_small }}" alt="" loading="lazy"></div>
+</a>
+{% endif %}
+{% endfor %}
+{% endblock %}

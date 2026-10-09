@@ -1,0 +1,78 @@
+{% extends "base.html.j2" %}
+{% set v = a.video %}{% set s = a.summary %}
+{% block title %}{{ s.headline }} · Tube Digest{% endblock %}
+{% block meta %}
+<meta name="description" content="{{ s.conclusion|truncate(150) }}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{ s.headline }}">
+<meta property="og:description" content="{{ s.conclusion|truncate(150) }}">
+<meta property="og:image" content="{{ a.thumbnail }}">
+{% endblock %}
+{% block body %}
+<header class="topbar">
+  <a class="wordmark" href="../index.html">TUBE DIGEST</a>
+  <time datetime="{{ v.published }}">{{ v.published|kdate }}</time>
+</header>
+
+<article>
+  <a class="kicker" href="https://www.youtube.com/channel/{{ v.channel_id }}">{{ v.channel_name }}</a>
+  <h1 class="headline">{{ s.headline }}</h1>
+  <p class="deck">{{ v.title }}</p>
+  <div class="byline">
+    <span>{{ v.published|kdate }} 업로드</span>
+    {% if a.transcript.duration %}<span>약 {{ (a.transcript.duration / 60)|round|int }}분</span>{% endif %}
+    {% if a.transcript.source == "none" %}<span class="badge warn">자막 없음 · 제목/설명 기반</span>
+    {% elif a.transcript.source == "generated" %}<span class="badge">자동 자막 기반</span>
+    {% else %}<span class="badge">자막 기반</span>{% endif %}
+  </div>
+
+  <a class="hero" href="{{ v.url }}">
+    <img src="{{ a.thumbnail }}" alt="{{ v.title }} 썸네일" loading="eager">
+    <span class="play">▶ 영상 보기</span>
+  </a>
+
+  <aside class="qa">
+    <div class="label">썸네일이 던진 질문</div>
+    <blockquote>“{{ s.thumbnail_text }}”</blockquote>
+    <p class="answer">{{ s.thumbnail_answer }}</p>
+  </aside>
+
+  <section>
+    <h2>1. 결론</h2>
+    <p class="lead">{{ s.conclusion }}</p>
+  </section>
+
+  <section>
+    <h2>핵심 요약</h2>
+    <ol class="points">
+      {% for p in s.key_points %}<li>{{ p }}</li>{% endfor %}
+    </ol>
+  </section>
+
+  {% if s.timeline %}
+  <section>
+    <h2>2. 타임라인</h2>
+    <ol class="timeline">
+      {% for t in s.timeline %}
+      <li>
+        <a class="ts" href="{{ v.url }}&t={{ t.seconds }}s">{{ t.seconds|ts }}</a>
+        <div>
+          <h3>{{ t.title }}</h3>
+          {% if t.points %}<ul>{% for p in t.points %}<li>{{ p }}</li>{% endfor %}</ul>{% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+  {% endif %}
+
+  {% if s.tags %}<div class="tags">{% for t in s.tags %}<span>#{{ t }}</span>{% endfor %}</div>{% endif %}
+
+  <a class="cta" href="{{ v.url }}">▶ 유튜브에서 전체 영상 보기</a>
+  <p class="foot">
+    원본: <a href="{{ v.url }}">{{ v.url }}</a><br>
+    이 기사는 썸네일과 {{ "자막" if a.transcript.source != "none" else "영상 정보" }}을 바탕으로 AI가 요약한 것이라 원본과 다를 수 있다.
+    타임스탬프를 누르면 해당 시점부터 재생된다.
+  </p>
+</article>
+{% endblock %}

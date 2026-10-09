@@ -1,0 +1,58 @@
+# 옵션 B: PC를 켜 두지 않고 GitHub Actions에서 돌리는 방식.
+# 준비: Settings → Pages → Source = "GitHub Actions", Settings → Secrets에 아래 env 값 등록,
+#       config.yaml의 site.git_push: true (상태 파일을 커밋해야 다음 실행이 이어서 동작함)
+# 주의: 유튜브가 클라우드 IP의 자막 요청을 막는 경우가 있다. 로그에 "자막 요청이 차단됨"이 반복되면 옵션 A(로컬 PC)로 돌릴 것.
+name: tube-digest
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # Actions 예약 실행은 수 분~수십 분 늦을 수 있다
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: tube-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment: github-pages
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: |
+          git config user.name "tube-digest-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: 새 영상 확인 → 요약 → 기사 생성
+        id: run
+        run: python -m tubedigest run --no-notify
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Pages 아티팩트 업로드
+        if: steps.run.outputs.published != '0'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - name: Pages 배포
+        if: steps.run.outputs.published != '0'
+        uses: actions/deploy-pages@v4
+
+      - name: 폰 알림 (배포 후)
+        run: python -m tubedigest notify
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
