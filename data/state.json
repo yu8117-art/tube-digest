@@ -1425,6 +1425,16 @@
    "published": "2026-10-02T07:38:29+00:00",
    "status": "baseline"
   },
+  "U6Qk9ejZZ58": {
+   "article_url": "https://yu8117-art.github.io/tube-digest/a/U6Qk9ejZZ58.html",
+   "done_at": "2026-10-09T22:26:25+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-09T22:26:17+00:00",
+   "published": "2026-10-09T22:03:35+00:00",
+   "status": "done",
+   "transcript_status": "blocked:RequestBlocked",
+   "wait_checks": 0
+  },
   "UC26ggRrYCM": {
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-05-18T07:05:29+00:00",
