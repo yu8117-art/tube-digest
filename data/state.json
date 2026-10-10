@@ -1687,6 +1687,7 @@
    "done_at": "2026-10-10T03:32:36+00:00",
    "errors": 0,
    "first_seen": "2026-10-10T03:21:54+00:00",
+   "notified": "2026-10-10T03:32:49+00:00",
    "published": "2026-10-10T02:35:11+00:00",
    "status": "done",
    "transcript_status": "blocked:RequestBlocked+gemini",
