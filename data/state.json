@@ -2705,19 +2705,13 @@
    "status": "baseline"
   },
   "uc4tG9swVLc": {
+   "article_url": "https://yu8117-art.github.io/tube-digest/a/uc4tG9swVLc.html",
+   "done_at": "2026-10-10T02:01:24+00:00",
    "errors": 0,
    "first_seen": "2026-10-09T22:54:36+00:00",
    "published": "2026-10-09T22:49:13+00:00",
-   "status": "pending",
-   "transcript_status": "blocked:RequestBlocked+gemini_failed",
-   "video": {
-    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
-    "channel_name": "스마트튜브(스튜TV)",
-    "description": "10월 오프라인 세미나) 드디어 부동산 끝판왕, 트루카피 등장!\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=643\n\n50부터 시작하는 은퇴 후 월급 만드는 부동산 출간 기념 특강 신청 링크\n🔹https://forms.gle/CATkDLzuhYHxbEd38\n\n50부터 시작하는 은퇴 후 월급 만드는 부동산\n🔹예스24 http://app.ac/MAGu5e523\n🔹교보문고 http://app.ac/1ECnLKS73\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
-    "published": "2026-10-09T22:49:13+00:00",
-    "title": "전세가 사라지는 자리에, 월세와 영끌과 14평이 들어선다!",
-    "video_id": "uc4tG9swVLc"
-   },
+   "status": "done",
+   "transcript_status": "blocked:RequestBlocked+gemini",
    "wait_checks": 9
   },
   "uvDniF5al8E": {
