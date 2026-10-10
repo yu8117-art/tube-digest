@@ -557,6 +557,16 @@
    "published": "2026-07-12T08:00:30+00:00",
    "status": "baseline"
   },
+  "9VCFv6WNAx8": {
+   "article_url": "https://yu8117-art.github.io/tube-digest/a/9VCFv6WNAx8.html",
+   "done_at": "2026-10-10T07:10:49+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-10T07:00:18+00:00",
+   "published": "2026-10-10T05:00:19+00:00",
+   "status": "done",
+   "transcript_status": "blocked:RequestBlocked+gemini",
+   "wait_checks": 0
+  },
   "9ZQiVxTP0bY": {
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-09-06T09:18:40+00:00",
@@ -917,6 +927,21 @@
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-10-02T21:37:12+00:00",
    "status": "baseline"
+  },
+  "IocZ_Fw-zFU": {
+   "errors": 0,
+   "first_seen": "2026-10-10T07:00:18+00:00",
+   "published": "2026-10-10T06:30:10+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"정부는 쉬쉬하고 있어요\" 서울 전월세 실제로 이렇습니다\n\n☞촬영일: 26년 9월 30일",
+    "published": "2026-10-10T06:30:10+00:00",
+    "title": "\"정부는 쉬쉬하고 있어요\" 서울 전월세 실제로 이렇습니다 [빠숑]",
+    "video_id": "IocZ_Fw-zFU"
+   },
+   "wait_checks": 0
   },
   "Ity2j2OA8xQ": {
    "first_seen": "2026-10-09T08:14:33+00:00",
@@ -1391,6 +1416,21 @@
    "published": "2026-09-23T09:00:07+00:00",
    "status": "baseline"
   },
+  "SrCjtMTzH0U": {
+   "errors": 0,
+   "first_seen": "2026-10-10T07:00:20+00:00",
+   "published": "2026-10-10T04:30:33+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n현금 있다면 미국주식 이렇게 사세요, 앞으로 어마어마하게 오를 겁니다\n\n☞촬영일: 26년 10월 7일",
+    "published": "2026-10-10T04:30:33+00:00",
+    "title": "현금 있다면 미국주식 이렇게 사세요, 앞으로 어마어마하게 오를 겁니다 [정주용 의장]",
+    "video_id": "SrCjtMTzH0U"
+   },
+   "wait_checks": 0
+  },
   "St5Ccz3__xk": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-09-29T12:57:05+00:00",
@@ -1526,6 +1566,16 @@
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-09-27T10:55:59+00:00",
    "status": "baseline"
+  },
+  "VqElTq2CFck": {
+   "article_url": "https://yu8117-art.github.io/tube-digest/a/VqElTq2CFck.html",
+   "done_at": "2026-10-10T07:03:00+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-10T07:00:16+00:00",
+   "published": "2026-10-10T04:00:17+00:00",
+   "status": "done",
+   "transcript_status": "blocked:RequestBlocked+gemini",
+   "wait_checks": 0
   },
   "VwjhD-cp2N4": {
    "first_seen": "2026-10-09T08:14:40+00:00",
@@ -1746,6 +1796,22 @@
    "published": "2026-10-09T04:30:08+00:00",
    "status": "baseline"
   },
+  "a_lwVYd8BP4": {
+   "errors": 0,
+   "first_seen": "2026-10-10T07:00:09+00:00",
+   "published": "2026-10-10T06:00:32+00:00",
+   "status": "pending",
+   "transcript_status": "blocked:RequestBlocked+gemini_failed",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "우리가 알고 있던 피타고라스와 피타고라스의 정리, 정말 우리가 배운 그대로일까요?\n피타고라스는 정말 수학자였을까요?\n피타고라스의 정리는 정말 피타고라스가 처음 발견했을까요?\n그리고 그는 어떻게 수학의 전설이 되었을까요?\n이번 영상에서는 고대 그리스의 피타고라스와 그의 학파, 그리고 후대에 만들어진 피타고라스의 이미지를 따라가며 ‘수학의 전설’이 만들어진 과정을 살펴봅니다.\n우리가 교과서에서 배운 과학과 수학의 역사는 어디까지 진짜일까요?\n\n#피타고라스 #피타고라스의정리 #수학사 #과학사 #고대그리스 #수학 #안될과학 #최정모 #항성\n\n◆ Thanks to \nEditor : 박수빈\nGuest : 부산대학교 화학과 최정모 교수\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science \n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience\n\n◆ 안될과학 문의\nE-MAIL : MoreScience2018@gmail.com",
+    "published": "2026-10-10T06:00:32+00:00",
+    "title": "수학의 전설이 된 피타고라스, 진짜 모습은?",
+    "video_id": "a_lwVYd8BP4"
+   },
+   "wait_checks": 1
+  },
   "aivOcLG9-6o": {
    "first_seen": "2026-10-09T08:14:30+00:00",
    "published": "2026-10-05T02:00:34+00:00",
@@ -1820,6 +1886,21 @@
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-09-15T09:13:37+00:00",
    "status": "baseline"
+  },
+  "bzfPor4KzKE": {
+   "errors": 0,
+   "first_seen": "2026-10-10T07:00:21+00:00",
+   "published": "2026-10-10T02:30:12+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n서울 집 고집할 필요 없습니다, 집값엔 '강남 접근성'이 더 중요합니다\n\n☞촬영일: 26년 9월 30일",
+    "published": "2026-10-10T02:30:12+00:00",
+    "title": "서울 집 고집할 필요 없습니다, 집값엔 '강남 접근성'이 더 중요합니다 [빠숑]",
+    "video_id": "bzfPor4KzKE"
+   },
+   "wait_checks": 0
   },
   "c5J-YaFH8PE": {
    "first_seen": "2026-10-09T08:14:40+00:00",
@@ -1978,6 +2059,21 @@
    "published": "2026-09-22T09:00:26+00:00",
    "status": "baseline"
   },
+  "fGxH1hCnDQA": {
+   "errors": 0,
+   "first_seen": "2026-10-10T07:00:16+00:00",
+   "published": "2026-10-10T06:00:06+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n50부터 시작하는 은퇴 후 월급 만드는 부동산 출간 기념 특강\n🔹https://forms.gle/CATkDLzuhYHxbEd38\n\n50부터 시작하는 은퇴 후 월급 만드는 부동산\n🔹예스24 http://app.ac/MAGu5e523\n🔹교보문고 http://app.ac/1ECnLKS73\n\n#김학렬 #빠숑 #부동산 #금리 #정책\n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-10-10T06:00:06+00:00",
+    "title": "금리 올랐는데 부동산도 오르는 이유!",
+    "video_id": "fGxH1hCnDQA"
+   },
+   "wait_checks": 0
+  },
   "fIY9jeS5lpw": {
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-09-22T09:18:37+00:00",
@@ -2062,6 +2158,21 @@
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-08-30T02:00:34+00:00",
    "status": "baseline"
+  },
+  "h-mKlklvFjc": {
+   "errors": 0,
+   "first_seen": "2026-10-10T07:00:15+00:00",
+   "published": "2026-10-10T06:00:28+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
+    "channel_name": "집코노미",
+    "description": "만 40세 미만, 일부 정책대출에서 가능🔎\n\n#부동산 #대출 #주담대 #주택담보대출 #체증식상환\n\n한국경제신문 구독하기\n📰https://vo.la/N79FE1B\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다",
+    "published": "2026-10-10T06:00:28+00:00",
+    "title": "\"아무나 못 받아요\" 2030에게 유리한 대출",
+    "video_id": "h-mKlklvFjc"
+   },
+   "wait_checks": 0
   },
   "h43Y_hlUOGk": {
    "first_seen": "2026-10-09T08:14:31+00:00",
@@ -2418,6 +2529,21 @@
    "first_seen": "2026-10-09T08:14:33+00:00",
    "published": "2026-06-25T12:38:13+00:00",
    "status": "baseline"
+  },
+  "oXwmdUxk-ng": {
+   "errors": 0,
+   "first_seen": "2026-10-10T07:00:13+00:00",
+   "published": "2026-10-10T03:00:30+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCFhF5oooL5ugxHKvTxBD75Q",
+    "channel_name": "땅집고",
+    "description": "💥 단단홈즈 프로모션 앵콜 연장 (~10/31)\n단기임대 똑똑하게 이용하기!\n\n[호스트 혜택] 수수료 평생 0원\n🔗 https://ader.dandanhomes.com/hq11f86\n\n[게스트 혜택] 수수료 반값 할인 (최대 10만원)\n🔗 https://ader.dandanhomes.com/5l4zat\n\n지금 3분 만에 방 등록하고 평생 0원 혜택 챙기기 🚀\n🔗 https://ader.dandanhomes.com/bsve9r\n\n🏢 “내 개발사업에 AI를 어디까지 활용할 수 있을까?”\n개발계획·사업성 검토·인허가부터\n에너지·보안·주차 운영까지\n현업 사례로 배우는 AI 부동산 실전교육\n👉 신청하기 ▼ https://zipgobiz.com/\n\n📌 땅집고TV 구독하고 남들보다 빠른 부동산 안목을 키우세요\n​👉 지금 바로 구독·좋아요·알림설정까지! http://bit.ly/3RmNLky\n오늘 영상에 대한 여러분의 의견도 댓글로 자유롭게 남겨주세요💬",
+    "published": "2026-10-10T03:00:30+00:00",
+    "title": "드디어 본공사 들어간 GTX-C, 최대 수혜지 '이곳' 꼽힌 이유 #shorts",
+    "video_id": "oXwmdUxk-ng"
+   },
+   "wait_checks": 0
   },
   "oaLTzqbqKiQ": {
    "first_seen": "2026-10-09T08:14:35+00:00",
