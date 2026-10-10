@@ -2347,6 +2347,21 @@
    },
    "wait_checks": 0
   },
+  "oQEfeDq_p1Y": {
+   "errors": 0,
+   "first_seen": "2026-10-10T00:04:57+00:00",
+   "published": "2026-09-15T15:45:18+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+    "channel_name": "채널 제네시스박",
+    "description": "📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 강남 세금 특강! + 1:1 현장 질문 + 교재 제공 (9/20, 일, 오후 2시)\nhttps://blog.naver.com/wwwshg/224396705906\n\n📌 노원 롯데백화점 세금 특강! + 1:1 현장 질문 (10/3, 토, 오후 2시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0022&yy=2026&lectSmsterCd=3&lectCd=0536\n\n📌 김포공항 롯데백화점 세금 특강! + 1:1 현장 질문 (10/10, 토, 오후 5시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0340&yy=2026&lectSmsterCd=3&lectCd=0315\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
+    "published": "2026-09-15T15:45:18+00:00",
+    "title": "부동산은 함부로 파는게 아닙니다...(또 어떻게 바뀔지 몰라요)",
+    "video_id": "oQEfeDq_p1Y"
+   },
+   "wait_checks": 0
+  },
   "oS4r_naM8aE": {
    "first_seen": "2026-10-09T08:14:33+00:00",
    "published": "2026-06-25T12:38:13+00:00",
@@ -2677,7 +2692,7 @@
     "title": "전세가 사라지는 자리에, 월세와 영끌과 14평이 들어선다!",
     "video_id": "uc4tG9swVLc"
    },
-   "wait_checks": 5
+   "wait_checks": 6
   },
   "uvDniF5al8E": {
    "first_seen": "2026-10-09T08:14:35+00:00",
