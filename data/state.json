@@ -1682,6 +1682,16 @@
    "published": "2026-07-26T02:00:11+00:00",
    "status": "baseline"
   },
+  "_CfIf9C90b8": {
+   "article_url": "https://yu8117-art.github.io/tube-digest/a/_CfIf9C90b8.html",
+   "done_at": "2026-10-10T03:32:36+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-10T03:21:54+00:00",
+   "published": "2026-10-10T02:35:11+00:00",
+   "status": "done",
+   "transcript_status": "blocked:RequestBlocked+gemini",
+   "wait_checks": 0
+  },
   "_NmzLX2bGU4": {
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-08-02T03:30:12+00:00",
