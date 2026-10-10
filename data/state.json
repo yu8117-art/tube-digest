@@ -180,6 +180,16 @@
    "transcript_status": "ok",
    "wait_checks": 4
   },
+  "0xfOZ6_Vqr8": {
+   "article_url": "https://yu8117-art.github.io/tube-digest/a/0xfOZ6_Vqr8.html",
+   "done_at": "2026-10-10T07:43:05+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-10T07:40:43+00:00",
+   "published": "2026-10-10T01:59:38+00:00",
+   "status": "done",
+   "transcript_status": "blocked:RequestBlocked+gemini",
+   "wait_checks": 0
+  },
   "11gs1nyMBPo": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-09-24T00:15:10+00:00",
@@ -1799,19 +1809,13 @@
    "status": "baseline"
   },
   "a_lwVYd8BP4": {
+   "article_url": "https://yu8117-art.github.io/tube-digest/a/a_lwVYd8BP4.html",
+   "done_at": "2026-10-10T07:46:45+00:00",
    "errors": 0,
    "first_seen": "2026-10-10T07:00:09+00:00",
    "published": "2026-10-10T06:00:32+00:00",
-   "status": "pending",
-   "transcript_status": "blocked:RequestBlocked+gemini_failed",
-   "video": {
-    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
-    "channel_name": "안될과학 Unrealscience",
-    "description": "우리가 알고 있던 피타고라스와 피타고라스의 정리, 정말 우리가 배운 그대로일까요?\n피타고라스는 정말 수학자였을까요?\n피타고라스의 정리는 정말 피타고라스가 처음 발견했을까요?\n그리고 그는 어떻게 수학의 전설이 되었을까요?\n이번 영상에서는 고대 그리스의 피타고라스와 그의 학파, 그리고 후대에 만들어진 피타고라스의 이미지를 따라가며 ‘수학의 전설’이 만들어진 과정을 살펴봅니다.\n우리가 교과서에서 배운 과학과 수학의 역사는 어디까지 진짜일까요?\n\n#피타고라스 #피타고라스의정리 #수학사 #과학사 #고대그리스 #수학 #안될과학 #최정모 #항성\n\n◆ Thanks to \nEditor : 박수빈\nGuest : 부산대학교 화학과 최정모 교수\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science \n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience\n\n◆ 안될과학 문의\nE-MAIL : MoreScience2018@gmail.com",
-    "published": "2026-10-10T06:00:32+00:00",
-    "title": "수학의 전설이 된 피타고라스, 진짜 모습은?",
-    "video_id": "a_lwVYd8BP4"
-   },
+   "status": "done",
+   "transcript_status": "blocked:RequestBlocked+gemini",
    "wait_checks": 1
   },
   "aivOcLG9-6o": {
