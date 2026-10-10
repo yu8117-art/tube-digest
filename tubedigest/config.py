@@ -54,6 +54,11 @@ class Config:
     wait_until_live_sec: int = 180
     notify_provider: str = "none"
     ntfy_server: str = "https://ntfy.sh"
+    analysis_provider: str = "none"
+    analysis_model: str = "gemini-3.8-flash"
+    analysis_segment_minutes: int = 30
+    analysis_pause_sec: int = 60
+    analysis_wait_hours: float = 24
 
     @property
     def secrets(self) -> dict[str, str]:
@@ -78,7 +83,7 @@ def save_channels(channels: list[Channel]) -> None:
 def load_config() -> Config:
     load_dotenv()
     raw = yaml.safe_load(CONFIG_PATH.read_text(encoding="utf-8")) or {}
-    opt, cl, site, nt = (raw.get(k) or {} for k in ("options", "claude", "site", "notify"))
+    opt, cl, site, nt, va = (raw.get(k) or {} for k in ("options", "claude", "site", "notify", "video_analysis"))
     return Config(
         channels=load_channels(),
         skip_shorts=opt.get("skip_shorts", True),
@@ -94,4 +99,9 @@ def load_config() -> Config:
         wait_until_live_sec=int(site.get("wait_until_live_sec", 180)),
         notify_provider=nt.get("provider", "none"),
         ntfy_server=(nt.get("ntfy_server") or "https://ntfy.sh").rstrip("/"),
+        analysis_provider=va.get("provider", "none"),
+        analysis_model=va.get("model", "gemini-3.8-flash"),
+        analysis_segment_minutes=int(va.get("segment_minutes", 30)),
+        analysis_pause_sec=int(va.get("pause_sec", 60)),
+        analysis_wait_hours=float(va.get("wait_hours", 24)),
     )

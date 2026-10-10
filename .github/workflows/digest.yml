@@ -1,7 +1,7 @@
 # 옵션 B: PC를 켜 두지 않고 GitHub Actions에서 돌리는 방식.
 # 준비: Settings → Pages → Source = "GitHub Actions", Settings → Secrets에 아래 env 값 등록,
 #       config.yaml의 site.git_push: true (상태 파일을 커밋해야 다음 실행이 이어서 동작함)
-# 주의: 유튜브가 클라우드 IP의 자막 요청을 막는 경우가 있다. 로그에 "자막 요청이 차단됨"이 반복되면 옵션 A(로컬 PC)로 돌릴 것.
+# 주의: 유튜브가 클라우드 IP의 자막 요청을 막는다(실측). 그래서 자막 대신 Gemini가 영상을 직접 분석한다 → Secrets에 GEMINI_API_KEY 등록.
 name: tube-digest
 
 on:
@@ -21,7 +21,7 @@ concurrency:
 jobs:
   digest:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60   # 긴 영상은 Gemini 구간 분석 사이에 대기 시간이 있다
     environment: github-pages
     steps:
       - uses: actions/checkout@v4
@@ -39,6 +39,7 @@ jobs:
         run: python -m tubedigest run --no-notify
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       # 새 기사가 있을 때, 또는 Actions 탭에서 수동 실행했을 때(첫 설정 등) 배포
       - name: Pages 아티팩트 업로드

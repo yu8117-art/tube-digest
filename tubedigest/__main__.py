@@ -82,7 +82,7 @@ def cmd_summarize(args) -> None:
     cfg = load_config()
     video = video_from_ref(args.url)
     print(f"요약 중: [{video.channel_name}] {video.title}")
-    article = pipeline.build_article(cfg, video, force=True)
+    article = pipeline.build_article(cfg, video, force=True, skip_captions=args.video_analysis)
     save_article(video.video_id, article)
     path = publisher.render_article(cfg, article)
     publisher.render_index(cfg)
@@ -155,6 +155,8 @@ def main() -> None:
     s = sub.add_parser("summarize", help="특정 영상 하나를 바로 요약")
     s.add_argument("url")
     s.add_argument("--publish", action="store_true", help="git push 및 알림까지 진행")
+    s.add_argument("--video-analysis", action="store_true",
+                   help="자막을 건너뛰고 Gemini 영상 분석으로 요약 (GitHub Actions 동작 재현·비교용)")
     s.set_defaults(func=cmd_summarize)
     sub.add_parser("rebuild", help="템플릿 수정 후 모든 기사 HTML 재생성").set_defaults(func=cmd_rebuild)
     sub.add_parser("preview", help="샘플 기사로 디자인 미리보기").set_defaults(func=cmd_preview)

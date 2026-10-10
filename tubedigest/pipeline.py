@@ -8,7 +8,7 @@ from datetime import datetime, timezone
 
 import anthropic
 
-from . import publisher
+from . import publisher, video_analysis
 from .config import Config
 from .notifier import NotifyError, notify
 from .state import (BASELINE, DONE, FAILED, PENDING, SKIPPED_SHORT, State,
@@ -56,33 +56,60 @@ def discover(cfg: Config, state: State) -> int:
     return added
 
 
-def build_article(cfg: Config, video: Video, force: bool = False, rec: dict | None = None) -> dict | None:
-    """자막이 아직 없고 대기 시간이 남았으면 None(다음 회차에 재시도). force면 기다리지 않는다.
+def build_article(cfg: Config, video: Video, force: bool = False, rec: dict | None = None,
+                  skip_captions: bool = False) -> dict | None:
+    """요약 재료(자막 또는 영상 분석 노트)를 모아 기사를 만든다. 재료를 기다려야 하면 None(다음 회차에 재시도).
 
-    자막 요청이 차단된 경우(GitHub Actions 등 클라우드 IP)는 기다려도 소용없으므로 바로 자막 없이 요약한다.
-    rec를 주면 자막 상태(ok / missing / blocked:원인)를 기록해 상태 파일에서 원인을 볼 수 있게 한다.
+    1. 유튜브 자막을 받는다. 아직 생성 전이면 transcript_wait_hours까지 기다린다.
+    2. 자막이 차단됐거나(GitHub Actions 등 클라우드 IP) 끝내 없으면 Gemini가 영상을 직접 보고 노트를 만든다.
+       분석이 실패하면(무료 한도 초과 등) analysis_wait_hours까지 다음 회차에 다시 시도한다.
+    3. 그래도 재료가 없으면 제목·설명란·썸네일만으로 요약한다.
+    force면 기다리지 않는다. skip_captions면 자막을 건너뛰고 바로 영상 분석으로 간다(시험·비교용).
+    rec를 주면 상태(ok / missing / blocked:원인, +gemini 등)를 기록한다.
     """
     status = "ok"
     try:
-        tr = fetch_transcript(video.video_id, cfg.transcript_languages)
-        if tr is None:
+        tr = None if skip_captions else fetch_transcript(video.video_id, cfg.transcript_languages)
+        if skip_captions:
+            status = "skipped"
+        elif tr is None:
             status = "missing"
     except TranscriptBlocked as e:
-        log.warning("자막 요청이 차단됨 → 자막 없이 요약: %s", e)
+        log.warning("자막 요청이 차단됨: %s", e)
         tr, status = None, f"blocked:{str(e).split(':')[0]}"
     if rec is not None:
         rec["transcript_status"] = status
     if status == "missing" and not force and _age_hours(video.published) < cfg.transcript_wait_hours:
         return None
 
+    if tr is None and video_analysis.available(cfg):
+        try:
+            tr = video_analysis.analyze_video(cfg, video)
+            status += "+gemini"
+        except Exception as e:
+            log.warning("영상 분석 실패: %s: %s", type(e).__name__, str(e)[:300])
+            status += "+gemini_failed"
+            if rec is not None:
+                rec["transcript_status"] = status
+            if not force and _age_hours(video.published) < cfg.analysis_wait_hours:
+                return None
+        if rec is not None:
+            rec["transcript_status"] = status
+
     thumb = thumbnail_url(video.video_id)
     summary = summarize(cfg, video, thumb, tr)
+    if tr is None:
+        source = "none"
+    elif tr.kind == "gemini":
+        source = "gemini"
+    else:
+        source = "generated" if tr.is_generated else "manual"
     return {
         "video": {**asdict(video), "url": video.url},
         "thumbnail": thumb,
         "thumbnail_small": f"https://i.ytimg.com/vi/{video.video_id}/mqdefault.jpg",
         "transcript": {
-            "source": "none" if tr is None else ("generated" if tr.is_generated else "manual"),
+            "source": source,
             "language": tr.language if tr else None,
             "duration": int(tr.duration) if tr else 0,
         },

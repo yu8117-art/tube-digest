@@ -37,6 +37,16 @@ copy .env.example .env
    ```
 4. `.\td test-notify`를 실행해 폰에 알림이 오는지 확인한다.
 
+## 2-1. 영상 분석 키 (Gemini, 무료)
+
+GitHub Actions에서는 유튜브가 자막 요청을 막는다. 그때 Gemini가 영상을 직접 보고 시간대별 노트를 만들어, 자막이 있을 때와 같은 프롬프트로 요약한다.
+
+1. https://aistudio.google.com/apikey 에서 API 키를 만든다 (구글 계정만 있으면 무료).
+2. `.env`의 `GEMINI_API_KEY`와 GitHub 저장소 **Settings → Secrets and variables → Actions**의 `GEMINI_API_KEY`에 넣는다.
+3. 시험: `.\td summarize "영상URL" --video-analysis` (자막을 일부러 건너뛰고 영상 분석으로 요약)
+
+키가 없으면 이 기능은 꺼지고, 자막이 막힌 영상은 제목·설명란·썸네일만으로 요약된다.
+
 ntfy를 쓰려면 `config.yaml`에서 `notify.provider: ntfy`로 바꾸고, `.env`의 `NTFY_TOPIC`에 긴 무작위 토픽 이름을 넣는다. 폰의 ntfy 앱에서 그 토픽을 구독하면 된다.
 
 ## 3. 기사 사이트 (GitHub Pages)

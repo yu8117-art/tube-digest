@@ -23,6 +23,7 @@
     {% if a.transcript.duration %}<span>약 {{ (a.transcript.duration / 60)|round|int }}분</span>{% endif %}
     {% if a.transcript.source == "none" %}<span class="badge warn">자막 없음 · 제목/설명 기반</span>
     {% elif a.transcript.source == "generated" %}<span class="badge">자동 자막 기반</span>
+    {% elif a.transcript.source == "gemini" %}<span class="badge">영상 분석 기반</span>
     {% else %}<span class="badge">자막 기반</span>{% endif %}
   </div>
 
@@ -71,7 +72,7 @@
   <a class="cta" href="{{ v.url }}">▶ 유튜브에서 전체 영상 보기</a>
   <p class="foot">
     원본: <a href="{{ v.url }}">{{ v.url }}</a><br>
-    이 기사는 썸네일과 {{ "자막" if a.transcript.source != "none" else "영상 정보" }}을 바탕으로 AI가 요약한 것이라 원본과 다를 수 있다.
+    이 기사는 썸네일과 {{ {"none": "영상 정보", "gemini": "AI 영상 분석"}.get(a.transcript.source, "자막") }}을 바탕으로 AI가 요약한 것이라 원본과 다를 수 있다.
     타임스탬프를 누르면 해당 시점부터 재생된다.
   </p>
 </article>

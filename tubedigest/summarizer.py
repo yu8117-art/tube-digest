@@ -77,7 +77,10 @@ def _thumbnail_block(url: str) -> dict | None:
 
 def build_user_text(video: Video, transcript: Transcript | None) -> str:
     if transcript:
-        kind = "자동 생성 자막" if transcript.is_generated else "업로드된 자막"
+        if transcript.kind == "gemini":
+            kind = "영상 분석 노트 (자막을 받을 수 없어 AI가 영상을 직접 보고 시간대별로 기록한 것. 자막처럼 그대로 근거로 쓴다)"
+        else:
+            kind = "자동 생성 자막" if transcript.is_generated else "업로드된 자막"
         body = (f"<transcript lang=\"{transcript.language}\" kind=\"{kind}\" "
                 f"length=\"{fmt_ts(transcript.duration)}\">\n{transcript.as_prompt_text()}\n</transcript>")
     else:

@@ -47,6 +47,7 @@ class Transcript:
     language: str
     is_generated: bool
     lines: list[tuple[float, str]] = field(default_factory=list)  # (시작초, 텍스트)
+    kind: str = "caption"  # caption: 유튜브 자막 / gemini: 자막 대신 영상을 직접 보고 만든 노트
 
     def as_prompt_text(self, bucket_sec: int = 20) -> str:
         """자막 조각을 bucket_sec 단위로 묶어 '[mm:ss] 텍스트' 줄로 만든다 (토큰 절약)."""
@@ -150,6 +151,16 @@ def video_from_ref(ref: str, timeout: int = 20) -> Video:
     from datetime import datetime, timezone
     return Video(vid, cid, meta["author_name"], meta["title"],
                  datetime.now(timezone.utc).isoformat(timespec="seconds"))
+
+
+def video_duration(video_id: str, timeout: int = 20) -> int | None:
+    """영상 길이(초). RSS에는 길이가 없어서 watch 페이지에서 읽는다. 실패하면 None."""
+    try:
+        page = requests.get(f"https://www.youtube.com/watch?v={video_id}", headers=UA, timeout=timeout).text
+    except requests.RequestException:
+        return None
+    m = re.search(r'"lengthSeconds":"(\d+)"', page)
+    return int(m.group(1)) if m else None
 
 
 def is_short(video_id: str, timeout: int = 10) -> bool:
