@@ -2017,6 +2017,21 @@
    "published": "2026-10-08T07:19:19+00:00",
    "status": "baseline"
   },
+  "gd_0FkCnAFg": {
+   "errors": 0,
+   "first_seen": "2026-10-10T00:37:10+00:00",
+   "published": "2026-10-10T00:30:39+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n엔비디아 지금 안 팔고 버티면 장기적으로 '이렇게' 될 겁니다\n\n☞촬영일: 26년 10월 7일",
+    "published": "2026-10-10T00:30:39+00:00",
+    "title": "엔비디아 지금 안 팔고 버티면 장기적으로 '이렇게' 될 겁니다 [정주용 의장]",
+    "video_id": "gd_0FkCnAFg"
+   },
+   "wait_checks": 0
+  },
   "gwi16U85X5U": {
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-08-30T02:00:34+00:00",
@@ -2692,7 +2707,7 @@
     "title": "전세가 사라지는 자리에, 월세와 영끌과 14평이 들어선다!",
     "video_id": "uc4tG9swVLc"
    },
-   "wait_checks": 6
+   "wait_checks": 7
   },
   "uvDniF5al8E": {
    "first_seen": "2026-10-09T08:14:35+00:00",
