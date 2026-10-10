@@ -2709,6 +2709,7 @@
    "done_at": "2026-10-10T02:01:24+00:00",
    "errors": 0,
    "first_seen": "2026-10-09T22:54:36+00:00",
+   "notified": "2026-10-10T02:01:37+00:00",
    "published": "2026-10-09T22:49:13+00:00",
    "status": "done",
    "transcript_status": "blocked:RequestBlocked+gemini",
