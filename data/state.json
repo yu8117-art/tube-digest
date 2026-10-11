@@ -2023,6 +2023,7 @@
    "done_at": "2026-10-11T05:35:15+00:00",
    "errors": 0,
    "first_seen": "2026-10-11T05:23:30+00:00",
+   "notified": "2026-10-11T05:35:25+00:00",
    "published": "2026-10-10T11:47:56+00:00",
    "status": "done",
    "transcript_status": "blocked:RequestBlocked+gemini",
