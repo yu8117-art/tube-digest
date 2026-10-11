@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 import os
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from pathlib import Path
 
 import yaml
@@ -42,23 +42,15 @@ class Channel:
 class Config:
     channels: list[Channel]
     skip_shorts: bool = True
-    transcript_languages: list[str] = field(default_factory=lambda: ["ko", "en"])
-    transcript_wait_hours: float = 6
     max_videos_per_run: int = 5
     backfill_on_first_run: int = 0
-    model: str = "claude-opus-5-5"
-    effort: str = "medium"
-    base_url: str = ""
-    output_dir: Path = ROOT / "docs"
     git_push: bool = False
-    wait_until_live_sec: int = 180
+    gemini_model: str = "gemini-3.8-flash"
+    gemini_segment_minutes: int = 30
+    gemini_pause_sec: int = 60
+    gemini_wait_hours: float = 24
     notify_provider: str = "none"
     ntfy_server: str = "https://ntfy.sh"
-    analysis_provider: str = "none"
-    analysis_model: str = "gemini-3.8-flash"
-    analysis_segment_minutes: int = 30
-    analysis_pause_sec: int = 60
-    analysis_wait_hours: float = 24
 
     @property
     def secrets(self) -> dict[str, str]:
@@ -83,25 +75,17 @@ def save_channels(channels: list[Channel]) -> None:
 def load_config() -> Config:
     load_dotenv()
     raw = yaml.safe_load(CONFIG_PATH.read_text(encoding="utf-8")) or {}
-    opt, cl, site, nt, va = (raw.get(k) or {} for k in ("options", "claude", "site", "notify", "video_analysis"))
+    opt, gm, nt = (raw.get(k) or {} for k in ("options", "gemini", "notify"))
     return Config(
         channels=load_channels(),
         skip_shorts=opt.get("skip_shorts", True),
-        transcript_languages=opt.get("transcript_languages", ["ko", "en"]),
-        transcript_wait_hours=float(opt.get("transcript_wait_hours", 6)),
         max_videos_per_run=int(opt.get("max_videos_per_run", 5)),
         backfill_on_first_run=int(opt.get("backfill_on_first_run", 0)),
-        model=cl.get("model", "claude-opus-5-5"),
-        effort=cl.get("effort", "medium"),
-        base_url=(site.get("base_url") or "").rstrip("/"),
-        output_dir=ROOT / site.get("output_dir", "docs"),
-        git_push=bool(site.get("git_push", False)),
-        wait_until_live_sec=int(site.get("wait_until_live_sec", 180)),
+        git_push=bool(opt.get("git_push", False)),
+        gemini_model=gm.get("model", "gemini-3.8-flash"),
+        gemini_segment_minutes=int(gm.get("segment_minutes", 30)),
+        gemini_pause_sec=int(gm.get("pause_sec", 60)),
+        gemini_wait_hours=float(gm.get("wait_hours", 24)),
         notify_provider=nt.get("provider", "none"),
         ntfy_server=(nt.get("ntfy_server") or "https://ntfy.sh").rstrip("/"),
-        analysis_provider=va.get("provider", "none"),
-        analysis_model=va.get("model", "gemini-3.8-flash"),
-        analysis_segment_minutes=int(va.get("segment_minutes", 30)),
-        analysis_pause_sec=int(va.get("pause_sec", 60)),
-        analysis_wait_hours=float(va.get("wait_hours", 24)),
     )

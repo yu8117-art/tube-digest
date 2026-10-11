@@ -4,6 +4,5 @@ __pycache__/
 .env.*
 !.env.example
 logs/
-preview/
 data/run.lock
 data/state.tmp

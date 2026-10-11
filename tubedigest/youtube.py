@@ -1,23 +1,13 @@
-"""유튜브 쪽 입력 수집: 채널 RSS, 채널 ID 해석, 쇼츠 판별, 썸네일, 자막."""
+"""유튜브 쪽 입력 수집: 채널 RSS, 채널 ID 해석, 쇼츠 판별, 썸네일, 영상 길이."""
 from __future__ import annotations
 
 import html
 import re
 import time
 import xml.etree.ElementTree as ET
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 
 import requests
-from youtube_transcript_api import (
-    CouldNotRetrieveTranscript,
-    PoTokenRequired,
-    RequestBlocked,
-    YouTubeRequestFailed,
-    YouTubeTranscriptApi,
-)
-
-# 자막이 '없는' 게 아니라 '못 받는' 경우. 주로 클라우드 IP(GitHub Actions 등)에서 생긴다. IpBlocked는 RequestBlocked의 하위 클래스.
-BLOCKED_ERRORS = (RequestBlocked, PoTokenRequired, YouTubeRequestFailed)
 
 RSS_URL = "https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
 UA = {"User-Agent": "Mozilla/5.0 (tube-digest)", "Accept-Language": "ko-KR,ko;q=0.9"}
@@ -40,36 +30,6 @@ class Video:
     @property
     def url(self) -> str:
         return f"https://www.youtube.com/watch?v={self.video_id}"
-
-
-@dataclass
-class Transcript:
-    language: str
-    is_generated: bool
-    lines: list[tuple[float, str]] = field(default_factory=list)  # (시작초, 텍스트)
-    kind: str = "caption"  # caption: 유튜브 자막 / gemini: 자막 대신 영상을 직접 보고 만든 노트
-
-    def as_prompt_text(self, bucket_sec: int = 20) -> str:
-        """자막 조각을 bucket_sec 단위로 묶어 '[mm:ss] 텍스트' 줄로 만든다 (토큰 절약)."""
-        out, cur_start, cur = [], None, []
-        for start, text in self.lines:
-            if cur_start is None:
-                cur_start = start
-            if start - cur_start >= bucket_sec and cur:
-                out.append(f"[{fmt_ts(cur_start)}] {' '.join(cur)}")
-                cur_start, cur = start, []
-            cur.append(text.replace("\n", " ").strip())
-        if cur:
-            out.append(f"[{fmt_ts(cur_start)}] {' '.join(cur)}")
-        return "\n".join(out)
-
-    @property
-    def duration(self) -> float:
-        return self.lines[-1][0] if self.lines else 0.0
-
-
-class TranscriptBlocked(Exception):
-    """유튜브가 현재 IP의 자막 요청을 차단함 (주로 클라우드 IP)."""
 
 
 def fmt_ts(sec: float) -> str:
@@ -184,27 +144,3 @@ def thumbnail_url(video_id: str, timeout: int = 10) -> str:
         except requests.RequestException:
             pass
     return f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg"
-
-
-def fetch_transcript(video_id: str, languages: list[str]) -> Transcript | None:
-    """수동 자막 → 자동 생성 자막 순으로 찾는다. 자막이 (아직) 없으면 None.
-
-    업로드 직후에는 자동 자막이 생성되지 않았을 수 있으므로 None은 '나중에 재시도'를 뜻한다.
-    """
-    api = YouTubeTranscriptApi()
-    try:
-        tl = api.list(video_id)
-        try:
-            t = tl.find_manually_created_transcript(languages)
-        except CouldNotRetrieveTranscript:
-            t = tl.find_generated_transcript(languages)
-        fetched = t.fetch()
-    except BLOCKED_ERRORS as e:
-        raise TranscriptBlocked(f"{type(e).__name__}: {str(e).strip().splitlines()[0]}") from e
-    except CouldNotRetrieveTranscript:
-        return None
-    return Transcript(
-        language=t.language_code,
-        is_generated=t.is_generated,
-        lines=[(s.start, s.text) for s in fetched],
-    )

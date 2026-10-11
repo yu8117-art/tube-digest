@@ -4,22 +4,25 @@ from __future__ import annotations
 import argparse
 import json
 import logging
-import os
 import subprocess
 import sys
 from logging.handlers import RotatingFileHandler
 from pathlib import Path
 
 # 시스템 python으로 실행돼도 프로젝트 가상환경(.venv)의 python으로 다시 실행한다.
-# 아래 import들이 가상환경에만 설치된 패키지(anthropic 등)를 쓰므로 그 전에 처리해야 한다.
+# 아래 import들이 가상환경에만 설치된 패키지(google-genai 등)를 쓰므로 그 전에 처리해야 한다.
 _VENV_PY = Path(__file__).resolve().parent.parent / ".venv" / "Scripts" / "python.exe"
 if _VENV_PY.exists() and Path(sys.prefix).resolve() != _VENV_PY.parents[1].resolve():
     sys.exit(subprocess.run([str(_VENV_PY), "-m", "tubedigest", *sys.argv[1:]],
                             cwd=_VENV_PY.parents[2]).returncode)
 
-from . import pipeline, publisher
+import html
+import re
+
+from . import pipeline
 from .config import ROOT, Channel, load_channels, load_config, save_channels
-from .notifier import notify, telegram_chat_ids
+from .gitsync import git_publish
+from .notifier import notify, telegram_chat_ids, telegram_messages
 from .state import DONE, RunLock, State, load_all_articles, now_iso, save_article
 from .youtube import resolve_channel_id, video_from_ref
 
@@ -41,10 +44,7 @@ def setup_logging() -> None:
 
 def cmd_run(args) -> None:
     with RunLock():
-        published = pipeline.run(load_config(), dry_run=args.dry_run, do_notify=not args.no_notify)
-    if out := os.environ.get("GITHUB_OUTPUT"):  # Actions에서 새 기사가 있을 때만 Pages 배포하도록
-        with open(out, "a", encoding="utf-8") as f:
-            f.write(f"published={len(published)}\n")
+        pipeline.run(load_config(), dry_run=args.dry_run, do_notify=not args.no_notify)
 
 
 def cmd_notify(args) -> None:
@@ -78,49 +78,31 @@ def cmd_list(args) -> None:
 
 
 def cmd_summarize(args) -> None:
-    """특정 영상 하나를 즉시 요약·발행 (테스트용, 자막 대기 없음)."""
+    """특정 영상 하나를 바로 요약해 화면에 보여준다. --send면 텔레그램으로 보내고 처리 기록에 남긴다."""
     cfg = load_config()
     video = video_from_ref(args.url)
     print(f"요약 중: [{video.channel_name}] {video.title}")
-    article = pipeline.build_article(cfg, video, force=True, skip_captions=args.video_analysis)
+    article = pipeline.build_article(cfg, video, force=True)
+    for msg in telegram_messages(article):  # 텔레그램에 보일 내용을 태그 없이 출력
+        print(html.unescape(re.sub(r"<[^>]+>", "", msg)), end="\n\n")
+    if not args.send:
+        return
     save_article(video.video_id, article)
-    path = publisher.render_article(cfg, article)
-    publisher.render_index(cfg)
-    url = publisher.article_url(cfg, video.video_id)
+    notify(cfg, article)
     state = State.load()
     state.videos[video.video_id] = {"status": DONE, "published": video.published, "first_seen": now_iso(),
-                                    "done_at": now_iso(), "article_url": url, "notified": None}
+                                    "done_at": now_iso(), "source": article["source"], "notified": now_iso()}
     state.save()
-    print(f"생성: {path}")
-    if args.publish:
-        if cfg.git_push:
-            publisher.git_publish(f"digest: 수동 요약 {video.video_id}")
-        pipeline.notify_pending(cfg, state)
-
-
-def cmd_rebuild(args) -> None:
-    n = publisher.rebuild_all(load_config())
-    print(f"기사 {n}건 + 목록 페이지 재생성")
-
-
-def cmd_preview(args) -> None:
-    """샘플 기사로 디자인 미리보기 (preview/ 폴더, 배포 대상 아님)."""
-    cfg = load_config()
-    cfg.output_dir = ROOT / "preview"
-    sample = json.loads((ROOT / "fixtures" / "sample_article.json").read_text(encoding="utf-8"))
-    path = publisher.render_article(cfg, sample)
-    out = cfg.output_dir / "index.html"
-    out.write_text(publisher._env.get_template("index.html.j2").render(
-        articles=[sample], updated=now_iso()), encoding="utf-8")
-    print(f"미리보기: {path}\n목록: {out}")
+    if cfg.git_push:
+        git_publish(f"digest: 수동 요약 {video.video_id}")
+    print(f"전송 완료 ({cfg.notify_provider})")
 
 
 def cmd_test_notify(args) -> None:
     cfg = load_config()
     arts = load_all_articles()
     art = arts[0] if arts else json.loads((ROOT / "fixtures" / "sample_article.json").read_text(encoding="utf-8"))
-    url = publisher.article_url(cfg, art["video"]["video_id"]) if cfg.base_url else art["video"]["url"]
-    notify(cfg, art, url)
+    notify(cfg, art)
     print(f"테스트 알림 전송 ({cfg.notify_provider})")
 
 
@@ -138,11 +120,11 @@ def cmd_chat_id(args) -> None:
 
 def main() -> None:
     setup_logging()
-    p = argparse.ArgumentParser(prog="tubedigest", description="유튜브 새 영상 → 요약 기사 → 폰 알림")
+    p = argparse.ArgumentParser(prog="tubedigest", description="유튜브 새 영상 → Gemini 요약 → 텔레그램 알림")
     sub = p.add_subparsers(dest="cmd")
-    r = sub.add_parser("run", help="신규 영상 확인 후 요약·발행·알림 (스케줄러가 호출)")
-    r.add_argument("--dry-run", action="store_true", help="git push와 알림을 생략")
-    r.add_argument("--no-notify", action="store_true", help="알림은 나중에 notify 명령으로 (Actions용)")
+    r = sub.add_parser("run", help="신규 영상 확인 후 요약·알림 (스케줄러가 호출)")
+    r.add_argument("--dry-run", action="store_true", help="알림과 git push를 생략")
+    r.add_argument("--no-notify", action="store_true", help="알림은 나중에 notify 명령으로")
     r.set_defaults(func=cmd_run)
     sub.add_parser("notify", help="아직 안 보낸 알림 전송").set_defaults(func=cmd_notify)
     a = sub.add_parser("add", help="채널 추가 (@핸들, 채널 URL, UC… ID)")
@@ -152,15 +134,11 @@ def main() -> None:
     rm.add_argument("channel_id")
     rm.set_defaults(func=cmd_remove)
     sub.add_parser("list", help="등록 채널 보기").set_defaults(func=cmd_list)
-    s = sub.add_parser("summarize", help="특정 영상 하나를 바로 요약")
+    s = sub.add_parser("summarize", help="특정 영상 하나를 바로 요약해 화면에 출력")
     s.add_argument("url")
-    s.add_argument("--publish", action="store_true", help="git push 및 알림까지 진행")
-    s.add_argument("--video-analysis", action="store_true",
-                   help="자막을 건너뛰고 Gemini 영상 분석으로 요약 (GitHub Actions 동작 재현·비교용)")
+    s.add_argument("--send", action="store_true", help="텔레그램으로도 보내고 처리 기록에 남긴다")
     s.set_defaults(func=cmd_summarize)
-    sub.add_parser("rebuild", help="템플릿 수정 후 모든 기사 HTML 재생성").set_defaults(func=cmd_rebuild)
-    sub.add_parser("preview", help="샘플 기사로 디자인 미리보기").set_defaults(func=cmd_preview)
-    sub.add_parser("test-notify", help="폰 알림 테스트").set_defaults(func=cmd_test_notify)
+    sub.add_parser("test-notify", help="폰 알림 테스트 (가장 최근 요약을 다시 보냄)").set_defaults(func=cmd_test_notify)
     sub.add_parser("telegram-chat-id", help="텔레그램 chat_id 확인").set_defaults(func=cmd_chat_id)
     args = p.parse_args()
     if not args.cmd:
