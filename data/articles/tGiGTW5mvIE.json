@@ -1,0 +1,89 @@
+{
+ "video": {
+  "video_id": "tGiGTW5mvIE",
+  "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+  "channel_name": "에스오디 SOD",
+  "title": "과학자들 미쳤네; 잠자리 날개에서 찾은 답, MS가 AI 반도체 한계를 뚫었다 ㄷㄷ",
+  "published": "2026-09-28T09:00:15+00:00",
+  "description": "잠자리 날개를 닮은 미세한 물길로 AI 반도체의 열을 식힌다? \n마이크로소프트와 TSMC의 냉각 혁신부터  한국 반도체에 열릴 새로운 기회를 짚어봅니다.\n\n- 하이젠버그에서 더 자세한 정보를 얻어가세요: https://heisenberg.kr\n\n- 인스타그램: https://www.instagram.com/softdragon__/\n\n- Chapter\n0:00 인트로\n1:01 자연은 답을 안다\n2:42 microfluidic cooling\n5:34 TSMC\n7:26 우리나라가 중요해지는 이유\n\n- 내용 출처\n1. Catherine Bolgar, \"AI chips are getting hotter. A microfluidics breakthrough goes straight to the silicon to cool up to three times better.\", Microsoft Source, 2025\n2. 붉은실, \"AI데이터센터 냉각 최대 수혜주가 반도체 기업인 이유\", 하이젠버그, 2026\n3. imec, \"Mitigating the thermal bottleneck in advanced interconnects\", imec, 2023\n4. NVIDIA, \"Inside the NVIDIA Rubin Platform: Six New Chips, One AI Supercomputer\", 2026\n5. Vertiv, \"Vertiv Strengthens Liquid-Cooling System Capability with Acquisition of Strategic Thermal Labs\", 2026\n6. Michael L. May, \"Dependence of flight behavior and heat production on air temperature in the green darner dragonfly Anax junius\", Journal of Experimental Biology, 1995\n7. 에스오디, 하나에 5천만원 엔비디아 초대형 서버 뜯어보니.. 하이닉스 대박 난 이유”, 2026\n8. StockStory, \"Why Vertiv (VRT) Shares Are Trading Lower Today\", 2025\n9. SK hynix, “SK hynix unveils ‘iHBM’ thermal solution to boost AI performance”, 2026\n10. Afzal Ahmad·TC·Gerald Wong·Dylan Patel, \"ECTC 2026: EMIB-T, HBM4 Challenges, Microfluidic Cooling, Photonic Interconnects\", SemiAnalysis, 2026\n11. Sangjin Ryu et al, “Insect wing circulation: transient perfusion through a microfluidic dragonfly forewing model†”, Lab on a Chip, 2025 (doi.org/10.1039/d4lc00714j)\n\n- BGM\n1. rutal Force by Randy Sharp\n2. Hidden Worlds - Creative Cut - Orchestra by Angelika Conrad\n3. 팝, 96 BPM]March of the Bold by BalloonPlanet\n4. A Tender Heart by The David Roy Collective\n5. Above the Clouds by Jamie Wright",
+  "url": "https://www.youtube.com/watch?v=tGiGTW5mvIE"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/tGiGTW5mvIE/maxresdefault.jpg",
+ "source": "video",
+ "duration": null,
+ "summary": {
+  "headline": "잠자리 날개 모사한 직랭각 기술, AI 반도체 발열 문제 끝낸다",
+  "thumbnail_text": "“저거 잠자리 아님?” 반도체 업계 난리난 이유 / 마이크로소프트 CEO",
+  "thumbnail_answer": "마이크로소프트가 잠자리 날개와 나뭇잎 맥 구조를 모사한 미세유체(microfluidic) 냉각 기술을 실리콘 칩에 직접 적용해 기존 방식보다 최대 3배 높은 냉각 성능을 달성했기 때문이다.",
+  "conclusion": "AI 반도체 전력 소모 폭증으로 인해 기존 공랭 및 단순 콜드플레이트 방식은 물리적 한계에 봉착했다. 실리콘 뒷면에 미세 채널을 깎아 냉각수를 직접 순환시키는 마이크로플루이딕 냉각이 차세대 표준으로 급부상했다. 앞으로의 반도체 경쟁은 패키징 초기 설계부터 냉각 구조를 함께 결합하는 종합 기술력에서 갈린다.",
+  "key_points": [
+   "엔비디아 블랙웰 등 차세대 AI 가속기는 막대한 전력 소모로 인해 공랭식 냉각이 완전히 불가능해졌다.",
+   "마이크로소프트는 잠자리 날개망과 잎맥 구조를 모방한 바이오 인스파이어드 디자인으로 실리콘에 미세 물길을 형성했다.",
+   "해당 미세유체 냉각 기술 적용 결과 GPU 최대 온도 상승폭이 65% 감소했다.",
+   "누수 방지를 위해 특수 누수 방지 패키징(leak-proof package)을 개발하고 결로 현상을 막기 위해 20~30도 냉각수를 운용한다.",
+   "TSMC는 마이크로필러 구조의 온칩 액체 냉각을 통해 열유속 냉각 성능을 3000W/cm² 수준까지 끌어올렸다.",
+   "반도체 칩 내부 절연체 층에서 발생하는 열저항이 전체의 86%를 차지해 설계 초기 단계부터 방열 경로를 짜야 한다.",
+   "SK하이닉스는 HBM 발열을 잡는 iHBM 구조를 공개하며 엔비디아·TSMC와의 협력 체제를 가속화하고 있다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "잠자리 날개와 닮은 마이크로소프트의 신형 반도체",
+    "points": [
+     "잠자리 날개 무늬를 닮은 미세 물길이 새겨진 반도체 실물 공개",
+     "자연 생체 구조 모방을 통한 발열 해소 아이디어 소개"
+    ]
+   },
+   {
+    "seconds": 61,
+    "title": "자연에서 답을 찾은 생체 모사 기술 사례",
+    "points": [
+     "과거 맘카페 밀웜의 스티로폼 분해 발견 사례와 스탠퍼드 연구 연결",
+     "잠자리 날개 내부의 미세유체 순환 네트워크 구조 설명",
+     "마이크로소프트의 바이오 인스파이어드 칩 냉각 설계 소개"
+    ]
+   },
+   {
+    "seconds": 162,
+    "title": "microfluidic 냉각의 원리와 발열 억제 효과",
+    "points": [
+     "ECTC 학회 주요 화두인 마이크로플루이딕 냉각 기술 분석",
+     "엔비디아 블랙웰 등 1kW급 이상 AI 가속기의 발열 한계",
+     "실리콘 뒷면 미세 가공을 통해 GPU 온도 상승폭 65% 저감 달성",
+     "누수 차단 패키징 구조와 결로 방지를 위한 냉각수 온도 제어 방식"
+    ]
+   },
+   {
+    "seconds": 334,
+    "title": "TSMC의 마이크로필러 직접 액체 냉각 연구",
+    "points": [
+     "실물 AI 가속기 크기(SoC 4개, HBM 8개) 패키지에 액랭 적용 시험",
+     "기존 콜드플레이트 한계(500W/cm²)를 뛰어넘어 최대 3000W/cm² 냉각 달성"
+    ]
+   },
+   {
+    "seconds": 446,
+    "title": "차세대 패키징 냉각과 한국 반도체의 기회",
+    "points": [
+     "반도체 내부 절연체 층의 열저항 병목(86%) 극복을 위한 설계 혁신 필요",
+     "SK하이닉스의 방열 특화 iHBM 구조 및 엔비디아 맞춤형 냉각 협력",
+     "수직계열화(삼성전자)와 파트너십 공동 설계(SK하이닉스)의 경쟁 구도"
+    ]
+   }
+  ],
+  "tags": [
+   "AI반도체",
+   "마이크로플루이딕",
+   "수냉쿨러",
+   "마이크로소프트",
+   "TSMC",
+   "SK하이닉스"
+  ],
+  "_usage": {
+   "model": "gemini-3.8-flash",
+   "input_tokens": 63743,
+   "output_tokens": 1199
+  }
+ },
+ "created_at": "2026-10-11T07:33:45+00:00"
+}
