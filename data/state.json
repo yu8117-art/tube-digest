@@ -327,9 +327,10 @@
    "status": "baseline"
   },
   "2hUkTmwYm3A": {
-   "errors": 0,
+   "errors": 1,
    "first_seen": "2026-10-11T07:31:22+00:00",
-   "last_error": "InternalServerError: Error code: 503 - {'error': {'message': 'gemini-3.8-flash is currently experiencing high demand, spikes in demand are usually temporary. Please try again later.', 'code': 'service_unavailable'}}",
+   "last_attempt": "2026-10-12T05:17:38+00:00",
+   "last_error": "GeminiError: 응답 없음 (10분 초과)",
    "published": "2026-10-10T07:59:34+00:00",
    "status": "pending",
    "video": {
