@@ -1,0 +1,40 @@
+{
+ "video": {
+  "video_id": "HjcpzuItea4",
+  "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+  "channel_name": "새벽의 축구 전문가",
+  "title": "이강인 벤치!! 알라베스 : AT마드리드 / 멸망전!! 맨유 : 토트넘",
+  "published": "2026-10-10T20:05:46+00:00",
+  "description": "#이강인 #AT마드리드 #국가대표",
+  "url": "https://www.youtube.com/watch?v=HjcpzuItea4"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/HjcpzuItea4/sddefault.jpg",
+ "source": "metadata",
+ "duration": null,
+ "summary": {
+  "headline": "이강인 AT 마드리드 이적설 및 주말 빅매치 분석",
+  "thumbnail_text": "ATLETICO DE MADRID 이강인",
+  "thumbnail_answer": "영상이 직접 답하지 않고 이강인의 아틀레티코 마드리드 이적설 관련 상황을 다룬다.",
+  "conclusion": "영상 내용을 직접 시청하지 못해 제목, 설명란, 썸네일 정보만을 바탕으로 요약했다.",
+  "key_points": [
+   "이강인의 아틀레티코 마드리드 이적설 관련 내용이 포함되어 있다.",
+   "알라베스 대 AT 마드리드 경기를 다룬다.",
+   "맨유 대 토트넘 경기를 다룬다.",
+   "주말 주요 축구 경기의 흐름을 분석한다."
+  ],
+  "timeline": [],
+  "tags": [
+   "이강인",
+   "AT마드리드",
+   "토트넘",
+   "맨유",
+   "축구분석"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 1706,
+   "output_tokens": 246
+  }
+ },
+ "created_at": "2026-10-12T06:16:40+00:00"
+}
