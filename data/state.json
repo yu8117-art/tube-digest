@@ -747,6 +747,17 @@
    "published": "2026-09-06T09:18:40+00:00",
    "status": "baseline"
   },
+  "9oH7GerVtgo": {
+   "done_at": "2026-10-12T08:46:28+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-12T08:45:56+00:00",
+   "last_attempt": "2026-10-12T08:46:00+00:00",
+   "notified": "2026-10-12T08:46:37+00:00",
+   "published": "2026-10-12T08:30:06+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "9pZ3Pr6yKd4": {
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-09-21T05:10:35+00:00",
@@ -1788,6 +1799,21 @@
    "published": "2026-07-26T08:00:35+00:00",
    "status": "baseline"
   },
+  "SG5RyRWFmJU": {
+   "errors": 0,
+   "first_seen": "2026-10-12T08:45:58+00:00",
+   "published": "2026-10-12T08:30:30+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n의결권 60%, 머스크가 황제인 회사, 록펠러도 이 정도는 못 누렸습니다\n\n☞촬영일: 26년 10월 7일",
+    "published": "2026-10-12T08:30:30+00:00",
+    "title": "의결권 60%, 머스크가 황제인 회사, 록펠러도 이 정도는 못 누렸습니다 [정주용 의장]",
+    "video_id": "SG5RyRWFmJU"
+   },
+   "wait_checks": 0
+  },
   "SHBRdSuJs3w": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-09-05T07:13:21+00:00",
@@ -2053,6 +2079,21 @@
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-09-16T10:00:27+00:00",
    "status": "baseline"
+  },
+  "WIlN9626wFE": {
+   "errors": 0,
+   "first_seen": "2026-10-12T08:45:54+00:00",
+   "published": "2026-10-12T08:36:13+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-10-12T08:36:13+00:00",
+    "title": "AT마드리드 : 맨유 - 이강인 선발 예상중! 어떻게 뛸까? / 맨시티의 리버풀전 압승! 공공의 적이 되는 맨시티?",
+    "video_id": "WIlN9626wFE"
+   },
+   "wait_checks": 0
   },
   "WmTcNn597FA": {
    "first_seen": "2026-10-09T08:14:30+00:00",
