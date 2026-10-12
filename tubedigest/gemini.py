@@ -121,6 +121,9 @@ def _create(cfg: Config, **kwargs):
     t.start()
     t.join(limit + 30)
     if t.is_alive():
+        # 멈춘 호출이 붙잡은 클라이언트를 계속 쓰면 다음 호출(작은 요청까지)도 멈춘다(Actions 실측). 새로 만든다.
+        global _client_instance
+        _client_instance = None
         raise GeminiError(f"응답 없음 ({cfg.gemini_call_timeout_minutes}분 초과)")
     if "err" in box:
         raise box["err"]

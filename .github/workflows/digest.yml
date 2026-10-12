@@ -1,5 +1,5 @@
 # GitHub Actions에서 15분마다: 새 영상 확인 → Gemini 요약 → 텔레그램 알림 → 처리 기록(data/) 커밋.
-# 준비: Settings → Secrets에 GEMINI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID 등록.
+# 준비: Settings → Secrets에 GEMINI_API_KEY, YOUTUBE_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID 등록.
 #       config.yaml의 options.git_push: true (기록을 커밋해야 다음 실행이 이어서 동작함)
 name: tube-digest
 
@@ -38,6 +38,7 @@ jobs:
         run: python -m tubedigest run
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}

@@ -8,6 +8,7 @@ GitHub Actions가 15분마다 돌리므로 PC를 켜 둘 필요가 없다. 구�
 | 이름 | 발급 |
 |---|---|
 | `GEMINI_API_KEY` | https://aistudio.google.com/apikey (무료) |
+| `YOUTUBE_API_KEY` | Google Cloud Console → API 및 서비스 → 라이브러리에서 **YouTube Data API v3** 사용 설정 → 사용자 인증 정보 → API 키 만들기 (무료). Gemini 키로는 안 된다 |
 | `TELEGRAM_BOT_TOKEN` | 텔레그램 **@BotFather**에게 `/newbot` |
 | `TELEGRAM_CHAT_ID` | 봇에게 `/start`를 보낸 뒤 `.\td telegram-chat-id` |
 

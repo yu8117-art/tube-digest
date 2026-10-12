@@ -1,7 +1,9 @@
-"""유튜브 쪽 입력 수집: 채널 RSS, 채널 ID 해석, 쇼츠 판별, 썸네일, 영상 길이."""
+"""유튜브 쪽 입력 수집: 새 영상 목록(공식 API 또는 RSS), 채널 ID 해석, 쇼츠 판별, 썸네일, 영상 길이."""
 from __future__ import annotations
 
 import html
+import logging
+import os
 import re
 import time
 import xml.etree.ElementTree as ET
@@ -9,7 +11,10 @@ from dataclasses import dataclass
 
 import requests
 
+log = logging.getLogger(__name__)
+
 RSS_URL = "https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
+API = "https://www.googleapis.com/youtube/v3"
 UA = {"User-Agent": "Mozilla/5.0 (tube-digest)", "Accept-Language": "ko-KR,ko;q=0.9"}
 NS = {
     "a": "http://www.w3.org/2005/Atom",
@@ -38,7 +43,53 @@ def fmt_ts(sec: float) -> str:
     return f"{h}:{m:02d}:{s:02d}" if h else f"{m:02d}:{s:02d}"
 
 
-def fetch_channel_videos(channel_id: str, timeout: int = 20, attempts: int = 4) -> list[Video]:
+def _api_key() -> str:
+    return os.environ.get("YOUTUBE_API_KEY", "")
+
+
+def _api_get(path: str, timeout: int = 20, **params) -> dict:
+    r = requests.get(f"{API}/{path}", params={**params, "key": _api_key()}, timeout=timeout)
+    if not r.ok:
+        raise RuntimeError(f"YouTube API {path} {r.status_code}: {r.text[:200]}")
+    return r.json()
+
+
+def _iso_duration(s: str) -> int | None:
+    """ISO 8601 기간(PT1H38M13S)을 초로. 라이브 중이면 P0D."""
+    m = re.fullmatch(r"P(?:(\d+)D)?(?:T(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?)?", s or "")
+    if not m:
+        return None
+    d, h, mi, sec = (int(x or 0) for x in m.groups())
+    return d * 86400 + h * 3600 + mi * 60 + sec or None
+
+
+def fetch_channel_videos(channel_id: str, timeout: int = 20) -> list[Video]:
+    """채널의 최근 영상 15개를 최신순으로 반환한다.
+
+    YOUTUBE_API_KEY가 있으면 공식 API(업로드 재생목록, 호출당 1단위)를 쓰고, 없거나 실패하면 RSS를 쓴다.
+    RSS는 2026-10-11부터 이틀 넘게 거의 모든 채널에 404/500을 주는 장애가 있었다(PC·Actions 모두 실측).
+    """
+    if _api_key():
+        try:
+            return _api_channel_videos(channel_id, timeout)
+        except (requests.RequestException, RuntimeError, ValueError) as e:
+            log.warning("YouTube API 실패, RSS로 대체: %s", e)
+    return _rss_channel_videos(channel_id, timeout)
+
+
+def _api_channel_videos(channel_id: str, timeout: int = 20) -> list[Video]:
+    data = _api_get("playlistItems", timeout, part="snippet,contentDetails", maxResults=15,
+                    playlistId="UU" + channel_id[2:])  # 채널의 '업로드' 재생목록 ID는 UC… → UU…
+    videos = []
+    for it in data.get("items", []):
+        sn, cd = it["snippet"], it["contentDetails"]
+        published = cd.get("videoPublishedAt") or sn.get("publishedAt", "")
+        videos.append(Video(cd["videoId"], channel_id, sn.get("channelTitle", ""), sn.get("title", ""),
+                            published.replace("Z", "+00:00"), sn.get("description", "")))
+    return sorted(videos, key=lambda v: v.published, reverse=True)
+
+
+def _rss_channel_videos(channel_id: str, timeout: int = 20, attempts: int = 4) -> list[Video]:
     """채널 RSS(최근 15개)를 최신순으로 반환. API 키 불필요.
 
     유튜브 RSS는 정상 채널에도 무작위로 404/5xx를 몰아서 돌려주고, 몇 시간씩 대부분의 채널에 404를 주는
@@ -118,15 +169,26 @@ class VideoInfo:
     duration: int | None = None       # 초. 알 수 없으면 None
     live_content: bool | None = None  # 라이브 방송(다시보기 포함)이면 True
     live_now: bool = False            # 지금 방송 중이거나 방송 예정
-    source: str = "none"              # 정보를 얻은 곳 (player / watch / none)
+    source: str = "none"              # 정보를 얻은 곳 (api / player / watch / none)
 
 
 def video_info(video_id: str, timeout: int = 20) -> VideoInfo:
     """영상 길이와 라이브 여부. RSS에는 없어서 유튜브 player API → watch 페이지 순으로 시도한다.
 
-    GitHub Actions(클라우드 IP)에서는 watch 페이지가 길이를 주지 않는다(실측). player API는 재생 불가
-    응답(UNPLAYABLE)이어도 videoDetails를 함께 돌려준다.
+    GitHub Actions(클라우드 IP)에서는 watch 페이지도 player API도 길이를 주지 않았다(실측). 그래서
+    YOUTUBE_API_KEY가 있으면 공식 API(videos.list, 호출당 1단위)를 먼저 쓴다.
     """
+    if _api_key():
+        try:
+            items = _api_get("videos", timeout, part="contentDetails,snippet,liveStreamingDetails",
+                             id=video_id).get("items", [])
+            if items:
+                it = items[0]
+                state = it["snippet"].get("liveBroadcastContent", "none")  # live / upcoming / none
+                return VideoInfo(_iso_duration(it["contentDetails"].get("duration", "")),
+                                 "liveStreamingDetails" in it, state in ("live", "upcoming"), "api")
+        except (requests.RequestException, RuntimeError, ValueError, KeyError) as e:
+            log.warning("YouTube API 영상 정보 실패: %s", e)
     try:
         r = requests.post(
             "https://www.youtube.com/youtubei/v1/player?prettyPrint=false", timeout=timeout,
