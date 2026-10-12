@@ -42,12 +42,16 @@ class Channel:
 class Config:
     channels: list[Channel]
     skip_shorts: bool = True
+    skip_live: bool = True
+    max_video_minutes: int = 180
     max_videos_per_run: int = 5
+    run_budget_minutes: int = 35
     backfill_on_first_run: int = 0
     git_push: bool = False
     gemini_model: str = "gemini-3.8-flash"
     gemini_segment_minutes: int = 30
     gemini_pause_sec: int = 60
+    gemini_call_timeout_minutes: int = 10
     gemini_wait_hours: float = 24
     notify_provider: str = "none"
     ntfy_server: str = "https://ntfy.sh"
@@ -79,12 +83,16 @@ def load_config() -> Config:
     return Config(
         channels=load_channels(),
         skip_shorts=opt.get("skip_shorts", True),
+        skip_live=opt.get("skip_live", True),
+        max_video_minutes=int(opt.get("max_video_minutes", 180)),
         max_videos_per_run=int(opt.get("max_videos_per_run", 5)),
+        run_budget_minutes=int(opt.get("run_budget_minutes", 35)),
         backfill_on_first_run=int(opt.get("backfill_on_first_run", 0)),
         git_push=bool(opt.get("git_push", False)),
         gemini_model=gm.get("model", "gemini-3.8-flash"),
         gemini_segment_minutes=int(gm.get("segment_minutes", 30)),
         gemini_pause_sec=int(gm.get("pause_sec", 60)),
+        gemini_call_timeout_minutes=int(gm.get("call_timeout_minutes", 10)),
         gemini_wait_hours=float(gm.get("wait_hours", 24)),
         notify_provider=nt.get("provider", "none"),
         ntfy_server=(nt.get("ntfy_server") or "https://ntfy.sh").rstrip("/"),

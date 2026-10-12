@@ -38,11 +38,11 @@ def fmt_ts(sec: float) -> str:
     return f"{h}:{m:02d}:{s:02d}" if h else f"{m:02d}:{s:02d}"
 
 
-def fetch_channel_videos(channel_id: str, timeout: int = 20, attempts: int = 6) -> list[Video]:
+def fetch_channel_videos(channel_id: str, timeout: int = 20, attempts: int = 4) -> list[Video]:
     """채널 RSS(최근 15개)를 최신순으로 반환. API 키 불필요.
 
-    유튜브 RSS는 정상 채널에도 무작위로 404/5xx를 몰아서 돌려준다(실측: 3연속 404 후 200).
-    그래서 최대 약 28초 동안 재시도하고, 그래도 실패하면 다음 실행 회차에 맡긴다.
+    유튜브 RSS는 정상 채널에도 무작위로 404/5xx를 몰아서 돌려주고, 몇 시간씩 대부분의 채널에 404를 주는
+    장애도 있다(실측). 그래서 약 12초만 재시도하고, 실패한 채널은 다음 실행 회차에 맡긴다.
     """
     url = RSS_URL.format(cid=channel_id)
     for i in range(attempts):
@@ -113,14 +113,43 @@ def video_from_ref(ref: str, timeout: int = 20) -> Video:
                  datetime.now(timezone.utc).isoformat(timespec="seconds"))
 
 
-def video_duration(video_id: str, timeout: int = 20) -> int | None:
-    """영상 길이(초). RSS에는 길이가 없어서 watch 페이지에서 읽는다. 실패하면 None."""
+@dataclass
+class VideoInfo:
+    duration: int | None = None       # 초. 알 수 없으면 None
+    live_content: bool | None = None  # 라이브 방송(다시보기 포함)이면 True
+    live_now: bool = False            # 지금 방송 중이거나 방송 예정
+    source: str = "none"              # 정보를 얻은 곳 (player / watch / none)
+
+
+def video_info(video_id: str, timeout: int = 20) -> VideoInfo:
+    """영상 길이와 라이브 여부. RSS에는 없어서 유튜브 player API → watch 페이지 순으로 시도한다.
+
+    GitHub Actions(클라우드 IP)에서는 watch 페이지가 길이를 주지 않는다(실측). player API는 재생 불가
+    응답(UNPLAYABLE)이어도 videoDetails를 함께 돌려준다.
+    """
+    try:
+        r = requests.post(
+            "https://www.youtube.com/youtubei/v1/player?prettyPrint=false", timeout=timeout,
+            headers={"User-Agent": UA["User-Agent"], "Content-Type": "application/json"},
+            json={"videoId": video_id,
+                  "context": {"client": {"clientName": "WEB", "clientVersion": "2.20251001.00.00", "hl": "ko"}}},
+        )
+        d = r.json().get("videoDetails") or {}
+        if d.get("lengthSeconds") is not None:
+            return VideoInfo(int(d["lengthSeconds"]) or None, bool(d.get("isLiveContent")),
+                             bool(d.get("isLive") or d.get("isUpcoming")), "player")
+    except (requests.RequestException, ValueError):
+        pass
     try:
         page = requests.get(f"https://www.youtube.com/watch?v={video_id}", headers=UA, timeout=timeout).text
     except requests.RequestException:
-        return None
+        return VideoInfo()
     m = re.search(r'"lengthSeconds":"(\d+)"', page)
-    return int(m.group(1)) if m else None
+    if not m:
+        return VideoInfo()
+    live = re.search(r'"isLiveContent":(true|false)', page)
+    now = re.search(r'"isLive":true|"isUpcoming":true', page)
+    return VideoInfo(int(m.group(1)) or None, live.group(1) == "true" if live else None, bool(now), "watch")
 
 
 def is_short(video_id: str, timeout: int = 10) -> bool:

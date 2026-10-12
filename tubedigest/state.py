@@ -21,6 +21,7 @@ PENDING = "pending"          # 요약 대기 (자막 기다리는 중 포함)
 DONE = "done"                # 기사 발행 완료
 BASELINE = "baseline"        # 채널 첫 등록 시 이미 있던 영상 (요약 안 함)
 SKIPPED_SHORT = "skipped_short"
+SKIPPED_LIVE = "skipped_live"  # 라이브 방송 다시보기 (skip_live)
 FAILED = "failed"            # 재시도 한도 초과
 
 

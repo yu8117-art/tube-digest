@@ -20,7 +20,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 60   # 긴 영상은 Gemini 구간 분석 사이에 대기 시간이 있다
     steps:
+      # 예약 실행은 '예약 시점'의 커밋을 받는데, 앞 실행을 기다리다 늦게 시작하면 그 사이 앞 실행이 올린 기록을 못 본다.
+      # 그러면 같은 영상을 다시 요약해 알림이 중복되고 커밋이 충돌한다(2026-10-11 실측). 그래서 시작 시점의 최신 main을 받는다.
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"

@@ -12,14 +12,16 @@ from __future__ import annotations
 import base64
 import json
 import logging
+import math
 import os
 import re
+import threading
 import time
 
 import requests
 
 from .config import PROMPT_PATH, Config
-from .youtube import Video, fmt_ts, thumbnail_url, video_duration
+from .youtube import Video, VideoInfo, fmt_ts, thumbnail_url, video_info
 
 log = logging.getLogger(__name__)
 
@@ -100,6 +102,41 @@ def _client():
     return _client_instance
 
 
+def _create(cfg: Config, **kwargs):
+    """Gemini 호출에 상한 시간을 둔다.
+
+    SDK는 기본 제한 시간이 없고 실패하면 재시도까지 해서, 응답 없는 요청 하나가 실행 전체를 60분 동안 붙잡고
+    강제 종료되는 일이 20시간 동안 반복됐다(2026-10-11~12). 상한을 넘기면 포기하고 다음 회차에 다시 시도한다.
+    """
+    limit = cfg.gemini_call_timeout_minutes * 60
+    box: dict = {}
+
+    def work():
+        try:
+            box["res"] = _client().interactions.create(timeout=limit, **kwargs)
+        except BaseException as e:  # 스레드 밖으로 그대로 전달
+            box["err"] = e
+
+    t = threading.Thread(target=work, daemon=True)  # 멈춘 호출이 프로세스 종료를 막지 않게 daemon
+    t.start()
+    t.join(limit + 30)
+    if t.is_alive():
+        raise GeminiError(f"응답 없음 ({cfg.gemini_call_timeout_minutes}분 초과)")
+    if "err" in box:
+        raise box["err"]
+    return box["res"]
+
+
+def estimate_minutes(cfg: Config, duration: int | None) -> float:
+    """요약에 걸릴 시간 추정(분). 실행 시간 예산 안에 끝낼 수 있을 때만 시작하려고 쓴다."""
+    if not duration:
+        return cfg.gemini_call_timeout_minutes  # 길이를 모르면 통째로 보내므로 최악을 가정
+    segments = math.ceil(duration / (cfg.gemini_segment_minutes * 60))
+    if segments <= 1:
+        return 3
+    return segments * (3 + cfg.gemini_pause_sec / 60) + 2
+
+
 def _pace(cfg: Config) -> None:
     """영상 호출 사이에 간격을 둔다. 무료 티어의 분당 토큰 한도를 넘지 않게."""
     global _last_video_call
@@ -137,7 +174,8 @@ def _request(text: str) -> str:
 
 
 def _summarize_call(cfg: Config, parts: list[dict]) -> dict:
-    res = _client().interactions.create(
+    res = _create(
+        cfg,
         model=cfg.gemini_model,
         system_instruction=SYSTEM,
         input=parts,
@@ -178,17 +216,16 @@ def _segment_notes(cfg: Config, video: Video, start: int, end: int, last: bool) 
     if not last:  # 구간 끝을 영상의 끝으로 착각해 "영상이 마무리된다"고 적는 것을 막는다
         text += " 영상은 이 구간 뒤에도 계속되므로, 구간이 끝나는 지점을 영상의 끝이나 마무리로 적지 마라."
     _pace(cfg)
-    res = _client().interactions.create(model=cfg.gemini_model,
-                                        input=[_video_part(video, start, end), {"type": "text", "text": text}])
+    res = _create(cfg, model=cfg.gemini_model, input=[_video_part(video, start, end), {"type": "text", "text": text}])
     lines = parse_notes(res.output_text or "", start)
     if not lines:
         raise GeminiError(f"구간 노트가 비어 있음 ({fmt_ts(start)}~{fmt_ts(end)})")
     return lines
 
 
-def summarize(cfg: Config, video: Video) -> dict:
+def summarize(cfg: Config, video: Video, info: VideoInfo | None = None) -> dict:
     """영상을 보고 요약한다. 반환값의 _source는 video(영상 직접) 또는 video_notes(긴 영상, 구간 노트 경유)."""
-    duration = video_duration(video.video_id)
+    duration = (info or video_info(video.video_id)).duration
     thumb = _thumbnail_part(thumbnail_url(video.video_id))
     seg = cfg.gemini_segment_minutes * 60
     if duration and duration > seg:
@@ -213,9 +250,9 @@ def summarize(cfg: Config, video: Video) -> dict:
     return summary
 
 
-def summarize_metadata_only(cfg: Config, video: Video) -> dict:
-    """영상 분석이 끝내 실패했을 때: 제목·설명란·썸네일만으로 요약한다."""
-    duration = video_duration(video.video_id)
+def summarize_metadata_only(cfg: Config, video: Video, info: VideoInfo | None = None) -> dict:
+    """영상 분석이 끝내 실패했거나 너무 긴 영상: 제목·설명란·썸네일만으로 요약한다."""
+    duration = (info or video_info(video.video_id)).duration
     text = (f"{_meta_text(video, duration)}\n\n영상 자체는 분석하지 못했다. 제목·설명란·썸네일만으로 요약하고, "
             "그 한계를 conclusion에 한 줄로 밝힌다.\n첨부 이미지는 이 영상의 썸네일이다.")
     summary = _summarize_call(cfg, _thumbnail_part(thumbnail_url(video.video_id)) + [{"type": "text", "text": _request(text)}])
