@@ -130,18 +130,14 @@
    "status": "baseline"
   },
   "-Zmpezx4UvI": {
+   "done_at": "2026-10-12T06:22:06+00:00",
    "errors": 0,
    "first_seen": "2026-10-11T07:31:25+00:00",
+   "last_attempt": "2026-10-12T06:20:12+00:00",
+   "notified": "2026-10-12T06:28:29+00:00",
    "published": "2026-10-10T23:00:12+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCstI8HwGQsHdqLDgyH0PImw",
-    "channel_name": "최준영 박사의 지구본 연구소",
-    "description": "🌏지구본 연구소 멤버십에 가입하여 혜택을 누려보세요!\nhttps://www.youtube.com/channel/UCstI8HwGQsHdqLDgyH0PImw/join\n\n놀라운 라인업으로 다시 돌아온 위즈덤 칼리지 2026!\n최준영 박사님과 함께 새로운 지혜의 여정이 시작됩니다.\n🎁 최대 할인 + 30만 원 상당의 혜택 전원 증정\n🎓 지금 바로 입학 등록하기 👉 https://bit.ly/3IRcyte\n\n👉https://3protv.page.link/dvgJ\n⏰바빠서 방송 볼 시간이 없다면? 핵심만 콕 짚은 요약본으로 빠르게!\n삼프로 오리지널 뉴스 콘텐츠로 만나보세요.\n👉https://3protv.page.link/dvgJ\n\n#지구본연구소 #최준영박사 #최준영\n\n🌎타임코드🌎\n00:00 판도라의 상자를 건드린 인도\n07:48 최소 14억, 어떻게 조사하나?\n12:39 단순한 인구 조사가 문제가 된 이유\n25:13 정치로 끌어들인 모디 총리\n29:00 판도라 상자의 결과는?",
-    "published": "2026-10-10T23:00:12+00:00",
-    "title": "인도의 14억 인구조사, 판도라의 상자라고? f.인도환타 [지구본 초대석]",
-    "video_id": "-Zmpezx4UvI"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "-f5kn2s6uI8": {
@@ -222,18 +218,14 @@
    "wait_checks": 0
   },
   "0y_c_-Ik_GQ": {
+   "done_at": "2026-10-12T06:27:04+00:00",
    "errors": 0,
    "first_seen": "2026-10-11T07:31:22+00:00",
+   "last_attempt": "2026-10-12T06:24:34+00:00",
+   "notified": "2026-10-12T06:28:30+00:00",
    "published": "2026-10-11T01:59:47+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCoCvTlU0KpNYwnMIgs7MPrA",
-    "channel_name": "보다 BODA",
-    "description": "오늘은 '예루살렘 뒷골목'에 대해 알아봤습니다!\n\n⭐오늘의 출연진\nMC 허준님\n중동학자 박현도 교수님\n유라시아 고고학자 강인욱 교수님\n이집트 고고학자 곽민수 소장님\n다큐멘터리PD(역마살로드) 장준호 PD님\n\n \n00:00 오프닝\n02:38 세계에서 제일 비가 많이 오는 도시의 실상\n07:55 직접 목격한 네팔 대홍수의 참상\n12:25 기독교 최대 성지의 감춰진 뒷골목\n20:55 죽은 자를 부활시키는 미지의 고대 축제\n30:49 지구에 남은 마지막 사냥 부족\n\n\n역사를 보다 시리즈의 세계관을 담아낸 2026년 프리미엄 가죽 다이어리 출시!!\n하루가 자연스럽게 역사와 연결되는 특별한 2026년을 선물합니다.\n\n다이어리 보러가기 : https://link24.kr/CB5j952\n\n📖 [역사를 보다2]\n 교보: https://product.kyobobook.co.kr/detail/S000217019951\n yes24: https://www.yes24.com/product/goods/148813806\n 알라딘: https://www.aladin.co.kr/shop/wproduct.aspx?itemid=367582434\n\n📖 [역사를 보다]\n교보문고 https://url.kr/lhXMpm\nyes24 https://url.kr/pz75gT\n알라딘 https://url.kr/3B3tS9\n\n📺강인욱 교수님의 개인채널\n[고고한 강교수] \n   / @gogohankang  \n\n📖 박현도 교수님의 저서\n[중동을 읽는 40가지 이야기] \n교보문고-https://product.kyobobook.co.kr/detail/S000220693811\nyes24- https://www.yes24.com/product/goods/194502168\n\n궁금하신 부분들을 댓글에 달아주세요! \n저희가 확인하겠습니다! 감사합니다! \n\n출연 및 제휴 문의 : boooda.kr@gmail.com \n\nBODA 인스타 :   / boda_channel   \n#보다 #역사 #예루살렘 #원시부족",
-    "published": "2026-10-11T01:59:47+00:00",
-    "title": "일반인은 상상도 못 하는 예루살렘의 진짜 모습ㅣ역사를 보다 EP.165",
-    "video_id": "0y_c_-Ik_GQ"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "11gs1nyMBPo": {
@@ -270,6 +262,21 @@
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-09-25T02:00:04+00:00",
    "status": "baseline"
+  },
+  "1e0XDNjfgAo": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:19:58+00:00",
+   "published": "2026-10-12T03:44:27+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC9JrTOkuLwzpyudwQqavXGg",
+    "channel_name": "두선생의 역사공장",
+    "description": "코앞에 붙어 있는데 면적은 33배, 성격은 정반대? 🤔 '일국양제'의 두 섬, 홍콩과 마카오는 왜 전혀 다른 도시가 됐을까요? 🗺️ 442년 식민지와 99년 임대, 금융과 카지노로 갈린 두 도시의 지리·역사·현재를 몰아보기로 정리했습니다! 🎰\n\n#역사 #지리 #홍콩 #마카오 #중국 #일국양제 #카지노 #지정학",
+    "published": "2026-10-12T03:44:27+00:00",
+    "title": "지도 한 장으로 보는 홍콩 vs 마카오, 정반대가 된 이유 #지도 #역사",
+    "video_id": "1e0XDNjfgAo"
+   },
+   "wait_checks": 0
   },
   "1eV18vbBzZE": {
    "first_seen": "2026-10-09T08:14:37+00:00",
@@ -519,6 +526,21 @@
    "published": "2026-08-12T10:00:31+00:00",
    "status": "baseline"
   },
+  "6ZIb00fSnHs": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:20:09+00:00",
+   "published": "2026-10-11T14:03:51+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+    "channel_name": "채널 제네시스박",
+    "description": "📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 죽전 신세계(사우스시티) 세금 특강! + 1:1 현장 질문 (10/24, 토, 오후 2시 30분)\nhttps://m.site.naver.com/2eMlV\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (11/28, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=3&lectCd=0685\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
+    "published": "2026-10-11T14:03:51+00:00",
+    "title": "장특공 공제한도 계산하는 법! 다 보여드립니다!",
+    "video_id": "6ZIb00fSnHs"
+   },
+   "wait_checks": 0
+  },
   "6bQzP4_T4WU": {
    "first_seen": "2026-10-09T08:14:33+00:00",
    "published": "2026-10-06T11:00:37+00:00",
@@ -530,18 +552,14 @@
    "status": "baseline"
   },
   "6hSgw_q66b4": {
+   "done_at": "2026-10-12T06:24:33+00:00",
    "errors": 0,
    "first_seen": "2026-10-11T07:31:35+00:00",
+   "last_attempt": "2026-10-12T06:22:06+00:00",
+   "notified": "2026-10-12T06:28:31+00:00",
    "published": "2026-10-11T01:00:25+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘운명을 바꾸는 부동산 투자수업\n👉http://bit.ly/3tML9k0\n\n현금 있다면 미국주식 이렇게 사세요, 앞으로 어마어마하게 오를 겁니다\n100년에 딱 한번 오는 기회입니다, 지금 당장 '이렇게' 투자하세요\n100년만에 온 부자될 기회, 스페이스X 테슬라 이렇게 하세요\n\n☞촬영일: 26년 10월 7일",
-    "published": "2026-10-11T01:00:25+00:00",
-    "title": "현금 있다면 미국주식 이렇게 사세요, 앞으로 어마어마하게 오를 겁니다 [정주용 의장 풀버전]",
-    "video_id": "6hSgw_q66b4"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "6rJ6ixMR_Qs": {
@@ -594,6 +612,21 @@
    "published": "2026-08-14T10:30:39+00:00",
    "status": "baseline"
   },
+  "7AdGeIfAfJU": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:20:05+00:00",
+   "published": "2026-10-12T00:00:08+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "10월 오프라인 세미나) 드디어 부동산 끝판왕, 트루카피 등장!\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=643\n\n50부터 시작하는 은퇴 후 월급 만드는 부동산 출간 기념 특강 신청 링크\n🔹https://forms.gle/CATkDLzuhYHxbEd38\n\n50부터 시작하는 은퇴 후 월급 만드는 부동산\n🔹예스24 http://app.ac/MAGu5e523\n🔹교보문고 http://app.ac/1ECnLKS73\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
+    "published": "2026-10-12T00:00:08+00:00",
+    "title": "10·15 대책 1년, 서울 집값은 어디로 갔나!",
+    "video_id": "7AdGeIfAfJU"
+   },
+   "wait_checks": 0
+  },
   "7Q8iay2d4WY": {
    "errors": 0,
    "first_seen": "2026-10-09T11:26:23+00:00",
@@ -606,6 +639,21 @@
     "published": "2026-10-09T11:00:16+00:00",
     "title": "경기도 살 때 조심해야 하는 것",
     "video_id": "7Q8iay2d4WY"
+   },
+   "wait_checks": 0
+  },
+  "7WUzZbxrNUw": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:20:11+00:00",
+   "published": "2026-10-11T21:14:41+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCRCNBeNS8MrOwFV6h6Yjemw",
+    "channel_name": "시황맨TV",
+    "description": "모닝 브리핑. 연휴 막판 터진 돌발 뉴스 증시 영향. 종목 갈아타기 장세 조짐. 업종별 변화 점검. 삼성전자 변수 정점 치는 날. 증시 수급, 단기 추세 분석. 종목 장세 5대장 추세 비교.\n\n방송 요약\n연휴 막판 터진 중동발 돌발 뉴스 증시 영향.\nAI 관련주 움직임 변화 \n종목 갈아타기 장세 조짐. \n업종 대표주별 동향 점검. \n삼성전자 실적, 자사주 등 변수 정점 치는 날. \n증시 수급 동향. 큰 손들 매수 종목군\n코스피, 코스닥, 단기 추세 분석. \n종목 장세 5대장 추세 비교 \n\n#삼성전자, #테슬라 ,#채권 ,#에코프로비엠 ,#sk하이닉스 ,#주식시황 ,#에코프로 ,#애플 ,#엔비디아 ,#국제유가 ,#증시전망 ,#환율 ,#국채금리 ,#마이크론테크,#코스닥 ,#엘앤에프 ,#미국주식,#해외증시 ,#다우지수 ,#마이크론테크 ,#채권금리 ,#LG에너지솔루션 ,#반도체주식 ,#HBM관련주 ,#FOMC ,#비트코인 ,#LG에너지솔루션 ,#가상화폐 ,#암호화폐 ,#셀트리온,#셀트리온제약 ,#ai관련주 ,#TSMC,#KB금융 ,#저PBR ,#밸류업 ,#기아 ,#한미반도체 ,#파월의장 ,#경기선행지수 ,#한미약품 ,#엘앤에프 , #태양광관련주 ,#구리관련주 ,#TSMC ,#PCE ,#대차대조표 ,#HLB ,#CPI ,#JP모건 ,#모건스탠리 ,#셀트리온 ,#삼성전자HBM ,#CPI ,#달러차트 ,#HLB ,#삼성전자HBM ,#미국고용지표  ,#알테오젠 ,#트럼프 ,#ISM제조업지수 ,#BTS ,#금투세 ,#모건스탠리 ,#밸류업지수 ,#북한 ,#고려아연 ,#금양 ,#엔달러 ,#엔캐리트레이드 ,#로봇관련주 ,#레인보우로보틱스 ,#딥시크 ,#DeepSeek ,#관세 ,#트럼프관세 ,#무역전쟁 ,#관세전쟁 ,#세법개정안 ,#스테이블코인 ,#주식양도세 ,#파운드리 ,#PPI ,#생산자물가지수 ,#한화오션 ,#양적긴축 ,#부동산정책 ,#부동산대책 ,#FOMC ,#주주환원 ,#관세협상 ,#ADR ,#HBM ,#HBM4 ,#마이클버리 ,#빅쇼트 ,#사이드카 ,#매출채권 ,#제미나이3 ,#TPU ,#오라클 ,#잭슨홀 ,#환헤지 ,#전략적환헤지, #잭슨홀미팅 ,#SMR ,#BTS ,#블루아울 ,#IEEPA ,#국제비상경제권한법 ,#이란전쟁 ,#호르무즈 ,#호르무즈해협 ,#에이비엘바이오 ,#휴전 ,#스페이스X ,#젠슨황 ,#케빈워시 ,#마이크론실적 ,#삼성전자ETF ,#EUV ,#DUV ,#서킷브레이커 ,#아스트라AI",
+    "published": "2026-10-11T21:14:41+00:00",
+    "title": "모닝 브리핑. 연휴 막판 터진 돌발 뉴스 영향. 종목 갈아타기 장세 조짐. 업종별 변화 점검. 삼성전자 변수 정점 치는 날. 수급, 단기 추세 분석. 종목 장세 5대장 추세 비교.",
+    "video_id": "7WUzZbxrNUw"
    },
    "wait_checks": 0
   },
@@ -754,6 +802,21 @@
    "published": "2026-10-10T11:00:06+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "AvYV9wObjOg": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:20:05+00:00",
+   "published": "2026-10-12T06:09:18+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "10월 오프라인 세미나) 드디어 부동산 끝판왕, 트루카피 등장!\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=643\n\n50부터 시작하는 은퇴 후 월급 만드는 부동산 출간 기념 특강 신청 링크\n🔹https://forms.gle/CATkDLzuhYHxbEd38\n\n50부터 시작하는 은퇴 후 월급 만드는 부동산\n🔹예스24 http://app.ac/MAGu5e523\n🔹교보문고 http://app.ac/1ECnLKS73\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
+    "published": "2026-10-12T06:09:18+00:00",
+    "title": "세종시 집값, 진짜 큰일 났다! 세종시 아파트는 지금이 기회!(미스터홈즈부동산중개 박다영 소장)",
+    "video_id": "AvYV9wObjOg"
+   },
    "wait_checks": 0
   },
   "B0GFSEeVT2M": {
@@ -1124,6 +1187,21 @@
    "published": "2026-10-08T08:01:39+00:00",
    "status": "baseline"
   },
+  "I1CCrDjuE5w": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:19:52+00:00",
+   "published": "2026-10-12T02:31:39+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "description": "지난해 HBM 경쟁력을 앞세워 D램 시장 1위에 올랐던 SK하이닉스. 그런데 올해는 삼성전자가 다시 1위를 탈환했고, 마이크론과 하이닉스의 점유율 격차도 크게 좁혀졌습니다.\n하이닉스의 HBM 경쟁력이 약해진 걸까요? 이번 영상에서는 삼성전자의 점유율 상승과 마이크론의 추격, 그리고 하이닉스의 매출 성장률이 상대적으로 낮아진 이유를 살펴봅니다.\n특히 일반 D램과 HBM의 가격 상승 시차가 세 회사의 실적에 어떤 영향을 미쳤는지 분석했습니다. 삼성의 HBM4 전략과 하이닉스의 TSMC 협력 구조도 함께 알아봅니다.\n최근 삼성과 하이닉스가 추진하는 장기공급계약, 물량을 가져가지 않아도 대금을 지급해야 하는 Take-or-Pay 조건도 짚어봅니다. 여기에 2027년 HBM 평균가격이 121% 상승할 수 있다는 전망까지 더해지면서 메모리 시장의 경쟁 구도는 또 한 번 달라질 가능성이 있습니다.\n과연 삼성은 1위를 지킬 수 있을까요? 하이닉스는 다시 반격할 수 있을까요? 숫자 뒤에 숨어 있는 메모리 시장의 변화를 살펴봤습니다.\n\nWritten by 패치\nEdited by 이재현\n\nunrealtech2021@gmail.com",
+    "published": "2026-10-12T02:31:39+00:00",
+    "title": "DRAM 1등이던 SK하이닉스 3등 위기설과 반전... 문제는 기술력이 아니다 | HBM 가격 역전과 2027년 반도체 경쟁",
+    "video_id": "I1CCrDjuE5w"
+   },
+   "wait_checks": 0
+  },
   "IKIJNUg6jAU": {
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-05-20T08:20:12+00:00",
@@ -1176,6 +1254,21 @@
     "published": "2026-10-10T06:30:10+00:00",
     "title": "\"정부는 쉬쉬하고 있어요\" 서울 전월세 실제로 이렇습니다 [빠숑]",
     "video_id": "IocZ_Fw-zFU"
+   },
+   "wait_checks": 0
+  },
+  "Iqa5QcVFkNI": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:20:05+00:00",
+   "published": "2026-10-11T08:30:35+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCYgVl2XoMfkvg1BzTFiyOiw",
+    "channel_name": "홈즈 부동산",
+    "description": "홈즈 부동산 밴드(급매 정보, 성남 투자시 필수)\n: https://band.us/band/91293447\n\n홈즈부동산 전화번호*  : 031-752-4984, 010-2082-0826\n(상담 및 매물 접수)\n\n네이버 블로그: https://blog.naver.com/11jhlee1199\n카카오톡 상담 채널: http://pf.kakao.com/_ciEcK\n\n홈즈 부동산 종합 링크 \nhttps://link.inpock.co.kr/homesrealestate\n\n주소: 경기도 성남시 수정구 산성대로 207, 109호(수진역 4번출구)",
+    "published": "2026-10-11T08:30:35+00:00",
+    "title": "재개발 반대가 늘어나는 이유, 이런 구역은 투자 조심하세요",
+    "video_id": "Iqa5QcVFkNI"
    },
    "wait_checks": 0
   },
@@ -1280,6 +1373,21 @@
    "transcript_status": "ok",
    "wait_checks": 6
   },
+  "LAve9PChHM8": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:20:02+00:00",
+   "published": "2026-10-11T09:01:17+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC7F6UDq3gykPZHWRhrj_BDw",
+    "channel_name": "사물궁이 잡학지식",
+    "description": "- 사물궁이 유튜브 채널 구독 : https://youtube.com/@사물궁이\n- 사물궁이 시리즈 정주행 : https://youtube.com/playlist?list=PLs8vi5Jd35y55jcjDHMWIXfWjl206sSSF\n- 궁금증 제보 : https://forms.gle/xT6HQEpVTYbfe9EY8\n- 유튜브 멤버십 가입 : https://youtube.com/channel/UC7F6UDq3gykPZHWRhrj_BDw/join\n- E-Mail : facebookspeedwg@gmail.com",
+    "published": "2026-10-11T09:01:17+00:00",
+    "title": "왜 바닷물은 짜고, 강물은 짜지 않을까?",
+    "video_id": "LAve9PChHM8"
+   },
+   "wait_checks": 0
+  },
   "LDOuqa0H4UA": {
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-09-21T11:30:18+00:00",
@@ -1309,6 +1417,21 @@
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-10-01T11:00:05+00:00",
    "status": "baseline"
+  },
+  "Lpz3A5A6ioY": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:19:55+00:00",
+   "published": "2026-10-12T02:00:04+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "중세 유럽에서 수많은 목숨을 앗아간 흑사병, 정확히 어떤 병일까요? 페스트는 '예르시니아 페스티스(Yersinia pestis)'라는 세균이 일으키는 감염병으로, 주로 감염된 설치류의 피를 빤 벼룩을 통해 사람에게 전파됩니다. 가장 흔한 형태인 선페스트는 림프절이 붓는 것이 특징이며, 조기에 진단해 적절한 항생제 치료를 받는 것이 중요합니다. 하지만 페스트균이 혈액으로 퍼지면 패혈성 페스트로 진행할 수 있고, 폐를 침범하면 폐페스트가 발생할 수 있는데요. 특히 폐페스트는 기침 등으로 배출되는 호흡기 비말을 통해 사람 사이에서도 전파될 수 있습니다. 흑사병이라 불리는 페스트는 어떤 경로로 감염되고, 종류에 따라 무엇이 달라질까요? 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#흑사병 #페스트 #선페스트 #폐페스트 #감염병 #페스트균 #벼룩 #안될과학 #과학유튜브",
+    "published": "2026-10-12T02:00:04+00:00",
+    "title": "흑사병은 어떻게 사람에게 전염될까?",
+    "video_id": "Lpz3A5A6ioY"
+   },
+   "wait_checks": 0
   },
   "LqUDDc55wAE": {
    "first_seen": "2026-10-09T08:14:36+00:00",
@@ -1444,15 +1567,7 @@
    "errors": 0,
    "first_seen": "2026-10-11T07:31:31+00:00",
    "published": "2026-10-11T01:23:23+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
-    "channel_name": "스마트튜브(스튜TV)",
-    "description": "10월 오프라인 세미나) 드디어 부동산 끝판왕, 트루카피 등장!\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=643\n\n50부터 시작하는 은퇴 후 월급 만드는 부동산 출간 기념 특강 신청 링크\n🔹https://forms.gle/CATkDLzuhYHxbEd38\n\n50부터 시작하는 은퇴 후 월급 만드는 부동산\n🔹예스24 http://app.ac/MAGu5e523\n🔹교보문고 http://app.ac/1ECnLKS73\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
-    "published": "2026-10-11T01:23:23+00:00",
-    "title": "심리는 겁먹었고, 가격은 올랐다!",
-    "video_id": "O0Ko-5Cwu94"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "O0zOjMarBUg": {
@@ -1571,6 +1686,21 @@
    "published": "2026-10-04T09:00:18+00:00",
    "status": "baseline"
   },
+  "QOG1v0HVQIw": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:20:06+00:00",
+   "published": "2026-10-12T00:08:09+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
+    "channel_name": "소유보다 경험 - 아이언 / 공모주",
+    "description": "엠에스바이오 1일차를 실시간 경쟁률 라이브로 제공합니다.\n자세한 정보는 유튜브 영상과 블로그를 참고해주세요.\nhttps://blog.naver.com/msql/\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다. \n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
+    "published": "2026-10-12T00:08:09+00:00",
+    "title": "[10/12] 엠에스바이오 1일차 실시간 청약경쟁률 LIVE",
+    "video_id": "QOG1v0HVQIw"
+   },
+   "wait_checks": 0
+  },
   "QeOquW9atts": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-08T07:37:59+00:00",
@@ -1580,6 +1710,21 @@
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-10-08T00:40:46+00:00",
    "status": "baseline"
+  },
+  "QnCSlAIPsIk": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:20:03+00:00",
+   "published": "2026-10-11T14:30:05+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
+    "channel_name": "지식보관소",
+    "description": "Instagram ID @archiveyoutube \n#상온초전도체 #고온초전도체 #메타물질 #초전도현상 #BCS이론\n\n시청해주셔서 감사합니다.\n\n얼마전 미국 MIT 등이 참여한 국제 공동 연구팀은 진공의 양자 요동을 초전도체에 가하자 초전도 현상이 일어나는 임계온도가 높아진다는 사실을 발견했으며 이 내용은 올해 2026년 10월 국제학술지 Nature에 게시가 되었습니다. \nhttps://www.nature.com/articles/s41586-026-11037-x\n\n맴버쉽 가입: https://www.youtube.com/channel/UC1Do3xw9OuUk7FQuPTmSVOw/join\n※ 후원 : https://toon.at/donate/knowledge\n\n--------------------------------------\n제보 및 비지니스 문의\nE-Mail : asdfg3663@gmail.com\nBlog : http://blog.naver.com/asdfg3663\nInstagram : https://www.instagram.com/archiveyoutube/\n--------------------------------------\n게임 개발 관련\ncafe : https://cafe.naver.com/jisic20000\n--------------------------------------\n\n\nBGM 정보\nSavfk - Ultra : https://youtu.be/8A4Jak73Lao\n웅장한 느낌의 곡 - TTRM\nDestination Unknown - Ugonna Onyekwe",
+    "published": "2026-10-11T14:30:05+00:00",
+    "title": "최근 발견된 실용화가 가능해 보이는 초전도체를 만드는 기술",
+    "video_id": "QnCSlAIPsIk"
+   },
+   "wait_checks": 0
   },
   "Qsv8miZJpbU": {
    "errors": 0,
@@ -1691,6 +1836,17 @@
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-10-01T21:02:22+00:00",
    "status": "baseline"
+  },
+  "ShxCkQPOIoY": {
+   "done_at": "2026-10-12T06:28:29+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-12T06:20:04+00:00",
+   "last_attempt": "2026-10-12T06:27:25+00:00",
+   "notified": "2026-10-12T06:28:32+00:00",
+   "published": "2026-10-11T08:00:04+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "Sj6Eqo12QcI": {
    "first_seen": "2026-10-09T08:14:35+00:00",
@@ -1817,6 +1973,21 @@
    "published": "2026-10-10T23:00:04+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "Uvzdn2b_vXM": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:19:58+00:00",
+   "published": "2026-10-11T09:00:02+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+    "channel_name": "에스오디 SOD",
+    "description": "삼전닉스 성과급, 이공계 대학원 이대로 괜찮나\nhttps://heisenberg.kr/samsung-hynix-graduate/\n\nOpenAI의 나비에-스토크스 방정식 해법 완벽 해설\nhttps://heisenberg.kr/navier-stokes/\n\nK-배터리 위기, 중국 때문만은 아니다\nhttps://heisenberg.kr/k-battery-crisis/\n\n전쟁용 AI를 장악한 팔란티어, 폭주하기 시작한 전황\nhttps://heisenberg.kr/ai-war-palantir/\n\n삼성·TSMC와의 파운드리 전쟁, 인텔에 희망은 있는가\nhttps://heisenberg.kr/intel-bspdn/",
+    "published": "2026-10-11T09:00:02+00:00",
+    "title": "\"오늘부로 대학원 그만둡니다\" 삼전닉스 '7억' 성과급 쇼크 | 하이젠버그",
+    "video_id": "Uvzdn2b_vXM"
+   },
    "wait_checks": 0
   },
   "V2-cc8JaiVg": {
@@ -1950,6 +2121,21 @@
    "published": "2026-09-23T03:00:39+00:00",
    "status": "baseline"
   },
+  "Y2t8E0XcDZw": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:20:06+00:00",
+   "published": "2026-10-11T09:00:27+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n10월 오프라인 세미나) 드디어 부동산 끝판왕, 트루카피 등장!\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=643\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n50부터 시작하는 은퇴 후 월급 만드는 부동산 출간 기념 특강\n🔹https://forms.gle/CATkDLzuhYHxbEd38\n\n50부터 시작하는 은퇴 후 월급 만드는 부동산\n🔹예스24 http://app.ac/MAGu5e523\n🔹교보문고 http://app.ac/1ECnLKS73\n\n#부동산 #상승 #동대문 #부동산\n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-10-11T09:00:27+00:00",
+    "title": "똑같은 공식으로 집값 폭발하는 중! 성동구 놓쳤다면 '이 동네'(투미 부동산 김제경 박사)",
+    "video_id": "Y2t8E0XcDZw"
+   },
+   "wait_checks": 0
+  },
   "Y5d4_GotA4A": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-10-02T11:00:30+00:00",
@@ -2057,18 +2243,14 @@
    "status": "baseline"
   },
   "_RW-46Qvs50": {
+   "done_at": "2026-10-12T06:27:25+00:00",
    "errors": 0,
    "first_seen": "2026-10-11T07:31:24+00:00",
+   "last_attempt": "2026-10-12T06:27:04+00:00",
+   "notified": "2026-10-12T06:28:31+00:00",
    "published": "2026-10-11T06:00:06+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
-    "channel_name": "안될과학 Unrealscience",
-    "description": "테이프를 뜯을 때 나는 익숙한 ‘찌지직’ 소리.\n최근 연구에서는 테이프의 미세한 균열이 음속을 넘는 속도로 움직이고, 그 과정에서 약한 충격파가 발생할 수 있다는 사실이 관찰됐습니다.\n그런데 테이프의 과학은 여기서 끝이 아닙니다.\n진공에서 테이프를 박리하면 X선이 발생할 수 있고, 실제 연구에서는 이를 이용해 사람의 손가락 뼈를 촬영하기도 했습니다.\n게다가 테이프는 흑연에서 원자 한 층짜리 그래핀을 분리하는 데도 사용됐죠.\n평범한 테이프 한 장에서 발견되는 놀라운 과학을 하나씩 살펴봅니다.\n\n#스카치테이프 #소닉붐 #X선 #그래핀 #과학유튜브 #안될과학 \n\n◆ Thanks to \nEditor : 김다현\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science \n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience\n\n◆ 안될과학 문의\nE-MAIL : MoreScience2018@gmail.com",
-    "published": "2026-10-11T06:00:06+00:00",
-    "title": "우리가 매일 듣던 ‘찌지직’ 소리의 진짜 정체",
-    "video_id": "_RW-46Qvs50"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "_SMk0QURat4": {
@@ -2232,6 +2414,21 @@
     "published": "2026-10-10T02:30:12+00:00",
     "title": "서울 집 고집할 필요 없습니다, 집값엔 '강남 접근성'이 더 중요합니다 [빠숑]",
     "video_id": "bzfPor4KzKE"
+   },
+   "wait_checks": 0
+  },
+  "c4b1t8q3NF8": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:20:00+00:00",
+   "published": "2026-10-11T09:50:14+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#수원 #이정효 #k리그",
+    "published": "2026-10-11T09:50:14+00:00",
+    "title": "\"5연승 + 10경기 무패\" 수원의 압도적인 승리!! 승격 확실해진 정효볼의 수원, 4승 남았다",
+    "video_id": "c4b1t8q3NF8"
    },
    "wait_checks": 0
   },
@@ -2452,6 +2649,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "f6SqyRI38YE": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:19:51+00:00",
+   "published": "2026-10-12T06:15:49+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCoCvTlU0KpNYwnMIgs7MPrA",
+    "channel_name": "보다 BODA",
+    "description": "'과학을 보다'가 이번엔 과학의 도시, 대전으로 떠납니다!\n이름하여 '과학대전'..!!\n\n'과학대전' 토크 콘서트 티켓이\n오늘(10월 12일) 오후 5시에 오픈됩니다!\n\n📍티켓 예매 안내\n• 오픈 일시: 10월 12일(월) 오후 5시\n• 예매 링크: https://nol.yanolja.com/ticket/products/26014490\n\n대전에서 펼쳐지는 이번 토크콘서트는\n11월 21일(토) 1회차, 2회차로 나뉘어 진행됩니다.\n\n📚행사 개요\n1회차: 2026년 11월 21일 (토) 오후 1시 ~ 4시 \n2회차: 2026년 11월 21일 (토) 오후 6시 ~ 9시 \n\n🏫장소: 대전 한남대학교 성지관 \n\n📍프로그램 소개\n1회차: 관객과 함께 만들어가는 과학 이야기\n· 김범준 마술쇼\n· 보다국의 과학기술부장관 선출\n· 과학자 소장품 쟁탈전\n· 관객 참여 과학 대전(大戰)\n\n2회차: 과학 덕후의 심장을 뛰게 할 과학 이야기\n· 김기범의 돌 감정쇼\n· 과학계 라이벌 잔혹사\n· 과학자의 인생N컷\n· 최후의 대전(大戰)\n\n💴입장료: 45,000 ~ 55,000원 \n\n티켓 구매 링크와 방법은\n금일 오후 커뮤니티를 통해 한 번 더 안내 드릴 예정입니다.\n\n오직 오프라인 현장에서만 들으실 수 있는\n흥미진진한 과학 이야기들을 알차게 준비 중이니,\n구독자 여러분의 많은 관심과 참여 부탁드립니다.🧡\n\n#과학 #대전 #토크콘서트\n\n광고 및 비즈니스 문의:  boooda.kr@gmail.com",
+    "published": "2026-10-12T06:15:49+00:00",
+    "title": "과학의 본진에서 벌어지는 세기의 대결! [과학대전(大戰)]에 여러분들을 초대합니다",
+    "video_id": "f6SqyRI38YE"
+   },
+   "wait_checks": 0
+  },
   "f6mOzkdTALc": {
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-10-08T02:00:02+00:00",
@@ -2536,6 +2748,21 @@
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-08-15T09:00:39+00:00",
    "status": "baseline"
+  },
+  "gPrqv8MWOEA": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:19:52+00:00",
+   "published": "2026-10-11T10:24:58+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "description": "OpenAI가 안전 연구원 세 명을 해고하면서 논란이 커졌습니다.회사는 민감한 정보 취급 규정 위반을 이유로 들었고, 연구원들은 당시 업무 범위와 관행 안에서 일했다고 반박했습니다.재스민 왕이 설명한 이메일 접근 경위와 세 사람이 공개한 서한을 살펴봅니다.외부 연구기관과의 안전 검증이 왜 회사의 기밀 관리 문제와 충돌하는지도 짚어봅니다.허깅페이스 보안 사고와 앤트로픽이 공개한 평가 중 사고는 이러한 논쟁의 배경입니다.앤트로픽 연구원 제이컵 콕슨의 퇴사와 경고도 함께 다룹니다.OpenAI가 안전 문제로 GPT-6.1 아스트라 출시를 중단한 결정도 살펴봅니다.개발 속도 조절을 제안한 뒤 신제품을 내놓은 앤트로픽의 설명도 비교합니다.기업들의 공동 속도 조절을 둘러싼 반독점 소송에서는 안전과 경쟁의 이해관계가 부딪힙니다.AI 회사들의 안전 약속을 외부에서 실제로 확인하려면 어떤 권한이 필요한지 이야기합니다.\n\nWritten by 패치\nEdited by 이진이\n\nunrealtech2021@gmail.com",
+    "published": "2026-10-11T10:24:58+00:00",
+    "title": "OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고…  몇 주 간 계속 터진 AI 회사들의 안전 논란",
+    "video_id": "gPrqv8MWOEA"
+   },
+   "wait_checks": 0
   },
   "gVdw1MdgFE4": {
    "first_seen": "2026-10-09T08:14:40+00:00",
@@ -2692,6 +2919,21 @@
    "published": "2026-10-08T08:00:18+00:00",
    "status": "baseline"
   },
+  "jYR8FwT4Vso": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:20:10+00:00",
+   "published": "2026-10-11T13:31:55+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+    "channel_name": "채널 제네시스박",
+    "description": "📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 죽전 신세계(사우스시티) 세금 특강! + 1:1 현장 질문 (10/24, 토, 오후 2시 30분)\nhttps://m.site.naver.com/2eMlV\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (11/28, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=3&lectCd=0685\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
+    "published": "2026-10-11T13:31:55+00:00",
+    "title": "헷갈리시죠? 그냥 '거주' 하세요. 그게 유리해요...",
+    "video_id": "jYR8FwT4Vso"
+   },
+   "wait_checks": 0
+  },
   "jmhc3gamSac": {
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-07T09:30:11+00:00",
@@ -2701,15 +2943,7 @@
    "errors": 0,
    "first_seen": "2026-10-11T07:31:27+00:00",
    "published": "2026-10-11T04:53:44+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-10-11T04:53:44+00:00",
-    "title": "수원 5연승 + 10경기 무패 도전!! 수원 : 안산",
-    "video_id": "jq0SBYfie4I"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "jusQSDQU-Rc": {
@@ -3340,6 +3574,21 @@
    "published": "2026-10-01T04:39:51+00:00",
    "status": "baseline"
   },
+  "vAp_-JBKudo": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:19:51+00:00",
+   "published": "2026-10-12T05:00:10+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCoCvTlU0KpNYwnMIgs7MPrA",
+    "channel_name": "보다 BODA",
+    "description": "안녕하세요, 보다 구독자 여러분!👀\n[역사를 보다] 토크 콘서트가 다시 여러분을 찾아 뵙습니다🥳\n\n💥토크콘서트 신청 티켓은 \n금일 10월 12일(월) 오후 6시💥\nNOL 티켓에서 진행될 예정입니다.\n📌링크- https://nol.yanolja.com/ticket/products/26014590\n\n역사를 보다 시간여행자 멤버 \n1. MC 허준 🎙️\n2. 고고학자 강인욱 교수 🔍\n3. 중동학자 박현도 교수 🕌\n4. 이집트 고고학자 곽민수 교수 🐪\n5. 중국사 이성원 교수 🏓\n\n📚행사 개요\n-일시: 1회차 2026년 11월 28일 (토) 오후 1시 ~ 4시 \n          2회차 2026년 11월 28일 (토) 오후 6시 ~ 9시 \n\n-장소: 부산 소향씨어터 우리은행홀 \n-규모: 선착순 1100명\n-프로그램: (타임테이블 참고)\n\n📅1회차 - 역사 덕후들을 위한 ‘역사의 오후’\n· 역사학자의 '역사 여행 가이드'\n· 역사 인물을 심판하는 '역사 재판소'\n· 최후의 유산을 고르는 '역사의 방주'\n\n📅2회차 - 도파민 터지는 짜릿한 ‘역사의 밤’\n· 역사학자가 과거를 바꿀 수 있다면?\n· '최악의 내각 세우기'\n\n-입장료: 45,000 ~ 55,000원 \n\n티켓 구매 링크와 방법은\n금일 오후 커뮤니티를 통해 한 번 더 안내 드릴 예정입니다.\n\n많은 분들과 함께 토크 콘서트에서 \n지식과 공감이 어우러지는 유익한 시간을 \n나누면 좋겠습니다.🙏\n\n많은 관심 부탁드리겠습니다.🧡\n\n#보다#역사#콘서트",
+    "published": "2026-10-12T05:00:10+00:00",
+    "title": "[긴급공지] 역사학자들이 갑자기 부산으로 떠나게 된 이유(두 번째 토크콘서트...?)",
+    "video_id": "vAp_-JBKudo"
+   },
+   "wait_checks": 0
+  },
   "vJojO910IlI": {
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-08T08:15:30+00:00",
@@ -3568,6 +3817,21 @@
    "published": "2026-09-17T05:45:37+00:00",
    "status": "baseline"
   },
+  "z0bFAx92ATE": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:20:08+00:00",
+   "published": "2026-10-11T15:00:10+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+    "channel_name": "채널 제네시스박",
+    "description": "📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 죽전 신세계(사우스시티) 세금 특강! + 1:1 현장 질문 (10/24, 토, 오후 2시 30분)\nhttps://m.site.naver.com/2eMlV\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (11/28, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=3&lectCd=0685\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
+    "published": "2026-10-11T15:00:10+00:00",
+    "title": "'교환거래' 만능은 아닙니다.",
+    "video_id": "z0bFAx92ATE"
+   },
+   "wait_checks": 0
+  },
   "z6cT_Z8MGn0": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-08-29T00:00:09+00:00",
@@ -3603,6 +3867,21 @@
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-09T08:00:13+00:00",
    "status": "baseline"
+  },
+  "zOqbBYi3k1A": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:19:56+00:00",
+   "published": "2026-10-11T11:00:20+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "내비게이션은 보통 나를 가장 빨리 목적지까지 보내는 길을 찾아줍니다. 하지만 많은 운전자가 동시에 가장 빠른 길을 선택하면 차량이 한곳에 몰리면서 오히려 정체가 심해질 수도 있는데요. 각자가 자신에게 가장 유리한 길을 선택하는 것과 도로 위 모든 차량의 이동시간을 최소화하는 것은 서로 다른 결과를 만들 수 있습니다. 그래서 일부 차량을 조금 더 먼 길로 보내더라도 전체 차량을 여러 도로에 적절히 분산해 총 이동시간을 줄이는 방법도 연구되고 있습니다. 문제는 그때부터입니다. 모두의 이동시간을 줄이기 위해 누군가는 더 돌아가야 한다면 그 부담은 누가 져야 할까요? 다른 사람들의 이동시간이 평균 20분 줄어드는 대신 나만 5분 더 돌아가야 한다면, 여러분은 AI의 안내를 따르실 건가요? 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#교통체증 #내비게이션 #자율주행 #AI #교통공학 #도로 #안될과학 #과학유튜브",
+    "published": "2026-10-11T11:00:20+00:00",
+    "title": "모두의 퇴근을 위해 나만 5분 늦어진다면?",
+    "video_id": "zOqbBYi3k1A"
+   },
+   "wait_checks": 0
   },
   "zeoM90bEp2Q": {
    "first_seen": "2026-10-09T08:14:31+00:00",
