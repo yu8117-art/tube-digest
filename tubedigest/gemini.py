@@ -83,10 +83,16 @@ TS_LINE = re.compile(r"^\s*[-*]?\s*\[(?:(\d+):)?(\d{1,2}):(\d{2})\]\s*(.*)$")
 
 _last_video_call = 0.0
 _client_instance = None
+_unavailable: dict[str, str] = {}  # 이번 실행에서 더 쓰지 않을 모델 → 이유 (한도 초과, 과부하 등)
+_deadline = 0.0
 
 
 class GeminiError(Exception):
     pass
+
+
+class AllModelsUnavailable(GeminiError):
+    """설정한 모델이 모두 한도 초과·과부하·응답 없음이거나 시간 예산이 끝나 이번 실행에서는 더 요약할 수 없다."""
 
 
 def available() -> bool:
@@ -98,15 +104,67 @@ def _client():
     global _client_instance
     if _client_instance is None:
         from google import genai
-        _client_instance = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+        from google.genai.types import HttpOptions, HttpRetryOptions
+        # SDK는 429/5XX를 자동 재시도하면서 응답의 Retry-After를 그대로 기다린다. 하루 한도 초과 응답은
+        # 약 18시간(65,550초)을 요구해서, 호출이 사실상 영원히 멈췄다(2026-10-11~12 실행 멈춤의 진짜 원인).
+        # 재시도 대상을 존재하지 않는 코드(599)로 바꿔 429/503이 바로 오류로 돌아오게 하고, 다음 모델로 넘어간다.
+        _client_instance = genai.Client(
+            api_key=os.environ["GEMINI_API_KEY"],
+            http_options=HttpOptions(retry_options=HttpRetryOptions(attempts=1, http_status_codes=[599])),
+        )
     return _client_instance
 
 
+def set_deadline(ts: float) -> None:
+    """이 시각이 지나면 다음 모델로 넘어가지 않는다 (실행 시간 예산)."""
+    global _deadline
+    _deadline = ts
+
+
+def _unavailable_reason(e: BaseException) -> str | None:
+    """이번 실행에서 이 모델을 더 쓰지 말아야 하는 오류면 이유를, 아니면 None."""
+    if isinstance(e, GeminiError):
+        return "응답 없음"
+    code, msg = getattr(e, "status_code", None), str(e)
+    if code == 429 or "RESOURCE_EXHAUSTED" in msg:
+        return "한도 초과"
+    if code in (500, 502, 503, 504) or "UNAVAILABLE" in msg:
+        return "과부하"
+    if code == 404:
+        return "모델 없음"
+    if type(e).__name__ in ("APIConnectionError", "APITimeoutError"):
+        return "연결 실패"
+    return None
+
+
 def _create(cfg: Config, **kwargs):
-    """Gemini 호출에 상한 시간을 둔다.
+    """설정한 모델을 순서대로 시도해 (응답, 쓴 모델)을 돌려준다.
+
+    무료 한도는 모델마다 따로다. gemini-3.8-flash는 하루 20회뿐이라 금방 바닥나고, 남아 있을 때도 요청 폭주(503)로
+    응답이 수 분씩 늦었다(2026-10-12 실측). 한 모델이 한도 초과·과부하·응답 없음이면 이번 실행에서는 빼고
+    다음 모델로 넘어간다. 모두 안 되면 AllModelsUnavailable을 던져 남은 영상을 다음 회차로 미룬다.
+    """
+    for model in cfg.gemini_models:
+        if model in _unavailable:
+            continue
+        if _deadline and time.time() > _deadline:
+            raise AllModelsUnavailable("이번 실행 시간 예산 소진")
+        try:
+            return _call_one(cfg, model=model, **kwargs), model
+        except Exception as e:
+            reason = _unavailable_reason(e)
+            if reason is None:
+                raise
+            _unavailable[model] = reason
+            log.warning("Gemini %s 사용 불가(%s) → 다음 모델: %s", model, reason, str(e)[:160])
+    raise AllModelsUnavailable("모든 모델 사용 불가: " + ", ".join(f"{m}({r})" for m, r in _unavailable.items()))
+
+
+def _call_one(cfg: Config, **kwargs):
+    """Gemini 호출 1번에 상한 시간을 둔다.
 
     SDK는 기본 제한 시간이 없고 실패하면 재시도까지 해서, 응답 없는 요청 하나가 실행 전체를 60분 동안 붙잡고
-    강제 종료되는 일이 20시간 동안 반복됐다(2026-10-11~12). 상한을 넘기면 포기하고 다음 회차에 다시 시도한다.
+    강제 종료되는 일이 20시간 동안 반복됐다(2026-10-11~12). 상한을 넘기면 포기한다.
     """
     limit = cfg.gemini_call_timeout_minutes * 60
     box: dict = {}
@@ -177,9 +235,8 @@ def _request(text: str) -> str:
 
 
 def _summarize_call(cfg: Config, parts: list[dict]) -> dict:
-    res = _create(
+    res, model = _create(
         cfg,
-        model=cfg.gemini_model,
         system_instruction=SYSTEM,
         input=parts,
         response_format={"type": "text", "mime_type": "application/json", "schema": SCHEMA},
@@ -189,7 +246,7 @@ def _summarize_call(cfg: Config, parts: list[dict]) -> dict:
         raise GeminiError("빈 응답")
     data = json.loads(text)
     u = getattr(res, "usage", None)
-    data["_usage"] = {"model": cfg.gemini_model,
+    data["_usage"] = {"model": model,
                       "input_tokens": getattr(u, "total_input_tokens", None),
                       "output_tokens": getattr(u, "total_output_tokens", None)}
     return data
@@ -219,7 +276,7 @@ def _segment_notes(cfg: Config, video: Video, start: int, end: int, last: bool) 
     if not last:  # 구간 끝을 영상의 끝으로 착각해 "영상이 마무리된다"고 적는 것을 막는다
         text += " 영상은 이 구간 뒤에도 계속되므로, 구간이 끝나는 지점을 영상의 끝이나 마무리로 적지 마라."
     _pace(cfg)
-    res = _create(cfg, model=cfg.gemini_model, input=[_video_part(video, start, end), {"type": "text", "text": text}])
+    res, _ = _create(cfg, input=[_video_part(video, start, end), {"type": "text", "text": text}])
     lines = parse_notes(res.output_text or "", start)
     if not lines:
         raise GeminiError(f"구간 노트가 비어 있음 ({fmt_ts(start)}~{fmt_ts(end)})")
@@ -249,6 +306,8 @@ def summarize(cfg: Config, video: Video, info: VideoInfo | None = None) -> dict:
         text = f"{_meta_text(video, duration)}\n\n첨부 영상이 이 유튜브 영상이고, 첨부 이미지는 이 영상의 썸네일이다."
         summary = _summarize_call(cfg, [_video_part(video)] + thumb + [{"type": "text", "text": _request(text)}])
         summary["_source"] = "video"
+    if duration:  # 모델이 영상 길이를 넘는 시간대를 지어내는 경우가 있다(flash-lite 실측) → 버린다
+        summary["timeline"] = [t for t in summary.get("timeline", []) if 0 <= int(t.get("seconds", -1)) <= duration]
     summary["_duration"] = duration
     return summary
 

@@ -12,10 +12,16 @@ options:
 
 # Gemini가 영상(유튜브 URL)과 썸네일을 직접 보고 prompts/summary_prompt.md 대로 요약한다. GEMINI_API_KEY 필요.
 gemini:
-  model: gemini-3.8-flash      # 무료 티어 사용 가능 (무료 티어는 유튜브 영상 하루 8시간까지)
+  # 위에서부터 차례로 쓴다. 무료 한도는 모델마다 따로라서, 한 모델이 한도 초과·과부하면 다음 모델로 넘어간다.
+  # 실측(2026-10-12): 3.8-flash는 무료 하루 20회뿐 + 과부하 잦음 / 3.6-flash는 품질 좋음(12분 영상 2.5분)
+  #                   / 3.5-flash-lite는 빠름(27초)이나 시간대를 가끔 틀림(영상 길이를 넘는 시간대는 자동 제거)
+  models:
+    - gemini-3.6-flash
+    - gemini-3.5-flash-lite
+    - gemini-3.8-flash
   segment_minutes: 30          # 이보다 긴 영상은 구간별로 노트를 만든 뒤 요약 (요청당 토큰 한도 대응)
   pause_sec: 60                # 영상 분석 호출 사이 최소 간격 (분당 토큰 한도 대응)
-  call_timeout_minutes: 10     # Gemini 호출 1번의 최대 대기 시간. 넘기면 포기하고 다음 회차에 재시도
+  call_timeout_minutes: 10     # Gemini 호출 1번의 최대 대기 시간. 넘기면 그 모델은 이번 실행에서 빼고 다음 모델로
   wait_hours: 24               # 분석 실패(무료 한도 초과 등) 시 재시도할 최대 시간. 지나면 제목·설명·썸네일만으로 요약
 
 notify:

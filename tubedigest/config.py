@@ -48,7 +48,7 @@ class Config:
     run_budget_minutes: int = 35
     backfill_on_first_run: int = 0
     git_push: bool = False
-    gemini_model: str = "gemini-3.8-flash"
+    gemini_models: tuple[str, ...] = ("gemini-3.6-flash", "gemini-3.5-flash-lite", "gemini-3.8-flash")
     gemini_segment_minutes: int = 30
     gemini_pause_sec: int = 60
     gemini_call_timeout_minutes: int = 10
@@ -89,7 +89,8 @@ def load_config() -> Config:
         run_budget_minutes=int(opt.get("run_budget_minutes", 35)),
         backfill_on_first_run=int(opt.get("backfill_on_first_run", 0)),
         git_push=bool(opt.get("git_push", False)),
-        gemini_model=gm.get("model", "gemini-3.8-flash"),
+        # models(순서대로 시도)가 기본. 예전 설정의 model 한 개만 있으면 그것만 쓴다.
+        gemini_models=tuple(gm.get("models") or ([gm["model"]] if gm.get("model") else Config.gemini_models)),
         gemini_segment_minutes=int(gm.get("segment_minutes", 30)),
         gemini_pause_sec=int(gm.get("pause_sec", 60)),
         gemini_call_timeout_minutes=int(gm.get("call_timeout_minutes", 10)),

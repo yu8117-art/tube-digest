@@ -69,6 +69,8 @@ def build_article(cfg: Config, video: Video, rec: dict | None = None, force: boo
     else:
         try:
             summary = gemini.summarize(cfg, video, info)
+        except gemini.AllModelsUnavailable:
+            raise  # 이 영상 문제가 아니라 모든 모델이 막힌 것 → 호출한 쪽에서 이번 실행을 멈춘다
         except Exception as e:
             log.warning("영상 분석 실패: %s: %s", type(e).__name__, str(e)[:300])
             if rec is not None:
@@ -93,6 +95,7 @@ def process_pending(cfg: Config, state: State, started: float) -> list[str]:
         log.error("GEMINI_API_KEY가 없어 요약을 건너뜀. 대기 영상 %d개는 그대로 둔다.", len(state.pending()))
         return done
     deadline = started + cfg.run_budget_minutes * 60
+    gemini.set_deadline(deadline)  # 예산이 끝나면 실패한 모델 다음 모델로 넘어가지 않는다
     # 최근에 시도했다 실패한 영상은 뒤로 보낸다. 한 영상이 매번 맨 앞에서 실패하며 나머지를 막지 않게.
     queue = sorted(state.pending(), key=lambda kv: (kv[1].get("last_attempt", ""), kv[1].get("published", "")))
     attempts = 0
@@ -119,6 +122,9 @@ def process_pending(cfg: Config, state: State, started: float) -> list[str]:
                  fmt_ts(info.duration) if info.duration else "모름", info.source, video.title)
         try:
             article = build_article(cfg, video, rec, info=info)
+        except gemini.AllModelsUnavailable as e:  # 한도 초과·과부하·예산 소진: 오류로 세지 않고 다음 회차로
+            log.warning("이번 실행에서는 더 요약할 수 없음 (%s). 남은 영상은 다음 회차에 처리", e)
+            break
         except Exception as e:  # 영상 하나의 실패가 나머지 처리를 막지 않게, 기록 후 다음 회차에 재시도
             rec["errors"] = rec.get("errors", 0) + 1
             rec["last_error"] = f"{type(e).__name__}: {e}"[:500]
