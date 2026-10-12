@@ -777,6 +777,17 @@
    "published": "2026-09-30T09:30:25+00:00",
    "status": "baseline"
   },
+  "AEV8qrrHqew": {
+   "done_at": "2026-10-12T08:19:44+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-12T08:16:49+00:00",
+   "last_attempt": "2026-10-12T08:16:51+00:00",
+   "notified": "2026-10-12T08:19:53+00:00",
+   "published": "2026-10-12T08:00:00+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "AEeqgiLNGWw": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-09-21T10:48:51+00:00",
