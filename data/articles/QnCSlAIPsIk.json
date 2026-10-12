@@ -1,0 +1,75 @@
+{
+ "video": {
+  "video_id": "QnCSlAIPsIk",
+  "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
+  "channel_name": "지식보관소",
+  "title": "최근 발견된 실용화가 가능해 보이는 초전도체를 만드는 기술",
+  "published": "2026-10-11T14:30:05+00:00",
+  "description": "Instagram ID @archiveyoutube \n#상온초전도체 #고온초전도체 #메타물질 #초전도현상 #BCS이론\n\n시청해주셔서 감사합니다.\n\n얼마전 미국 MIT 등이 참여한 국제 공동 연구팀은 진공의 양자 요동을 초전도체에 가하자 초전도 현상이 일어나는 임계온도가 높아진다는 사실을 발견했으며 이 내용은 올해 2026년 10월 국제학술지 Nature에 게시가 되었습니다. \nhttps://www.nature.com/articles/s41586-026-11037-x\n\n맴버쉽 가입: https://www.youtube.com/channel/UC1Do3xw9OuUk7FQuPTmSVOw/join\n※ 후원 : https://toon.at/donate/knowledge\n\n--------------------------------------\n제보 및 비지니스 문의\nE-Mail : asdfg3663@gmail.com\nBlog : http://blog.naver.com/asdfg3663\nInstagram : https://www.instagram.com/archiveyoutube/\n--------------------------------------\n게임 개발 관련\ncafe : https://cafe.naver.com/jisic20000\n--------------------------------------\n\n\nBGM 정보\nSavfk - Ultra : https://youtu.be/8A4Jak73Lao\n웅장한 느낌의 곡 - TTRM\nDestination Unknown - Ugonna Onyekwe",
+  "url": "https://www.youtube.com/watch?v=QnCSlAIPsIk"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/QnCSlAIPsIk/maxresdefault.jpg",
+ "source": "video",
+ "duration": 452,
+ "summary": {
+  "headline": "진공 양자요동으로 고온초전도체 성능 높인다",
+  "thumbnail_text": "양자요동을 이용해서 고온초전도체를 만든다?!",
+  "thumbnail_answer": "진공의 양자요동을 이용해 초전도체의 임계온도와 성능을 높일 수 있다는 사실이 네이처에 발표되었다.",
+  "conclusion": "미국 MIT 등 국제 공동 연구팀이 진공의 양자요동을 초전도체에 가해 임계온도를 높이는 데 성공했다. 이는 상온 초전도체는 아니지만 기존 고온초전도체의 성능과 임계온도를 향상시킬 수 있는 획기적인 발견이다. 초전도체 내부 구조의 진공 환경을 바꾸는 것만으로도 잠재력을 크게 끌어올릴 수 있다.",
+  "key_points": [
+   "MIT 등 국제 공동 연구팀이 진공의 양자요동을 이용해 초전도 임계온도를 높이는 연구를 네이처에 발표했다.",
+   "초전도체는 전기저항이 0이 되는 현상이지만, 대부분 영하 260도 이하의 극저온이 필요하다는 한계가 있다.",
+   "최근 고온초전도체의 원리가 '다체 양자상태'라는 것이 밝혀졌다.",
+   "연구팀은 이셀렌화 나이오븀 초전도체에 '스플릿 링 공진기'를 배치해 인위적인 진공 영역을 만들었다.",
+   "공진기 효과를 받은 구역은 초전도 임계온도가 높아지고 최대 전류와 자기장 한계도 크게 증가했다.",
+   "진공 환경을 조절해 양자 결맞음 확률을 높이면 기존 초전도체의 성능을 한 단계 끌어올릴 수 있다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "연구 배경 및 네이처 게재",
+    "points": [
+     "미국 MIT 등 국제 공동 연구팀의 초전도 연구가 네이처에 게시되었다.",
+     "진공의 양자요동을 초전도체에 가해 임계온도를 높였다."
+    ]
+   },
+   {
+    "seconds": 21,
+    "title": "초전도 현상과 한계점",
+    "points": [
+     "초전도는 전기저항이 없어 에너지 손실이 없는 현상이다.",
+     "대부분 영하 260도 이하의 극저온에서만 발생한다는 치명적 문제가 있다."
+    ]
+   },
+   {
+    "seconds": 209,
+    "title": "고온초전도체와 다체 양자상태",
+    "points": [
+     "영하 180도 부근의 고온 초전도체 원리는 최근까지 밝혀지지 않았다.",
+     "고온초전도체의 원리는 다체 양자상태와 관련이 있다."
+    ]
+   },
+   {
+    "seconds": 404,
+    "title": "진공 양자요동과 실험 장치",
+    "points": [
+     "진공 상태에서의 양자요동을 초전도 조건 완화에 이용했다.",
+     "이셀렌화 나이오븀과 스플릿 링 공진기를 이용해 미세 회로를 구성했다."
+    ]
+   }
+  ],
+  "tags": [
+   "초전도체",
+   "양자요동",
+   "고온초전도체",
+   "메타물질",
+   "물리학"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 43087,
+   "output_tokens": 934
+  }
+ },
+ "created_at": "2026-10-12T06:39:17+00:00"
+}

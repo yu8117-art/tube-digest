@@ -643,18 +643,14 @@
    "wait_checks": 0
   },
   "7WUzZbxrNUw": {
+   "done_at": "2026-10-12T06:40:17+00:00",
    "errors": 0,
    "first_seen": "2026-10-12T06:20:11+00:00",
+   "last_attempt": "2026-10-12T06:39:17+00:00",
+   "notified": "2026-10-12T06:41:16+00:00",
    "published": "2026-10-11T21:14:41+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCRCNBeNS8MrOwFV6h6Yjemw",
-    "channel_name": "시황맨TV",
-    "description": "모닝 브리핑. 연휴 막판 터진 돌발 뉴스 증시 영향. 종목 갈아타기 장세 조짐. 업종별 변화 점검. 삼성전자 변수 정점 치는 날. 증시 수급, 단기 추세 분석. 종목 장세 5대장 추세 비교.\n\n방송 요약\n연휴 막판 터진 중동발 돌발 뉴스 증시 영향.\nAI 관련주 움직임 변화 \n종목 갈아타기 장세 조짐. \n업종 대표주별 동향 점검. \n삼성전자 실적, 자사주 등 변수 정점 치는 날. \n증시 수급 동향. 큰 손들 매수 종목군\n코스피, 코스닥, 단기 추세 분석. \n종목 장세 5대장 추세 비교 \n\n#삼성전자, #테슬라 ,#채권 ,#에코프로비엠 ,#sk하이닉스 ,#주식시황 ,#에코프로 ,#애플 ,#엔비디아 ,#국제유가 ,#증시전망 ,#환율 ,#국채금리 ,#마이크론테크,#코스닥 ,#엘앤에프 ,#미국주식,#해외증시 ,#다우지수 ,#마이크론테크 ,#채권금리 ,#LG에너지솔루션 ,#반도체주식 ,#HBM관련주 ,#FOMC ,#비트코인 ,#LG에너지솔루션 ,#가상화폐 ,#암호화폐 ,#셀트리온,#셀트리온제약 ,#ai관련주 ,#TSMC,#KB금융 ,#저PBR ,#밸류업 ,#기아 ,#한미반도체 ,#파월의장 ,#경기선행지수 ,#한미약품 ,#엘앤에프 , #태양광관련주 ,#구리관련주 ,#TSMC ,#PCE ,#대차대조표 ,#HLB ,#CPI ,#JP모건 ,#모건스탠리 ,#셀트리온 ,#삼성전자HBM ,#CPI ,#달러차트 ,#HLB ,#삼성전자HBM ,#미국고용지표  ,#알테오젠 ,#트럼프 ,#ISM제조업지수 ,#BTS ,#금투세 ,#모건스탠리 ,#밸류업지수 ,#북한 ,#고려아연 ,#금양 ,#엔달러 ,#엔캐리트레이드 ,#로봇관련주 ,#레인보우로보틱스 ,#딥시크 ,#DeepSeek ,#관세 ,#트럼프관세 ,#무역전쟁 ,#관세전쟁 ,#세법개정안 ,#스테이블코인 ,#주식양도세 ,#파운드리 ,#PPI ,#생산자물가지수 ,#한화오션 ,#양적긴축 ,#부동산정책 ,#부동산대책 ,#FOMC ,#주주환원 ,#관세협상 ,#ADR ,#HBM ,#HBM4 ,#마이클버리 ,#빅쇼트 ,#사이드카 ,#매출채권 ,#제미나이3 ,#TPU ,#오라클 ,#잭슨홀 ,#환헤지 ,#전략적환헤지, #잭슨홀미팅 ,#SMR ,#BTS ,#블루아울 ,#IEEPA ,#국제비상경제권한법 ,#이란전쟁 ,#호르무즈 ,#호르무즈해협 ,#에이비엘바이오 ,#휴전 ,#스페이스X ,#젠슨황 ,#케빈워시 ,#마이크론실적 ,#삼성전자ETF ,#EUV ,#DUV ,#서킷브레이커 ,#아스트라AI",
-    "published": "2026-10-11T21:14:41+00:00",
-    "title": "모닝 브리핑. 연휴 막판 터진 돌발 뉴스 영향. 종목 갈아타기 장세 조짐. 업종별 변화 점검. 삼성전자 변수 정점 치는 날. 수급, 단기 추세 분석. 종목 장세 5대장 추세 비교.",
-    "video_id": "7WUzZbxrNUw"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "7XClqcYZkko": {
@@ -717,6 +713,21 @@
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-08T23:00:08+00:00",
    "status": "baseline"
+  },
+  "8UC2O_BoeSM": {
+   "errors": 0,
+   "first_seen": "2026-10-12T06:37:00+00:00",
+   "published": "2026-10-12T06:30:04+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n삼성전자 하이닉스 직원들 사는 곳만 좋습니다, 동탄·용인·이천 빼면 다 어렵습니다\n\n☞촬영일: 26년 10월 7일",
+    "published": "2026-10-12T06:30:04+00:00",
+    "title": "삼성전자 하이닉스 직원들 사는 곳만 좋습니다, 동탄·용인·이천 빼면 다 어렵습니다 [김대종 교수]",
+    "video_id": "8UC2O_BoeSM"
+   },
+   "wait_checks": 0
   },
   "8aEGw6UXRJQ": {
    "first_seen": "2026-10-09T08:14:39+00:00",
@@ -845,18 +856,14 @@
    "status": "baseline"
   },
   "BODwSCxF9N4": {
+   "done_at": "2026-10-12T06:38:26+00:00",
    "errors": 0,
    "first_seen": "2026-10-12T06:13:03+00:00",
+   "last_attempt": "2026-10-12T06:37:40+00:00",
+   "notified": "2026-10-12T06:41:17+00:00",
    "published": "2026-10-11T11:00:10+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘운명을 바꾸는 부동산 투자수업\n👉http://bit.ly/3tML9k0\n\n\"안 가본 분들은 전혀 몰라요\" 경기도 아파트 실제 현장 분위기\n서울 경기도 아파트 여기 보세요, 내년부터 정말 무섭게 오를 거예요\n지금 강남 분위기 묘하다, 강남 집값 잡았더니 벌어진 일들\n\n☞촬영일: 26년 10월 8일",
-    "published": "2026-10-11T11:00:10+00:00",
-    "title": "\"안 가본 분들은 전혀 몰라요\" 경기도 아파트 실제 현장 분위기 [메디테라 1부]",
-    "video_id": "BODwSCxF9N4"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "BTg1OXXx2SY": {
@@ -1708,18 +1715,14 @@
    "status": "baseline"
   },
   "QnCSlAIPsIk": {
+   "done_at": "2026-10-12T06:39:17+00:00",
    "errors": 0,
    "first_seen": "2026-10-12T06:20:03+00:00",
+   "last_attempt": "2026-10-12T06:38:26+00:00",
+   "notified": "2026-10-12T06:41:18+00:00",
    "published": "2026-10-11T14:30:05+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
-    "channel_name": "지식보관소",
-    "description": "Instagram ID @archiveyoutube \n#상온초전도체 #고온초전도체 #메타물질 #초전도현상 #BCS이론\n\n시청해주셔서 감사합니다.\n\n얼마전 미국 MIT 등이 참여한 국제 공동 연구팀은 진공의 양자 요동을 초전도체에 가하자 초전도 현상이 일어나는 임계온도가 높아진다는 사실을 발견했으며 이 내용은 올해 2026년 10월 국제학술지 Nature에 게시가 되었습니다. \nhttps://www.nature.com/articles/s41586-026-11037-x\n\n맴버쉽 가입: https://www.youtube.com/channel/UC1Do3xw9OuUk7FQuPTmSVOw/join\n※ 후원 : https://toon.at/donate/knowledge\n\n--------------------------------------\n제보 및 비지니스 문의\nE-Mail : asdfg3663@gmail.com\nBlog : http://blog.naver.com/asdfg3663\nInstagram : https://www.instagram.com/archiveyoutube/\n--------------------------------------\n게임 개발 관련\ncafe : https://cafe.naver.com/jisic20000\n--------------------------------------\n\n\nBGM 정보\nSavfk - Ultra : https://youtu.be/8A4Jak73Lao\n웅장한 느낌의 곡 - TTRM\nDestination Unknown - Ugonna Onyekwe",
-    "published": "2026-10-11T14:30:05+00:00",
-    "title": "최근 발견된 실용화가 가능해 보이는 초전도체를 만드는 기술",
-    "video_id": "QnCSlAIPsIk"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "Qsv8miZJpbU": {
@@ -2485,18 +2488,14 @@
    "status": "baseline"
   },
   "d4f_LSqo11U": {
+   "done_at": "2026-10-12T06:41:15+00:00",
    "errors": 0,
    "first_seen": "2026-10-12T06:13:43+00:00",
+   "last_attempt": "2026-10-12T06:40:17+00:00",
+   "notified": "2026-10-12T06:41:18+00:00",
    "published": "2026-10-11T22:00:08+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCDSj40X9FFUAnx1nv7gQhcA",
-    "channel_name": "월급쟁이부자들TV",
-    "description": "📍 김광석님과 함께 나눈 이야기\n00:00 무너져내리는 한국 중산층\n03:44 취약차주, 자영업자들의 부담\n06:45 위기의 청년층\n09:45 현 상황 속에서 살아남는 방법\n\n오늘은 김광석 교수님과 함께 흔들리는 중산층과 취약차주·자영업자·청년층이 겪는 현실을 짚어보고, 현재의 경제 환경 속에서 어떻게 대응하고 버텨야 할지 이야기 나눴습니다.\n\n📌 10/22 한국은행 금리 발표, 내 대출 이자는 어떻게 될까? 미리 준비할 3가지!\n👉🏻 [한가해보이 무료 칼럼 보러가기] https://link.weolbu.com/4xXYXnl\n\n📌 나에게 딱 맞는 재테크 찾는 법, 너나위의 [4주 완성 재테크 입문반]\n지금 대기 신청하시면 가장 먼저 알려드려요!\n👉🏻 https://link.weolbu.com/4yzpSXq\n\n📖 김광석님 신간 『돈의 역류 2027년 경제전망』\n(교보) vo.la/MA02iHS\n(예스24) vo.la/wUVW6VZ\n\n#한국경제 #환율 #금리 #경제전망 #직장인재테크 #김광석 #월부강의 #월부후기",
-    "published": "2026-10-11T22:00:08+00:00",
-    "title": "\"모든 세대가 가난해졌다\" 충격적인 한국 중산층의 몰락, 경제 위기가 올 때 이 순서대로 무너집니다",
-    "video_id": "d4f_LSqo11U"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "dBY4dYC-yzI": {
@@ -2734,18 +2733,14 @@
    "status": "baseline"
   },
   "gPrqv8MWOEA": {
+   "done_at": "2026-10-12T06:37:40+00:00",
    "errors": 0,
    "first_seen": "2026-10-12T06:19:52+00:00",
+   "last_attempt": "2026-10-12T06:37:01+00:00",
+   "notified": "2026-10-12T06:41:19+00:00",
    "published": "2026-10-11T10:24:58+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
-    "channel_name": "안될공학 - IT 테크 신기술",
-    "description": "OpenAI가 안전 연구원 세 명을 해고하면서 논란이 커졌습니다.회사는 민감한 정보 취급 규정 위반을 이유로 들었고, 연구원들은 당시 업무 범위와 관행 안에서 일했다고 반박했습니다.재스민 왕이 설명한 이메일 접근 경위와 세 사람이 공개한 서한을 살펴봅니다.외부 연구기관과의 안전 검증이 왜 회사의 기밀 관리 문제와 충돌하는지도 짚어봅니다.허깅페이스 보안 사고와 앤트로픽이 공개한 평가 중 사고는 이러한 논쟁의 배경입니다.앤트로픽 연구원 제이컵 콕슨의 퇴사와 경고도 함께 다룹니다.OpenAI가 안전 문제로 GPT-6.1 아스트라 출시를 중단한 결정도 살펴봅니다.개발 속도 조절을 제안한 뒤 신제품을 내놓은 앤트로픽의 설명도 비교합니다.기업들의 공동 속도 조절을 둘러싼 반독점 소송에서는 안전과 경쟁의 이해관계가 부딪힙니다.AI 회사들의 안전 약속을 외부에서 실제로 확인하려면 어떤 권한이 필요한지 이야기합니다.\n\nWritten by 패치\nEdited by 이진이\n\nunrealtech2021@gmail.com",
-    "published": "2026-10-11T10:24:58+00:00",
-    "title": "OpenAI, Antrhopic에서 무슨 일이? 챗GPT 안전 연구원 3명 해고…  몇 주 간 계속 터진 AI 회사들의 안전 논란",
-    "video_id": "gPrqv8MWOEA"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "gVdw1MdgFE4": {
