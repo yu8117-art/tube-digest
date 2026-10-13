@@ -3568,6 +3568,21 @@
    "published": "2026-10-06T12:57:15+00:00",
    "status": "baseline"
   },
+  "j1NbRdKj5WM": {
+   "errors": 0,
+   "first_seen": "2026-10-13T18:51:54+00:00",
+   "published": "2026-10-13T18:41:55+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-10-13T18:41:55+00:00",
+    "title": "이강인 선발, AT마드리드 : 맨유!! 알바레스 - 이강인 투톱 출격",
+    "video_id": "j1NbRdKj5WM"
+   },
+   "wait_checks": 0
+  },
   "jJhhW9Lj-wE": {
    "errors": 0,
    "first_seen": "2026-10-13T02:06:27+00:00",
