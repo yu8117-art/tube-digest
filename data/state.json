@@ -883,6 +883,17 @@
    "published": "2026-09-29T05:00:13+00:00",
    "status": "baseline"
   },
+  "Ae9pN-g_3Bs": {
+   "done_at": "2026-10-13T11:31:16+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-13T11:29:59+00:00",
+   "last_attempt": "2026-10-13T11:30:20+00:00",
+   "notified": "2026-10-13T11:31:17+00:00",
+   "published": "2026-10-13T11:16:35+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "Aep0Y8EHimA": {
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-10-09T05:35:15+00:00",
@@ -2668,6 +2679,17 @@
    "notified": "2026-10-12T10:17:59+00:00",
    "published": "2026-10-12T10:00:39+00:00",
    "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "_LOD9GYd1Qk": {
+   "done_at": "2026-10-13T11:30:20+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-13T11:30:00+00:00",
+   "last_attempt": "2026-10-13T11:30:04+00:00",
+   "notified": "2026-10-13T11:31:18+00:00",
+   "published": "2026-10-13T11:11:49+00:00",
+   "source": "video",
    "status": "done",
    "wait_checks": 0
   },
