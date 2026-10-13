@@ -1344,19 +1344,14 @@
    "status": "baseline"
   },
   "HxtN1fH_XaU": {
+   "done_at": "2026-10-13T10:31:44+00:00",
    "errors": 0,
    "first_seen": "2026-10-13T10:09:42+00:00",
-   "last_attempt": "2026-10-13T10:10:35+00:00",
+   "last_attempt": "2026-10-13T10:30:21+00:00",
+   "notified": "2026-10-13T10:31:45+00:00",
    "published": "2026-10-13T10:01:35+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-    "channel_name": "슈카월드",
-    "description": "0:00 귀여운 외모, 그렇지 못한 내용?\n3:37 본격 자본주의 디스토피아 애니메이션\n16:57 폭증하는 중국 '쉬었음 청년'\n21:49 서구식 항의 vs 아시아식 표출 방식",
-    "published": "2026-10-13T10:01:35+00:00",
-    "title": "아시아 청년들은 왜 치이카와 열풍에 빠졌나",
-    "video_id": "HxtN1fH_XaU"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "I-A_CgpvpVw": {
