@@ -2445,6 +2445,17 @@
    "published": "2026-09-13T08:00:29+00:00",
    "status": "baseline"
   },
+  "VCIKtSnpmdQ": {
+   "done_at": "2026-10-13T21:53:15+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-13T21:52:48+00:00",
+   "last_attempt": "2026-10-13T21:52:49+00:00",
+   "notified": "2026-10-13T21:53:15+00:00",
+   "published": "2026-10-13T21:17:48+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "VE1MNJvwuSA": {
    "first_seen": "2026-10-09T08:14:33+00:00",
    "published": "2026-09-10T11:21:18+00:00",
