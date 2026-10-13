@@ -1,0 +1,42 @@
+{
+ "video": {
+  "video_id": "94dySjq-qLg",
+  "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+  "channel_name": "채널 제네시스박",
+  "title": "월급이 올라도 내 지갑이 여전히 얇은 이유! (이제는 바뀔 때가 되지 않았나요?) [데일리뉴스 793]",
+  "published": "2026-10-13T11:35:06+00:00",
+  "description": "부동산 세금 정책은\n매년 크게 바뀌는 듯 합니다. \n\n심한 경우에는 한 달이 멀다하고\n바뀔 때도 있죠. \n\n그런데 그런 가운데에서도\n수 십 년째 변하지 않는 것들이 있습니다. \n\n양도세 기본공제 250만원, \n자녀 증여재산공제 5천 만원 등이 그것입니다. \n\n월급은 오르는 것 같은데, \n왜 내 지값은 점점 얇아지는 걸까요?\n\n그 이유를 살펴보겠습니다!\n\n📌 커피 한 잔 값으로 부동산 세금 완전정복!\nhttps://www.genesispark.co.kr/cu/Mfa9NVGW\n\n📌 연회원 신청 및 1:1 상담, 외부 교육 문의\nhttps://pf.kakao.com/_SfaRn\n\n📌 매년 바뀌는 부동산 세금 트렌드 완전정복!\n신간, 부동산 세금 트렌드 2025\nhttps://han.gl/pwiFQ\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
+  "url": "https://www.youtube.com/watch?v=94dySjq-qLg"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/94dySjq-qLg/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1010,
+ "summary": {
+  "headline": "30년째 그대로인 세금 공제, 커지는 '스텔스 증세'",
+  "thumbnail_text": "국가가 내 재산을 앗아가는 법 월급이 올라도 여전히 지갑이 얇은 이유!",
+  "thumbnail_answer": "물가와 자산 가치는 뛰었지만 30년째 고정된 세금 공제 기준과 멈춰버린 과세기준 덕분에 세금이 늘어나는 스텔스 증세가 발생하기 때문이다.",
+  "conclusion": "물가 상승과 자산 가치 변화를 반영하지 못하는 세금 제도는 현실과 괴리가 크다. 상속세와 양도세 등 주요 세제 공제 한도와 기준의 현실화가 시급하다.",
+  "key_points": [
+   "집값과 월급은 올랐지만 세금 공제 기준은 30년째 제자리다.",
+   "상속세 일괄공제 등 주요 공제 금액이 물가 상승을 반영하지 못한다.",
+   "정부가 세제 도입 당시 기준을 고수하면서 스텔스 증세가 발생한다.",
+   "국회에서 과세 기준 현실화를 촉구하는 결의안을 발의했다.",
+   "양도세 장기보유특별공제가 거주 기간 요건 강화와 공제 한도 축소로 부담을 키운다.",
+   "물가 연동제를 도입하여 세제 기준을 현실에 맞게 개편해야 한다."
+  ],
+  "timeline": [],
+  "tags": [
+   "부동산세금",
+   "스텔스증세",
+   "상속세",
+   "양도세",
+   "장기보유특별공제"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 93883,
+   "output_tokens": 396
+  }
+ },
+ "created_at": "2026-10-13T11:49:53+00:00"
+}
