@@ -469,15 +469,7 @@
    "errors": 0,
    "first_seen": "2026-10-13T08:14:30+00:00",
    "published": "2026-10-13T08:00:58+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-10-13T08:00:58+00:00",
-    "title": "축구협회 성명문 \"선수들에게 인신공격 멈춰달라\" / 캐러거, 비르츠의 부진 \"선발 빼야한다\" / 수원 승격 4경기 남았다",
-    "video_id": "4m-QIkWQxzw"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "4muqJe1bX-I": {
@@ -1350,6 +1342,22 @@
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-08T08:01:39+00:00",
    "status": "baseline"
+  },
+  "HxtN1fH_XaU": {
+   "errors": 0,
+   "first_seen": "2026-10-13T10:09:42+00:00",
+   "last_attempt": "2026-10-13T10:10:35+00:00",
+   "published": "2026-10-13T10:01:35+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "0:00 귀여운 외모, 그렇지 못한 내용?\n3:37 본격 자본주의 디스토피아 애니메이션\n16:57 폭증하는 중국 '쉬었음 청년'\n21:49 서구식 항의 vs 아시아식 표출 방식",
+    "published": "2026-10-13T10:01:35+00:00",
+    "title": "아시아 청년들은 왜 치이카와 열풍에 빠졌나",
+    "video_id": "HxtN1fH_XaU"
+   },
+   "wait_checks": 0
   },
   "I-A_CgpvpVw": {
    "errors": 0,
@@ -3512,6 +3520,17 @@
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-10-05T11:00:35+00:00",
    "status": "baseline"
+  },
+  "kQHeQAh6uyw": {
+   "done_at": "2026-10-13T10:10:35+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-13T10:09:50+00:00",
+   "last_attempt": "2026-10-13T10:09:53+00:00",
+   "notified": "2026-10-13T10:16:00+00:00",
+   "published": "2026-10-13T10:00:19+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "kWF5eWj5TSU": {
    "first_seen": "2026-10-09T08:14:37+00:00",
