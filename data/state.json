@@ -1835,6 +1835,17 @@
    "published": "2026-05-29T09:00:23+00:00",
    "status": "baseline"
   },
+  "QABsUCErFTw": {
+   "done_at": "2026-10-13T04:30:20+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-13T04:30:04+00:00",
+   "last_attempt": "2026-10-13T04:30:04+00:00",
+   "notified": "2026-10-13T04:30:21+00:00",
+   "published": "2026-10-13T04:09:28+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "QAKJhQwc6Qs": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-08-15T00:00:09+00:00",
