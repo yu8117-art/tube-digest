@@ -586,6 +586,22 @@
    "published": "2026-10-06T11:00:37+00:00",
    "status": "baseline"
   },
+  "6duVKQ-I_3Q": {
+   "errors": 0,
+   "first_seen": "2026-10-13T09:11:49+00:00",
+   "last_attempt": "2026-10-13T09:11:52+00:00",
+   "published": "2026-10-13T09:00:09+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘운명을 바꾸는 부동산 투자수업\n👉http://bit.ly/3tML9k0\n\n지금 전세값이 문제가 아니에요, 30년간 경험 못한 시장이 올 거예요\n이제 전세 줄 사람도 없어요, 점점 더 꼬여가는 부동산 시장\n결국 강제로 집 사게 될 거예요, 한국 부동산에 나타나는 이상현상\n\n☞촬영일: 26년 10월 8일",
+    "published": "2026-10-13T09:00:09+00:00",
+    "title": "지금 전세값이 문제가 아니에요, 30년간 경험 못한 시장이 올 거예요 [메디테라 3부]",
+    "video_id": "6duVKQ-I_3Q"
+   },
+   "wait_checks": 0
+  },
   "6eoFHHQY5bk": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-09-05T00:00:16+00:00",
@@ -1341,6 +1357,21 @@
     "published": "2026-10-13T04:30:16+00:00",
     "title": "\"안 가본 분들은 전혀 몰라요\" 지금 부동산 실제 현장 분위기 [메디테라]",
     "video_id": "I-A_CgpvpVw"
+   },
+   "wait_checks": 0
+  },
+  "I-nsBo5SDUs": {
+   "errors": 0,
+   "first_seen": "2026-10-13T09:11:48+00:00",
+   "published": "2026-10-13T09:00:36+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCFhF5oooL5ugxHKvTxBD75Q",
+    "channel_name": "땅집고",
+    "description": "#광진구 #재건축 #아파트\n\n서울 광진구 광장 극동아파트가 재건축을 앞두고 주목받고 있습니다. 대형 평형으로 구성돼 있고 한강을 바로 앞에 둔 이른바 ‘로열동’인 5동을 아예 재건축 사업에서 제외하는 방안이 검토되고 있는데요. 대체 왜 한 동을 빼자는 이야기가 나온 걸까요? 직접 현장을 찾아 그 이유를 알아봤습니다.\n\n💥 단단홈즈 프로모션 앵콜 연장 (~10/31)\n단기임대 똑똑하게 이용하기!\n\n[호스트 혜택] 수수료 평생 0원\n🔗 https://ader.dandanhomes.com/hq11f86\n\n[게스트 혜택] 수수료 반값 할인 (최대 10만원)\n🔗 https://ader.dandanhomes.com/5l4zat\n\n지금 3분 만에 방 등록하고 평생 0원 혜택 챙기기 🚀\n🔗 https://ader.dandanhomes.com/bsve9r\n\n🏢 “내 개발사업에 AI를 어디까지 활용할 수 있을까?”\n개발계획·사업성 검토·인허가부터\n에너지·보안·주차 운영까지\n현업 사례로 배우는 AI 부동산 실전교육\n👉 신청하기 ▼ https://zipgobiz.com/\n\n📌 땅집고TV 구독하고 남들보다 빠른 부동산 안목을 키우세요\n​👉 지금 바로 구독·좋아요·알림설정까지! http://bit.ly/3RmNLky\n오늘 영상에 대한 여러분의 의견도 댓글로 자유롭게 남겨주세요💬",
+    "published": "2026-10-13T09:00:36+00:00",
+    "title": "\"한강뷰 로열동을 빼고 짓는다고?\" 광장 극동 재건축에 불붙은 '제척' 전쟁ㅣ추PD가간다",
+    "video_id": "I-nsBo5SDUs"
    },
    "wait_checks": 0
   },
@@ -2914,6 +2945,21 @@
    "transcript_status": "ok",
    "wait_checks": 0
   },
+  "cdunMCo7OUk": {
+   "errors": 0,
+   "first_seen": "2026-10-13T09:11:44+00:00",
+   "published": "2026-10-13T09:00:20+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/",
+    "published": "2026-10-13T09:00:20+00:00",
+    "title": "\"맨유전 선발예상\" 이강인, 알바레스와 투톱 출전? 챔스 공격포인트 노린다",
+    "video_id": "cdunMCo7OUk"
+   },
+   "wait_checks": 0
+  },
   "cm9RdXXX7yc": {
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-08-19T14:17:03+00:00",
@@ -3276,6 +3322,21 @@
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-08T09:00:01+00:00",
    "status": "baseline"
+  },
+  "hNQvI310pfY": {
+   "errors": 0,
+   "first_seen": "2026-10-13T09:11:45+00:00",
+   "published": "2026-10-13T09:10:31+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC7F6UDq3gykPZHWRhrj_BDw",
+    "channel_name": "사물궁이 잡학지식",
+    "description": "스푸트니크로부터 원고를 제공 받아 제작된 영상입니다.\n\n* 사람의 뇌, 운동 중 시간 느리게 느껴\nhttps://www.sputnik.kr/news/view/7966\n\n- 사물궁이 유튜브 채널 구독 : https://youtube.com/@사물궁이\n- 사물궁이 시리즈 정주행 : https://youtube.com/playlist?list=PLs8vi5Jd35y55jcjDHMWIXfWjl206sSSF\n- 궁금증 제보 : https://forms.gle/xT6HQEpVTYbfe9EY8\n- 유튜브 멤버십 가입 : https://youtube.com/channel/UC7F6UDq3gykPZHWRhrj_BDw/join\n- E-Mail : facebookspeedwg@gmail.com",
+    "published": "2026-10-13T09:10:31+00:00",
+    "title": "운동할 때 왜 시간이 느리게 가는 것 같을까?",
+    "video_id": "hNQvI310pfY"
+   },
+   "wait_checks": 0
   },
   "hQB9azkV904": {
    "first_seen": "2026-10-09T08:14:33+00:00",
