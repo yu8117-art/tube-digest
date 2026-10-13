@@ -1503,15 +1503,7 @@
    "errors": 0,
    "first_seen": "2026-10-13T03:06:32+00:00",
    "published": "2026-10-13T02:49:19+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "전문가 알려주는 추천단지가 궁금하다면\n바이집 멤버십 : https://www.buyzip.kr",
-    "published": "2026-10-13T02:49:19+00:00",
-    "title": "여행다니면서집도사고싶어요vs/대출때문에아무것도못합니다 [상담하는남자들]",
-    "video_id": "LS83HeH5JiE"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "LYP-gPh18NA": {
