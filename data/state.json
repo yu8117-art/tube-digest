@@ -1243,6 +1243,21 @@
    "published": "2026-10-08T08:01:39+00:00",
    "status": "baseline"
   },
+  "I-A_CgpvpVw": {
+   "errors": 0,
+   "first_seen": "2026-10-13T04:50:45+00:00",
+   "published": "2026-10-13T04:30:16+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"안 가본 분들은 전혀 몰라요\" 지금 부동산 실제 현장 분위기\n\n☞촬영일: 26년 10월 8일",
+    "published": "2026-10-13T04:30:16+00:00",
+    "title": "\"안 가본 분들은 전혀 몰라요\" 지금 부동산 실제 현장 분위기 [메디테라]",
+    "video_id": "I-A_CgpvpVw"
+   },
+   "wait_checks": 0
+  },
   "I1CCrDjuE5w": {
    "done_at": "2026-10-12T07:08:04+00:00",
    "errors": 0,
@@ -2032,6 +2047,17 @@
    "last_attempt": "2026-10-12T06:27:25+00:00",
    "notified": "2026-10-12T06:28:32+00:00",
    "published": "2026-10-11T08:00:04+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "Si7Aw2Q2pTM": {
+   "done_at": "2026-10-13T04:51:01+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-13T04:50:40+00:00",
+   "last_attempt": "2026-10-13T04:50:47+00:00",
+   "notified": "2026-10-13T04:51:02+00:00",
+   "published": "2026-10-13T04:30:19+00:00",
    "source": "video",
    "status": "done",
    "wait_checks": 0
