@@ -3131,6 +3131,21 @@
    "published": "2026-10-06T16:05:07+00:00",
    "status": "baseline"
   },
+  "fKxtfknJ6Ek": {
+   "errors": 0,
+   "first_seen": "2026-10-13T08:37:05+00:00",
+   "published": "2026-10-13T08:30:03+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n무주택자 고민 말고 '이런 집' 사세요\n\n☞촬영일: 26년 10월 8일",
+    "published": "2026-10-13T08:30:03+00:00",
+    "title": "무주택자 고민 말고 '이런 집' 사세요 [메디테라]",
+    "video_id": "fKxtfknJ6Ek"
+   },
+   "wait_checks": 0
+  },
   "fQFaL5a7ytA": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-09-30T09:00:26+00:00",
@@ -3710,6 +3725,17 @@
    "published": "2024-12-27T01:17:44+00:00",
    "status": "baseline"
   },
+  "ofcKeKoUXeM": {
+   "done_at": "2026-10-13T08:38:04+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-13T08:37:03+00:00",
+   "last_attempt": "2026-10-13T08:37:07+00:00",
+   "notified": "2026-10-13T08:41:18+00:00",
+   "published": "2026-10-13T08:30:39+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "oypPXWH94G0": {
    "errors": 0,
    "first_seen": "2026-10-13T07:06:18+00:00",
@@ -3746,19 +3772,14 @@
    "wait_checks": 0
   },
   "pC7ha_bICY4": {
+   "done_at": "2026-10-13T08:41:16+00:00",
    "errors": 0,
    "first_seen": "2026-10-13T08:14:34+00:00",
-   "last_attempt": "2026-10-13T08:14:37+00:00",
+   "last_attempt": "2026-10-13T08:38:05+00:00",
+   "notified": "2026-10-13T08:41:17+00:00",
    "published": "2026-10-13T08:00:09+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n금리 인상보다 무서운 게 온다? 돈 어마어마하게 풀릴 겁니다\n조용히 무너지는 한국경제, 한국에 퍼져가는 이상현상\n사상 돈이 가장 많이 풀린다? 앞으로가 더 무서운 이유\n\n☞촬영일: 26년 10월 7일",
-    "published": "2026-10-13T08:00:09+00:00",
-    "title": "금리 인상보다 무서운 게 온다? 돈 어마어마하게 풀릴 겁니다 [김대종 교수 풀버전]",
-    "video_id": "pC7ha_bICY4"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "pHbx8cPFwd0": {
