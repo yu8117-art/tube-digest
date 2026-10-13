@@ -465,6 +465,21 @@
    "published": "2026-09-28T14:21:43+00:00",
    "status": "baseline"
   },
+  "4m-QIkWQxzw": {
+   "errors": 0,
+   "first_seen": "2026-10-13T08:14:30+00:00",
+   "published": "2026-10-13T08:00:58+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-10-13T08:00:58+00:00",
+    "title": "축구협회 성명문 \"선수들에게 인신공격 멈춰달라\" / 캐러거, 비르츠의 부진 \"선발 빼야한다\" / 수원 승격 4경기 남았다",
+    "video_id": "4m-QIkWQxzw"
+   },
+   "wait_checks": 0
+  },
   "4muqJe1bX-I": {
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-09-28T12:10:04+00:00",
@@ -3514,6 +3529,21 @@
    "published": "2026-10-07T08:30:08+00:00",
    "status": "baseline"
   },
+  "ma8n3xSxxx0": {
+   "errors": 0,
+   "first_seen": "2026-10-13T08:14:36+00:00",
+   "published": "2026-10-13T08:01:20+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+    "channel_name": "채널 제네시스박",
+    "description": "📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 죽전 신세계(사우스시티) 세금 특강! + 1:1 현장 질문 (10/24, 토, 오후 2시 30분) \nhttps://m.site.naver.com/2eMlV\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (11/28, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=3&lectCd=0685\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
+    "published": "2026-10-13T08:01:20+00:00",
+    "title": "말소임대주택 양도세, 정부 시뮬레이션 확인해볼까요?",
+    "video_id": "ma8n3xSxxx0"
+   },
+   "wait_checks": 0
+  },
   "mar3QQzQ6RM": {
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-06T23:00:17+00:00",
@@ -3712,6 +3742,22 @@
     "published": "2026-10-09T11:06:48+00:00",
     "title": "2026 노벨 화학상, 분자에도 왼손과 오른손이 있다?!",
     "video_id": "p92dCk27zV4"
+   },
+   "wait_checks": 0
+  },
+  "pC7ha_bICY4": {
+   "errors": 0,
+   "first_seen": "2026-10-13T08:14:34+00:00",
+   "last_attempt": "2026-10-13T08:14:37+00:00",
+   "published": "2026-10-13T08:00:09+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n금리 인상보다 무서운 게 온다? 돈 어마어마하게 풀릴 겁니다\n조용히 무너지는 한국경제, 한국에 퍼져가는 이상현상\n사상 돈이 가장 많이 풀린다? 앞으로가 더 무서운 이유\n\n☞촬영일: 26년 10월 7일",
+    "published": "2026-10-13T08:00:09+00:00",
+    "title": "금리 인상보다 무서운 게 온다? 돈 어마어마하게 풀릴 겁니다 [김대종 교수 풀버전]",
+    "video_id": "pC7ha_bICY4"
    },
    "wait_checks": 0
   },
