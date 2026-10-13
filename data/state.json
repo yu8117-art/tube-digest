@@ -589,7 +589,7 @@
   "6duVKQ-I_3Q": {
    "errors": 0,
    "first_seen": "2026-10-13T09:11:49+00:00",
-   "last_attempt": "2026-10-13T09:11:52+00:00",
+   "last_attempt": "2026-10-13T09:33:35+00:00",
    "published": "2026-10-13T09:00:09+00:00",
    "status": "pending",
    "video": {
@@ -1117,6 +1117,17 @@
    "published": "2026-10-04T09:01:49+00:00",
    "status": "baseline"
   },
+  "DmJFl0AHDsU": {
+   "done_at": "2026-10-13T09:33:35+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-13T09:32:17+00:00",
+   "last_attempt": "2026-10-13T09:32:35+00:00",
+   "notified": "2026-10-13T09:38:13+00:00",
+   "published": "2026-10-13T09:30:13+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "DtAwTT8Lhos": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-05T10:34:50+00:00",
@@ -1361,18 +1372,14 @@
    "wait_checks": 0
   },
   "I-nsBo5SDUs": {
+   "done_at": "2026-10-13T09:32:35+00:00",
    "errors": 0,
    "first_seen": "2026-10-13T09:11:48+00:00",
+   "last_attempt": "2026-10-13T09:32:20+00:00",
+   "notified": "2026-10-13T09:38:12+00:00",
    "published": "2026-10-13T09:00:36+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCFhF5oooL5ugxHKvTxBD75Q",
-    "channel_name": "땅집고",
-    "description": "#광진구 #재건축 #아파트\n\n서울 광진구 광장 극동아파트가 재건축을 앞두고 주목받고 있습니다. 대형 평형으로 구성돼 있고 한강을 바로 앞에 둔 이른바 ‘로열동’인 5동을 아예 재건축 사업에서 제외하는 방안이 검토되고 있는데요. 대체 왜 한 동을 빼자는 이야기가 나온 걸까요? 직접 현장을 찾아 그 이유를 알아봤습니다.\n\n💥 단단홈즈 프로모션 앵콜 연장 (~10/31)\n단기임대 똑똑하게 이용하기!\n\n[호스트 혜택] 수수료 평생 0원\n🔗 https://ader.dandanhomes.com/hq11f86\n\n[게스트 혜택] 수수료 반값 할인 (최대 10만원)\n🔗 https://ader.dandanhomes.com/5l4zat\n\n지금 3분 만에 방 등록하고 평생 0원 혜택 챙기기 🚀\n🔗 https://ader.dandanhomes.com/bsve9r\n\n🏢 “내 개발사업에 AI를 어디까지 활용할 수 있을까?”\n개발계획·사업성 검토·인허가부터\n에너지·보안·주차 운영까지\n현업 사례로 배우는 AI 부동산 실전교육\n👉 신청하기 ▼ https://zipgobiz.com/\n\n📌 땅집고TV 구독하고 남들보다 빠른 부동산 안목을 키우세요\n​👉 지금 바로 구독·좋아요·알림설정까지! http://bit.ly/3RmNLky\n오늘 영상에 대한 여러분의 의견도 댓글로 자유롭게 남겨주세요💬",
-    "published": "2026-10-13T09:00:36+00:00",
-    "title": "\"한강뷰 로열동을 빼고 짓는다고?\" 광장 극동 재건축에 불붙은 '제척' 전쟁ㅣ추PD가간다",
-    "video_id": "I-nsBo5SDUs"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "I1CCrDjuE5w": {
