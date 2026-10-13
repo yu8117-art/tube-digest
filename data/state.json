@@ -278,6 +278,17 @@
    "published": "2026-09-25T02:00:04+00:00",
    "status": "baseline"
   },
+  "1ZhJKa3oJGs": {
+   "done_at": "2026-10-13T23:34:01+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-13T23:33:33+00:00",
+   "last_attempt": "2026-10-13T23:33:42+00:00",
+   "notified": "2026-10-13T23:34:28+00:00",
+   "published": "2026-10-13T23:30:18+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "1e0XDNjfgAo": {
    "errors": 0,
    "first_seen": "2026-10-12T06:19:58+00:00",
@@ -600,6 +611,21 @@
     "published": "2026-10-11T14:03:51+00:00",
     "title": "장특공 공제한도 계산하는 법! 다 보여드립니다!",
     "video_id": "6ZIb00fSnHs"
+   },
+   "wait_checks": 0
+  },
+  "6_5go2AVNHg": {
+   "errors": 0,
+   "first_seen": "2026-10-13T23:33:40+00:00",
+   "published": "2026-10-13T23:06:02+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
+    "channel_name": "소유보다 경험 - 아이언 / 공모주",
+    "description": "이 방송은 디티에스 공모주 청약의 어니언 5사6입 라이브입니다.\n\n다른 분들과 소통을 원하시면 메인 방송을 이용해주세요.\nhttps://youtube.com/live/RceUVMPFKpk \n\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트(하이브) 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다.\n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
+    "published": "2026-10-13T23:06:02+00:00",
+    "title": "[10/14] 디티에스/대신 어니언 5사6입 2일차 실시간 공모주 청약경쟁률 LIVE / 대신증권",
+    "video_id": "6_5go2AVNHg"
    },
    "wait_checks": 0
   },
@@ -1096,6 +1122,21 @@
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-09-20T02:00:28+00:00",
    "status": "baseline"
+  },
+  "D04Fn_o-VWM": {
+   "errors": 0,
+   "first_seen": "2026-10-13T23:33:40+00:00",
+   "published": "2026-10-13T23:08:36+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
+    "channel_name": "소유보다 경험 - 아이언 / 공모주",
+    "description": "이 방송은 디티에스 유진증권 공모주청약의 5사6입 라이브입니다.\n\n다른 분들과 소통을 원하시면 메인 방송을 이용해주세요.\nhttps://youtube.com/live/RceUVMPFKpk \n\n어니언 자동계산은 어니언 방송을 이용해주세요. \nhttps://youtube.com/live/6_5go2AVNHg\n\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트(하이브) 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다.\n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
+    "published": "2026-10-13T23:08:36+00:00",
+    "title": "[10/14] 디티에스/유진5사6입 2일차 실시간 공모주 청약경쟁률 LIVE / 유진투자증권",
+    "video_id": "D04Fn_o-VWM"
+   },
+   "wait_checks": 0
   },
   "D7AVY_VPoEY": {
    "first_seen": "2026-10-09T08:14:34+00:00",
@@ -2495,6 +2536,21 @@
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-08T23:30:39+00:00",
    "status": "baseline"
+  },
+  "VGB6iF9wKUk": {
+   "errors": 0,
+   "first_seen": "2026-10-13T23:33:39+00:00",
+   "published": "2026-10-13T23:14:00+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
+    "channel_name": "소유보다 경험 - 아이언 / 공모주",
+    "description": "아이언의 공모주청약 대시보드 실시간청약경쟁률 LIVE 입니다.\n\n다른 분들과 소통을 원하시면 메인 방송을 이용해주세요.\nhttps://youtube.com/live/RceUVMPFKpk \n\n어니언 자동계산은 어니언 방송을 이용해주세요. \nhttps://youtube.com/live/6_5go2AVNHg\n\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트(하이브) 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다.\n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
+    "published": "2026-10-13T23:14:00+00:00",
+    "title": "[10/14] 아이언의 공모주청약 대시보드 실시간청약경쟁률 LIVE / 디티에스",
+    "video_id": "VGB6iF9wKUk"
+   },
+   "wait_checks": 0
   },
   "VQKL5ojuTmg": {
    "first_seen": "2026-10-09T08:14:34+00:00",
