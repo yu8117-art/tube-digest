@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import html
 import re
+import time
 
 import requests
 
@@ -84,17 +85,37 @@ def _telegram(cfg: Config, article: dict) -> None:
     if not token or not chat_id:
         raise NotifyError("TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID가 없음 (.env 또는 GitHub Secrets)")
     yt = article["video"]["url"]
+    no_preview = {"is_disabled": True}
     for i, text in enumerate(telegram_messages(article)):
+        if i:
+            time.sleep(1.1)  # 같은 채팅방에는 초당 1개 정도만 보내야 429를 피한다
         # 첫 메시지에는 유튜브 링크 미리보기(썸네일)를 본문 위에 크게 띄운다
-        preview = ({"url": yt, "prefer_large_media": True, "show_above_text": True} if i == 0
-                   else {"is_disabled": True})
-        r = requests.post(
-            f"https://api.telegram.org/bot{token}/sendMessage",
-            json={"chat_id": chat_id, "text": text, "parse_mode": "HTML", "link_preview_options": preview},
-            timeout=20,
-        )
+        preview = {"url": yt, "prefer_large_media": True, "show_above_text": True} if i == 0 else no_preview
+        r = _send(token, chat_id, text, preview)
+        if r.status_code == 429:  # 텔레그램이 알려준 시간만큼 기다렸다가 한 번 더
+            time.sleep(_retry_after(r) + 1)
+            r = _send(token, chat_id, text, preview)
+        if r.status_code == 429 and preview is not no_preview:
+            # 특정 영상은 텔레그램이 링크 미리보기를 못 만들어 매번 429를 준다(2026-10-12 실측: 같은 영상이
+            # 51번 연속 실패, 미리보기를 끄자 바로 전송). 썸네일 없이라도 요약은 보낸다.
+            r = _send(token, chat_id, text, no_preview)
         if not r.ok:
             raise NotifyError(f"Telegram 전송 실패 {r.status_code}: {r.text[:200]}")
+
+
+def _send(token: str, chat_id: str, text: str, preview: dict) -> requests.Response:
+    return requests.post(
+        f"https://api.telegram.org/bot{token}/sendMessage",
+        json={"chat_id": chat_id, "text": text, "parse_mode": "HTML", "link_preview_options": preview},
+        timeout=20,
+    )
+
+
+def _retry_after(r: requests.Response) -> int:
+    try:
+        return min(int(r.json()["parameters"]["retry_after"]), 60)
+    except (ValueError, KeyError, TypeError):
+        return 5
 
 
 def _ntfy(cfg: Config, article: dict) -> None:
