@@ -3119,15 +3119,7 @@
    "errors": 0,
    "first_seen": "2026-10-14T12:46:38+00:00",
    "published": "2026-10-14T12:22:48+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
-    "channel_name": "안될과학 Unrealscience",
-    "description": "◆신상 누리호 항공점퍼, 누리호 뱃지, 포스터, 누리호 텀블러\nhttps://smartstore.naver.com/morescience/search?q=누리호\n\n◆ 모어사이언스 신상 굿즈 구경하러 가기!\nhttps://smartstore.naver.com/morescience\n\n◆『우리는 어쩌다 과학을 믿게 되었을까?』\n예스24 https://t.ly/E0es4\n알라딘 https://t.ly/WpoQt\n교보문고 https://t.ly/0g_Yd",
-    "published": "2026-10-14T12:22:48+00:00",
-    "title": "밴드 엑스디너리 히어로즈 가온, 오드 초대석 [궤도의 과학속으로]",
-    "video_id": "aNoBkNTbWrA"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "aOTWNjuJ9qI": {
