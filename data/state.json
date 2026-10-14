@@ -1501,15 +1501,7 @@
    "errors": 0,
    "first_seen": "2026-10-14T11:08:59+00:00",
    "published": "2026-10-14T10:57:16+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
-    "channel_name": "채널 제네시스박",
-    "description": "10/114(수) 라이브 입니다. \n\n\n📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 죽전 신세계(사우스시티) 세금 특강! + 1:1 현장 질문 (10/24, 토, 오후 2시 30분)\nhttps://m.site.naver.com/2eMlV\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (11/28, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=3&lectCd=0685\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
-    "published": "2026-10-14T10:57:16+00:00",
-    "title": "집 팔 거면 2028년까지 팔아라? / 실거주 이유로 임차인 내보냈다 손해배상, 이유는?",
-    "video_id": "GzQV-cdj3os"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "H10huZslTZE": {
@@ -3120,6 +3112,21 @@
     "published": "2026-10-10T02:00:20+00:00",
     "title": "페스트도 코로나19처럼 전 세계로 퍼질 수 있을까?",
     "video_id": "aIb2xqDklvQ"
+   },
+   "wait_checks": 0
+  },
+  "aNoBkNTbWrA": {
+   "errors": 0,
+   "first_seen": "2026-10-14T12:46:38+00:00",
+   "published": "2026-10-14T12:22:48+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "◆신상 누리호 항공점퍼, 누리호 뱃지, 포스터, 누리호 텀블러\nhttps://smartstore.naver.com/morescience/search?q=누리호\n\n◆ 모어사이언스 신상 굿즈 구경하러 가기!\nhttps://smartstore.naver.com/morescience\n\n◆『우리는 어쩌다 과학을 믿게 되었을까?』\n예스24 https://t.ly/E0es4\n알라딘 https://t.ly/WpoQt\n교보문고 https://t.ly/0g_Yd",
+    "published": "2026-10-14T12:22:48+00:00",
+    "title": "밴드 엑스디너리 히어로즈 가온, 오드 초대석 [궤도의 과학속으로]",
+    "video_id": "aNoBkNTbWrA"
    },
    "wait_checks": 0
   },
