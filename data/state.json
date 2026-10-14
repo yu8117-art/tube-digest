@@ -2295,6 +2295,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "QcUN7K1qCE4": {
+   "errors": 0,
+   "first_seen": "2026-10-14T23:14:20+00:00",
+   "published": "2026-10-14T23:01:43+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
+    "channel_name": "소유보다 경험 - 아이언 / 공모주",
+    "description": "멜콘/진코스텍 공모주 상장일의 실시간 동시호가, 주가 현황을 실시간 라이브로 제공합니다.\n-\n상장 전과 직후에는 안내가 진행되지만, 이후에는 음악만 제공되는 점 참고하시기 바랍니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
+    "published": "2026-10-14T23:01:43+00:00",
+    "title": "[10/15] 멜콘/진코스텍 상장일 실시간 동시호가, 주가 현황  LIVE / 대신, 하나",
+    "video_id": "QcUN7K1qCE4"
+   },
+   "wait_checks": 0
+  },
   "QeOquW9atts": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-08T07:37:59+00:00",
@@ -2514,6 +2529,21 @@
     "published": "2026-10-10T04:30:33+00:00",
     "title": "현금 있다면 미국주식 이렇게 사세요, 앞으로 어마어마하게 오를 겁니다 [정주용 의장]",
     "video_id": "SrCjtMTzH0U"
+   },
+   "wait_checks": 0
+  },
+  "Ss0gxPHU0ZI": {
+   "errors": 0,
+   "first_seen": "2026-10-14T23:14:16+00:00",
+   "published": "2026-09-29T07:26:29+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCGHG_gTZ780LicZmc-WUVPQ",
+    "channel_name": "유안타증권 - Yuantakorea",
+    "description": "온라인 주식전략 브리핑\n투자 인사이트 LIVE\n매월 당사 애널리스트와 함께하는 증시 점검과 주식 투자 전략\n\n*주제\n2027년 주식시장 전망과 전략 - 그라운드 제로 (Ground Zero)\n\n*발표 \n유안타증권 투자전략팀 김용구 팀장\n\n*사회 \n유안타증권 투자컨설팅팀 최정화\n\n*일시\n26년 10월 15일(목) 오후 2시\n\n\n※ 해당 영상은 조사분석자료에 기반한 사실이며, 구체적인 자료 내용은 유안타증권 홈페이지에서 열람 가능합니다.",
+    "published": "2026-09-29T07:26:29+00:00",
+    "title": "투자 인사이트 LIVE : 2027년 주식시장 전망과 전략 - 그라운드 제로 (Ground Zero)_10/15(목) 2시",
+    "video_id": "Ss0gxPHU0ZI"
    },
    "wait_checks": 0
   },
@@ -3815,6 +3845,21 @@
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-04-24T09:01:03+00:00",
    "status": "baseline"
+  },
+  "hZYaPuUXn50": {
+   "errors": 0,
+   "first_seen": "2026-10-14T23:14:18+00:00",
+   "published": "2026-10-14T23:00:11+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCFhF5oooL5ugxHKvTxBD75Q",
+    "channel_name": "땅집고",
+    "description": "💥 단단홈즈 프로모션 앵콜 연장 (~10/31)\n단기임대 똑똑하게 이용하기!\n\n[호스트 혜택] 수수료 평생 0원\n🔗 https://ader.dandanhomes.com/hq11f86\n\n[게스트 혜택] 수수료 반값 할인 (최대 10만원)\n🔗 https://ader.dandanhomes.com/5l4zat\n\n지금 3분 만에 방 등록하고 평생 0원 혜택 챙기기 🚀\n🔗 https://ader.dandanhomes.com/bsve9r\n\n🏢 “내 개발사업에 AI를 어디까지 활용할 수 있을까?”\n개발계획·사업성 검토·인허가부터\n에너지·보안·주차 운영까지\n현업 사례로 배우는 AI 부동산 실전교육\n👉 신청하기 ▼ https://zipgobiz.com/\n\n📌 땅집고TV 구독하고 남들보다 빠른 부동산 안목을 키우세요\n​👉 지금 바로 구독·좋아요·알림설정까지! http://bit.ly/3RmNLky\n오늘 영상에 대한 여러분의 의견도 댓글로 자유롭게 남겨주세요💬",
+    "published": "2026-10-14T23:00:11+00:00",
+    "title": "분당 2차 선도지구 5곳 투자 포인트 1분 정리 #shorts",
+    "video_id": "hZYaPuUXn50"
+   },
+   "wait_checks": 0
   },
   "ha4-lyhvafM": {
    "first_seen": "2026-10-09T08:14:37+00:00",
