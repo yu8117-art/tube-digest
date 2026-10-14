@@ -1,0 +1,67 @@
+{
+ "video": {
+  "video_id": "G4hQedUXX2w",
+  "channel_id": "UCvW8norVMTLt7QN-s2pS4Bw",
+  "channel_name": "조승연의 탐구생활",
+  "title": "명성? 집? 가족? 인생은 랄프 로렌처럼 살고 싶은 이유",
+  "published": "2026-10-14T10:00:16+00:00",
+  "description": "최근에 랄프 로렌의 삶을 다룬 다큐 ‘Very Ralph’ 상영회에 다녀왔는데요\n저의 패션에도 많은 영향을 준 브랜드의 창업자인 \n랄프 로렌에 대해 이야기해보았습니다!\n\n*이 영상에는 랄프 로렌의 유료광고가 포함되어 있습니다\n\n채널에 가입하여 혜택을 누려보세요. \nhttps://www.youtube.com/channel/UCvW8norVMTLt7QN-s2pS4Bw/join\n\n배우는 즐거움이 있는 \n본격 취미 탐구 라이프 채널!\n조승연의 탐구생활 🕵🏻‍♂️\n  \n조승연 insta \n / totalintelli  \n\n#랄프로렌 #베리랄프 #폴로\n\nCopyright © 2026 Studio Episode - All Rights Reserved",
+  "url": "https://www.youtube.com/watch?v=G4hQedUXX2w"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/G4hQedUXX2w/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1295,
+ "summary": {
+  "headline": "랄프 로렌이 유행을 타지 않고 타임리스인 이유",
+  "thumbnail_text": "창업자 랄프 로렌, 랄프 로렌은 왜 유행을 안 탈까?",
+  "thumbnail_answer": "브랜드를 만든 것이 아니라 자신이 살고 싶은 세계관을 만들고, 1940년대 영화 속 우아함과 아메리칸 드림을 타임리스하게 구현했기 때문이다.",
+  "conclusion": "랄프 로렌은 단순한 패션 브랜드를 넘어 자신이 살고 싶은 완벽한 세계관을 구축했다. 가난한 이민자 출신임에도 하류에서 올려다본 귀족적이고 우아한 삶을 'Aspiration'과 'American Dream'으로 실현했다. 시간이 지나도 변하지 않는 타임리스한 가치를 담아내며 전 세계 사람들의 마음을 사로잡고 있다.",
+  "key_points": [
+   "랄프 로렌은 옷을 파는 것이 아니라 살고 싶은 세계관을 판다.",
+   "브랜드의 핵심 키워드는 Aspiration(동경/상향 모방)과 American Dream이다.",
+   "브롱크스 유태인 이민자 출신인 랄프 로렌은 아래서 올려다본 시선으로 가장 아름다운 미국적 판타지를 창조했다.",
+   "1940년대 고전 영화 속 우아한 인물들의 삶에서 영감을 받아 시대를 초월한 스타일을 완성했다.",
+   "베드포드, 콜로라도, 햄튼 등 자신의 삶의 공간을 각각의 독립된 세계관으로 구축했다.",
+   "타인들의 삶을 비판하는 아방가르드 패션과 달리 누구나 꿈꾸고 동경할 수 있는 긍정적이고 우아한 삶을 제시한다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "도입 및 Very Ralph 상영회 참석",
+    "points": [
+     "90년대 중반 유학 시절 접한 랄프 로렌에 대한 소회",
+     "국내 최초로 열린 랄프 로렌 다큐멘터리 <Very Ralph> 상영회 참석 후기"
+    ]
+   },
+   {
+    "seconds": 451,
+    "title": "POINT 1: 랄프 로렌의 추구미와 아메리칸 드림",
+    "points": [
+     "대부분의 예술가와 달리 멋지고 저렇게 살고 싶다는 동경을 주는 삶",
+     "브롱크스 이민자 출신이 만들어낸 아메리칸 드림과 상향 모방(Aspiration)의 미학"
+    ]
+   },
+   {
+    "seconds": 1046,
+    "title": "POINT 2: 모든 것이 가능한 집과 세계관",
+    "points": [
+     "베드포드, 콜로라도, 햄튼 등 자신이 살고 싶은 공간을 세트로 분리해 구현",
+     "카우보이의 꿈을 담은 더블 알엘(Double RL)과 폴로의 탄생 배경"
+    ]
+   }
+  ],
+  "tags": [
+   "랄프로렌",
+   "베리랄프",
+   "폴로",
+   "아메리칸드림",
+   "조승연의탐구생활"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 119667,
+   "output_tokens": 881
+  }
+ },
+ "created_at": "2026-10-14T10:43:41+00:00"
+}
