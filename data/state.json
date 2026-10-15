@@ -3300,19 +3300,14 @@
    "status": "baseline"
   },
   "Z0yj8Q3-A7E": {
+   "done_at": "2026-10-15T11:40:17+00:00",
    "errors": 0,
    "first_seen": "2026-10-15T10:40:21+00:00",
-   "last_attempt": "2026-10-15T10:40:33+00:00",
+   "last_attempt": "2026-10-15T11:38:44+00:00",
+   "notified": "2026-10-15T11:40:18+00:00",
    "published": "2026-10-15T10:20:12+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-    "channel_name": "슈카월드",
-    "description": "0:00 중앙일보, JTBC 인수전\n10:42 쇠퇴하는 전통 매체 광고\n16:13 TV광고의 약세로 수혜를 보는 시장\n23:01 흥행하는 판촉물 시장\n\n#판촉물 #기프트 #보조배터리\n\n\n🎉 한 단계 진화한 판촉물 플랫폼, \n기프트코가 새롭게 돌아왔습니다!\n\n슈카님도 활용한 AI검색 기능으로\n원하는 상품을 더 쉽고 빠르게 찾고, 주문까지 간편하게!\n새로워진 기프트코를 만나보세요🎩🪄\n\n\n🎁기프트코 공식 홈페이지 : https://gift.co.kr/\n💬카카오톡 문의 : https://pf.kakao.com/_zZxiEn",
-    "published": "2026-10-15T10:20:12+00:00",
-    "title": "매물로 나온 JTBC, 중앙일보, 뜻밖에 물 들어온 굿즈시장",
-    "video_id": "Z0yj8Q3-A7E"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "ZBhu1J2VxZI": {
