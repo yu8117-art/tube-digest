@@ -281,6 +281,17 @@
    "published": "2026-10-03T11:00:39+00:00",
    "status": "baseline"
   },
+  "1GgkHLUdAwE": {
+   "done_at": "2026-10-15T08:05:05+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-15T08:04:33+00:00",
+   "last_attempt": "2026-10-15T08:04:34+00:00",
+   "notified": "2026-10-15T08:05:06+00:00",
+   "published": "2026-10-15T08:00:09+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "1II0pCrcG2Y": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-10-08T09:00:17+00:00",
@@ -2828,6 +2839,21 @@
    "published": "2026-10-11T09:00:02+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "UxZ6zmqdHEU": {
+   "errors": 0,
+   "first_seen": "2026-10-15T08:04:32+00:00",
+   "published": "2026-10-15T08:00:19+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
+    "channel_name": "집코노미",
+    "description": "논밭에서 수원의 중심지가 되기까지☺️\n\n#광교 #수원 #광교호수공원 #신도시 #과거\n\n한국경제신문 구독하기\n📰https://vo.la/N79FE1B\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다",
+    "published": "2026-10-15T08:00:19+00:00",
+    "title": "광교신도시 10년 전 모습",
+    "video_id": "UxZ6zmqdHEU"
+   },
    "wait_checks": 0
   },
   "V2-cc8JaiVg": {
