@@ -571,6 +571,21 @@
    "published": "2025-08-25T08:18:45+00:00",
    "status": "baseline"
   },
+  "5YmK7uTCqD4": {
+   "errors": 0,
+   "first_seen": "2026-10-15T01:04:13+00:00",
+   "published": "2026-10-15T00:24:11+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
+    "channel_name": "집코노미",
+    "description": "한 주 동안의 부동산 뉴스를 짚어보는 집코노미 타임즈 라이브입니다. 이번주엔 ①중앙행정기관 세종시 이전과 ②학교용지의 주택용지 전환 ③재건축 분담금 등 한국경제신문의 주요 기사를 짚어봅니다.\n\n#재건축 #분담금 #공사비 #은마 #압구정현대 #세종시\n\n한국경제신문 구독하기\n📰https://vo.la/N79FE1B\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다",
+    "published": "2026-10-15T00:24:11+00:00",
+    "title": "최소 5억은 더 내야하는 재건축 | 집코노미 타임즈 | 부동산뉴스 총정리",
+    "video_id": "5YmK7uTCqD4"
+   },
+   "wait_checks": 0
+  },
   "5_8T0sgYbAY": {
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-10-06T07:39:34+00:00",
@@ -1737,6 +1752,21 @@
    "first_seen": "2026-10-09T08:14:33+00:00",
    "published": "2026-07-19T12:50:44+00:00",
    "status": "baseline"
+  },
+  "J-Us51eqZfg": {
+   "errors": 0,
+   "first_seen": "2026-10-15T01:04:16+00:00",
+   "published": "2026-10-15T00:30:03+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n대통령도 \"전세는 없어질 것 같다\" 이제 강제로 집 사야 합니다\n\n☞촬영일: 26년 10월 8일",
+    "published": "2026-10-15T00:30:03+00:00",
+    "title": "대통령도 \"전세는 없어질 것 같다\" 이제 강제로 집 사야 합니다 [메디테라]",
+    "video_id": "J-Us51eqZfg"
+   },
+   "wait_checks": 0
   },
   "JEPAT_i7Cb8": {
    "first_seen": "2026-10-09T08:14:33+00:00",
