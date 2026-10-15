@@ -3976,6 +3976,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "hmPXcxP9Wyk": {
+   "errors": 0,
+   "first_seen": "2026-10-15T03:06:36+00:00",
+   "published": "2026-10-15T02:53:45+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+    "published": "2026-10-15T02:53:45+00:00",
+    "title": "조..조졌는데?",
+    "video_id": "hmPXcxP9Wyk"
+   },
+   "wait_checks": 0
+  },
   "htSk5aAMcGk": {
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-09-25T09:44:04+00:00",
