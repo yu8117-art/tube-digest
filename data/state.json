@@ -3390,6 +3390,17 @@
    "published": "2026-10-09T04:00:06+00:00",
    "status": "baseline"
   },
+  "bWfM54JHGFk": {
+   "done_at": "2026-10-15T06:47:03+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-15T06:46:39+00:00",
+   "last_attempt": "2026-10-15T06:46:45+00:00",
+   "notified": "2026-10-15T06:47:04+00:00",
+   "published": "2026-10-15T06:15:26+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "b_qGMGkte0s": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-09-28T11:00:20+00:00",
@@ -3543,6 +3554,21 @@
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-08-19T14:17:03+00:00",
    "status": "baseline"
+  },
+  "ctHReN9ckJg": {
+   "errors": 0,
+   "first_seen": "2026-10-15T06:46:43+00:00",
+   "published": "2026-10-15T06:30:04+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"전월세 시장은 답이 안 보여요\" 민간에서 해줄 사람이 없습니다\n\n☞촬영일: 26년 10월 12일",
+    "published": "2026-10-15T06:30:04+00:00",
+    "title": "\"전월세 시장은 답이 안 보여요\" 민간에서 해줄 사람이 없습니다 [제네시스박]",
+    "video_id": "ctHReN9ckJg"
+   },
+   "wait_checks": 0
   },
   "czWSHIsWTfs": {
    "first_seen": "2026-10-09T08:14:35+00:00",
