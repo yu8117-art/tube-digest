@@ -1,0 +1,91 @@
+{
+ "video": {
+  "video_id": "rzzqVLJtvdw",
+  "channel_id": "UCoCvTlU0KpNYwnMIgs7MPrA",
+  "channel_name": "보다 BODA",
+  "title": "책을 읽지 않는 사람에게 반복해서 보이는 3가지 특징",
+  "published": "2026-10-15T11:00:02+00:00",
+  "description": "본 영상은 ‘라곰 출판사’의 지원을 받아 제작되었습니다.\n\n✅오늘의 출연자\n고명환 작가📚\n\n✅타임라인\n00:00 오프닝\n01:14 2000년대 대표 개그맨이 돌연 작가로 상을 휩쓴 이유\n07:14 독서를 하지 않는 사람에게 보이는 세 가지 특징\n09:23 때에 따른 책이 정해져 있는 이유\n12:12 AI시대에도 결국 책에서 삶의 해답을 찾게 되는 이유\n15:31 20년째 매일 책 읽고 깨달은 기적의 독서법\n\n\n⬇️ 독서의 기술 구매하기\n■ 교보문고\nhttps://product.kyobobook.co.kr/detail/S000220340900\n■ 예스24\nhttps://www.yes24.com/product/goods/192555379\n■ 알라딘\nhttps://www.aladin.co.kr/shop/wproduct.aspx?ItemId=396563552&start=pcsearch_auto\n\n⬇️ KRS 무료 진단검사 우리 아이도 해보기\nhttps://www.wjthinkbig.com/krs/index.do?wj=YouTube_BODA_BM_KRS\n\n\n✔ 출연 및 제휴 문의: \nboooda.kr@gmail.com \n\n✔ BODA 인스타: \n/ boda_channel\n\n\n#보다 #독서 #독서법",
+  "url": "https://www.youtube.com/watch?v=rzzqVLJtvdw"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/rzzqVLJtvdw/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1204,
+ "summary": {
+  "headline": "20년째 매일 책 읽고 깨달은 기적의 독서법과 이유",
+  "thumbnail_text": "뇌가 확 트여요",
+  "thumbnail_answer": "꾸준한 독서가 뇌를 깨우고 인생을 바꾼다.",
+  "conclusion": "독서는 단순한 취미가 아니라 AI 시대에 살아남기 위한 생존 수단이다. 매일 꾸준히 책을 읽고 내 삶에 적용하는 것이 성공의 지름길이다.",
+  "key_points": [
+   "독서를 안 하는 사람들은 대개 부정적인 말을 많이 한다.",
+   "내 언어의 한계가 곧 내 세계의 한계다.",
+   "고전은 내 성장에 맞춰 수준이 되었을 때 읽어야 효과적이다.",
+   "AI 시대에도 고통을 겪고 깨닫는 독서는 인간만의 강력한 무기다.",
+   "문학, 과학, 철학을 섞어서 읽는 병렬 독서가 뇌를 성장시킨다.",
+   "책을 읽고 생각하고 내 삶에 적용해야 비로소 효용 가치가 있다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "오프닝",
+    "points": [
+     "고명환 작가가 전하는 독서의 중요성 소개"
+    ]
+   },
+   {
+    "seconds": 74,
+    "title": "2000년대 대표 개그맨이 돌연 작가로 상을 휩쓴 이유",
+    "points": [
+     "큰 교통사고를 겪은 후 진짜 나를 찾기 위해 독서를 시작함",
+     "생각을 팔아서 수입의 99%를 버는 삶으로 변화"
+    ]
+   },
+   {
+    "seconds": 434,
+    "title": "독서를 하지 않는 사람에게 보이는 세 가지 특징",
+    "points": [
+     "작은 세상에 갇혀 살며 세상에 휩쓸려 감",
+     "불평과 불만을 세상에 계속 쏟아냄",
+     "언어의 한계가 곧 세계의 한계를 만듦"
+    ]
+   },
+   {
+    "seconds": 563,
+    "title": "때에 따른 책이 정해져 있는 이유",
+    "points": [
+     "내 수준과 성장에 맞는 고전을 읽어야 진정한 깨달음과 쾌락을 얻음",
+     "의지와 열정보다 반복을 통한 독서 시스템이 중요함"
+    ]
+   },
+   {
+    "seconds": 732,
+    "title": "AI시대에도 결국 책에서 삶의 해답을 찾게 되는 이유",
+    "points": [
+     "고통을 겪고 깨닫는 과정은 AI에게 불가능한 영역임",
+     "인간만의 독서 능력이 AI를 지배하는 힘이 됨"
+    ]
+   },
+   {
+    "seconds": 931,
+    "title": "20년째 매일 책 읽고 깨달은 기적의 독서법",
+    "points": [
+     "문학, 과학, 철학, 역사를 섞어서 읽는 병렬 독서 추천",
+     "읽고, 생각하고, 내 삶에 적용하는 것이 독서의 완성임"
+    ]
+   }
+  ],
+  "tags": [
+   "독서법",
+   "고명환",
+   "자기계발",
+   "인생역전",
+   "책읽기"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 111614,
+   "output_tokens": 829
+  }
+ },
+ "created_at": "2026-10-15T11:09:54+00:00"
+}

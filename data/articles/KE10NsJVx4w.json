@@ -1,0 +1,42 @@
+{
+ "video": {
+  "video_id": "KE10NsJVx4w",
+  "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+  "channel_name": "새벽의 축구 전문가",
+  "title": "“투톱에서 역시 잘한다” 손흥민 1골 2어시!! 달라진 LAFC의 투톱전술, 대표팀과 달라진 이유",
+  "published": "2026-10-15T10:50:11+00:00",
+  "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#lafc #손흥민",
+  "url": "https://www.youtube.com/watch?v=KE10NsJVx4w"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/KE10NsJVx4w/maxresdefault.jpg",
+ "source": "video",
+ "duration": 704,
+ "summary": {
+  "headline": "손흥민 1골 2어시, LAFC 투톱 전술의 비밀",
+  "thumbnail_text": "손흥민 1골 2어시!! 투톱에서 역시 잘한다",
+  "thumbnail_answer": "부앙가가 최전방에서 수비를 붙잡아주고 손흥민이 아래에서 세컨드 스트라이커로 자유롭게 뛰며 영향력을 극대화할 수 있기 때문이다.",
+  "conclusion": "손흥민은 LAFC의 임시 감독 체제 아래 투톱의 세컨드 스트라이커로 나서며 뛰어난 경기력을 보여주고 있다. 동료 공격수가 최전방에서 싸워줄 때 손흥민의 라인 브레이킹과 공간 침투 능력이 극대화된다. 이는 대표팀 운영에도 시사하는 바가 크다.",
+  "key_points": [
+   "손흥민이 LAFC에서 1골 2어시를 기록하며 임시 감독 체제 첫 승을 거뒀다.",
+   "기존 원톱 기용에서 부앙가와 함께 투톱 전술로 변화했다.",
+   "부앙가가 최전방에서 수비를 상대하는 동안 손흥민은 아래에서 자유롭게 움직인다.",
+   "레오 발타 등 미드필더와의 연계를 통해 득점 기회를 창출한다.",
+   "손흥민은 상대 수비의 블라인드 스팟을 파고드는 가속도와 스프린트가 강점이다.",
+   "대표팀에서도 손흥민을 원톱보다 아래에 두고 공간을 열어주는 전술적 고민이 필요하다."
+  ],
+  "timeline": [],
+  "tags": [
+   "손흥민",
+   "LAFC",
+   "MLS",
+   "축구전술",
+   "해외축구"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 65826,
+   "output_tokens": 414
+  }
+ },
+ "created_at": "2026-10-15T11:09:07+00:00"
+}
