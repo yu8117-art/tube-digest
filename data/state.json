@@ -512,6 +512,21 @@
    "published": "2026-10-02T12:42:21+00:00",
    "status": "baseline"
   },
+  "4GlyvmKWivk": {
+   "errors": 0,
+   "first_seen": "2026-10-15T10:40:22+00:00",
+   "published": "2026-10-15T09:43:33+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCCQPdv4o4ywVZQkAMOlvFbw",
+    "channel_name": "오목교 전자상가",
+    "description": "드디어 베일을 벗은 애플의 첫 폴더블폰 '아이폰 듀오'.\n이번 영상에서는 애플 본사 임원들을 직접 만나 인터뷰를 진행했습니다.\n\n'듀오'라는 이름에 담긴 네이밍 비하인드와\n화면 주름을 감추기 위해 적용한 나노 텍스처 기술,\n폴더블 화면에 맞춘 애플 펜슬과 전용 칩 설계,\n차세대 UDC(언더 디스플레이 카메라) 기술 등\n하드웨어와 소프트웨어 곳곳의 디테일을 하나하나 물어봤는데요.\n\n머리카락보다 얇은 마이크로 렌즈, 새로운 TouchPixel, A20 Pro 칩셋은 물론\n까다로운 한국 소비자들을 향한 애플의 자신감까지 들어볼 수 있었습니다.\n\n과연 아이폰 듀오는 높은 기대에 걸맞은 혁신을 보여줄 수 있을까요?\n\n자세한 내용은 영상에서 확인해 주세요!",
+    "published": "2026-10-15T09:43:33+00:00",
+    "title": "왜 7년이나 걸렸어요? 애플 임원진이 말하는 아이폰 듀오 개발 비하인드 / 오목교 전자상가",
+    "video_id": "4GlyvmKWivk"
+   },
+   "wait_checks": 0
+  },
   "4MpgKa_PYgM": {
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-09-10T09:00:45+00:00",
@@ -3252,6 +3267,22 @@
    "published": "2026-07-05T08:00:30+00:00",
    "status": "baseline"
   },
+  "Z0yj8Q3-A7E": {
+   "errors": 0,
+   "first_seen": "2026-10-15T10:40:21+00:00",
+   "last_attempt": "2026-10-15T10:40:33+00:00",
+   "published": "2026-10-15T10:20:12+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "0:00 중앙일보, JTBC 인수전\n10:42 쇠퇴하는 전통 매체 광고\n16:13 TV광고의 약세로 수혜를 보는 시장\n23:01 흥행하는 판촉물 시장\n\n#판촉물 #기프트 #보조배터리\n\n\n🎉 한 단계 진화한 판촉물 플랫폼, \n기프트코가 새롭게 돌아왔습니다!\n\n슈카님도 활용한 AI검색 기능으로\n원하는 상품을 더 쉽고 빠르게 찾고, 주문까지 간편하게!\n새로워진 기프트코를 만나보세요🎩🪄\n\n\n🎁기프트코 공식 홈페이지 : https://gift.co.kr/\n💬카카오톡 문의 : https://pf.kakao.com/_zZxiEn",
+    "published": "2026-10-15T10:20:12+00:00",
+    "title": "매물로 나온 JTBC, 중앙일보, 뜻밖에 물 들어온 굿즈시장",
+    "video_id": "Z0yj8Q3-A7E"
+   },
+   "wait_checks": 0
+  },
   "ZBhu1J2VxZI": {
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-09-18T08:00:35+00:00",
@@ -3634,6 +3665,21 @@
    "published": "2026-10-10T22:30:24+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "cFbvVSxAEBY": {
+   "errors": 0,
+   "first_seen": "2026-10-15T10:40:30+00:00",
+   "published": "2026-10-15T10:30:38+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"남들은 10억을 갖고 와야 삽니다\" 증여하면 3억 5천이면 가져옵니다\n\n☞촬영일: 26년 10월 12일",
+    "published": "2026-10-15T10:30:38+00:00",
+    "title": "\"남들은 10억을 갖고 와야 삽니다\" 증여하면 3억 5천이면 가져옵니다 [제네시스박]",
+    "video_id": "cFbvVSxAEBY"
+   },
    "wait_checks": 0
   },
   "cFv2dXfVLzM": {
