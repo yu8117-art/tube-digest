@@ -1215,15 +1215,7 @@
    "errors": 0,
    "first_seen": "2026-10-15T02:37:31+00:00",
    "published": "2026-10-15T02:31:14+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-10-15T02:31:14+00:00",
-    "title": "\"이강인과 호흡 완벽했다\" 바에나 인터뷰! / 인종차별 당한 엄지성, 경기 7분 중단 / 리산마 \"맨유 영입 좀 해달라\"",
-    "video_id": "CEG7dzzPF0M"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "CHv8f629K7c": {
