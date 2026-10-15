@@ -2613,15 +2613,7 @@
    "errors": 0,
    "first_seen": "2026-10-14T23:14:16+00:00",
    "published": "2026-09-29T07:26:29+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCGHG_gTZ780LicZmc-WUVPQ",
-    "channel_name": "유안타증권 - Yuantakorea",
-    "description": "온라인 주식전략 브리핑\n투자 인사이트 LIVE\n매월 당사 애널리스트와 함께하는 증시 점검과 주식 투자 전략\n\n*주제\n2027년 주식시장 전망과 전략 - 그라운드 제로 (Ground Zero)\n\n*발표 \n유안타증권 투자전략팀 김용구 팀장\n\n*사회 \n유안타증권 투자컨설팅팀 최정화\n\n*일시\n26년 10월 15일(목) 오후 2시\n\n\n※ 해당 영상은 조사분석자료에 기반한 사실이며, 구체적인 자료 내용은 유안타증권 홈페이지에서 열람 가능합니다.",
-    "published": "2026-09-29T07:26:29+00:00",
-    "title": "투자 인사이트 LIVE : 2027년 주식시장 전망과 전략 - 그라운드 제로 (Ground Zero)_10/15(목) 2시",
-    "video_id": "Ss0gxPHU0ZI"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "St5Ccz3__xk": {
