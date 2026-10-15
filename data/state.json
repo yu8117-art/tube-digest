@@ -522,6 +522,21 @@
    "published": "2026-10-05T07:00:23+00:00",
    "status": "baseline"
   },
+  "4QGwCQ0ua4g": {
+   "errors": 0,
+   "first_seen": "2026-10-15T09:11:37+00:00",
+   "published": "2026-10-15T09:07:29+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCXql5C57vS4ogUt6CPEWWHA",
+    "channel_name": "김지윤의 지식Play",
+    "description": "김지윤 박사의 국제뉴스 3분 브리핑_#브라질대선 #국제정세 #브릭스",
+    "published": "2026-10-15T09:07:29+00:00",
+    "title": "3분 뉴스_2026 브라질 대선_#김지윤의지식play",
+    "video_id": "4QGwCQ0ua4g"
+   },
+   "wait_checks": 0
+  },
   "4SJFrXDtMA0": {
    "errors": 0,
    "first_seen": "2026-10-13T12:08:47+00:00",
@@ -1225,6 +1240,21 @@
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-06-12T08:00:28+00:00",
    "status": "baseline"
+  },
+  "CNA-ZNI0wVk": {
+   "errors": 0,
+   "first_seen": "2026-10-15T09:11:42+00:00",
+   "published": "2026-10-15T08:53:41+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+    "channel_name": "채널 제네시스박",
+    "description": "📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 죽전 신세계(사우스시티) 세금 특강! + 1:1 현장 질문 (10/24, 토, 오후 2시 30분)\nhttps://m.site.naver.com/2eMlV\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (11/28, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=3&lectCd=0685\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
+    "published": "2026-10-15T08:53:41+00:00",
+    "title": "1주택 고가주택 장특공, 앞으로 이렇게 바뀝니다! (너무 하는거 아닌가요?)",
+    "video_id": "CNA-ZNI0wVk"
+   },
+   "wait_checks": 0
   },
   "COXgs5AA_b0": {
    "first_seen": "2026-10-09T08:14:35+00:00",
@@ -2275,18 +2305,14 @@
    "status": "baseline"
   },
   "OYX6KCoigoo": {
+   "done_at": "2026-10-15T09:13:15+00:00",
    "errors": 0,
    "first_seen": "2026-10-15T08:41:46+00:00",
+   "last_attempt": "2026-10-15T09:11:43+00:00",
+   "notified": "2026-10-15T09:16:30+00:00",
    "published": "2026-10-15T08:30:32+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCFhF5oooL5ugxHKvTxBD75Q",
-    "channel_name": "땅집고",
-    "description": "#GTX #부동산 #재건축\n\n🎙️타임라인\n[0:00] 집캐스트 풀버전 시작\n[0:28] 제5차 국가철도망 계획 발표 예상\n[3:59] GTX-C 뚫리면 과천, 안양, 안산 날벼락?\n[6:30] “트램 생기면 대박? 그냥 버스예요”\n[9:25] 서울 지도 통째로 바뀔 진짜 거점은 어디?\n[11:17] 강남은 절대 못 따라오는 강북만의 치명적인 무기\n[13:30] 성수동 다음 대박 터질 곳? ‘2호선’을 보면 답이 나옵니다\n[19:06] 1기 신도시 재건축 충격적 현실\n[24:15] 3기 신도시 청약 넣기 전 꼭 보세요\n[26:50] “삼성·SK는 한강 절대 안 건넙니다”\n[32:02] “저는 20억 있어도 동탄 절대 안 갑니다”\n\n💥 단단홈즈 프로모션 앵콜 연장 (~10/31)\n단기임대 똑똑하게 이용하기!\n\n[호스트 혜택] 수수료 평생 0원\n🔗 https://ader.dandanhomes.com/hq11f86\n\n[게스트 혜택] 수수료 반값 할인 (최대 10만원)\n🔗 https://ader.dandanhomes.com/5l4zat\n\n지금 3분 만에 방 등록하고 평생 0원 혜택 챙기기 🚀\n🔗 https://ader.dandanhomes.com/bsve9r\n\n🏢 “내 개발사업에 AI를 어디까지 활용할 수 있을까?”\n개발계획·사업성 검토·인허가부터\n에너지·보안·주차 운영까지\n현업 사례로 배우는 AI 부동산 실전교육\n👉 신청하기 ▼ https://zipgobiz.com/\n\n📌 땅집고TV 구독하고 남들보다 빠른 부동산 안목을 키우세요\n​👉 지금 바로 구독·좋아요·알림설정까지! http://bit.ly/3RmNLky\n오늘 영상에 대한 여러분의 의견도 댓글로 자유롭게 남겨주세요💬",
-    "published": "2026-10-15T08:30:32+00:00",
-    "title": "\"철도 공약 믿고 집 사면 망합니다\" 수도권 교통망의 진짜 실체ㅣ김시덕 도시문헌학자 풀버전",
-    "video_id": "OYX6KCoigoo"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "O_7rdwatkAw": {
@@ -3239,6 +3265,17 @@
    "published": "2026-09-18T08:00:35+00:00",
    "status": "baseline"
   },
+  "ZPd9Q9Q_rxs": {
+   "done_at": "2026-10-15T09:14:09+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-15T09:11:39+00:00",
+   "last_attempt": "2026-10-15T09:13:16+00:00",
+   "notified": "2026-10-15T09:16:32+00:00",
+   "published": "2026-10-15T09:00:30+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "Ze8752aldjQ": {
    "done_at": "2026-10-12T13:55:20+00:00",
    "errors": 0,
@@ -3743,6 +3780,17 @@
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-08T08:15:30+00:00",
    "status": "baseline"
+  },
+  "dyr7IIGgI8Y": {
+   "done_at": "2026-10-15T09:15:28+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-15T09:11:39+00:00",
+   "last_attempt": "2026-10-15T09:14:09+00:00",
+   "notified": "2026-10-15T09:16:31+00:00",
+   "published": "2026-10-15T09:00:37+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "e0Ols9moZ9k": {
    "first_seen": "2026-10-09T08:14:40+00:00",
@@ -5384,19 +5432,14 @@
    "status": "baseline"
   },
   "y7QWNX5OK9I": {
+   "done_at": "2026-10-15T09:16:02+00:00",
    "errors": 0,
    "first_seen": "2026-10-15T08:41:47+00:00",
-   "last_attempt": "2026-10-15T08:41:50+00:00",
+   "last_attempt": "2026-10-15T09:15:28+00:00",
+   "notified": "2026-10-15T09:16:31+00:00",
    "published": "2026-10-15T08:30:15+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCYgVl2XoMfkvg1BzTFiyOiw",
-    "channel_name": "홈즈 부동산",
-    "description": "홈즈 부동산 밴드(급매 정보, 성남 투자시 필수)\n: https://band.us/band/91293447\n\n홈즈부동산 전화번호*  : 031-752-4984, 010-2082-0826\n(상담 및 매물 접수)\n\n네이버 블로그: https://blog.naver.com/11jhlee1199\n카카오톡 상담 채널: http://pf.kakao.com/_ciEcK\n\n홈즈 부동산 종합 링크 \nhttps://link.inpock.co.kr/homesrealestate\n\n주소: 경기도 성남시 수정구 산성대로 207, 109호(수진역 4번출구)",
-    "published": "2026-10-15T08:30:15+00:00",
-    "title": "10월 부동산 시장 현장 분위기는?",
-    "video_id": "y7QWNX5OK9I"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "yJrsZ5Y72RU": {
