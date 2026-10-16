@@ -5080,6 +5080,21 @@
    "published": "2026-09-16T12:00:08+00:00",
    "status": "baseline"
   },
+  "pxIdECWpjIE": {
+   "errors": 0,
+   "first_seen": "2026-10-16T04:37:35+00:00",
+   "published": "2026-10-16T04:37:10+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCGHG_gTZ780LicZmc-WUVPQ",
+    "channel_name": "유안타증권 - Yuantakorea",
+    "description": "실적은 좋은데, 주가는 왜 빠질까요?\n유안타증권 리서치센터 「2027년 주식시장 전망과 전략 : 그라운드 제로」에서 짚어봤어요.\n\n#유안타증권 #2027증시전망 #코스피 #그라운드제로 #올라타이거",
+    "published": "2026-10-16T04:37:10+00:00",
+    "title": "실적은 좋은데, 주가는 왜 빠질까요?",
+    "video_id": "pxIdECWpjIE"
+   },
+   "wait_checks": 0
+  },
   "q1uKWk7_ODo": {
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2023-04-19T04:55:58+00:00",
