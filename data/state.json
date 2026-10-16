@@ -2220,7 +2220,7 @@
   "LRdv-o1SATU": {
    "errors": 0,
    "first_seen": "2026-10-16T11:18:50+00:00",
-   "last_attempt": "2026-10-16T11:20:47+00:00",
+   "last_attempt": "2026-10-16T11:54:55+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (30:00~47:45)",
    "published": "2026-10-16T11:00:10+00:00",
    "status": "pending",
