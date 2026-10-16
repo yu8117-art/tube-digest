@@ -3634,6 +3634,21 @@
    "published": "2026-10-09T06:00:22+00:00",
    "status": "done"
   },
+  "_Th8Z0aTNmk": {
+   "errors": 0,
+   "first_seen": "2026-10-16T15:19:39+00:00",
+   "published": "2026-10-16T15:14:08+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+    "published": "2026-10-16T15:14:08+00:00",
+    "title": "주식백화점 大바겐세일",
+    "video_id": "_Th8Z0aTNmk"
+   },
+   "wait_checks": 0
+  },
   "_WLBkU9wWKg": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-02T07:40:30+00:00",
