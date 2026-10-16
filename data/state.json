@@ -1189,6 +1189,21 @@
    "published": "2026-10-09T05:35:15+00:00",
    "status": "baseline"
   },
+  "AfCMaoYIzvg": {
+   "errors": 0,
+   "first_seen": "2026-10-16T11:18:55+00:00",
+   "published": "2026-10-16T11:00:32+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+    "channel_name": "에스오디 SOD",
+    "description": "#휴머노이드 #피지컬ai #리얼월드 #로봇 #ai",
+    "published": "2026-10-16T11:00:32+00:00",
+    "title": "당황스러운 한국산 휴머노이드 근황",
+    "video_id": "AfCMaoYIzvg"
+   },
+   "wait_checks": 0
+  },
   "AmjwdT-pRJI": {
    "done_at": "2026-10-11T07:42:19+00:00",
    "errors": 0,
@@ -2201,6 +2216,23 @@
    "source": "video",
    "status": "done",
    "wait_checks": 0
+  },
+  "LRdv-o1SATU": {
+   "errors": 0,
+   "first_seen": "2026-10-16T11:18:50+00:00",
+   "last_attempt": "2026-10-16T11:20:47+00:00",
+   "last_error": "GeminiError: 구간 노트가 비어 있음 (30:00~47:45)",
+   "published": "2026-10-16T11:00:10+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCoCvTlU0KpNYwnMIgs7MPrA",
+    "channel_name": "보다 BODA",
+    "description": "오늘은 MC 허준님과 군사 전문 이세환 기자님, 동남아사 장준영 교수님을 모시고 끝나지 않는 미얀마 내전에 대해 이야기 나눠봤습니다.\n\n00:00 오프닝\n02:28 [D-26692] 원래도 콩가루였던 미얀마\n13:00 [D-21520] 쿠데타로 나라를 틀어쥔 미얀마 군부\n22:31 [D-day] 국민이 뽑은 정권을 뒤엎어버린 군부\n32:33 [D+93] 총을 들기 시작한 미얀마 시민들\n37:03 [D+999] 미얀마 군부를 뒤흔든 1027 작전\n45:43 [NOW] 현재도 끝나지 않은 세상에서 가장 긴 내전\n\n📕이세환 기자님의 저서\n[K-방산 5대 무기]\n👉교보문고 https://product.kyobobook.co.kr/detail/S000220923790\n\n궁금하신 부분들을 댓글에 달아주세요!\n저희가 확인하겠습니다! 감사합니다!\n출연 및 제휴 문의 : boooda.kr@gmail.com\nBODA 인스타 : / boda_channel\n\n#보다 #전쟁#그날을보다#동남아#미얀마#내전",
+    "published": "2026-10-16T11:00:10+00:00",
+    "title": "독재로 고통받던 미얀마가 최근 심상치 않은 이유(드디어..?)ㅣ그날을 보다 EP.48",
+    "video_id": "LRdv-o1SATU"
+   },
+   "wait_checks": 1
   },
   "LS83HeH5JiE": {
    "errors": 0,
@@ -3832,6 +3864,17 @@
    "published": "2026-09-15T09:13:37+00:00",
    "status": "baseline"
   },
+  "bzEC-DAkKDw": {
+   "done_at": "2026-10-16T11:23:44+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-16T11:18:59+00:00",
+   "last_attempt": "2026-10-16T11:22:23+00:00",
+   "notified": "2026-10-16T11:24:21+00:00",
+   "published": "2026-10-16T11:00:21+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "bze3vtghUY8": {
    "errors": 0,
    "first_seen": "2026-10-11T07:31:38+00:00",
@@ -4059,6 +4102,17 @@
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-10-07T10:00:10+00:00",
    "status": "baseline"
+  },
+  "dLv8BBcDNVw": {
+   "done_at": "2026-10-16T11:24:19+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-16T11:18:50+00:00",
+   "last_attempt": "2026-10-16T11:23:44+00:00",
+   "notified": "2026-10-16T11:24:20+00:00",
+   "published": "2026-10-16T11:16:26+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "dMWoarzBPFw": {
    "first_seen": "2026-10-09T08:14:40+00:00",
@@ -4973,6 +5027,17 @@
    "first_seen": "2026-10-09T08:14:30+00:00",
    "published": "2026-09-25T11:03:16+00:00",
    "status": "baseline"
+  },
+  "nQ0iLhwOrCc": {
+   "done_at": "2026-10-16T11:20:47+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-16T11:18:59+00:00",
+   "last_attempt": "2026-10-16T11:19:32+00:00",
+   "notified": "2026-10-16T11:24:21+00:00",
+   "published": "2026-10-16T11:00:02+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "nQ9OdOHToJo": {
    "first_seen": "2026-10-09T08:14:38+00:00",
@@ -6064,6 +6129,17 @@
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-09-20T09:00:22+00:00",
    "status": "baseline"
+  },
+  "zyGnn1-d_8E": {
+   "done_at": "2026-10-16T11:19:32+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-16T11:18:58+00:00",
+   "last_attempt": "2026-10-16T11:19:01+00:00",
+   "notified": "2026-10-16T11:24:20+00:00",
+   "published": "2026-10-16T11:00:00+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   }
  }
 }
