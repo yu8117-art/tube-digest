@@ -644,6 +644,17 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "4mG9G4QAsI4": {
+   "done_at": "2026-10-16T23:04:50+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-16T23:02:46+00:00",
+   "last_attempt": "2026-10-16T23:02:54+00:00",
+   "notified": "2026-10-16T23:05:29+00:00",
+   "published": "2026-10-16T23:00:20+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "4muqJe1bX-I": {
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-09-28T12:10:04+00:00",
@@ -4883,6 +4894,21 @@
    "published": "2026-08-27T09:03:53+00:00",
    "status": "baseline"
   },
+  "ksS7PSO59l4": {
+   "errors": 0,
+   "first_seen": "2026-10-16T23:02:50+00:00",
+   "published": "2026-10-16T23:00:02+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCFhF5oooL5ugxHKvTxBD75Q",
+    "channel_name": "땅집고",
+    "description": "💥 단단홈즈 프로모션 앵콜 연장 (~10/31)\n단기임대 똑똑하게 이용하기!\n\n[호스트 혜택] 수수료 평생 0원\n🔗 https://ader.dandanhomes.com/hq11f86\n\n[게스트 혜택] 수수료 반값 할인 (최대 10만원)\n🔗 https://ader.dandanhomes.com/5l4zat\n\n지금 3분 만에 방 등록하고 평생 0원 혜택 챙기기 🚀\n🔗 https://ader.dandanhomes.com/bsve9r\n\n🏢 “내 개발사업에 AI를 어디까지 활용할 수 있을까?”\n개발계획·사업성 검토·인허가부터\n에너지·보안·주차 운영까지\n현업 사례로 배우는 AI 부동산 실전교육\n👉 신청하기 ▼ https://zipgobiz.com/\n\n📌 땅집고TV 구독하고 남들보다 빠른 부동산 안목을 키우세요\n​👉 지금 바로 구독·좋아요·알림설정까지! http://bit.ly/3RmNLky\n오늘 영상에 대한 여러분의 의견도 댓글로 자유롭게 남겨주세요💬",
+    "published": "2026-10-16T23:00:02+00:00",
+    "title": "초고속 달리던 평촌 선도지구, '상가 패싱'에 결국 터졌다 #shorts",
+    "video_id": "ksS7PSO59l4"
+   },
+   "wait_checks": 0
+  },
   "l4yHDKSTD04": {
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-04T03:00:16+00:00",
@@ -5241,6 +5267,17 @@
     "title": "임대주택 제도 변천사...과거엔 이랬습니다!",
     "video_id": "oypPXWH94G0"
    },
+   "wait_checks": 0
+  },
+  "p0iXbpSQcks": {
+   "done_at": "2026-10-16T23:05:28+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-16T23:02:54+00:00",
+   "last_attempt": "2026-10-16T23:04:50+00:00",
+   "notified": "2026-10-16T23:05:30+00:00",
+   "published": "2026-10-16T23:00:38+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "p79OmUwOLY4": {
