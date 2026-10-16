@@ -706,6 +706,21 @@
    "transcript_status": "blocked:RequestBlocked",
    "wait_checks": 0
   },
+  "68RIvkpjcr8": {
+   "errors": 0,
+   "first_seen": "2026-10-16T02:37:12+00:00",
+   "published": "2026-10-16T02:17:11+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+    "channel_name": "채널 제네시스박",
+    "description": "📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 죽전 신세계(사우스시티) 세금 특강! + 1:1 현장 질문 (10/24, 토, 오후 2시 30분)\nhttps://m.site.naver.com/2eMlV\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (11/28, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=3&lectCd=0685\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
+    "published": "2026-10-16T02:17:11+00:00",
+    "title": "취득가 10억, 양도가 40억, 실제 세부담은?",
+    "video_id": "68RIvkpjcr8"
+   },
+   "wait_checks": 0
+  },
   "69QvyMteB00": {
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-09-30T09:00:01+00:00",
