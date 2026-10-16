@@ -490,6 +490,17 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "3CxOJJz9PEs": {
+   "done_at": "2026-10-16T08:00:57+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-16T08:00:11+00:00",
+   "last_attempt": "2026-10-16T08:00:12+00:00",
+   "notified": "2026-10-16T08:00:58+00:00",
+   "published": "2026-10-16T07:27:06+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "3EV4ENpywws": {
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-09-24T08:00:29+00:00",
