@@ -4014,6 +4014,21 @@
    "transcript_status": "blocked:RequestBlocked+gemini",
    "wait_checks": 0
   },
+  "cV1-wm0gs_k": {
+   "errors": 0,
+   "first_seen": "2026-10-16T22:36:25+00:00",
+   "published": "2026-10-16T22:30:18+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"금리 인상발 하락이 온다\"는 댓글들 \"그때만큼의 급락은 어렵습니다\"\n\n☞촬영일: 26년 10월 12일",
+    "published": "2026-10-16T22:30:18+00:00",
+    "title": "\"금리 인상발 하락이 온다\"는 댓글들 \"그때만큼의 급락은 어렵습니다\" [송승현 대표]",
+    "video_id": "cV1-wm0gs_k"
+   },
+   "wait_checks": 0
+  },
   "cdb-jRmQhSg": {
    "article_url": "https://yu8117-art.github.io/tube-digest/a/cdb-jRmQhSg.html",
    "done_at": "2026-10-09T10:12:57+00:00",
@@ -4597,6 +4612,17 @@
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-04T06:00:18+00:00",
    "status": "baseline"
+  },
+  "iAcJFrCUAdg": {
+   "done_at": "2026-10-16T22:36:55+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-16T22:36:27+00:00",
+   "last_attempt": "2026-10-16T22:36:27+00:00",
+   "notified": "2026-10-16T22:37:23+00:00",
+   "published": "2026-10-16T22:12:41+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "iC7LaDHb8zk": {
    "errors": 0,
