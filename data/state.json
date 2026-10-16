@@ -1246,6 +1246,17 @@
    "published": "2026-10-06T09:09:22+00:00",
    "status": "baseline"
   },
+  "B3NBhTRaWgs": {
+   "done_at": "2026-10-16T13:46:25+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-16T13:45:35+00:00",
+   "last_attempt": "2026-10-16T13:45:45+00:00",
+   "notified": "2026-10-16T13:46:26+00:00",
+   "published": "2026-10-16T13:17:20+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "B7EIa7DjGVk": {
    "done_at": "2026-10-14T10:41:42+00:00",
    "errors": 0,
