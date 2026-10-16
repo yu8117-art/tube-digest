@@ -2218,20 +2218,15 @@
    "wait_checks": 0
   },
   "LRdv-o1SATU": {
+   "done_at": "2026-10-16T13:12:51+00:00",
    "errors": 0,
    "first_seen": "2026-10-16T11:18:50+00:00",
-   "last_attempt": "2026-10-16T12:17:35+00:00",
+   "last_attempt": "2026-10-16T13:09:44+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (30:00~47:45)",
+   "notified": "2026-10-16T13:12:52+00:00",
    "published": "2026-10-16T11:00:10+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCoCvTlU0KpNYwnMIgs7MPrA",
-    "channel_name": "보다 BODA",
-    "description": "오늘은 MC 허준님과 군사 전문 이세환 기자님, 동남아사 장준영 교수님을 모시고 끝나지 않는 미얀마 내전에 대해 이야기 나눠봤습니다.\n\n00:00 오프닝\n02:28 [D-26692] 원래도 콩가루였던 미얀마\n13:00 [D-21520] 쿠데타로 나라를 틀어쥔 미얀마 군부\n22:31 [D-day] 국민이 뽑은 정권을 뒤엎어버린 군부\n32:33 [D+93] 총을 들기 시작한 미얀마 시민들\n37:03 [D+999] 미얀마 군부를 뒤흔든 1027 작전\n45:43 [NOW] 현재도 끝나지 않은 세상에서 가장 긴 내전\n\n📕이세환 기자님의 저서\n[K-방산 5대 무기]\n👉교보문고 https://product.kyobobook.co.kr/detail/S000220923790\n\n궁금하신 부분들을 댓글에 달아주세요!\n저희가 확인하겠습니다! 감사합니다!\n출연 및 제휴 문의 : boooda.kr@gmail.com\nBODA 인스타 : / boda_channel\n\n#보다 #전쟁#그날을보다#동남아#미얀마#내전",
-    "published": "2026-10-16T11:00:10+00:00",
-    "title": "독재로 고통받던 미얀마가 최근 심상치 않은 이유(드디어..?)ㅣ그날을 보다 EP.48",
-    "video_id": "LRdv-o1SATU"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 1
   },
   "LS83HeH5JiE": {
@@ -5353,6 +5348,21 @@
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-08-30T04:50:47+00:00",
    "status": "baseline"
+  },
+  "qeUesLzq9gw": {
+   "errors": 0,
+   "first_seen": "2026-10-16T13:09:39+00:00",
+   "published": "2026-10-14T15:05:25+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "◆신상 누리호 항공점퍼, 누리호 뱃지, 포스터, 누리호 텀블러\nhttps://smartstore.naver.com/morescience/search?q=누리호\n\n◆ 모어사이언스 신상 굿즈 구경하러 가기!\nhttps://smartstore.naver.com/morescience\n\n◆『우리는 어쩌다 과학을 믿게 되었을까?』\n예스24 https://t.ly/E0es4\n알라딘 https://t.ly/WpoQt\n교보문고 https://t.ly/0g_Yd",
+    "published": "2026-10-14T15:05:25+00:00",
+    "title": "2026 노벨 물리학상 해설, 어떻게 남극의 얼음에서 유령입자를 관측 할 수 있나?! (성균관대 노창동 교수) [안될과학 랩미팅]",
+    "video_id": "qeUesLzq9gw"
+   },
+   "wait_checks": 0
   },
   "qpsPEK3OdBo": {
    "first_seen": "2026-10-09T08:14:36+00:00",
