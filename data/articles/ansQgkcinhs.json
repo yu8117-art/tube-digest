@@ -1,0 +1,90 @@
+{
+ "video": {
+  "video_id": "ansQgkcinhs",
+  "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+  "channel_name": "에스오디 SOD",
+  "title": "\"칩도 전기도 필요없다\" 역대급 무동력 컴퓨터 등장, AI 전력난 끝난다 ㄷㄷ",
+  "published": "2026-10-16T09:00:37+00:00",
+  "description": "전기가 필요없는, DNA로 작동하는 컴퓨터에 대한 연구가 발표되었습니다.\nAI로 인한 전기난을 해결할 큰 그림이 될 수 있을까요?\n\n- 하이젠버그에서 더 자세한 정보를 얻어가세요: https://heisenberg.kr\n\n- 인스타그램: https://www.instagram.com/softdragon__/\n\n- Chapter\n0:00 인트로\n0:53 연구 결과\n3:39 파급 효과\n5:53 열역학 컴퓨팅\n8:06 전망\n9:25 하이젠버그\n\n- 내용 출처\n1. Mike McRae, \"World-first unpowered DNA computer sets speed record\", New Atlas, 2026\n2. Tristan Stérin et al, \"A thermodynamically favoured molecular computer\", Nature, 2026\n3. Maynooth University, \"MU researchers build world-first DNA computer, published in Nature\", Maynooth University, 2026\n4. Normal Computing, \"Normal Computing Raises $50M Led by Samsung Catalyst to Accelerate Silicon Design and Solve AI Hardware Energy Crisis\", Yahoo Finance, 2026\n5. Nature, \"A thermodynamically favoured molecular computer — Metrics\", Nature, 2026\n6. Denis Melanson et al, “Thermodynamic computing system for AI applications”, nature communications, 2025\n7. 김덕호, \"김성환 \"AI데이터센터 요금 신설…일반에 부담 전가 안해\"\", 아시아투데이, 2026\n8. Michael P. Frank, \"Fundamental Energy Limits and Reversible Computing Revisited\", Sandia National Laboratories, 2017\n9. EUCLYD, \"EUCLYD Raises Over €200 Million to Break the AI Efficiency Wall\", EUCLYD, 2026\n10. Charles Q. Choi, \"Thermodynamic Computing Slashes AI-Image Energy Use\", IEEE Spectrum, 2026\n11. Diana DiGangi, \"Average US electricity prices rose 9% year over year in February: EIA\", Utility Dive, 2026\n12. Ethan Howland, \"Data centers drove $6.3B in PJM capacity auction costs: market monitor\", Utility Dive, 2026\n\n- BGM\n1. rutal Force by Randy Sharp\n2. Cyber World By Tape Studio\n3. Battery Bass by Danny Shields\n4. Let’s Win This by BalloonPlanet\n5. Cosmic Pulse by Damon Power\n6. What The Dog Doing by Out of Flux",
+  "url": "https://www.youtube.com/watch?v=ansQgkcinhs"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/ansQgkcinhs/maxresdefault.jpg",
+ "source": "video",
+ "duration": 633,
+ "summary": {
+  "headline": "전기와 칩이 필요 없는 무동력 DNA 컴퓨터 등장",
+  "thumbnail_text": "세계 최고 저널 '네이처' 게재 칩도 전기도 필요없다 신의 컴퓨터 등장",
+  "thumbnail_answer": "전기와 반도체 칩 없이 DNA 분자의 결합과 물리 법칙을 이용해 연산하는 무동력 컴퓨터가 네이처에 게재되며 AI 전력난의 해결책으로 주목받고 있다.",
+  "conclusion": "전기 대신 열과 물리법칙을 활용하는 열역학 컴퓨팅과 DNA 컴퓨터는 AI 시대의 심각한 전력난을 해결할 게임체인저다. 삼성 등 글로벌 대기업들이 이러한 파괴적 기술에 선제적으로 투자하고 있다. 자연의 움직임을 계산 자원으로 삼는 새로운 컴퓨팅 패러다임이 다가오고 있다.",
+  "key_points": [
+   "반도체 칩과 전원선이 없는 세계 최초의 무동력 DNA 컴퓨터가 개발되어 네이처에 실렸다.",
+   "기존 전자의 이동 방식이 아닌 DNA 분자의 결합과 탈락 현상을 이용해 연산한다.",
+   "AI 인프라 확대로 인한 전력 소비와 전기요금 급등이 전 세계적인 문제로 대두되고 있다.",
+   "열역학 컴퓨팅은 자연의 열과 잡음을 계산 자원으로 활용해 전력 소모를 획기적으로 줄인다.",
+   "노멀 컴퓨팅과 유클리드 등 차세대 에너지 효율 기술에 삼성이 대규모 투자를 진행 중이다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "인트로",
+    "points": [
+     "전기와 반도체 칩이 필요 없는 컴퓨터의 등장",
+     "소금물과 DNA로 구동되는 혁신적인 연구 소개"
+    ]
+   },
+   {
+    "seconds": 53,
+    "title": "연구 결과",
+    "points": [
+     "메이노수 대학 연구진의 세계 최초 무동력 DNA 컴퓨터 개발",
+     "릴레이 소개팅에 비유한 DNA 분자 퍼즐 맞춤형 연산 원리"
+    ]
+   },
+   {
+    "seconds": 219,
+    "title": "파급 효과",
+    "points": [
+     "AI 시대의 급격한 전력 수요 증가와 전기요금 부담",
+     "AI 서비스 고도화에 따른 전력난과 양극화 우려"
+    ]
+   },
+   {
+    "seconds": 353,
+    "title": "열역학 컴퓨팅",
+    "points": [
+     "물리 법칙과 열을 이용해 계산하는 열역학 컴퓨팅의 개념",
+     "노멀 컴퓨팅의 하드웨어와 엔비디아 GPU 대비 성능 비교"
+    ]
+   },
+   {
+    "seconds": 486,
+    "title": "전망",
+    "points": [
+     "삼성 등 글로벌 기업들의 차세대 컴퓨팅 기술 투자",
+     "자연의 움직임을 활용하는 컴퓨팅 혁명"
+    ]
+   },
+   {
+    "seconds": 565,
+    "title": "하이젠버그",
+    "points": [
+     "방대한 과학 기술 데이터를 연결하는 하이젠버그 플랫폼 소개",
+     "반도체 산업의 핵심 병목인 EDA의 중요성"
+    ]
+   }
+  ],
+  "tags": [
+   "DNA컴퓨터",
+   "열역학컴퓨팅",
+   "AI전력난",
+   "삼성전자",
+   "네이처"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 59784,
+   "output_tokens": 846
+  }
+ },
+ "created_at": "2026-10-16T09:35:05+00:00"
+}
