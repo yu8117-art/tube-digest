@@ -3201,6 +3201,21 @@
    },
    "wait_checks": 0
   },
+  "UbMnxAmEYP8": {
+   "errors": 0,
+   "first_seen": "2026-10-17T06:02:38+00:00",
+   "published": "2026-10-17T06:00:02+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
+    "channel_name": "집코노미",
+    "description": "아파트를 늘리는 3가지 방법 😏\n\n#아파트리모델링 #수직증축 #수평증축 #별동증축 #세대수증가\n\n한국경제신문 구독하기\n📰https://vo.la/N79FE1B\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다",
+    "published": "2026-10-17T06:00:02+00:00",
+    "title": "리모델링으로 가구수 늘리는 법",
+    "video_id": "UbMnxAmEYP8"
+   },
+   "wait_checks": 0
+  },
   "Ubhhn8W7MCY": {
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-06T22:43:52+00:00",
@@ -5042,6 +5057,17 @@
     "title": "50년 전 상상한 AI 기업, 지금과 놀랍도록 닮았다?!",
     "video_id": "lGd12rF8JO8"
    },
+   "wait_checks": 0
+  },
+  "ld0fBMB_IkM": {
+   "done_at": "2026-10-17T06:03:13+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-17T06:02:33+00:00",
+   "last_attempt": "2026-10-17T06:02:40+00:00",
+   "notified": "2026-10-17T06:03:14+00:00",
+   "published": "2026-10-17T06:00:37+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "lpiWlIiP2Ts": {
