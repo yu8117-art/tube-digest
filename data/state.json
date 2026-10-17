@@ -4993,6 +4993,17 @@
    },
    "wait_checks": 0
   },
+  "j_PtHrE0YBg": {
+   "done_at": "2026-10-17T16:11:39+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-17T16:10:48+00:00",
+   "last_attempt": "2026-10-17T16:10:56+00:00",
+   "notified": "2026-10-17T16:12:06+00:00",
+   "published": "2026-10-17T15:55:13+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "jhxbXe6W5IQ": {
    "errors": 0,
    "first_seen": "2026-10-14T02:37:17+00:00",
