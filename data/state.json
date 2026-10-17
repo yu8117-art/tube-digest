@@ -3192,6 +3192,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "U0X0bFWdsX4": {
+   "done_at": "2026-10-17T23:09:48+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-17T23:07:18+00:00",
+   "last_attempt": "2026-10-17T23:07:41+00:00",
+   "notified": "2026-10-17T23:10:15+00:00",
+   "published": "2026-10-17T23:00:34+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "U1nkqbZslKs": {
    "done_at": "2026-10-13T17:30:23+00:00",
    "errors": 0,
@@ -5117,6 +5128,17 @@
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-09-30T11:34:25+00:00",
    "status": "baseline"
+  },
+  "kkZzEce1PzA": {
+   "done_at": "2026-10-17T23:07:41+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-17T23:07:21+00:00",
+   "last_attempt": "2026-10-17T23:07:24+00:00",
+   "notified": "2026-10-17T23:10:41+00:00",
+   "published": "2026-10-17T23:00:15+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "kpYGrIs44Rs": {
    "first_seen": "2026-10-09T08:14:36+00:00",
