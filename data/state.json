@@ -2512,6 +2512,21 @@
    "published": "2026-09-30T11:39:27+00:00",
    "status": "baseline"
   },
+  "NbOVRClA84c": {
+   "errors": 0,
+   "first_seen": "2026-10-17T10:34:02+00:00",
+   "published": "2026-10-17T10:30:22+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"토허제 묶인 곳만 전고점 뚫립니다\" 토지거래허가구역이 계급장이 됐습니다\n\n☞촬영일: 26년 10월 12일",
+    "published": "2026-10-17T10:30:22+00:00",
+    "title": "\"토허제 묶인 곳만 전고점 뚫립니다\" 토지거래허가구역이 계급장이 됐습니다 [송승현 대표]",
+    "video_id": "NbOVRClA84c"
+   },
+   "wait_checks": 0
+  },
   "NjkL-M-6164": {
    "errors": 0,
    "first_seen": "2026-10-13T02:46:08+00:00",
@@ -5187,6 +5202,17 @@
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-07T08:30:08+00:00",
    "status": "baseline"
+  },
+  "mZ22ca3OCYc": {
+   "done_at": "2026-10-17T10:35:13+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-17T10:33:55+00:00",
+   "last_attempt": "2026-10-17T10:34:04+00:00",
+   "notified": "2026-10-17T10:35:13+00:00",
+   "published": "2026-10-17T10:20:55+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
   },
   "ma8n3xSxxx0": {
    "errors": 0,
