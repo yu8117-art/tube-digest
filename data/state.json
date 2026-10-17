@@ -804,6 +804,21 @@
    },
    "wait_checks": 0
   },
+  "6Y1aDiljGr0": {
+   "errors": 0,
+   "first_seen": "2026-10-17T04:36:00+00:00",
+   "published": "2026-10-17T04:33:14+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCDSj40X9FFUAnx1nv7gQhcA",
+    "channel_name": "월급쟁이부자들TV",
+    "description": "한국 증시가 유독 많이 폭락하는 결정적 이유, 궁금하지 않으신가요? 삼성전자와 하이닉스 의존도가 높은 우리 시장이 왜 반도체 하락에 더 치명타를 입는지, 핵심 원리를 알기 쉽게 정리했습니다.\n\n#한국경제 #주식시장 #코스피 #반도체 #경제공부",
+    "published": "2026-10-17T04:33:14+00:00",
+    "title": "한국 증시가 유독 많이 폭락하는 결정적 이유",
+    "video_id": "6Y1aDiljGr0"
+   },
+   "wait_checks": 0
+  },
   "6ZIb00fSnHs": {
    "errors": 0,
    "first_seen": "2026-10-12T06:20:09+00:00",
@@ -3437,6 +3452,21 @@
    "published": "2026-08-28T14:11:50+00:00",
    "status": "baseline"
   },
+  "XZnzOrhDvSA": {
+   "errors": 0,
+   "first_seen": "2026-10-17T04:35:59+00:00",
+   "published": "2026-10-17T04:33:43+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCDSj40X9FFUAnx1nv7gQhcA",
+    "channel_name": "월급쟁이부자들TV",
+    "description": "실적 좋은 회사도 하락하는 주식 시장, 도대체 왜일까요? 기업 성과를 무시하는 매크로 변수와 코스피 반도체 섹터의 위기, 지금 꼭 알아야 할 투자 전략을 확인하세요.\n\n#주식투자 #주식시장 #반도체주 #코스피 #경제전망",
+    "published": "2026-10-17T04:33:43+00:00",
+    "title": "실적 좋은 회사도 하락 주식 시장 뒤흔드는 실체",
+    "video_id": "XZnzOrhDvSA"
+   },
+   "wait_checks": 0
+  },
   "XczjN3fUGdk": {
    "errors": 0,
    "first_seen": "2026-10-14T07:30:24+00:00",
@@ -5258,6 +5288,21 @@
    "first_seen": "2026-10-09T08:14:33+00:00",
    "published": "2026-06-25T12:38:13+00:00",
    "status": "baseline"
+  },
+  "oXqR92qShmc": {
+   "errors": 0,
+   "first_seen": "2026-10-17T04:35:55+00:00",
+   "published": "2026-10-17T04:30:29+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"공동명의 1주택도 다주택자다?\" 그래도 저는 공동명의 하라고 합니다\n\n☞촬영일: 26년 10월 12일",
+    "published": "2026-10-17T04:30:29+00:00",
+    "title": "\"공동명의 1주택도 다주택자다?\" 그래도 저는 공동명의 하라고 합니다 [제네시스박]",
+    "video_id": "oXqR92qShmc"
+   },
+   "wait_checks": 0
   },
   "oXwmdUxk-ng": {
    "errors": 0,
