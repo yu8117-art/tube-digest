@@ -2315,6 +2315,21 @@
    },
    "wait_checks": 0
   },
+  "Lf89bw8zlXM": {
+   "errors": 0,
+   "first_seen": "2026-10-17T08:11:40+00:00",
+   "published": "2026-10-17T08:06:08+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+    "published": "2026-10-17T08:06:08+00:00",
+    "title": "삼성 회장님이 1조9천억 원 긁었다는 소문",
+    "video_id": "Lf89bw8zlXM"
+   },
+   "wait_checks": 0
+  },
   "LgZfyVHDC38": {
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-09-18T04:00:18+00:00",
@@ -5171,6 +5186,17 @@
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-09-23T11:00:00+00:00",
    "status": "baseline"
+  },
+  "mjdjePQ59B0": {
+   "done_at": "2026-10-17T08:13:15+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-17T08:11:48+00:00",
+   "last_attempt": "2026-10-17T08:11:50+00:00",
+   "notified": "2026-10-17T08:13:16+00:00",
+   "published": "2026-10-17T08:00:18+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
   },
   "mkOoS_Ef2a0": {
    "first_seen": "2026-10-09T08:14:35+00:00",
