@@ -3806,6 +3806,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "_me9Z0km3Sc": {
+   "errors": 0,
+   "first_seen": "2026-10-17T11:00:36+00:00",
+   "published": "2026-10-17T11:00:11+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "테슬라에서 나온 로드스터는 어떻게 거꾸로 붙어있고, 공중으로 날 수 있는 걸까요? 그건 바로 흡입과 냉가스 추진기 때문입니다. 자동차 바닥의 공기를 계속 빨아내서 압력의 차이를 만들고, 팰컨 9 로켓 1단이 지구로  돌아올 때 사용하는 가스 추진기와 같은 원리지만 대기 중에서 사용하기 위해 하드웨어와 제어방식을 새로 개발했습니다. 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#테슬라  #tesla #로드스터 #일론머스크 #스페이스X #안될과학 #과학유튜브",
+    "published": "2026-10-17T11:00:11+00:00",
+    "title": "거꾸로 붙어있고 하늘을 나는 차?",
+    "video_id": "_me9Z0km3Sc"
+   },
+   "wait_checks": 0
+  },
   "_wi_8L_l6bE": {
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-09-16T12:00:16+00:00",
@@ -5500,6 +5515,17 @@
    "published": "2026-09-23T11:40:25+00:00",
    "status": "baseline"
   },
+  "p7aR8xYHsBQ": {
+   "done_at": "2026-10-17T11:02:12+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-17T11:00:44+00:00",
+   "last_attempt": "2026-10-17T11:01:11+00:00",
+   "notified": "2026-10-17T11:02:13+00:00",
+   "published": "2026-10-17T11:00:20+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "p92dCk27zV4": {
    "errors": 0,
    "first_seen": "2026-10-09T11:26:18+00:00",
@@ -6273,6 +6299,17 @@
    "last_attempt": "2026-10-17T08:38:40+00:00",
    "notified": "2026-10-17T08:40:22+00:00",
    "published": "2026-10-17T08:30:23+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "xyAz_OjDmmU": {
+   "done_at": "2026-10-17T11:01:11+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-17T11:00:34+00:00",
+   "last_attempt": "2026-10-17T11:00:49+00:00",
+   "notified": "2026-10-17T11:02:12+00:00",
+   "published": "2026-10-17T11:00:09+00:00",
    "source": "video",
    "status": "done",
    "wait_checks": 0
