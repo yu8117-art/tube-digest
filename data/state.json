@@ -890,6 +890,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "6sLpOdTpYq8": {
+   "done_at": "2026-10-17T15:23:54+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-17T15:20:11+00:00",
+   "last_attempt": "2026-10-17T15:20:12+00:00",
+   "notified": "2026-10-17T15:23:54+00:00",
+   "published": "2026-10-17T15:00:39+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "6tAP2hKB4UY": {
    "errors": 0,
    "first_seen": "2026-10-11T07:31:31+00:00",
