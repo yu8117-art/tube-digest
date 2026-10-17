@@ -4363,6 +4363,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "eHenBdvW2L0": {
+   "done_at": "2026-10-17T08:38:40+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-17T08:38:04+00:00",
+   "last_attempt": "2026-10-17T08:38:11+00:00",
+   "notified": "2026-10-17T08:39:55+00:00",
+   "published": "2026-10-17T08:15:24+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "eKswJZFf_Lo": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-08T10:00:23+00:00",
@@ -5135,6 +5146,21 @@
    "first_seen": "2026-10-12T23:26:58+00:00",
    "published": "2026-10-12T23:08:17+00:00",
    "status": "skipped_live",
+   "wait_checks": 0
+  },
+  "m6sJIKB1v8A": {
+   "errors": 0,
+   "first_seen": "2026-10-17T08:38:09+00:00",
+   "published": "2026-10-17T08:30:21+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"점프업 할 수 있는 건 딱 두 개뿐\" 이제 남은 건 '이것' 하나입니다\n\n☞촬영일: 26년 10월 12일",
+    "published": "2026-10-17T08:30:21+00:00",
+    "title": "\"점프업 할 수 있는 건 딱 두 개뿐\" 이제 남은 건 '이것' 하나입니다 [제네시스박]",
+    "video_id": "m6sJIKB1v8A"
+   },
    "wait_checks": 0
   },
   "mDdvMRr3Hcs": {
@@ -6213,6 +6239,17 @@
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-10-08T11:00:27+00:00",
    "status": "baseline"
+  },
+  "xffJy0EZTDg": {
+   "done_at": "2026-10-17T08:39:28+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-17T08:38:07+00:00",
+   "last_attempt": "2026-10-17T08:38:40+00:00",
+   "notified": "2026-10-17T08:40:22+00:00",
+   "published": "2026-10-17T08:30:23+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "y-p5Jpzoht8": {
    "first_seen": "2026-10-09T08:14:36+00:00",
