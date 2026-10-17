@@ -685,6 +685,21 @@
    "published": "2026-09-29T04:19:28+00:00",
    "status": "baseline"
   },
+  "5OkrvGWVly0": {
+   "errors": 0,
+   "first_seen": "2026-10-17T11:59:48+00:00",
+   "published": "2026-10-17T11:43:19+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-10-17T11:43:19+00:00",
+    "title": "이강인 선발!!! 에스파뇰 : AT마드리드 / 후반전 교체 전까지 공격포인트 가능할까?",
+    "video_id": "5OkrvGWVly0"
+   },
+   "wait_checks": 0
+  },
   "5TF8BKFWERo": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-09-23T23:00:27+00:00",
