@@ -4278,6 +4278,17 @@
    "published": "2026-09-17T05:00:09+00:00",
    "status": "baseline"
   },
+  "eHbE4_rz9rY": {
+   "done_at": "2026-10-17T04:06:54+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-17T04:06:25+00:00",
+   "last_attempt": "2026-10-17T04:06:31+00:00",
+   "notified": "2026-10-17T04:06:55+00:00",
+   "published": "2026-10-17T04:00:06+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "eKswJZFf_Lo": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-08T10:00:23+00:00",
