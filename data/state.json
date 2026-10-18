@@ -2204,6 +2204,21 @@
    },
    "wait_checks": 0
   },
+  "Ipzz78FutEM": {
+   "errors": 0,
+   "first_seen": "2026-10-18T22:46:48+00:00",
+   "published": "2026-10-18T22:30:28+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"팔고 싶어도 못 팝니다\" 재건축 초기에 들어가면 이렇게 됩니다\n\n☞촬영일: 26년 10월 12일",
+    "published": "2026-10-18T22:30:28+00:00",
+    "title": "\"팔고 싶어도 못 팝니다\" 재건축 초기에 들어가면 이렇게 됩니다 [제네시스박]",
+    "video_id": "Ipzz78FutEM"
+   },
+   "wait_checks": 0
+  },
   "Iqa5QcVFkNI": {
    "done_at": "2026-10-12T06:30:14+00:00",
    "errors": 0,
@@ -3448,7 +3463,7 @@
   "UbVeFfm4GMQ": {
    "errors": 0,
    "first_seen": "2026-10-18T10:02:50+00:00",
-   "last_attempt": "2026-10-18T22:19:05+00:00",
+   "last_attempt": "2026-10-18T22:46:50+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-10-18T09:36:10+00:00",
    "status": "pending",
@@ -3460,7 +3475,7 @@
     "title": "AI 약한고리 터진다? 극단적 공포 구간 진입/올 연말까진 기회, 내년이 진짜 위기?",
     "video_id": "UbVeFfm4GMQ"
    },
-   "wait_checks": 28
+   "wait_checks": 29
   },
   "Ubhhn8W7MCY": {
    "first_seen": "2026-10-09T08:14:38+00:00",
