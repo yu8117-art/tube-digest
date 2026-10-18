@@ -481,6 +481,21 @@
    "status": "done",
    "wait_checks": 1
   },
+  "2wpg22xTHcU": {
+   "errors": 0,
+   "first_seen": "2026-10-18T06:40:54+00:00",
+   "published": "2026-10-18T06:30:15+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"27만 원대도 싸다고 했던 사람입니다\" 수급 때문에 빠진 건 오히려 기회입니다\n\n☞촬영일: 26년 10월 15일",
+    "published": "2026-10-18T06:30:15+00:00",
+    "title": "\"27만 원대도 싸다고 했던 사람입니다\" 수급 때문에 빠진 건 오히려 기회입니다 [박정호 교수]",
+    "video_id": "2wpg22xTHcU"
+   },
+   "wait_checks": 0
+  },
   "31_3pJPeFec": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-08-31T03:40:25+00:00",
