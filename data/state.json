@@ -2857,6 +2857,21 @@
    },
    "wait_checks": 0
   },
+  "P_yK9Sp3amQ": {
+   "errors": 0,
+   "first_seen": "2026-10-18T11:01:13+00:00",
+   "published": "2026-10-18T11:00:15+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "9년만에 재등장한 로드스터에는 스페이스X와 함께 만든 추진기가 달려있었습니다. 테슬라는 총 3가지 버전의 로드스터를 공개했는데요, 도로 주행용 퍼포먼스, 후방에 추진기를 단 스러스트, 차체 둘레에 추진기를 단 로켓이었습니다. 로드스터는 이 추진기로 제로백 0.81초, 공중제비를 도는 모습도 선보였습니다. 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#테슬라 #tesla #로드스터 #스페이스x #안될과학 #약 #과학유튜버",
+    "published": "2026-10-18T11:00:15+00:00",
+    "title": "제로백은 0.81초에 공중제비도 도는 차?!",
+    "video_id": "P_yK9Sp3amQ"
+   },
+   "wait_checks": 0
+  },
   "PmFxX8Ka3ag": {
    "first_seen": "2026-10-09T08:14:30+00:00",
    "published": "2026-10-02T07:54:19+00:00",
@@ -3408,7 +3423,7 @@
   "UbVeFfm4GMQ": {
    "errors": 0,
    "first_seen": "2026-10-18T10:02:50+00:00",
-   "last_attempt": "2026-10-18T10:34:22+00:00",
+   "last_attempt": "2026-10-18T11:02:07+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-10-18T09:36:10+00:00",
    "status": "pending",
@@ -3420,7 +3435,7 @@
     "title": "AI 약한고리 터진다? 극단적 공포 구간 진입/올 연말까진 기회, 내년이 진짜 위기?",
     "video_id": "UbVeFfm4GMQ"
    },
-   "wait_checks": 1
+   "wait_checks": 2
   },
   "Ubhhn8W7MCY": {
    "first_seen": "2026-10-09T08:14:38+00:00",
@@ -5512,6 +5527,21 @@
    "published": "2026-10-07T08:30:08+00:00",
    "status": "baseline"
   },
+  "mO0PMi8gyG0": {
+   "errors": 0,
+   "first_seen": "2026-10-18T11:01:19+00:00",
+   "published": "2026-10-18T10:39:56+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
+    "channel_name": "지식보관소",
+    "description": "Instagram ID @archiveyoutube\n#Shorts #시공간 #양자중력 #양자역학 #상대성이론 #지식보관소\n\n우리가 매끄럽다고 느끼는 시공간에도 더 작은 단위가 있을까요?\n양자역학과 상대성이론이 만나는 오래된 난제, 마인크래프트 블록에 빗댄 시공간의 양자화, 중력을 통한 양자얽힘을 검증하려는 실험 아이디어를 짧게 살펴봅니다.\n\n여기서 ‘디지털’과 마인크래프트는 이해를 돕는 비유입니다. 시공간이 실제로 0과 1로 이루어졌거나 중력의 양자성이 실험으로 확정됐다는 뜻은 아닙니다. 관련 연구와 질문은 지식보관소 풀영상에서 더 자세히 소개합니다.\n\n원본영상\nhttps://youtu.be/2k2UAZl6v3Q?si=_XDihRmWRBu7EogG\n\n------- 본계정(지식보관소) -------\nhttps://www.youtube.com/@지식보관소\n-----------게임 개발 관련-----------\nhttps://asdfg3663-alt.github.io/\n------- 비지니스 문의 -------\nE-Mail : asdfg3663@gmail.com",
+    "published": "2026-10-18T10:39:56+00:00",
+    "title": "시공간은 사실 아날로그가 아니라 디지털로 되어있다 #Shorts",
+    "video_id": "mO0PMi8gyG0"
+   },
+   "wait_checks": 0
+  },
   "mZ22ca3OCYc": {
    "done_at": "2026-10-17T10:35:13+00:00",
    "errors": 0,
@@ -6158,6 +6188,17 @@
    "first_seen": "2026-10-09T08:14:30+00:00",
    "published": "2026-09-24T08:00:11+00:00",
    "status": "baseline"
+  },
+  "s8htuUXidbY": {
+   "done_at": "2026-10-18T11:02:06+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-18T11:01:23+00:00",
+   "last_attempt": "2026-10-18T11:01:26+00:00",
+   "notified": "2026-10-18T11:02:53+00:00",
+   "published": "2026-10-18T11:00:31+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "s8yrhAj6RFY": {
    "first_seen": "2026-10-09T08:14:40+00:00",
