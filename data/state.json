@@ -1491,6 +1491,17 @@
    "published": "2026-06-12T08:00:28+00:00",
    "status": "baseline"
   },
+  "CN5Rld2xeYA": {
+   "done_at": "2026-10-18T06:03:10+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-18T06:02:05+00:00",
+   "last_attempt": "2026-10-18T06:02:15+00:00",
+   "notified": "2026-10-18T06:03:11+00:00",
+   "published": "2026-10-18T06:00:38+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "CNA-ZNI0wVk": {
    "errors": 0,
    "first_seen": "2026-10-15T09:11:42+00:00",
@@ -1503,6 +1514,21 @@
     "published": "2026-10-15T08:53:41+00:00",
     "title": "1주택 고가주택 장특공, 앞으로 이렇게 바뀝니다! (너무 하는거 아닌가요?)",
     "video_id": "CNA-ZNI0wVk"
+   },
+   "wait_checks": 0
+  },
+  "CNoAzsIrNmY": {
+   "errors": 0,
+   "first_seen": "2026-10-18T06:02:10+00:00",
+   "published": "2026-10-18T06:00:37+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
+    "channel_name": "집코노미",
+    "description": "우리 집은 몇 베이일까🤔?\n\n#4베이 #아파트구조 #아파트평면도 #판상형 #3베이\n\n한국경제신문 구독하기\n📰https://vo.la/N79FE1B\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다",
+    "published": "2026-10-18T06:00:37+00:00",
+    "title": "베이(BAY) 대체 무슨 뜻일까?",
+    "video_id": "CNoAzsIrNmY"
    },
    "wait_checks": 0
   },
