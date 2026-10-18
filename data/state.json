@@ -3402,6 +3402,17 @@
    },
    "wait_checks": 0
   },
+  "VIyYwFkcwlA": {
+   "done_at": "2026-10-18T04:09:20+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-18T04:09:02+00:00",
+   "last_attempt": "2026-10-18T04:09:09+00:00",
+   "notified": "2026-10-18T04:09:21+00:00",
+   "published": "2026-10-18T03:45:21+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "VQKL5ojuTmg": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-08-14T10:00:15+00:00",
