@@ -2170,15 +2170,7 @@
    "errors": 0,
    "first_seen": "2026-10-18T12:58:43+00:00",
    "published": "2026-10-18T12:50:57+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-10-18T12:50:57+00:00",
-    "title": "리즈 vs 맨유 : 경질위기 캐릭, 오늘 못 이기면 정말 위험하다",
-    "video_id": "ImrcViCkYm4"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "IoCmpQ60-Wo": {
@@ -3430,7 +3422,7 @@
   "UbVeFfm4GMQ": {
    "errors": 0,
    "first_seen": "2026-10-18T10:02:50+00:00",
-   "last_attempt": "2026-10-18T15:00:37+00:00",
+   "last_attempt": "2026-10-18T15:32:53+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-10-18T09:36:10+00:00",
    "status": "pending",
@@ -3442,7 +3434,7 @@
     "title": "AI 약한고리 터진다? 극단적 공포 구간 진입/올 연말까진 기회, 내년이 진짜 위기?",
     "video_id": "UbVeFfm4GMQ"
    },
-   "wait_checks": 11
+   "wait_checks": 12
   },
   "Ubhhn8W7MCY": {
    "first_seen": "2026-10-09T08:14:38+00:00",
@@ -5626,15 +5618,7 @@
    "errors": 0,
    "first_seen": "2026-10-18T11:33:08+00:00",
    "published": "2026-10-18T11:22:22+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-    "channel_name": "슈카월드",
-    "description": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-    "published": "2026-10-18T11:22:22+00:00",
-    "title": "[슈카월드] 코스피 6000 붕괴, 우리는 어디로 가는가 / 숏돌이가 고른 종목 / 세상을 놀라게한 테슬라 로드스터 / 일본 경쟁력 저하의 원인 / 인도 바퀴벌레당의 분노",
-    "video_id": "n1Kr-uSnvv4"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "n3kiARLCHEM": {
