@@ -6490,6 +6490,17 @@
    "published": "2026-10-07T07:30:42+00:00",
    "status": "baseline"
   },
+  "wRozoBC4AIc": {
+   "done_at": "2026-10-18T09:03:52+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-18T09:03:27+00:00",
+   "last_attempt": "2026-10-18T09:03:32+00:00",
+   "notified": "2026-10-18T09:04:19+00:00",
+   "published": "2026-10-18T09:00:30+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "wY1TcajLrxY": {
    "article_url": "https://yu8117-art.github.io/tube-digest/a/wY1TcajLrxY.html",
    "done_at": "2026-10-09T10:12:30+00:00",
