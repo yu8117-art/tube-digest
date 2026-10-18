@@ -2166,6 +2166,21 @@
    },
    "wait_checks": 0
   },
+  "ImrcViCkYm4": {
+   "errors": 0,
+   "first_seen": "2026-10-18T12:58:43+00:00",
+   "published": "2026-10-18T12:50:57+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-10-18T12:50:57+00:00",
+    "title": "리즈 vs 맨유 : 경질위기 캐릭, 오늘 못 이기면 정말 위험하다",
+    "video_id": "ImrcViCkYm4"
+   },
+   "wait_checks": 0
+  },
   "IoCmpQ60-Wo": {
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-10-02T21:37:12+00:00",
@@ -3415,7 +3430,7 @@
   "UbVeFfm4GMQ": {
    "errors": 0,
    "first_seen": "2026-10-18T10:02:50+00:00",
-   "last_attempt": "2026-10-18T12:21:06+00:00",
+   "last_attempt": "2026-10-18T12:58:49+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-10-18T09:36:10+00:00",
    "status": "pending",
@@ -3427,7 +3442,7 @@
     "title": "AI 약한고리 터진다? 극단적 공포 구간 진입/올 연말까진 기회, 내년이 진짜 위기?",
     "video_id": "UbVeFfm4GMQ"
    },
-   "wait_checks": 5
+   "wait_checks": 6
   },
   "Ubhhn8W7MCY": {
    "first_seen": "2026-10-09T08:14:38+00:00",
