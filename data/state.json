@@ -4890,6 +4890,17 @@
    },
    "wait_checks": 0
   },
+  "iDJ1e7t5JEU": {
+   "done_at": "2026-10-18T02:19:27+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-18T02:16:10+00:00",
+   "last_attempt": "2026-10-18T02:16:20+00:00",
+   "notified": "2026-10-18T02:20:57+00:00",
+   "published": "2026-10-18T01:59:43+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "iDJ3KpfifjY": {
    "done_at": "2026-10-14T09:46:54+00:00",
    "errors": 0,
@@ -5840,6 +5851,17 @@
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-09-28T11:50:15+00:00",
    "status": "baseline"
+  },
+  "rA-3bocKVNw": {
+   "done_at": "2026-10-18T02:20:57+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-18T02:16:12+00:00",
+   "last_attempt": "2026-10-18T02:19:27+00:00",
+   "notified": "2026-10-18T02:20:58+00:00",
+   "published": "2026-10-18T02:00:03+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "rC9JaLNmlU8": {
    "done_at": "2026-10-12T10:14:42+00:00",

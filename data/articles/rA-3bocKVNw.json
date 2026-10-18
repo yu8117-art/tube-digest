@@ -1,0 +1,82 @@
+{
+ "video": {
+  "video_id": "rA-3bocKVNw",
+  "channel_id": "UCcJsCcWlSPDC5dFNRqVxy_A",
+  "channel_name": "우주먼지의 현자타임즈",
+  "title": "AI가 이제 천문학까지 넘보기 시작했습니다.",
+  "published": "2026-10-18T02:00:03+00:00",
+  "description": "👍 #인공지능 #AI #천문학 #우리은하 #우주 #universe #astronomy #암흑물질 #암흑에너지 \n\n우주먼지 신간 ✨ 「지구인에게, 별로부터」 구매 링크 \nYes24 https://m.site.naver.com/26alx \n\n우주먼지 신간 ✨ 「천문학자의 쓸모없음에 관하여」 구매 링크 \n교보문고 https://product.kyobobook.co.kr/detail/S000219143943\nYes24 https://www.yes24.com/product/goods/177181552\n\n우주먼지 신간 ✨ 「천문대에 피아노가 떨어졌다」 구매 링크 \n교보문고 https://product.kyobobook.co.kr/detail/S000219077206\nYes24 https://www.yes24.com/Product/Goods/175307078\n\n우주먼지 신간 ✨ 「우리는 모두 천문학자로 태어난다」 구매 링크 \n교보문고 https://bit.ly/4hvvLNP\n예스24 https://bit.ly/4ouPFeJ\n알라딘 https://bit.ly/47rfZ1X\n\n📝 칼럼 링크 \nhttps://bizhankook.com\n\n🎤 NAVER 오디오클립 팟캐스트 링크   \nhttps://audioclip.naver.com/channels/143   \n\n🎁 BODA X 우주먼지, 콜라보 우주덕후들을 위한 굿즈! \nhttps://smartstore.naver.com/aweplay\n\n레퍼런스 \nhttps://www.anthropic.com/research/the-missing-map-of-the-sky\n\n본 컨텐츠는 NAVER 네이버 & 비즈한국의 지원으로 제작됩니다.\n\n헤일메리(@by_hailmary) × 우주먼지 \n에드윈 허블 유리 건판 키링 만나기 \nhttps://byhailmary.com/shop_view/?idx=29",
+  "url": "https://www.youtube.com/watch?v=rA-3bocKVNw"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/rA-3bocKVNw/maxresdefault.jpg",
+ "source": "video",
+ "duration": 650,
+ "summary": {
+  "headline": "AI가 그린 완벽한 우주 지도와 천문학의 미래",
+  "thumbnail_text": "AI가 우주를 완성했다",
+  "thumbnail_answer": "앤트로픽의 AI 클로드가 기존 망원경으로 채우지 못한 빈틈을 통계적으로 계산해 완전한 자외선 올스카이 우주 지도를 완성했다.",
+  "conclusion": "AI는 방대한 관측 데이터를 분석해 인간이 놓친 미지의 은하를 찾아내고 우주 지도를 완성하는 능력을 보여준다. 하지만 AI가 만든 예측 지도를 절대적인 진리로 맹신해서는 안 되며, 오히려 새로운 과학적 가설을 검증하는 도구로 현명하게 활용해야 한다.",
+  "key_points": [
+   "앤트로픽 연구진이 클로드를 이용해 자외선 올스카이 우주 지도를 공개했다.",
+   "기존 망원경으로 관측하기 힘들었던 은하 원반 주변의 빈틈을 AI가 통계적 계산으로 채웠다.",
+   "허블 망원경 아카이브를 학습한 AI가 이틀 만에 1,300개가 넘는 특이한 은하 후보를 찾아냈다.",
+   "그중 800개는 천문학자들이 한 번도 본 적 없는 새로운 은하들이었다.",
+   "AI가 만든 예측 지도는 관측의 불확실성을 가질 수 있으므로 맹신보다는 검증의 도구로 써야 한다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "오픈AI의 수학 연구 원고 공개와 천문학계의 변화",
+    "points": [
+     "오픈AI가 수많은 수학 증명 원고를 대거 공개했다.",
+     "인공지능이 연구 속도를 높이는 가운데 천문학계에서도 비슷한 변화가 일어나고 있다."
+    ]
+   },
+   {
+    "seconds": 102,
+    "title": "앤트로픽과 클로드가 만든 '우주의 빈 지도' 완성",
+    "points": [
+     "앤트로픽 연구진이 클로드를 활용해 자외선 올스카이 우주 지도를 공개했다.",
+     "기존 망원경으로 채우지 못한 빈 부분을 AI가 관측 데이터 바탕으로 예측해 완성했다."
+    ]
+   },
+   {
+    "seconds": 247,
+    "title": "여러 탐사 장비의 데이터 통합과 보정",
+    "points": [
+     "GALEX, 스위프트, 우리별 4호 등 다양한 탐사 장비의 데이터를 모았다.",
+     "촬영 시기와 대기 조건에 따른 빛의 산란을 보정해 지도의 정확도를 높였다."
+    ]
+   },
+   {
+    "seconds": 413,
+    "title": "AI 예측 지도의 정확도 테스트",
+    "points": [
+     "AI가 그린 지도가 얼마나 정확한지 확인하기 위해 블라인드 테스트를 거쳤다.",
+     "전반적인 오차는 약 12 정도로 꽤 훌륭하게 보지 않는 하늘을 그려냈다."
+    ]
+   },
+   {
+    "seconds": 539,
+    "title": "망원경 없이 그린 지도를 우주의 진짜 지도로 볼 수 있는가",
+    "points": [
+     "망원경으로 보지 않고 계산으로 채운 지도를 실제 우주의 지도라 볼 수 있는지 철학적 의문이 든다.",
+     "관측에서 예측은 중요하지만 가정에 의존하는지 면밀히 검토해야 한다."
+    ]
+   }
+  ],
+  "tags": [
+   "인공지능",
+   "천문학",
+   "우리은하",
+   "우주지도",
+   "암흑물질"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 61254,
+   "output_tokens": 1082
+  }
+ },
+ "created_at": "2026-10-18T02:20:57+00:00"
+}
