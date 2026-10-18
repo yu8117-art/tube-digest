@@ -1997,6 +1997,17 @@
    "published": "2026-05-17T10:25:51+00:00",
    "status": "baseline"
   },
+  "HO5nxa1SfYs": {
+   "done_at": "2026-10-18T09:35:22+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-18T09:34:58+00:00",
+   "last_attempt": "2026-10-18T09:35:06+00:00",
+   "notified": "2026-10-18T09:35:22+00:00",
+   "published": "2026-10-18T09:15:04+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "HPRtix8b3S4": {
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-10-08T06:16:18+00:00",
@@ -4185,6 +4196,21 @@
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-10-07T12:05:04+00:00",
    "status": "baseline"
+  },
+  "bPPH17m-P1c": {
+   "errors": 0,
+   "first_seen": "2026-10-18T09:34:59+00:00",
+   "published": "2026-10-18T09:23:34+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC7F6UDq3gykPZHWRhrj_BDw",
+    "channel_name": "사물궁이 잡학지식",
+    "description": "- 사물궁이 유튜브 채널 구독 : https://youtube.com/@사물궁이\n- 사물궁이 시리즈 정주행 : https://youtube.com/playlist?list=PLs8vi5Jd35y55jcjDHMWIXfWjl206sSSF\n- 궁금증 제보 : https://forms.gle/xT6HQEpVTYbfe9EY8\n- 유튜브 멤버십 가입 : https://youtube.com/channel/UC7F6UDq3gykPZHWRhrj_BDw/join\n- E-Mail : facebookspeedwg@gmail.com",
+    "published": "2026-10-18T09:23:34+00:00",
+    "title": "사람의 눈 색깔은 왜 이렇게 다양할까?",
+    "video_id": "bPPH17m-P1c"
+   },
+   "wait_checks": 0
   },
   "bRb-DEsgPBQ": {
    "first_seen": "2026-10-09T08:14:31+00:00",
