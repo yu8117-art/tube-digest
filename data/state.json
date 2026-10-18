@@ -1242,6 +1242,21 @@
    "published": "2026-09-28T09:47:37+00:00",
    "status": "baseline"
   },
+  "A7B-vm2lGps": {
+   "errors": 0,
+   "first_seen": "2026-10-18T10:34:17+00:00",
+   "published": "2026-10-18T10:14:15+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+    "channel_name": "소수몽키",
+    "description": "🌟[NEW]올해 마지막 마무리 함께해요! 소수의견 4분기 구독자 모집 시작!\nhttps://bit.ly/4y7RZNr\n\n🏆소몽 입문반 강의★\n🌟미국 주식 시작할 때 반드시 알아야 할 핵심 정보부터, \n실전 매매에 필요한 알짜 노하우까지 아낌없이 담았습니다!\n📌[소몽의 미국주식 베이직클래스] 신청하러가기\nhttps://us-campus.co.kr/products/academy237",
+    "published": "2026-10-18T10:14:15+00:00",
+    "title": "AI 약한고리 결국 터진다? 극단적 공포 구간 진입/올 연말까진 기회, 내년이 진짜 위기?",
+    "video_id": "A7B-vm2lGps"
+   },
+   "wait_checks": 0
+  },
   "A7D28b2bxT8": {
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-10-02T10:00:00+00:00",
@@ -3393,6 +3408,8 @@
   "UbVeFfm4GMQ": {
    "errors": 0,
    "first_seen": "2026-10-18T10:02:50+00:00",
+   "last_attempt": "2026-10-18T10:34:22+00:00",
+   "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-10-18T09:36:10+00:00",
    "status": "pending",
    "video": {
@@ -3403,7 +3420,7 @@
     "title": "AI 약한고리 터진다? 극단적 공포 구간 진입/올 연말까진 기회, 내년이 진짜 위기?",
     "video_id": "UbVeFfm4GMQ"
    },
-   "wait_checks": 0
+   "wait_checks": 1
   },
   "Ubhhn8W7MCY": {
    "first_seen": "2026-10-09T08:14:38+00:00",
@@ -5628,6 +5645,21 @@
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-10-02T09:00:24+00:00",
    "status": "baseline"
+  },
+  "nsGX0AnxdLc": {
+   "errors": 0,
+   "first_seen": "2026-10-18T10:34:20+00:00",
+   "published": "2026-10-18T10:30:26+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"주가가 올라가려면 세 개가 있어야 된다\" 실적·시나리오는 넘치는데 '이것' 하나가 문제\n\n☞촬영일: 26년 10월 15일",
+    "published": "2026-10-18T10:30:26+00:00",
+    "title": "\"주가가 올라가려면 세 개가 있어야 된다\" 실적·시나리오는 넘치는데 '이것' 하나가 문제 [박정호 교수]",
+    "video_id": "nsGX0AnxdLc"
+   },
+   "wait_checks": 0
   },
   "nvaPZmfRbKI": {
    "first_seen": "2026-10-09T08:14:40+00:00",
