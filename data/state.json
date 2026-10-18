@@ -3237,6 +3237,17 @@
    "published": "2026-10-02T07:38:29+00:00",
    "status": "baseline"
   },
+  "TvzAo4MQZ_I": {
+   "done_at": "2026-10-18T08:13:32+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-18T08:11:48+00:00",
+   "last_attempt": "2026-10-18T08:12:25+00:00",
+   "notified": "2026-10-18T08:13:33+00:00",
+   "published": "2026-10-18T08:00:13+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "TzpbVrGFeRk": {
    "done_at": "2026-10-14T11:11:51+00:00",
    "errors": 0,
@@ -4659,6 +4670,17 @@
     "title": "금리 올랐는데 부동산도 오르는 이유!",
     "video_id": "fGxH1hCnDQA"
    },
+   "wait_checks": 0
+  },
+  "fGxXkm_hB-I": {
+   "done_at": "2026-10-18T08:12:24+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-18T08:11:50+00:00",
+   "last_attempt": "2026-10-18T08:11:52+00:00",
+   "notified": "2026-10-18T08:14:00+00:00",
+   "published": "2026-10-18T08:00:04+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "fIY9jeS5lpw": {
