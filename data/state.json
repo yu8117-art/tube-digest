@@ -1020,6 +1020,21 @@
    "published": "2026-09-29T08:07:42+00:00",
    "status": "baseline"
   },
+  "7fWNdH8I-Ho": {
+   "errors": 0,
+   "first_seen": "2026-10-18T08:37:42+00:00",
+   "published": "2026-10-18T08:30:30+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"반도체 말고 어디 담으실 겁니까\" AI 빼면 살아나는 업종이 없습니다\n\n☞촬영일: 26년 10월 15일",
+    "published": "2026-10-18T08:30:30+00:00",
+    "title": "\"반도체 말고 어디 담으실 겁니까\" AI 빼면 살아나는 업종이 없습니다 [박정호 교수]",
+    "video_id": "7fWNdH8I-Ho"
+   },
+   "wait_checks": 0
+  },
   "7jD67zXfr0g": {
    "article_url": "https://yu8117-art.github.io/tube-digest/a/7jD67zXfr0g.html",
    "done_at": "2026-10-09T10:10:55+00:00",
@@ -2219,6 +2234,17 @@
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-01T10:14:14+00:00",
    "status": "baseline"
+  },
+  "K-nAWPCBRUw": {
+   "done_at": "2026-10-18T08:38:18+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-18T08:37:34+00:00",
+   "last_attempt": "2026-10-18T08:37:43+00:00",
+   "notified": "2026-10-18T08:38:45+00:00",
+   "published": "2026-10-18T08:34:15+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "K4GxJwCwNeY": {
    "first_seen": "2026-10-09T08:14:37+00:00",
