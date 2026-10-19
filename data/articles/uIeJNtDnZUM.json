@@ -1,0 +1,43 @@
+{
+ "video": {
+  "video_id": "uIeJNtDnZUM",
+  "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+  "channel_name": "새벽의 축구 전문가",
+  "title": "\"매디슨 환상골\" 토트넘, 드디어 감격의 첫 번째 승리! 데제르비의 매디슨 활용법, 완벽하게 통했다",
+  "published": "2026-10-19T23:35:39+00:00",
+  "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#데제르비 #토트넘 #축구 #프리미어리그",
+  "url": "https://www.youtube.com/watch?v=uIeJNtDnZUM"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/uIeJNtDnZUM/maxresdefault.jpg",
+ "source": "video",
+ "duration": 786,
+ "summary": {
+  "headline": "토트넘, 코번트리전 3-1 승리와 데제르비의 매디슨 활용법",
+  "thumbnail_text": "토트넘 감격의 첫 승, 돌아온 매디슨의 환상골",
+  "thumbnail_answer": "토트넘은 데제르비 감독의 변형 전술과 매디슨의 중거리 슛 세 방을 앞세워 3-1로 승리하며 리그 첫 승을 거뒀다.",
+  "conclusion": "토트넘은 36경기 만에 세 골을 터뜨리며 리그 첫 승을 달성했다. 데제르비 감독은 아치 그레이와 매디슨, 마르무시를 활용한 변형 전술로 공격 공간을 창출했다. 매디슨은 중거리 슛으로 결정력을 발휘해 승리를 이끌었다. 주전 선수들의 복귀와 함께 토트넘의 반등이 기대된다.",
+  "key_points": [
+   "토트넘이 리그 36경기 만에 세 골을 넣으며 감격의 첫 승을 거뒀다.",
+   "데제르비 감독은 아치 그레이, 매디슨, 마르무시를 중심으로 변형 전술을 사용했다.",
+   "마르무시와 그레이가 상대 미드필더를 유인하며 매디슨에게 공간을 만들어줬다.",
+   "토트넘의 세 골 모두 외곽 중거리 슛으로 터졌다.",
+   "매디슨은 뛰어난 킥력과 공간 활용으로 결정적인 역할을 했다.",
+   "코번트리는 측면과 미드필더 수비에서 공간을 내주며 고전했다.",
+   "이번 승리로 매디슨과 쿨루셉스키 등 주전 자원들이 복귀하며 팀에 활력을 더했다."
+  ],
+  "timeline": [],
+  "tags": [
+   "토트넘",
+   "데제르비",
+   "매디슨",
+   "프리미어리그",
+   "축구분석"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 73229,
+   "output_tokens": 473
+  }
+ },
+ "created_at": "2026-10-19T23:53:20+00:00"
+}
