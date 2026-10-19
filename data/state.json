@@ -3702,6 +3702,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "UfwnDQNYiLI": {
+   "errors": 0,
+   "first_seen": "2026-10-19T14:20:07+00:00",
+   "published": "2026-10-19T14:14:17+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+    "published": "2026-10-19T14:14:17+00:00",
+    "title": "코스피 고점 대비 -40%, 한여름 밤의 꿈",
+    "video_id": "UfwnDQNYiLI"
+   },
+   "wait_checks": 0
+  },
   "UldamnBpj1g": {
    "first_seen": "2026-10-19T00:15:33+00:00",
    "published": "2026-10-14T12:04:30+00:00",
