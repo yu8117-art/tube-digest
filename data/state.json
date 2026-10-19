@@ -3503,7 +3503,7 @@
   "UbVeFfm4GMQ": {
    "errors": 0,
    "first_seen": "2026-10-18T10:02:50+00:00",
-   "last_attempt": "2026-10-19T00:15:33+00:00",
+   "last_attempt": "2026-10-19T01:07:29+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-10-18T09:36:10+00:00",
    "status": "pending",
@@ -3515,7 +3515,7 @@
     "title": "AI 약한고리 터진다? 극단적 공포 구간 진입/올 연말까진 기회, 내년이 진짜 위기?",
     "video_id": "UbVeFfm4GMQ"
    },
-   "wait_checks": 33
+   "wait_checks": 34
   },
   "Ubhhn8W7MCY": {
    "first_seen": "2026-10-09T08:14:38+00:00",
@@ -5422,6 +5422,21 @@
    "published": "2026-10-13T10:00:19+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "kUGtD_ZKcAc": {
+   "errors": 0,
+   "first_seen": "2026-10-19T01:07:26+00:00",
+   "published": "2026-10-19T00:30:28+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n정부: 전세는 없앤다, 월세는... 상황 진짜 심각해질 겁니다\n\n☞촬영일: 26년 10월 14일",
+    "published": "2026-10-19T00:30:28+00:00",
+    "title": "정부: 전세는 없앤다, 월세는... 상황 진짜 심각해질 겁니다 [송승현 대표]",
+    "video_id": "kUGtD_ZKcAc"
+   },
    "wait_checks": 0
   },
   "kWF5eWj5TSU": {
