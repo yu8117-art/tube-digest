@@ -15,6 +15,9 @@
   "UCAVdqlngIAxHtwlCA2hjv3A": {
    "initialized": "2026-10-09T08:14:38+00:00"
   },
+  "UCA_hgsFzmynpv1zkvA5A7jA": {
+   "initialized": "2026-10-19T00:15:33+00:00"
+  },
   "UCC3yfxS5qC6PCwDzetUuEWg": {
    "initialized": "2026-10-09T08:14:37+00:00"
   },
@@ -245,6 +248,11 @@
    "status": "done",
    "transcript_status": "ok",
    "wait_checks": 4
+  },
+  "0h4cDajEp8I": {
+   "first_seen": "2026-10-19T00:15:33+00:00",
+   "published": "2026-10-09T01:00:33+00:00",
+   "status": "baseline"
   },
   "0lhMmAQG85Y": {
    "errors": 0,
@@ -709,6 +717,11 @@
   "5H1kX7kp2tc": {
    "first_seen": "2026-10-09T08:14:30+00:00",
    "published": "2026-09-29T04:19:28+00:00",
+   "status": "baseline"
+  },
+  "5JHWyG_Cmq8": {
+   "first_seen": "2026-10-19T00:15:33+00:00",
+   "published": "2026-10-05T01:00:35+00:00",
    "status": "baseline"
   },
   "5OkrvGWVly0": {
@@ -1248,6 +1261,11 @@
    "published": "2026-08-27T04:11:39+00:00",
    "status": "baseline"
   },
+  "A-yZfiROY9g": {
+   "first_seen": "2026-10-19T00:15:33+00:00",
+   "published": "2026-10-16T09:00:17+00:00",
+   "status": "baseline"
+  },
   "A1j-pOb-vYY": {
    "first_seen": "2026-10-09T08:14:30+00:00",
    "published": "2026-09-28T09:47:37+00:00",
@@ -1596,6 +1614,11 @@
    "status": "done",
    "wait_checks": 0
   },
+  "CQzl487-zQU": {
+   "first_seen": "2026-10-19T00:15:33+00:00",
+   "published": "2026-10-02T11:18:32+00:00",
+   "status": "baseline"
+  },
   "CTn9ez8PxE4": {
    "errors": 0,
    "first_seen": "2026-10-12T06:12:58+00:00",
@@ -1852,6 +1875,11 @@
   "FvXR1Q6Z6t8": {
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-06-04T12:20:28+00:00",
+   "status": "baseline"
+  },
+  "G-8cDsHLrD0": {
+   "first_seen": "2026-10-19T00:15:33+00:00",
+   "published": "2026-10-07T12:45:27+00:00",
    "status": "baseline"
   },
   "G2Co8-_fMkA": {
@@ -2266,6 +2294,11 @@
    "published": "2026-10-07T07:00:35+00:00",
    "status": "baseline"
   },
+  "JNEVPoN2FYc": {
+   "first_seen": "2026-10-19T00:15:33+00:00",
+   "published": "2026-10-06T09:37:50+00:00",
+   "status": "baseline"
+  },
   "JNZOZQjWTSE": {
    "errors": 0,
    "first_seen": "2026-10-18T21:34:15+00:00",
@@ -2350,6 +2383,11 @@
   "KWQDKTHMtRI": {
    "first_seen": "2026-10-09T08:14:33+00:00",
    "published": "2026-10-08T04:00:18+00:00",
+   "status": "baseline"
+  },
+  "KcIyDhw3Dqo": {
+   "first_seen": "2026-10-19T00:15:33+00:00",
+   "published": "2026-10-11T01:00:18+00:00",
    "status": "baseline"
   },
   "KlQRzbU0i-M": {
@@ -2849,6 +2887,11 @@
    "published": "2026-10-07T12:02:55+00:00",
    "status": "baseline"
   },
+  "OyCyr_oJQqw": {
+   "first_seen": "2026-10-19T00:15:33+00:00",
+   "published": "2026-10-12T10:00:20+00:00",
+   "status": "baseline"
+  },
   "P-B-KnSIAPY": {
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-08-21T10:00:23+00:00",
@@ -2903,6 +2946,11 @@
     "video_id": "P_yK9Sp3amQ"
    },
    "wait_checks": 0
+  },
+  "PaN27YpsfIU": {
+   "first_seen": "2026-10-19T00:15:33+00:00",
+   "published": "2026-10-01T11:00:37+00:00",
+   "status": "baseline"
   },
   "PmFxX8Ka3ag": {
    "first_seen": "2026-10-09T08:14:30+00:00",
@@ -3455,7 +3503,7 @@
   "UbVeFfm4GMQ": {
    "errors": 0,
    "first_seen": "2026-10-18T10:02:50+00:00",
-   "last_attempt": "2026-10-18T23:56:56+00:00",
+   "last_attempt": "2026-10-19T00:15:33+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-10-18T09:36:10+00:00",
    "status": "pending",
@@ -3467,7 +3515,7 @@
     "title": "AI 약한고리 터진다? 극단적 공포 구간 진입/올 연말까진 기회, 내년이 진짜 위기?",
     "video_id": "UbVeFfm4GMQ"
    },
-   "wait_checks": 32
+   "wait_checks": 33
   },
   "Ubhhn8W7MCY": {
    "first_seen": "2026-10-09T08:14:38+00:00",
@@ -3484,6 +3532,11 @@
    "source": "video",
    "status": "done",
    "wait_checks": 0
+  },
+  "UldamnBpj1g": {
+   "first_seen": "2026-10-19T00:15:33+00:00",
+   "published": "2026-10-14T12:04:30+00:00",
+   "status": "baseline"
   },
   "Umr-sEmvBk8": {
    "done_at": "2026-10-12T09:35:01+00:00",
@@ -3962,6 +4015,11 @@
    "published": "2026-10-02T09:00:34+00:00",
    "status": "baseline"
   },
+  "ZoNDei6qO98": {
+   "first_seen": "2026-10-19T00:15:33+00:00",
+   "published": "2026-10-04T01:00:18+00:00",
+   "status": "baseline"
+  },
   "Zx-ujRRDpSk": {
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-07-26T02:00:11+00:00",
@@ -4153,6 +4211,11 @@
   "aOTWNjuJ9qI": {
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-09-20T23:00:18+00:00",
+   "status": "baseline"
+  },
+  "aPAABZ8Gg5U": {
+   "first_seen": "2026-10-19T00:15:33+00:00",
+   "published": "2026-10-10T01:00:08+00:00",
    "status": "baseline"
   },
   "aXaqrC2qamE": {
@@ -5735,6 +5798,11 @@
    "published": "2025-01-13T05:18:02+00:00",
    "status": "baseline"
   },
+  "nxrxJmDbCFg": {
+   "first_seen": "2026-10-19T00:15:33+00:00",
+   "published": "2026-10-03T01:00:02+00:00",
+   "status": "baseline"
+  },
   "ny4MC-WzyYE": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-09-02T08:25:22+00:00",
@@ -6070,6 +6138,11 @@
   "qTZNtjZ82r4": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-08-30T04:50:47+00:00",
+   "status": "baseline"
+  },
+  "qWBOembMuF4": {
+   "first_seen": "2026-10-19T00:15:33+00:00",
+   "published": "2026-09-30T10:51:15+00:00",
    "status": "baseline"
   },
   "qeUesLzq9gw": {
@@ -6523,6 +6596,11 @@
   "uvDniF5al8E": {
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-10-07T12:00:14+00:00",
+   "status": "baseline"
+  },
+  "v2s_9rJSXZs": {
+   "first_seen": "2026-10-19T00:15:33+00:00",
+   "published": "2026-10-15T11:00:13+00:00",
    "status": "baseline"
   },
   "v5-qWGl1zmA": {
