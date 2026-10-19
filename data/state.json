@@ -784,6 +784,21 @@
    "transcript_status": "blocked:RequestBlocked",
    "wait_checks": 0
   },
+  "5yixevJOV7g": {
+   "errors": 0,
+   "first_seen": "2026-10-19T06:24:11+00:00",
+   "published": "2026-10-19T06:15:01+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCCQPdv4o4ywVZQkAMOlvFbw",
+    "channel_name": "오목교 전자상가",
+    "description": "인터넷도 연결되지 않는 비행기 안에서 AI로 이미지와 영상을 만들고, 프로그램까지 개발할 수 있을까요?\n\n엔비디아가 선보인 차세대 AI 노트북 ‘RTX 스파크’가 이러한 가능성을 현실로 구현했습니다. 엔비디아의 새로운 N1X 칩을 탑재한 이 노트북은 클라우드 서버에 접속하지 않고도 자체적으로 인공지능을 구동하는 ‘로컬 AI’에 특화된 제품입니다. 애플 맥과 유사한 통합 메모리 구조에 엔비디아 블랙웰 아키텍처 기반 GPU를 결합한 것이 특징입니다.\n\n실제 성능을 확인하기 위해 미국 샌프란시스코에서 인도 뉴델리를 거쳐 한국으로 돌아오는 장거리 출장길에 직접 테스트를 진행했습니다. 인터넷 연결이 어려운 기내에서 AI 이미지 한 장을 생성하는 데 걸린 시간은 불과 3.9초였습니다. 음성까지 포함된 5초 분량의 AI 영상도 약 69초 만에 완성했습니다.\n\n더 놀라운 것은 AI 에이전트의 활용 가능성입니다. 오픈소스 AI 모델과 ‘헤르메스’를 결합하자 명령어만으로 프로그램을 개발하고, 파일을 정리하고, 영상 편집에 필요한 자료까지 자동으로 준비했습니다. 외부 AI 서비스의 토큰 사용료 없이 복잡한 작업을 수행할 수 있다는 점도 주목할 만합니다.\n\n하지만 혁신적인 성능 뒤에는 예상치 못한 한계도 존재했습니다. 로컬 AI 작업 중 빠르게 소모되는 배터리와 강력한 팬 소음, ARM 기반 윈도우의 게임 호환성 문제가 대표적입니다.\n\n과연 RTX 스파크는 미래의 노트북을 미리 보여주는 혁신적인 제품일까요, 아니면 아직 전문가만을 위한 실험적인 기기일까요? 실제 기내 테스트와 성능 측정 결과를 통해 차세대 AI PC의 가능성과 현실적인 한계를 살펴봅니다.",
+    "published": "2026-10-19T06:15:01+00:00",
+    "title": "'출장 중이라 AI 못써요' 핑계 이제 안 통함; 엔비디아 RTX 스파크 N1X 노트북 리뷰 #shorts",
+    "video_id": "5yixevJOV7g"
+   },
+   "wait_checks": 0
+  },
   "68RIvkpjcr8": {
    "errors": 0,
    "first_seen": "2026-10-16T02:37:12+00:00",
@@ -3518,7 +3533,7 @@
   "UbVeFfm4GMQ": {
    "errors": 0,
    "first_seen": "2026-10-18T10:02:50+00:00",
-   "last_attempt": "2026-10-19T05:56:38+00:00",
+   "last_attempt": "2026-10-19T06:25:02+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-10-18T09:36:10+00:00",
    "status": "pending",
@@ -3530,7 +3545,7 @@
     "title": "AI 약한고리 터진다? 극단적 공포 구간 진입/올 연말까진 기회, 내년이 진짜 위기?",
     "video_id": "UbVeFfm4GMQ"
    },
-   "wait_checks": 43
+   "wait_checks": 44
   },
   "Ubhhn8W7MCY": {
    "first_seen": "2026-10-09T08:14:38+00:00",
@@ -4785,6 +4800,17 @@
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2025-08-11T01:40:45+00:00",
    "status": "baseline"
+  },
+  "eALVA6EohaE": {
+   "done_at": "2026-10-19T06:25:01+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-19T06:24:14+00:00",
+   "last_attempt": "2026-10-19T06:24:20+00:00",
+   "notified": "2026-10-19T06:25:48+00:00",
+   "published": "2026-10-19T06:00:09+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "eDkBla8nrsA": {
    "first_seen": "2026-10-09T08:14:31+00:00",
