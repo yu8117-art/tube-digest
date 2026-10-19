@@ -1728,6 +1728,17 @@
    "published": "2026-10-05T12:45:39+00:00",
    "status": "baseline"
   },
+  "CWq0U2ooeHI": {
+   "done_at": "2026-10-19T21:54:18+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-19T21:53:55+00:00",
+   "last_attempt": "2026-10-19T21:53:56+00:00",
+   "notified": "2026-10-19T21:54:45+00:00",
+   "published": "2026-10-19T21:25:56+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "Cl5MOcdJTxc": {
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-07-01T10:24:12+00:00",
@@ -6781,15 +6792,7 @@
    "errors": 0,
    "first_seen": "2026-10-19T19:18:54+00:00",
    "published": "2026-10-19T18:54:38+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-10-19T18:54:38+00:00",
-    "title": "토트넘 : 코번트리 / 매디슨 선발!! 토트넘의 비장의 수?? 리그 첫 승 가능할까?",
-    "video_id": "tUOZoVc98Fk"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "ta3lArKuck4": {
