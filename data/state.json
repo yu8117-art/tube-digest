@@ -215,6 +215,17 @@
    "published": "2026-10-03T10:22:25+00:00",
    "status": "baseline"
   },
+  "0OBeZwBmPC0": {
+   "done_at": "2026-10-19T08:09:04+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-19T08:08:48+00:00",
+   "last_attempt": "2026-10-19T08:08:51+00:00",
+   "notified": "2026-10-19T08:11:18+00:00",
+   "published": "2026-10-19T08:00:37+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "0UemZmOBdPY": {
    "errors": 0,
    "first_seen": "2026-10-15T02:37:31+00:00",
@@ -3559,7 +3570,7 @@
   "UbVeFfm4GMQ": {
    "errors": 0,
    "first_seen": "2026-10-18T10:02:50+00:00",
-   "last_attempt": "2026-10-19T07:19:41+00:00",
+   "last_attempt": "2026-10-19T08:10:06+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-10-18T09:36:10+00:00",
    "status": "pending",
@@ -3571,7 +3582,7 @@
     "title": "AI 약한고리 터진다? 극단적 공포 구간 진입/올 연말까진 기회, 내년이 진짜 위기?",
     "video_id": "UbVeFfm4GMQ"
    },
-   "wait_checks": 45
+   "wait_checks": 46
   },
   "Ubhhn8W7MCY": {
    "first_seen": "2026-10-09T08:14:38+00:00",
@@ -4884,6 +4895,17 @@
    "last_attempt": "2026-10-12T09:31:34+00:00",
    "notified": "2026-10-12T09:36:00+00:00",
    "published": "2026-10-12T09:00:06+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "eZ1_u4MUEMs": {
+   "done_at": "2026-10-19T08:10:06+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-19T08:08:49+00:00",
+   "last_attempt": "2026-10-19T08:09:04+00:00",
+   "notified": "2026-10-19T08:11:19+00:00",
+   "published": "2026-10-19T08:00:39+00:00",
    "source": "video",
    "status": "done",
    "wait_checks": 0
