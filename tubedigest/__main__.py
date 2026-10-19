@@ -21,7 +21,7 @@ import re
 
 from . import pipeline
 from .config import ROOT, Channel, load_channels, load_config, save_channels
-from .gitsync import git_publish
+from .gitsync import git_publish, git_pull
 from .notifier import notify, telegram_chat_ids, telegram_messages
 from .state import DONE, RunLock, State, load_all_articles, now_iso, save_article
 from .youtube import resolve_channel_id, video_from_ref
@@ -53,26 +53,59 @@ def cmd_notify(args) -> None:
     print(f"알림 {n}건 전송")
 
 
+def _pull_channels() -> bool:
+    """채널 목록을 고치기 전에 GitHub의 최신 상태를 받는다 (git_push를 쓰는 경우만)."""
+    if not load_config().git_push:
+        return False
+    try:
+        git_pull()
+        return True
+    except RuntimeError as e:
+        print(f"경고: GitHub에서 최신 상태를 받지 못함 (로컬 목록으로 진행): {e}")
+        return False
+
+
+def _publish_channels(message: str) -> None:
+    """바꾼 채널 목록을 GitHub에 올린다. 다음 Actions 실행부터 적용된다."""
+    if not load_config().git_push:
+        print("config.yaml의 git_push가 false라 GitHub에는 올리지 않음")
+        return
+    try:
+        pushed = git_publish(message, paths=("channels.yaml",))
+        print("GitHub 반영 완료 — 다음 실행(15분 안팎)부터 적용" if pushed else "GitHub에 올릴 변경 없음")
+    except RuntimeError as e:
+        print(f"GitHub 반영 실패: {e}\n  channels.yaml을 직접 커밋·push해야 Actions에 반영된다")
+
+
 def cmd_add(args) -> None:
+    _pull_channels()
     channels = load_channels()
+    added = []
     for ref in args.refs:
         cid, name = resolve_channel_id(ref)
         if any(c.id == cid for c in channels):
             print(f"이미 등록됨: {name} ({cid})")
             continue
         channels.append(Channel(id=cid, name=name))
+        added.append(name)
         print(f"추가: {name} ({cid})")
     save_channels(channels)
+    if added:
+        _publish_channels("채널 추가: " + ", ".join(added))
 
 
 def cmd_remove(args) -> None:
+    _pull_channels()
     channels = load_channels()
-    keep = [c for c in channels if c.id != args.channel_id and c.name != args.channel_id]
-    save_channels(keep)
-    print(f"삭제 {len(channels) - len(keep)}개")
+    gone = [c for c in channels if c.id == args.channel_id or c.name == args.channel_id]
+    save_channels([c for c in channels if c not in gone])
+    print(f"삭제 {len(gone)}개" + (f": {', '.join(c.name for c in gone)}" if gone else " (일치하는 채널 없음)"))
+    if gone:
+        _publish_channels("채널 삭제: " + ", ".join(c.name for c in gone))
 
 
 def cmd_list(args) -> None:
+    _pull_channels()
     for c in load_channels():
         print(f"{c.id}  {c.name}")
 
@@ -127,13 +160,13 @@ def main() -> None:
     r.add_argument("--no-notify", action="store_true", help="알림은 나중에 notify 명령으로")
     r.set_defaults(func=cmd_run)
     sub.add_parser("notify", help="아직 안 보낸 알림 전송").set_defaults(func=cmd_notify)
-    a = sub.add_parser("add", help="채널 추가 (@핸들, 채널 URL, UC… ID)")
+    a = sub.add_parser("add", help="채널 추가 (@핸들, 채널 URL, UC… ID) → GitHub 반영까지")
     a.add_argument("refs", nargs="+")
     a.set_defaults(func=cmd_add)
-    rm = sub.add_parser("remove", help="채널 삭제 (ID 또는 이름)")
+    rm = sub.add_parser("remove", help="채널 삭제 (ID 또는 이름) → GitHub 반영까지")
     rm.add_argument("channel_id")
     rm.set_defaults(func=cmd_remove)
-    sub.add_parser("list", help="등록 채널 보기").set_defaults(func=cmd_list)
+    sub.add_parser("list", help="등록 채널 보기 (GitHub 최신 상태 기준)").set_defaults(func=cmd_list)
     s = sub.add_parser("summarize", help="특정 영상 하나를 바로 요약해 화면에 출력")
     s.add_argument("url")
     s.add_argument("--send", action="store_true", help="텔레그램으로도 보내고 처리 기록에 남긴다")

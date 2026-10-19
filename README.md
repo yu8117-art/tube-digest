@@ -34,7 +34,8 @@ copy .env.example .env
 ```
 
 - PowerShell에서는 `@핸들`을 반드시 따옴표로 감싼다. 따옴표가 없으면 PowerShell이 `@이름`을 변수 펼치기 문법으로 해석해 인자가 사라진다.
-- 바꾼 `channels.yaml`은 커밋·push해야 GitHub Actions에 반영된다.
+- `add` / `remove` / `list`는 GitHub에서 최신 채널 목록을 먼저 받아온다. `add`와 `remove`는 바뀐 `channels.yaml`만 커밋해서 GitHub에 올리므로, 다음 Actions 실행(15분 안팎)부터 바로 적용된다. 따로 `git` 명령을 칠 필요가 없다.
+- `td`는 `digest` 폴더 안에 있다. 다른 폴더에서는 `C:\DEV\tube\digest\td add "@핸들"`처럼 경로를 붙인다.
 
 ## 명령어
 
