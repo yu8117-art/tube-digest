@@ -7198,6 +7198,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "xgqI-RzrNjc": {
+   "errors": 0,
+   "first_seen": "2026-10-19T12:11:57+00:00",
+   "published": "2026-10-19T11:41:32+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "description": "",
+    "published": "2026-10-19T11:41:32+00:00",
+    "title": "테슬라 로드스터가 거꾸로 붙어있는 원리",
+    "video_id": "xgqI-RzrNjc"
+   },
+   "wait_checks": 0
+  },
   "xyAz_OjDmmU": {
    "done_at": "2026-10-17T11:01:11+00:00",
    "errors": 0,
