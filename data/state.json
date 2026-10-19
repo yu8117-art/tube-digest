@@ -674,19 +674,14 @@
    "wait_checks": 0
   },
   "4ZKtn_Wc4mY": {
+   "done_at": "2026-10-19T10:42:18+00:00",
    "errors": 0,
    "first_seen": "2026-10-19T09:23:37+00:00",
-   "last_attempt": "2026-10-19T09:24:32+00:00",
+   "last_attempt": "2026-10-19T10:40:07+00:00",
+   "notified": "2026-10-19T10:42:19+00:00",
    "published": "2026-10-19T09:00:20+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCstI8HwGQsHdqLDgyH0PImw",
-    "channel_name": "최준영 박사의 지구본 연구소",
-    "description": "🌏지구본 연구소 멤버십에 가입하여 혜택을 누려보세요!\nhttps://www.youtube.com/channel/UCstI8HwGQsHdqLDgyH0PImw/join\n\n놀라운 라인업으로 다시 돌아온 위즈덤 칼리지 2026!\n최준영 박사님과 함께 새로운 지혜의 여정이 시작됩니다.\n🎁 최대 할인 + 30만 원 상당의 혜택 전원 증정\n🎓 지금 바로 입학 등록하기 👉 https://bit.ly/3IRcyte\n\n👉https://3protv.page.link/dvgJ\n⏰바빠서 방송 볼 시간이 없다면? 핵심만 콕 짚은 요약본으로 빠르게!\n삼프로 오리지널 뉴스 콘텐츠로 만나보세요.\n👉https://3protv.page.link/dvgJ\n\n#지구본연구소 #최준영박사 #최준영\n\n🌎타임코드🌎\n00:00 프랑스 시위는 왜 저럴까\n06:40 누가 저 폭력을 진압하는가?\n10:48 왜 매번 통제하지 못할까?\n16:07 생각보다 훨씬 엄격한 프랑스\n19:25 레볼루숑의 나라, 과거에는?\n27:34 점점 폭력이 심해지는 중",
-    "published": "2026-10-19T09:00:20+00:00",
-    "title": "프랑스 경찰은 안 막는 걸까, 못 막는 걸까? [지구본 뉴스룸]",
-    "video_id": "4ZKtn_Wc4mY"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "4jcAop_vEVI": {
@@ -3643,20 +3638,15 @@
    "wait_checks": 0
   },
   "UbVeFfm4GMQ": {
+   "done_at": "2026-10-19T10:40:07+00:00",
    "errors": 0,
    "first_seen": "2026-10-18T10:02:50+00:00",
-   "last_attempt": "2026-10-19T08:46:07+00:00",
+   "last_attempt": "2026-10-19T10:39:35+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
+   "notified": "2026-10-19T10:42:45+00:00",
    "published": "2026-10-18T09:36:10+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
-    "channel_name": "소수몽키",
-    "description": "🌟[NEW]올해 마지막 마무리 함께해요! 소수의견 4분기 구독자 모집 시작!\nhttps://bit.ly/4y7RZNr\n\n🏆소몽 입문반 강의★\n🌟미국 주식 시작할 때 반드시 알아야 할 핵심 정보부터, \n실전 매매에 필요한 알짜 노하우까지 아낌없이 담았습니다!\n📌[소몽의 미국주식 베이직클래스] 신청하러가기\nhttps://us-campus.co.kr/products/academy237",
-    "published": "2026-10-18T09:36:10+00:00",
-    "title": "AI 약한고리 터진다? 극단적 공포 구간 진입/올 연말까진 기회, 내년이 진짜 위기?",
-    "video_id": "UbVeFfm4GMQ"
-   },
+   "source": "metadata",
+   "status": "done",
    "wait_checks": 47
   },
   "Ubhhn8W7MCY": {
@@ -5869,18 +5859,14 @@
    "wait_checks": 0
   },
   "mP_Rx3gWtHw": {
+   "done_at": "2026-10-19T10:39:34+00:00",
    "errors": 0,
    "first_seen": "2026-10-19T10:01:25+00:00",
+   "last_attempt": "2026-10-19T10:39:02+00:00",
+   "notified": "2026-10-19T10:42:46+00:00",
    "published": "2026-10-19T10:00:36+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
-    "channel_name": "지식인사이드",
-    "description": "⬇️ 독서의 기술 구매하기\n■ 교보문고\nhttps://product.kyobobook.co.kr/detail/S000220340900\n■ 예스24\nhttps://www.yes24.com/product/goods/192555379\n■ 알라딘\nhttps://www.aladin.co.kr/shop/wproduct.aspx?ItemId=396563552&start=pcsearch_auto\n\n⬇️ KRS 무료 진단검사 우리 아이도 해보기\nhttps://www.wjthinkbig.com/krs/index.do?wj=YouTube_knowledgeins_BM_KRS\n\nㅡㅡ\n오늘은 고명환 작가님을 모시고\n\nAI 시대에도 독서로 연봉을 바꾸고 인생을 변화시키는 구체적인 방법에 대해 들어봤습니다.\n\n영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요!\n\n#지식인사이드 #고명환 #독서법 #자기계발 #재테크 \n\n*이 영상은 라곰의 지원을 받아 제작되었습니다\n\n00:00 인트로\n00:25 구독자 인사 \n00:35 AI가 인류 정복하는 시대에도 독서해야 하는 이유 \n02:02 평소 읽는 책을 보면 ‘내 성격이 보입니다’ \n03:27 서점에서 20분만에 연봉 바꾸는 책 고르는 법 \n07:13 인생을 바꾸는 책을 고르는 기준 \n11:03 읽은 책 뇌에 박제하는 초간단 방법\n15:27 읽으면 돈이 따라오는 고명환 인생책 ‘3가지’ \n\nㅡㅡ\n👇지식인사이드에 출연을 원하신다면 여기를 눌러주세요\nhttps://forms.gle/u4LxVcwFdhvkLH8m6\nknowledgeinside7@gmail.com\n\n👇 다양한 채널에서 지식인사이드의 지식을 얻고 싶다면 여기를 눌러주세요\n인스타그램: https://www.instagram.com/knowledgeins_kr/\n페이스북: https://www.facebook.com/knowledgeIns7?mibextid=LQQJ4d\n네이버 TV: https://tv.naver.com/purejboy2\n틱톡: https://www.tiktok.com/@allstorieskr?lang=ko-KR\n네이버 카페: https://cafe.naver.com/knowledgeins\n\nCopyright Ⓒ 지식인사이드. All rights reserved.\n\n본 콘텐츠(영상, 이미지, 음성, 대본, 편집물, 썸네일 포함)는 저작권 및 관련 권리의 보호를 받습니다.\n\n저작권자의 사전 승인 없이 복제, 배포, 수정, 재가공, 업로드, AI 학습 및 데이터셋 구축, 2차 저작물 제작(쇼츠·릴스 포함) 등 일체의 상업적 이용 및 수익화를 금지합니다.\n\n📧 콘텐츠 사용 및 협의 문의: knowledgeinside7@gmail.com",
-    "published": "2026-10-19T10:00:36+00:00",
-    "title": "\"연봉 2배로 뜁니다\" 1년에 200권 읽는 작가의 인생책 3권  (고명환 작가)",
-    "video_id": "mP_Rx3gWtHw"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "mZ22ca3OCYc": {

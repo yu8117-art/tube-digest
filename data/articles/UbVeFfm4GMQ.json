@@ -1,0 +1,39 @@
+{
+ "video": {
+  "video_id": "UbVeFfm4GMQ",
+  "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+  "channel_name": "소수몽키",
+  "title": "AI 약한고리 터진다? 극단적 공포 구간 진입/올 연말까진 기회, 내년이 진짜 위기?",
+  "published": "2026-10-18T09:36:10+00:00",
+  "description": "🌟[NEW]올해 마지막 마무리 함께해요! 소수의견 4분기 구독자 모집 시작!\nhttps://bit.ly/4y7RZNr\n\n🏆소몽 입문반 강의★\n🌟미국 주식 시작할 때 반드시 알아야 할 핵심 정보부터, \n실전 매매에 필요한 알짜 노하우까지 아낌없이 담았습니다!\n📌[소몽의 미국주식 베이직클래스] 신청하러가기\nhttps://us-campus.co.kr/products/academy237",
+  "url": "https://www.youtube.com/watch?v=UbVeFfm4GMQ"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/UbVeFfm4GMQ/hqdefault.jpg",
+ "source": "metadata",
+ "duration": null,
+ "summary": {
+  "headline": "AI 약한 고리 우려 속, 연말까지 기회와 내년 위기 대비",
+  "thumbnail_text": "AI 약한고리 터진다? 극단적 공포 구간 진입",
+  "thumbnail_answer": "AI 관련 약한 고리 우려로 극단적 공포 구간에 진입했으나, 연말까지는 기회가 될 수 있고 내년이 진짜 위기라는 시각을 다룬다.",
+  "conclusion": "영상 본문을 시청하지 못해 제목과 설명란만을 바탕으로 요약했으므로 세부 내용은 다를 수 있다. AI 약한 고리 우려와 극단적 공포 구간 속에서 연말 장세는 기회로 삼되 내년 위기를 철저히 대비해야 한다.",
+  "key_points": [
+   "AI 섹터의 약한 고리 터질 가능성과 극단적 공포 구간 진입 분석",
+   "올해 연말까지는 투자 기회로 활용할 수 있는 구간임",
+   "내년 시장에 진짜 위기가 찾아올 수 있음을 경고함"
+  ],
+  "timeline": [],
+  "tags": [
+   "미국주식",
+   "AI주가",
+   "증시전망",
+   "소수몽키",
+   "투자전략"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 751,
+   "output_tokens": 306
+  }
+ },
+ "created_at": "2026-10-19T10:40:07+00:00"
+}
