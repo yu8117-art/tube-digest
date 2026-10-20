@@ -1573,6 +1573,21 @@
    "published": "2025-08-27T03:46:34+00:00",
    "status": "baseline"
   },
+  "BDFV0STD46M": {
+   "errors": 0,
+   "first_seen": "2026-10-20T05:55:49+00:00",
+   "published": "2026-10-20T05:47:05+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCGHG_gTZ780LicZmc-WUVPQ",
+    "channel_name": "유안타증권 - Yuantakorea",
+    "description": "전통은 불멸 VS 반짝 떡상​\n여러분의 의견을 댓글로 알려주세요!​​​\n\n*본 영상 및 음원은 생성형 AI 기술을 활용하여 제작되었으며, AI 가상인물은 별도로 표시하였습니다. 일부 배경에는 실제 촬영된 인물이 포함되어 있습니다.​\n\n#유안타증권 #유안타 #Yuanta #밈 #경제 #트렌드 #유행 #소비 #소비트렌드 #떡지순례 #떡 #디저트 #한정선 #창억떡 #떡디저트​",
+    "published": "2026-10-20T05:47:05+00:00",
+    "title": "떡 사려고 오픈런까지?​",
+    "video_id": "BDFV0STD46M"
+   },
+   "wait_checks": 0
+  },
   "BJbt3GQRVzI": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-08T13:44:37+00:00",
