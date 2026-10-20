@@ -1272,6 +1272,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "9968iWlK5dc": {
+   "errors": 0,
+   "first_seen": "2026-10-20T04:56:48+00:00",
+   "published": "2026-10-20T04:30:04+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "description": "",
+    "published": "2026-10-20T04:30:04+00:00",
+    "title": "애플 아이폰18 프로 성능, A20 PRO 칩 얼마나 좋아졌을까?",
+    "video_id": "9968iWlK5dc"
+   },
+   "wait_checks": 0
+  },
   "9DwkIQ4AdoY": {
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-05-12T15:33:36+00:00",
@@ -5442,6 +5457,21 @@
    "published": "2026-04-24T09:01:03+00:00",
    "status": "baseline"
   },
+  "hYGXy_qGEPw": {
+   "errors": 0,
+   "first_seen": "2026-10-20T04:56:55+00:00",
+   "published": "2026-10-20T04:30:32+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"연금 나온 돈을 세금으로 다 냅니다\" \"견실한 커리어에도 생활이 안 됩니다\"\n\n☞촬영일: 26년 10월 15일",
+    "published": "2026-10-20T04:30:32+00:00",
+    "title": "\"연금 나온 돈을 세금으로 다 냅니다\" \"견실한 커리어에도 생활이 안 됩니다\" [박정호 교수]",
+    "video_id": "hYGXy_qGEPw"
+   },
+   "wait_checks": 0
+  },
   "hZYaPuUXn50": {
    "errors": 0,
    "first_seen": "2026-10-14T23:14:18+00:00",
@@ -7582,6 +7612,21 @@
     "published": "2026-10-11T11:00:20+00:00",
     "title": "모두의 퇴근을 위해 나만 5분 늦어진다면?",
     "video_id": "zOqbBYi3k1A"
+   },
+   "wait_checks": 0
+  },
+  "zOt7Z_v8AXE": {
+   "errors": 0,
+   "first_seen": "2026-10-20T04:56:46+00:00",
+   "published": "2026-10-20T04:24:51+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+    "published": "2026-10-20T04:24:51+00:00",
+    "title": "적금 깨고 주식 사도 되나요?",
+    "video_id": "zOt7Z_v8AXE"
    },
    "wait_checks": 0
   },
