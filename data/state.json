@@ -1474,6 +1474,21 @@
    },
    "wait_checks": 0
   },
+  "AihKu8liFNA": {
+   "errors": 0,
+   "first_seen": "2026-10-20T02:21:27+00:00",
+   "published": "2026-10-20T02:00:11+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "description": "Welcome Tesla and elonmusk to the flying car race! \nWe've been here for ELEVEN YEARS!\nX, Alef @AlefAeronautics",
+    "published": "2026-10-20T02:00:11+00:00",
+    "title": "환영한다 쪼렙 머스크, 이 시장은 내가 선배야",
+    "video_id": "AihKu8liFNA"
+   },
+   "wait_checks": 0
+  },
   "AmjwdT-pRJI": {
    "done_at": "2026-10-11T07:42:19+00:00",
    "errors": 0,
