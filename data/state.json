@@ -3515,6 +3515,21 @@
    "published": "2026-10-07T07:15:02+00:00",
    "status": "baseline"
   },
+  "R67qdI3eauc": {
+   "errors": 0,
+   "first_seen": "2026-10-20T19:17:11+00:00",
+   "published": "2026-10-20T18:58:49+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-10-20T18:58:49+00:00",
+    "title": "이강인 선발 제외?! 슈투트가르트 vs AT마드리드!! 7연승 도전 가능할까?",
+    "video_id": "R67qdI3eauc"
+   },
+   "wait_checks": 0
+  },
   "R9ZazWS_NYc": {
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-09-27T09:04:49+00:00",
