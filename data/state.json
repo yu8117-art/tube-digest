@@ -3612,15 +3612,7 @@
    "errors": 0,
    "first_seen": "2026-10-20T11:56:08+00:00",
    "published": "2026-10-16T15:38:30+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
-    "channel_name": "안될과학 Unrealscience",
-    "description": "◆신상 누리호 항공점퍼, 누리호 뱃지, 포스터, 누리호 텀블러\nhttps://smartstore.naver.com/morescience/search?q=누리호\n\n◆ 모어사이언스 신상 굿즈 구경하러 가기!\nhttps://smartstore.naver.com/morescience\n\n◆『우리는 어쩌다 과학을 믿게 되었을까?』\n예스24 https://t.ly/E0es4\n알라딘 https://t.ly/WpoQt\n교보문고 https://t.ly/0g_Yd",
-    "published": "2026-10-16T15:38:30+00:00",
-    "title": "2026 노벨 화학상 해설! 생명은 왜 한쪽 손을 선택했을까? (경희대학교 강경태 교수) [안될과학 랩미팅]",
-    "video_id": "SN0oyLK8lIY"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "SQ8_MmMFhus": {
