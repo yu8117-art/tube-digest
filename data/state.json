@@ -795,6 +795,17 @@
    "published": "2026-10-08T11:00:24+00:00",
    "status": "baseline"
   },
+  "5Aa44OlWx18": {
+   "done_at": "2026-10-20T10:24:17+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-20T10:23:52+00:00",
+   "last_attempt": "2026-10-20T10:23:56+00:00",
+   "notified": "2026-10-20T10:26:15+00:00",
+   "published": "2026-10-20T10:00:19+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "5H1kX7kp2tc": {
    "first_seen": "2026-10-09T08:14:30+00:00",
    "published": "2026-09-29T04:19:28+00:00",
@@ -2180,6 +2191,21 @@
    "published": "2026-10-07T09:00:30+00:00",
    "status": "baseline"
   },
+  "G_FQJqVcPVY": {
+   "errors": 0,
+   "first_seen": "2026-10-20T10:23:56+00:00",
+   "published": "2026-10-20T10:00:04+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
+    "channel_name": "지식인사이드",
+    "description": "👇지식인사이드에 출연을 원하신다면 여기를 눌러주세요\nhttps://forms.gle/u4LxVcwFdhvkLH8m6\nknowledgeinside7@gmail.com\n\n👇 다양한 채널에서 지식인사이드의 지식을 얻고 싶다면 여기를 눌러주세요\n인스타그램: https://www.instagram.com/knowledgeins_kr/\n페이스북: https://www.facebook.com/knowledgeIns7?mibextid=LQQJ4d\n네이버 TV: https://tv.naver.com/purejboy2\n틱톡: https://www.tiktok.com/@allstorieskr?lang=ko-KR\n네이버 카페: https://cafe.naver.com/knowledgeins\n\nCopyright Ⓒ 지식인사이드. All rights reserved.\n\n본 콘텐츠(영상, 이미지, 음성, 대본, 편집물, 썸네일 포함)는 저작권 및 관련 권리의 보호를 받습니다.\n\n저작권자의 사전 승인 없이 복제, 배포, 수정, 재가공, 업로드, AI 학습 및 데이터셋 구축, 2차 저작물 제작(쇼츠·릴스 포함) 등 일체의 상업적 이용 및 수익화를 금지합니다.\n\n📧 콘텐츠 사용 및 협의 문의: knowledgeinside7@gmail.com",
+    "published": "2026-10-20T10:00:04+00:00",
+    "title": "내 개인정보가 중국 서버로 넘어가는 과정",
+    "video_id": "G_FQJqVcPVY"
+   },
+   "wait_checks": 0
+  },
   "GcMlG3JoKbQ": {
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-08-26T10:00:17+00:00",
@@ -2530,6 +2556,17 @@
    "first_seen": "2026-10-09T08:14:33+00:00",
    "published": "2026-10-07T07:00:35+00:00",
    "status": "baseline"
+  },
+  "JFtx8IXlz5c": {
+   "done_at": "2026-10-20T10:25:21+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-20T10:23:51+00:00",
+   "last_attempt": "2026-10-20T10:24:18+00:00",
+   "notified": "2026-10-20T10:25:48+00:00",
+   "published": "2026-10-20T10:22:14+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "JNEVPoN2FYc": {
    "first_seen": "2026-10-19T00:15:33+00:00",
