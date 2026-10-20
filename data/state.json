@@ -460,19 +460,14 @@
    "wait_checks": 0
   },
   "1qBiOsk4kGA": {
+   "done_at": "2026-10-20T16:39:26+00:00",
    "errors": 0,
    "first_seen": "2026-10-20T14:59:55+00:00",
-   "last_attempt": "2026-10-20T16:01:22+00:00",
+   "last_attempt": "2026-10-20T16:38:37+00:00",
+   "notified": "2026-10-20T16:39:54+00:00",
    "published": "2026-10-20T14:28:10+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
-    "channel_name": "지식보관소",
-    "description": "Instagram ID @archiveyoutube \n#녹색별 #우주\n\nHomepage : https://asdfg3663-alt.github.io/\n\n얼마전 영국 워릭대학교의 마크 홀랜즈 박사가 이끄는 연구팀은 우주에 절대로 존재할 수 없다고 여겨져 온 적록색약자가 구분할 수 없는 색을 가진 별을 최초로 발견했으며 이 내용은 올해 10월 15일 영국 왕립천문학회가 발행하는 학술지인 RAS Techniques and Instruments에 게재가 되었습니다.\nhttps://academic.oup.com/rasti/article/doi/10.1093/rasti/rzag069/8914458\n\n맴버쉽 가입: https://www.youtube.com/channel/UC1Do3xw9OuUk7FQuPTmSVOw/join\n\n--------------------------------------\n제보 및 비지니스 문의\nE-Mail : asdfg3663@gmail.com\nBlog : http://blog.naver.com/asdfg3663\nInstagram : https://www.instagram.com/archiveyoutube/\n--------------------------------------\n게임 개발 관련\nHomepage : https://asdfg3663-alt.github.io/\n--------------------------------------\n\n\nBGM 정보\nSavfk - Ultra : https://youtu.be/8A4Jak73Lao\n웅장한 느낌의 곡 - TTRM\nDestination Unknown - Ugonna Onyekwe",
-    "published": "2026-10-20T14:28:10+00:00",
-    "title": "우주를 보면 적록색약자가 만들었다는 생각이 드는 이유",
-    "video_id": "1qBiOsk4kGA"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "1xxcRGaHi0Y": {
