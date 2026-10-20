@@ -1932,6 +1932,17 @@
    "published": "2026-09-19T01:20:35+00:00",
    "status": "baseline"
   },
+  "D9MFQVUAc_Y": {
+   "done_at": "2026-10-20T21:20:37+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-20T21:19:40+00:00",
+   "last_attempt": "2026-10-20T21:19:40+00:00",
+   "notified": "2026-10-20T21:21:04+00:00",
+   "published": "2026-10-20T21:10:24+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "DDKGoXPf8vM": {
    "errors": 0,
    "first_seen": "2026-10-11T07:31:41+00:00",
