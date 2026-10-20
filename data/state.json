@@ -2693,6 +2693,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "LKH9NCp28jI": {
+   "done_at": "2026-10-20T09:05:32+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-20T09:00:09+00:00",
+   "last_attempt": "2026-10-20T09:02:45+00:00",
+   "notified": "2026-10-20T09:06:00+00:00",
+   "published": "2026-10-20T08:30:27+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "LKrggqQ3ayU": {
    "first_seen": "2026-10-09T08:14:30+00:00",
    "published": "2026-10-06T12:34:57+00:00",
@@ -5224,6 +5235,17 @@
    "published": "2026-10-04T23:00:27+00:00",
    "status": "baseline"
   },
+  "f2-iGCJRz7A": {
+   "done_at": "2026-10-20T09:02:45+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-20T09:00:09+00:00",
+   "last_attempt": "2026-10-20T09:00:14+00:00",
+   "notified": "2026-10-20T09:05:33+00:00",
+   "published": "2026-10-20T08:28:32+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "f2m3ToNik5w": {
    "done_at": "2026-10-12T06:16:54+00:00",
    "errors": 0,
@@ -6679,6 +6701,21 @@
    "first_seen": "2026-10-16T13:09:39+00:00",
    "published": "2026-10-14T15:05:25+00:00",
    "status": "skipped_live",
+   "wait_checks": 0
+  },
+  "qmj_6lJdvmk": {
+   "errors": 0,
+   "first_seen": "2026-10-20T09:00:12+00:00",
+   "published": "2026-10-20T08:30:30+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n급매 나오면 냉큼 받아갑니다, \"증여가 굉장히 많아졌습니다\"\n\n☞촬영일: 26년 10월 15일",
+    "published": "2026-10-20T08:30:30+00:00",
+    "title": "급매 나오면 냉큼 받아갑니다, \"증여가 굉장히 많아졌습니다\" [박정호 교수]",
+    "video_id": "qmj_6lJdvmk"
+   },
    "wait_checks": 0
   },
   "qpsPEK3OdBo": {
