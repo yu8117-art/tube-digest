@@ -1220,6 +1220,7 @@
   "7S_VUQb3NXw": {
    "errors": 0,
    "first_seen": "2026-10-21T09:39:22+00:00",
+   "last_attempt": "2026-10-21T10:42:49+00:00",
    "published": "2026-10-21T09:30:15+00:00",
    "status": "pending",
    "video": {
@@ -2228,6 +2229,21 @@
    "published": "2026-10-08T03:00:24+00:00",
    "status": "baseline"
   },
+  "FBIwZuJuMIQ": {
+   "errors": 0,
+   "first_seen": "2026-10-21T10:42:06+00:00",
+   "published": "2026-10-21T10:15:07+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "description": "엔비디아가 맞춤형 HBM의 베이스다이에 TSMC 3나노 공정을 요구했다는 보도가 나왔습니다. D램부터 파운드리, 패키징까지 한꺼번에 제공하려던 삼성에는 새로운 조건이 생긴 셈입니다. 이번 영상에서는 이 요구가 삼성의 통합 공급 전략에 어떤 의미인지 살펴봅니다.\n\nHBM 위쪽의 저장용 D램과 아래쪽 베이스다이의 역할을 나누고, NVHBM에서 메모리 컨트롤러가 이동하는 이유를 설명합니다. 엔비디아의 설계 역할과 보도된 TSMC의 제조 역할도 구분합니다. GPU와 패키징의 연결 조건을 함께 맞추는 이점, 다른 공정으로 옮길 때 설계 조정과 재검증이 필요한 이유를 짚어봅니다. 더 낮은 8단 구성을 요구했다는 보도를 통해 메모리 용량과 대역폭, 실제 공급량의 차이도 정리합니다.\n\n고객이 공통 조건을 정하더라도 메모리 업체들의 전력·발열·적층 기술과 수율 경쟁은 계속됩니다. 삼성의 자체 4나노 활용과 2나노 대안 공정 검증 보도는 제품별로 나눠 다룹니다. 앞으로 HBM 수주를 볼 때 물량과 함께 설계 주도권과 제조 경로를 확인해야 하는 이유를 이야기합니다.\n\nWritten by 패치\nEdited by 이재현\n\nunrealtech2021@gmail.com",
+    "published": "2026-10-21T10:15:07+00:00",
+    "title": "삼성 비장의 카드인데... 엔비디아가 제동 | 핵심 층을 TSMC에서? 3나노 베이스다이 요구 보도 | 메모리 주문하던 엔비디아, 만드는 방식까지 정한다",
+    "video_id": "FBIwZuJuMIQ"
+   },
+   "wait_checks": 0
+  },
   "FBVr38uMohw": {
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-09T04:00:14+00:00",
@@ -2762,18 +2778,14 @@
    "status": "baseline"
   },
   "JZ-Xb3iYzGU": {
+   "done_at": "2026-10-21T10:42:49+00:00",
    "errors": 0,
    "first_seen": "2026-10-21T09:02:05+00:00",
+   "last_attempt": "2026-10-21T10:42:18+00:00",
+   "notified": "2026-10-21T10:43:50+00:00",
    "published": "2026-10-21T09:00:37+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCFhF5oooL5ugxHKvTxBD75Q",
-    "channel_name": "땅집고",
-    "description": "#안산 #분양 #신축\n\n경기도 안산시 상록구 성포동, 이곳은 약 21년 동안 안산 시민들의 발길이 이어졌던 옛 홈플러스 안산점 부지인데요. 2021년 문을 닫은 이후, 최고 49층 규모의 주상복합 단지로 탈바꿈할 예정입니다. 대형 브랜드 아파트가 들어선다는 기대감이 나오는 가운데, 분양가가 적정한 수준일지에 대한 관심도 커지고 있는데요. 과연 이곳에 들어서는 ‘아르뮤제자이’는 어떤 곳인지, 직접 현장을 찾아 분석해 봤습니다.\n\n💥 단단홈즈 프로모션 앵콜 연장 (~10/31)\n단기임대 똑똑하게 이용하기!\n\n[호스트 혜택] 수수료 평생 0원\n🔗 https://ader.dandanhomes.com/hq11f86\n\n[게스트 혜택] 수수료 반값 할인 (최대 10만원)\n🔗 https://ader.dandanhomes.com/5l4zat\n\n지금 3분 만에 방 등록하고 평생 0원 혜택 챙기기 🚀\n🔗 https://ader.dandanhomes.com/bsve9r\n\n🏢 “내 개발사업에 AI를 어디까지 활용할 수 있을까?”\n개발계획·사업성 검토·인허가부터\n에너지·보안·주차 운영까지\n현업 사례로 배우는 AI 부동산 실전교육\n👉 신청하기 ▼ https://zipgobiz.com/\n\n📌 땅집고TV 구독하고 남들보다 빠른 부동산 안목을 키우세요\n​👉 지금 바로 구독·좋아요·알림설정까지! http://bit.ly/3RmNLky\n오늘 영상에 대한 여러분의 의견도 댓글로 자유롭게 남겨주세요💬",
-    "published": "2026-10-21T09:00:37+00:00",
-    "title": "\"안산에 10억 주상복합?\" 역 걸어서 20분인데… 홈플러스 부지 자이 현장 가봤더니ㅣ추PD가간다",
-    "video_id": "JZ-Xb3iYzGU"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "J_XC1FGw9fA": {
@@ -3620,6 +3632,21 @@
    "published": "2026-10-04T09:00:18+00:00",
    "status": "baseline"
   },
+  "QEyi0a9Zc8Q": {
+   "errors": 0,
+   "first_seen": "2026-10-21T10:42:15+00:00",
+   "published": "2026-10-21T10:30:40+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"6억 대출을 4억으로 줄인다\" 앞으로 대출 받기 더 힘들어집니다\n\n☞촬영일: 26년 10월 16일",
+    "published": "2026-10-21T10:30:40+00:00",
+    "title": "\"6억 대출을 4억으로 줄인다\" 앞으로 대출 받기 더 힘들어집니다 [김제경 박사]",
+    "video_id": "QEyi0a9Zc8Q"
+   },
+   "wait_checks": 0
+  },
   "QKQM1Z2v0tY": {
    "done_at": "2026-10-20T13:15:12+00:00",
    "errors": 0,
@@ -3927,6 +3954,21 @@
     "published": "2026-10-10T04:30:33+00:00",
     "title": "현금 있다면 미국주식 이렇게 사세요, 앞으로 어마어마하게 오를 겁니다 [정주용 의장]",
     "video_id": "SrCjtMTzH0U"
+   },
+   "wait_checks": 0
+  },
+  "SrL_gHCp5w0": {
+   "errors": 0,
+   "first_seen": "2026-10-21T10:42:17+00:00",
+   "published": "2026-10-21T10:40:48+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
+    "channel_name": "지식인사이드",
+    "description": "오늘은 박현도 교수 님을 모시고\n석유 한 방울 안 나는 한국이 중동 산유국들의 ‘심장’이 된 진짜 이유에 대해 들어봤습니다.\n\n영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요!\n\n#지식인사이드 #지식인클래스 #박현도 #중동 #석유 #방산\n\n00:00 인트로\n00:28 구독자 인사\n01:21 중동 전쟁 중인데 기름값이 내려간 진짜 이유\n04:55 한국은 왜 미국 기름 놔두고, '중동 기름'을 고집할까?\n06:15 한국이 마음 먹으면 전 세계 비행기 '3분의 1'이 못 뜹니다\n07:22 이란이 한국 배만 통과 시킨 이유\n09:24 전 세계 산유국들이 앞다퉈 한국에 몰려드는 까닭\n12:05 중동이 'K-방산'을 선택할 수밖에 없는 이유\n13:49 미국이 세계 1위 산유국이 되자 중동에 벌어진 일\n14:41 중동 교수가 중동 외교 차관에게 직접 들은 '기술 이전'\n17:00 서울엔 '테헤란로', 테헤란엔 '서울로'가 생긴 사연\n18:40 미국은 싸우는데, 한국은 중동과 친구가 된 비결\n\n* 이 영상은 10월 13일에 촬영되었습니다\n\n👇지식인사이드에 출연을 원하신다면 여기를 눌러주세요\nhttps://forms.gle/u4LxVcwFdhvkLH8m6\nknowledgeinside7@gmail.com\n\n👇 다양한 채널에서 지식인사이드의 지식을 얻고 싶다면 여기를 눌러주세요\n인스타그램: https://www.instagram.com/knowledgeins_kr/\n페이스북: https://www.facebook.com/knowledgeIns7?mibextid=LQQJ4d\n네이버 TV: https://tv.naver.com/purejboy2\n틱톡: https://www.tiktok.com/@allstorieskr?lang=ko-KR\n네이버 카페: https://cafe.naver.com/knowledgeins\n\nCopyright Ⓒ 지식인사이드. All rights reserved.\n\n본 콘텐츠(영상, 이미지, 음성, 대본, 편집물, 썸네일 포함)는 저작권 및 관련 권리의 보호를 받습니다.\n\n저작권자의 사전 승인 없이 복제, 배포, 수정, 재가공, 업로드, AI 학습 및 데이터셋 구축, 2차 저작물 제작(쇼츠·릴스 포함) 등 일체의 상업적 이용 및 수익화를 금지합니다.\n\n📧 콘텐츠 사용 및 협의 문의: knowledgeinside7@gmail.com",
+    "published": "2026-10-21T10:40:48+00:00",
+    "title": "\"기름 한 방울 안 나는데..\" 한국이 마음 먹으면 전 세계 비행기에 생기는 일ㅣ지식인 클래스 EP.32 (박현도 교수)",
+    "video_id": "SrL_gHCp5w0"
    },
    "wait_checks": 0
   },
@@ -4434,6 +4476,21 @@
    "first_seen": "2026-10-21T02:25:36+00:00",
    "published": "2026-10-16T07:55:36+00:00",
    "status": "baseline"
+  },
+  "WCItiwpDR2M": {
+   "errors": 0,
+   "first_seen": "2026-10-21T10:42:12+00:00",
+   "published": "2026-10-21T10:39:56+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
+    "channel_name": "지식보관소",
+    "description": "Instagram ID @archiveyoutube\n#Shorts #우주 #빅뱅 #인플레이션 #양자중력 #시공간\n\n빅뱅 직후, 우주는 왜 순식간에 팽창했을까요? 워털루대학교 연구진이 제시한 양자 이차중력 모형을 바탕으로, 초기 우주의 급팽창이 중력 이론에서 자연스럽게 나타날 수 있다는 가능성을 소개합니다. 시공간을 디지털에 비유한 원본의 설명과 핵심 계산 결과를 짧게 담았습니다.\n\n이 연구는 빅뱅 초기 인플레이션을 다룬 이론 연구입니다. 현재 우주의 가속팽창 원인이나 시공간의 디지털 구조가 실험으로 확정됐다는 뜻은 아닙니다.\n\n연구 논문: Ultraviolet Completion of the Big Bang in Quadratic Gravity, Physical Review Letters 136, 111501 (2026)\nhttps://doi.org/10.1103/6gtx-j455\n\n원본영상\nhttps://youtu.be/yltFuqPqDyg?si=FGSukVCCBFqYZE7z\n\n------- 본계정(지식보관소) -------\nhttps://www.youtube.com/@지식보관소\n-----------게임 개발 관련-----------\nhttps://asdfg3663-alt.github.io/\n------- 비지니스 문의 -------\nE-Mail : asdfg3663@gmail.com",
+    "published": "2026-10-21T10:39:56+00:00",
+    "title": "우주가 가속팽창하는 이유는 시공간이 디지털이라서? #Shorts",
+    "video_id": "WCItiwpDR2M"
+   },
+   "wait_checks": 0
   },
   "WGNCLXyp1QM": {
    "done_at": "2026-10-12T21:26:10+00:00",
