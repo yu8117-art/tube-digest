@@ -1229,19 +1229,14 @@
    "wait_checks": 0
   },
   "7S_VUQb3NXw": {
+   "done_at": "2026-10-21T12:17:24+00:00",
    "errors": 0,
    "first_seen": "2026-10-21T09:39:22+00:00",
-   "last_attempt": "2026-10-21T10:42:49+00:00",
+   "last_attempt": "2026-10-21T12:16:45+00:00",
+   "notified": "2026-10-21T12:18:52+00:00",
    "published": "2026-10-21T09:30:15+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
-    "channel_name": "집코노미",
-    "description": "공공분양 청년 특별공급은 혼인 중이 아닌 청년이어야 신청할 수 있습니다. 유주택자인 부모님과 함께 살고 있어도 본인만 주택을 가진 이력이 없으면 됩니다. 다만 모든 공공분양 주택에 청년 특공이 있는 건 아닙니다.\n\n#청년특공 #특별공급 #공공분양 #청약 #내집마련\n\n한국경제신문 구독하기\n📰https://vo.la/N79FE1B\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다\n\n영상의 맥락과 상관없는 비방이나 악의적인 댓글은 예고 없이 삭제됩니다",
-    "published": "2026-10-21T09:30:15+00:00",
-    "title": "2030 싱글은 이렇게 내집마련하세요 | 연수원",
-    "video_id": "7S_VUQb3NXw"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "7WUzZbxrNUw": {
@@ -1276,19 +1271,14 @@
    "wait_checks": 0
   },
   "7g5xIX1vZXQ": {
+   "done_at": "2026-10-21T12:16:44+00:00",
    "errors": 0,
    "first_seen": "2026-10-21T09:02:03+00:00",
-   "last_attempt": "2026-10-21T10:12:27+00:00",
+   "last_attempt": "2026-10-21T12:15:39+00:00",
+   "notified": "2026-10-21T12:19:19+00:00",
    "published": "2026-10-21T09:00:24+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCstI8HwGQsHdqLDgyH0PImw",
-    "channel_name": "최준영 박사의 지구본 연구소",
-    "description": "🌏지구본 연구소 멤버십에 가입하여 혜택을 누려보세요!\nhttps://www.youtube.com/channel/UCstI8HwGQsHdqLDgyH0PImw/join\n\n놀라운 라인업으로 다시 돌아온 위즈덤 칼리지 2026!\n최준영 박사님과 함께 새로운 지혜의 여정이 시작됩니다.\n🎁 최대 할인 + 30만 원 상당의 혜택 전원 증정\n🎓 지금 바로 입학 등록하기 👉 https://bit.ly/3IRcyte\n\n👉https://3protv.page.link/dvgJ\n⏰바빠서 방송 볼 시간이 없다면? 핵심만 콕 짚은 요약본으로 빠르게!\n삼프로 오리지널 뉴스 콘텐츠로 만나보세요.\n👉https://3protv.page.link/dvgJ\n\n#지구본연구소 #최준영박사 #최준영\n\n🌎타임코드🌎\n00:00 프랑스 공권력은 힘이 없나?\n04:57 프랑스 비상대권과 계엄\n12:11 가장 가능성 높은 ‘비상사태 선포’\n15:09 비상사태가 발동되면 어떻게 되나?\n24:40 마크롱 대통령의 판단은?",
-    "published": "2026-10-21T09:00:24+00:00",
-    "title": "관광은 가능..? 프랑스 파리에 비상사태가 선포되면 벌어지는 일 [지구본 뉴스룸]",
-    "video_id": "7g5xIX1vZXQ"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "7jD67zXfr0g": {
@@ -1371,6 +1361,17 @@
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-01T11:35:27+00:00",
    "status": "baseline"
+  },
+  "8f_-xQSCASg": {
+   "done_at": "2026-10-21T12:12:30+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-21T12:11:54+00:00",
+   "last_attempt": "2026-10-21T12:12:04+00:00",
+   "notified": "2026-10-21T12:21:07+00:00",
+   "published": "2026-10-21T12:00:31+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "8ffY5RJ0iDg": {
    "errors": 0,
@@ -5879,6 +5880,7 @@
    "errors": 0,
    "first_seen": "2026-10-21T11:42:05+00:00",
    "last_attempt": "2026-10-21T11:42:11+00:00",
+   "notified": "2026-10-21T12:19:46+00:00",
    "published": "2026-10-21T11:15:05+00:00",
    "source": "video",
    "status": "done",
@@ -6987,6 +6989,21 @@
    "published": "2026-10-02T09:00:24+00:00",
    "status": "baseline"
   },
+  "ns9ZnZfXu0Q": {
+   "errors": 0,
+   "first_seen": "2026-10-21T12:11:55+00:00",
+   "published": "2026-10-21T01:31:12+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "◆신상 누리호 항공점퍼, 누리호 뱃지, 포스터, 누리호 텀블러\nhttps://smartstore.naver.com/morescience/search?q=누리호\n\n◆ 모어사이언스 신상 굿즈 구경하러 가기!\nhttps://smartstore.naver.com/morescience\n\n◆『우리는 어쩌다 과학을 믿게 되었을까?』\n예스24 https://t.ly/E0es4\n알라딘 https://t.ly/WpoQt\n교보문고 https://t.ly/0g_Yd",
+    "published": "2026-10-21T01:31:12+00:00",
+    "title": "배우 설인아 초대석 [궤도의 과학속으로]",
+    "video_id": "ns9ZnZfXu0Q"
+   },
+   "wait_checks": 0
+  },
   "nsGX0AnxdLc": {
    "errors": 0,
    "first_seen": "2026-10-18T10:34:20+00:00",
@@ -7389,35 +7406,25 @@
    "wait_checks": 0
   },
   "qiyrfp3UWjM": {
+   "done_at": "2026-10-21T12:18:25+00:00",
    "errors": 0,
    "first_seen": "2026-10-21T11:12:48+00:00",
-   "last_attempt": "2026-10-21T11:18:43+00:00",
+   "last_attempt": "2026-10-21T12:17:24+00:00",
+   "notified": "2026-10-21T12:20:13+00:00",
    "published": "2026-10-21T11:00:17+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
-    "channel_name": "안될과학 Unrealscience",
-    "description": "약 64광년 떨어진 외계행성 베타 픽토리스 b에서 온 전파가 처음으로 포착됐습니다.\n\n남아프리카공화국의 전파망원경 배열 MeerKAT으로 전파의 위치와 특성을 분석한 결과, 연구진은 이 신호가 행성의 오로라와 관련된 자연 발생 전파일 가능성을 제시했는데요.\n\n더 놀라운 건 전파의 주파수를 이용해 행성의 자기장까지 추정했다는 것입니다.\n\n64광년 밖 행성의 전파는 어떻게 찾아냈고, 전파 하나로 자기장을 알아낼 수 있었을까요?\n\n이번 영상에서 그 원리를 살펴봅니다.\n\n#외계행성 #외계행성전파 #베타픽토리스b #전파망원경 #자기장 #우주 #천문학 #MeerKAT #오로라 #안될과학 #항성\n\n◆ Thanks to \nEditor : 이재현\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science \n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience\n\n◆ 안될과학 문의\nE-MAIL : MoreScience2018@gmail.com",
-    "published": "2026-10-21T11:00:17+00:00",
-    "title": "64광년 밖 신호 포착? 외계행성이 직접 보낸 전파",
-    "video_id": "qiyrfp3UWjM"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "qjFhI_bGWvc": {
+   "done_at": "2026-10-21T12:15:39+00:00",
    "errors": 0,
    "first_seen": "2026-10-21T08:23:27+00:00",
-   "last_attempt": "2026-10-21T09:02:10+00:00",
+   "last_attempt": "2026-10-21T12:12:30+00:00",
+   "notified": "2026-10-21T12:20:40+00:00",
    "published": "2026-10-21T08:00:33+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘운명을 바꾸는 부동산 투자수업\n👉http://bit.ly/3tML9k0\n\n고금리에 집값 폭락한다고요? 앞으로 집값 이렇게 될 겁니다\n“이제 다 밀려날 겁니다” 심각한데 답도 없는 부동산 시장\n전세, 매매, 월세 쿼드러플 상승, 이대로 가다간 큰일날 것 같습니다\n\n☞촬영일: 26년 10월 14일",
-    "published": "2026-10-21T08:00:33+00:00",
-    "title": "고금리에 집값 폭락한다고요? 앞으로 집값 이렇게 될 겁니다 [송승현 대표 풀버전]",
-    "video_id": "qjFhI_bGWvc"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "qmj_6lJdvmk": {
@@ -7578,6 +7585,21 @@
    "first_seen": "2026-10-14T05:08:49+00:00",
    "published": "2026-10-14T05:00:03+00:00",
    "status": "skipped_live",
+   "wait_checks": 0
+  },
+  "rWiDkuSMfyU": {
+   "errors": 0,
+   "first_seen": "2026-10-21T12:11:59+00:00",
+   "published": "2026-10-21T12:00:25+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/",
+    "published": "2026-10-21T12:00:25+00:00",
+    "title": "\"매디슨 환상골\" 토트넘, 드디어 감격의 첫 번째 승리!",
+    "video_id": "rWiDkuSMfyU"
+   },
    "wait_checks": 0
   },
   "r_jkNhL2i4A": {
