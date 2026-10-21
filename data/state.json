@@ -1416,15 +1416,7 @@
    "errors": 0,
    "first_seen": "2026-10-20T23:15:14+00:00",
    "published": "2026-10-20T22:58:33+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
-    "channel_name": "소유보다 경험 - 아이언 / 공모주",
-    "description": "티앤이코리아, 크리에이츠, 한화플러스제6호스팩 2일차/인텔리빅스 1일차를 실시간 경쟁률 라이브로 제공합니다.\n자세한 정보는 유튜브 영상과 블로그를 참고해주세요.\nhttps://blog.naver.com/msql/\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다. \n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
-    "published": "2026-10-20T22:58:33+00:00",
-    "title": "[10/21] 티앤이코리아, 크리에이츠, 한화플러스제6호스팩 2일차/인텔리빅스 1일차 실시간 청약경쟁률 LIVE",
-    "video_id": "9SXFJqA40B4"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "9Tt05OXby2M": {
@@ -1818,15 +1810,7 @@
    "errors": 0,
    "first_seen": "2026-10-21T00:01:34+00:00",
    "published": "2026-10-20T23:40:48+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
-    "channel_name": "소유보다 경험 - 아이언 / 공모주",
-    "description": "아이언의 공모주청약 대시보드 실시간청약경쟁률 LIVE 입니다.\n\n다른 분들과 소통을 원하시면 메인 방송을 이용해주세요.\nhttps://youtube.com/live/9SXFJqA40B4 \n\n어니언 자동계산은 어니언 방송을 이용해주세요. \nhttps://youtube.com/live/RbTL5Y6vNOg \n\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트(하이브) 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다.\n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
-    "published": "2026-10-20T23:40:48+00:00",
-    "title": "[10/21] 아이언의 공모주청약 대시보드 실시간청약경쟁률 LIVE / 티앤이코리아",
-    "video_id": "C2na8ouWKaU"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "C4ihPXvek-g": {
@@ -2781,6 +2765,21 @@
    "published": "2026-09-15T08:21:37+00:00",
    "status": "baseline"
   },
+  "K4a2mbHVLjM": {
+   "errors": 0,
+   "first_seen": "2026-10-21T07:14:49+00:00",
+   "published": "2026-10-21T06:30:38+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n이제 집 사고 싶어도 못 삽니다, 진짜 사다리 걷어차는 겁니다\n\n☞촬영일: 26년 10월 16일",
+    "published": "2026-10-21T06:30:38+00:00",
+    "title": "이제 집 사고 싶어도 못 삽니다, 진짜 사다리 걷어차는 겁니다 [김제경 박사]",
+    "video_id": "K4a2mbHVLjM"
+   },
+   "wait_checks": 0
+  },
   "KAGrubo71H0": {
    "errors": 0,
    "first_seen": "2026-10-15T23:31:46+00:00",
@@ -3703,15 +3702,7 @@
    "errors": 0,
    "first_seen": "2026-10-20T23:40:21+00:00",
    "published": "2026-10-20T23:17:47+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
-    "channel_name": "소유보다 경험 - 아이언 / 공모주",
-    "description": "이 방송은 티앤이코리아 공모주 청약의 어니언 5사6입 라이브입니다.\n\n다른 분들과 소통을 원하시면 메인 방송을 이용해주세요.\nhttps://youtube.com/live/9SXFJqA40B4\n\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트(하이브) 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다.\n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
-    "published": "2026-10-20T23:17:47+00:00",
-    "title": "[10/21] 티앤이코리아 어니언 5사6입 2일차 실시간 공모주 청약경쟁률 LIVE / 신한증권",
-    "video_id": "RbTL5Y6vNOg"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "RceUVMPFKpk": {
@@ -4798,6 +4789,21 @@
    "published": "2026-08-02T03:30:12+00:00",
    "status": "baseline"
   },
+  "_RRpPl52m8g": {
+   "errors": 0,
+   "first_seen": "2026-10-21T07:14:48+00:00",
+   "published": "2026-10-21T06:35:18+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n🔹교보문고 http://app.ac/LqnFfb203\n🔹예스24 http://app.ac/8AGBe3533\n\n50부터 시작하는 은퇴 후 월급 만드는 부동산\n🔹예스24 http://app.ac/MAGu5e523\n🔹교보문고 http://app.ac/1ECnLKS73\n\n#김학렬 #빠숑 #부동산 #아파트 \n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-10-21T06:35:18+00:00",
+    "title": "내년 경기도 시장 전망 쉽습니다",
+    "video_id": "_RRpPl52m8g"
+   },
+   "wait_checks": 0
+  },
   "_RW-46Qvs50": {
    "done_at": "2026-10-12T06:27:25+00:00",
    "errors": 0,
@@ -5429,15 +5435,7 @@
    "errors": 0,
    "first_seen": "2026-10-20T23:40:21+00:00",
    "published": "2026-10-20T23:28:04+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
-    "channel_name": "소유보다 경험 - 아이언 / 공모주",
-    "description": "이 방송은 크리에이츠 삼성증권 공모주청약의 5사6입 라이브입니다.\n\n다른 분들과 소통을 원하시면 메인 방송을 이용해주세요.\nhttps://youtube.com/live/9SXFJqA40B4\n\n어니언 자동계산은 어니언 방송을 이용해주세요. \nhttps://youtube.com/live/RbTL5Y6vNOg\n\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트(하이브) 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다.\n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
-    "published": "2026-10-20T23:28:04+00:00",
-    "title": "[10/21] 크리에이츠 5사6입 2일차 실시간 공모주 청약경쟁률 LIVE / 삼성증권",
-    "video_id": "dPvDkIzF0ns"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "dPw69w3Llc4": {
@@ -6191,15 +6189,7 @@
    "errors": 0,
    "first_seen": "2026-10-20T23:40:21+00:00",
    "published": "2026-10-20T23:31:44+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
-    "channel_name": "소유보다 경험 - 아이언 / 공모주",
-    "description": "이 방송은 한화플러스제6호스팩 공모주청약의 5사6입 라이브입니다.\n\n다른 분들과 소통을 원하시면 메인 방송을 이용해주세요.\nhttps://youtube.com/live/9SXFJqA40B4 \n\n어니언 자동계산은 어니언 방송을 이용해주세요. \nhttps://youtube.com/live/RbTL5Y6vNOg \n\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트(하이브) 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다.\n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
-    "published": "2026-10-20T23:31:44+00:00",
-    "title": "[10/21] 한화플러스제6호스팩 5사6입 2일차 실시간 공모주 청약경쟁률 LIVE / 한화투자증권",
-    "video_id": "jAAiqsDXHA0"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "jH0ndshiigw": {
@@ -6260,6 +6250,17 @@
    "last_attempt": "2026-10-17T16:10:56+00:00",
    "notified": "2026-10-17T16:12:06+00:00",
    "published": "2026-10-17T15:55:13+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "jh4tLSBci2I": {
+   "done_at": "2026-10-21T07:15:10+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-21T07:14:51+00:00",
+   "last_attempt": "2026-10-21T07:14:52+00:00",
+   "notified": "2026-10-21T07:15:38+00:00",
+   "published": "2026-10-21T07:11:19+00:00",
    "source": "video",
    "status": "done",
    "wait_checks": 0
