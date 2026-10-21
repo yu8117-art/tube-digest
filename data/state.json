@@ -615,6 +615,21 @@
    "status": "done",
    "wait_checks": 1
   },
+  "2nqLp7ILG6M": {
+   "errors": 0,
+   "first_seen": "2026-10-21T22:37:50+00:00",
+   "published": "2026-10-21T22:30:39+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n강남은 하락, 외곽은 폭등 지금 부동산에서 벌어지는 일\n\n☞촬영일: 26년 10월 16일",
+    "published": "2026-10-21T22:30:39+00:00",
+    "title": "강남은 하락, 외곽은 폭등 지금 부동산에서 벌어지는 일 [김제경 박사]",
+    "video_id": "2nqLp7ILG6M"
+   },
+   "wait_checks": 0
+  },
   "2wpg22xTHcU": {
    "errors": 0,
    "first_seen": "2026-10-18T06:40:54+00:00",
@@ -7102,7 +7117,7 @@
   "ns9ZnZfXu0Q": {
    "errors": 0,
    "first_seen": "2026-10-21T12:11:55+00:00",
-   "last_attempt": "2026-10-21T22:10:01+00:00",
+   "last_attempt": "2026-10-21T22:37:53+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-10-21T01:31:12+00:00",
    "status": "pending",
@@ -7114,7 +7129,7 @@
     "title": "배우 설인아 초대석 [궤도의 과학속으로]",
     "video_id": "ns9ZnZfXu0Q"
    },
-   "wait_checks": 13
+   "wait_checks": 14
   },
   "nsGX0AnxdLc": {
    "errors": 0,
