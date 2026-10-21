@@ -1436,6 +1436,22 @@
    },
    "wait_checks": 0
   },
+  "92mEdPLMlFY": {
+   "errors": 0,
+   "first_seen": "2026-10-21T13:29:59+00:00",
+   "last_attempt": "2026-10-21T13:30:09+00:00",
+   "published": "2026-10-21T13:20:25+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "0:00 코스피는 '현실 부정' 단계인가?\n14:29 글로벌 숏 전문가의 롱 포지션",
+    "published": "2026-10-21T13:20:25+00:00",
+    "title": "AI를 숏친, 세계에서 가장 유명한 숏전문가",
+    "video_id": "92mEdPLMlFY"
+   },
+   "wait_checks": 0
+  },
   "94dySjq-qLg": {
    "done_at": "2026-10-13T11:49:53+00:00",
    "errors": 0,
