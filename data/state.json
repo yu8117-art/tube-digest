@@ -1437,19 +1437,14 @@
    "wait_checks": 0
   },
   "92mEdPLMlFY": {
+   "done_at": "2026-10-21T14:13:48+00:00",
    "errors": 0,
    "first_seen": "2026-10-21T13:29:59+00:00",
-   "last_attempt": "2026-10-21T13:30:09+00:00",
+   "last_attempt": "2026-10-21T14:08:29+00:00",
+   "notified": "2026-10-21T14:13:49+00:00",
    "published": "2026-10-21T13:20:25+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-    "channel_name": "슈카월드",
-    "description": "0:00 코스피는 '현실 부정' 단계인가?\n14:29 글로벌 숏 전문가의 롱 포지션",
-    "published": "2026-10-21T13:20:25+00:00",
-    "title": "AI를 숏친, 세계에서 가장 유명한 숏전문가",
-    "video_id": "92mEdPLMlFY"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "94dySjq-qLg": {
@@ -3187,15 +3182,7 @@
    "errors": 0,
    "first_seen": "2026-10-21T12:49:33+00:00",
    "published": "2026-10-21T12:32:07+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-10-21T12:32:07+00:00",
-    "title": "손흥민을 선수들이 그 \"7번 선수\"라고 부른다.. 또 흘러나오는 내부루머들 / 문진희 위원장, 심판에게 \"용돈 계좌에 넣어라\" 녹취록",
-    "video_id": "LsFztXJ-uZQ"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "LthgU9sBTlc": {
@@ -4774,6 +4761,21 @@
    "published": "2026-10-15T07:27:17+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "Yad_iZeOlPE": {
+   "errors": 0,
+   "first_seen": "2026-10-21T14:08:19+00:00",
+   "published": "2026-10-21T14:00:10+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCCQPdv4o4ywVZQkAMOlvFbw",
+    "channel_name": "오목교 전자상가",
+    "description": "아이폰 듀오 VS 폴드8 언박싱",
+    "published": "2026-10-21T14:00:10+00:00",
+    "title": "아이폰 듀오 VS 폴드8 언박싱",
+    "video_id": "Yad_iZeOlPE"
+   },
    "wait_checks": 0
   },
   "YbBJ0kOZTiM": {
