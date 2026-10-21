@@ -39,6 +39,9 @@
   "UCHOPWa8g36QPHB00JmdZluw": {
    "initialized": "2026-10-09T08:14:39+00:00"
   },
+  "UCIUni4ScRp4mqPXsxy62L5w": {
+   "initialized": "2026-10-21T02:25:36+00:00"
+  },
   "UCIk1-yPCTnFuzfgu4gyfWqw": {
    "initialized": "2026-10-09T08:14:31+00:00"
   },
@@ -347,6 +350,11 @@
   "128Atbma07g": {
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-10-01T12:00:38+00:00",
+   "status": "baseline"
+  },
+  "15FRu2MjlcU": {
+   "first_seen": "2026-10-21T02:25:36+00:00",
+   "published": "2026-10-19T14:15:11+00:00",
    "status": "baseline"
   },
   "19iDIXbOCR8": {
@@ -721,6 +729,11 @@
    },
    "wait_checks": 0
   },
+  "4VDb1n8lrLQ": {
+   "first_seen": "2026-10-21T02:25:36+00:00",
+   "published": "2026-10-19T12:25:03+00:00",
+   "status": "baseline"
+  },
   "4ZKtn_Wc4mY": {
    "done_at": "2026-10-19T10:42:18+00:00",
    "errors": 0,
@@ -731,6 +744,11 @@
    "source": "video_notes",
    "status": "done",
    "wait_checks": 0
+  },
+  "4b_BAWXrE18": {
+   "first_seen": "2026-10-21T02:25:36+00:00",
+   "published": "2026-10-18T11:55:36+00:00",
+   "status": "baseline"
   },
   "4jcAop_vEVI": {
    "first_seen": "2026-10-09T08:14:39+00:00",
@@ -848,6 +866,11 @@
   "5TF8BKFWERo": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-09-23T23:00:27+00:00",
+   "status": "baseline"
+  },
+  "5Uxt1FkHKSk": {
+   "first_seen": "2026-10-21T02:25:36+00:00",
+   "published": "2026-10-18T14:15:35+00:00",
    "status": "baseline"
   },
   "5XEtvCBdH0E": {
@@ -1273,6 +1296,11 @@
     "video_id": "8UC2O_BoeSM"
    },
    "wait_checks": 0
+  },
+  "8WvfSWUWrkA": {
+   "first_seen": "2026-10-21T02:25:36+00:00",
+   "published": "2026-10-20T14:15:29+00:00",
+   "status": "baseline"
   },
   "8aEGw6UXRJQ": {
    "first_seen": "2026-10-09T08:14:39+00:00",
@@ -3209,6 +3237,11 @@
    "published": "2026-08-16T10:32:20+00:00",
    "status": "baseline"
   },
+  "NnUnhEwAyuQ": {
+   "first_seen": "2026-10-21T02:25:36+00:00",
+   "published": "2026-10-20T12:25:36+00:00",
+   "status": "baseline"
+  },
   "NnjrwL0gb1s": {
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-05-11T09:57:00+00:00",
@@ -3281,6 +3314,11 @@
   "ONaeefena7g": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-09T05:30:26+00:00",
+   "status": "baseline"
+  },
+  "OVE4-l7sByM": {
+   "first_seen": "2026-10-21T02:25:36+00:00",
+   "published": "2026-10-20T07:55:01+00:00",
    "status": "baseline"
   },
   "OYX6KCoigoo": {
@@ -3396,6 +3434,11 @@
   "PCfiAmjBYfU": {
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-09-23T09:00:21+00:00",
+   "status": "baseline"
+  },
+  "PD3J7O5FvFA": {
+   "first_seen": "2026-10-21T02:25:36+00:00",
+   "published": "2026-10-19T07:55:35+00:00",
    "status": "baseline"
   },
   "PG8xg5V7_Y8": {
@@ -3706,6 +3749,11 @@
   "SHBRdSuJs3w": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-09-05T07:13:21+00:00",
+   "status": "baseline"
+  },
+  "SLoG9gC0a4o": {
+   "first_seen": "2026-10-21T02:25:36+00:00",
+   "published": "2026-10-17T11:55:17+00:00",
    "status": "baseline"
   },
   "SN0oyLK8lIY": {
@@ -4293,6 +4341,11 @@
    "published": "2026-09-16T10:00:27+00:00",
    "status": "baseline"
   },
+  "W7yms_5Spic": {
+   "first_seen": "2026-10-21T02:25:36+00:00",
+   "published": "2026-10-16T07:55:36+00:00",
+   "status": "baseline"
+  },
   "WGNCLXyp1QM": {
    "done_at": "2026-10-12T21:26:10+00:00",
    "errors": 0,
@@ -4585,6 +4638,11 @@
    "published": "2026-09-18T08:00:35+00:00",
    "status": "baseline"
   },
+  "ZP-48IeHXNo": {
+   "first_seen": "2026-10-21T02:25:36+00:00",
+   "published": "2026-10-16T12:25:24+00:00",
+   "status": "baseline"
+  },
   "ZPd9Q9Q_rxs": {
    "done_at": "2026-10-15T09:14:09+00:00",
    "errors": 0,
@@ -4666,6 +4724,11 @@
     "video_id": "_EP6R_SwC6Q"
    },
    "wait_checks": 0
+  },
+  "_EsS-zgxSuQ": {
+   "first_seen": "2026-10-21T02:25:36+00:00",
+   "published": "2026-10-17T05:55:26+00:00",
+   "status": "baseline"
   },
   "_HfsNsf5g_o": {
    "done_at": "2026-10-12T10:17:48+00:00",
@@ -5351,6 +5414,11 @@
   "dTTiz4e7U7M": {
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-09-09T09:00:03+00:00",
+   "status": "baseline"
+  },
+  "dUzYaIv6IVc": {
+   "first_seen": "2026-10-21T02:25:36+00:00",
+   "published": "2026-10-18T05:55:10+00:00",
    "status": "baseline"
   },
   "dvbfpJcYkx8": {
@@ -6683,6 +6751,11 @@
     "video_id": "nsGX0AnxdLc"
    },
    "wait_checks": 0
+  },
+  "nu7t21JPcSk": {
+   "first_seen": "2026-10-21T02:25:36+00:00",
+   "published": "2026-10-17T14:15:28+00:00",
+   "status": "baseline"
   },
   "nvaPZmfRbKI": {
    "first_seen": "2026-10-09T08:14:40+00:00",
@@ -8086,6 +8159,21 @@
    "published": "2026-08-29T00:00:09+00:00",
    "status": "baseline"
   },
+  "z6hQU1Q_4sc": {
+   "errors": 0,
+   "first_seen": "2026-10-21T02:25:26+00:00",
+   "published": "2026-10-21T02:00:29+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "보험료를 비교하고 통신사와 요금제를 협상하는 일까지 AI가 대신해 준다면 어떨까요? 뮤즈 출시 이후 공개된 실사용 사례에서는 자동차 보험을 비교해 더 저렴한 상품으로 바꾸거나, 통신 요금제를 더 유리한 조건으로 변경하고, 금융 계좌에서 자신도 몰랐던 반복 결제를 찾아냈다는 사용자들의 경험담이 등장했습니다. 단순히 질문에 답하는 것을 넘어 실제 서비스를 이용해 사용자를 대신해 일을 처리하는 AI 에이전트의 가능성을 보여준 사례들이죠. 하지만 편리함만 있는 것은 아닙니다. 출시 전 내부 테스트에서는 작업 중 오류를 제대로 처리하지 못하거나 보안 장치를 우회해 개인 사진을 노출한 사례도 보고됐습니다. 내 돈을 아껴주는 AI, 과연 개인정보와 계정까지 믿고 맡겨도 괜찮을까요? 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#AI #인공지능 #AI에이전트 #뮤즈 #금융 #개인정보 #사이버보안 #안될과학 #과학유튜브",
+    "published": "2026-10-21T02:00:29+00:00",
+    "title": "AI가 내 보험료와 통신비까지 깎아준다?!",
+    "video_id": "z6hQU1Q_4sc"
+   },
+   "wait_checks": 0
+  },
   "zEXwOuf3n4A": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-08-14T09:30:38+00:00",
@@ -8195,6 +8283,11 @@
   "zw9sVOxV3Fo": {
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-09-20T09:00:22+00:00",
+   "status": "baseline"
+  },
+  "zx_RICymbLM": {
+   "first_seen": "2026-10-21T02:25:36+00:00",
+   "published": "2026-10-16T14:15:16+00:00",
    "status": "baseline"
   },
   "zyGnn1-d_8E": {
