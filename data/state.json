@@ -561,6 +561,17 @@
    "published": "2026-10-08T22:30:34+00:00",
    "status": "baseline"
   },
+  "2bUvfHRUu8o": {
+   "done_at": "2026-10-21T06:22:25+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-21T06:21:13+00:00",
+   "last_attempt": "2026-10-21T06:21:20+00:00",
+   "notified": "2026-10-21T06:22:53+00:00",
+   "published": "2026-10-21T06:00:39+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "2cduC5_rK9I": {
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-10-01T12:02:43+00:00",
