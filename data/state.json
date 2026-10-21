@@ -857,6 +857,17 @@
    "published": "2026-10-08T11:00:24+00:00",
    "status": "baseline"
   },
+  "50ieEF6DVlA": {
+   "done_at": "2026-10-21T11:18:42+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-21T11:12:52+00:00",
+   "last_attempt": "2026-10-21T11:18:19+00:00",
+   "notified": "2026-10-21T11:22:34+00:00",
+   "published": "2026-10-21T11:00:14+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "5Aa44OlWx18": {
    "done_at": "2026-10-20T10:24:17+00:00",
    "errors": 0,
@@ -2230,18 +2241,14 @@
    "status": "baseline"
   },
   "FBIwZuJuMIQ": {
+   "done_at": "2026-10-21T11:14:07+00:00",
    "errors": 0,
    "first_seen": "2026-10-21T10:42:06+00:00",
+   "last_attempt": "2026-10-21T11:13:10+00:00",
+   "notified": "2026-10-21T11:21:40+00:00",
    "published": "2026-10-21T10:15:07+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
-    "channel_name": "안될공학 - IT 테크 신기술",
-    "description": "엔비디아가 맞춤형 HBM의 베이스다이에 TSMC 3나노 공정을 요구했다는 보도가 나왔습니다. D램부터 파운드리, 패키징까지 한꺼번에 제공하려던 삼성에는 새로운 조건이 생긴 셈입니다. 이번 영상에서는 이 요구가 삼성의 통합 공급 전략에 어떤 의미인지 살펴봅니다.\n\nHBM 위쪽의 저장용 D램과 아래쪽 베이스다이의 역할을 나누고, NVHBM에서 메모리 컨트롤러가 이동하는 이유를 설명합니다. 엔비디아의 설계 역할과 보도된 TSMC의 제조 역할도 구분합니다. GPU와 패키징의 연결 조건을 함께 맞추는 이점, 다른 공정으로 옮길 때 설계 조정과 재검증이 필요한 이유를 짚어봅니다. 더 낮은 8단 구성을 요구했다는 보도를 통해 메모리 용량과 대역폭, 실제 공급량의 차이도 정리합니다.\n\n고객이 공통 조건을 정하더라도 메모리 업체들의 전력·발열·적층 기술과 수율 경쟁은 계속됩니다. 삼성의 자체 4나노 활용과 2나노 대안 공정 검증 보도는 제품별로 나눠 다룹니다. 앞으로 HBM 수주를 볼 때 물량과 함께 설계 주도권과 제조 경로를 확인해야 하는 이유를 이야기합니다.\n\nWritten by 패치\nEdited by 이재현\n\nunrealtech2021@gmail.com",
-    "published": "2026-10-21T10:15:07+00:00",
-    "title": "삼성 비장의 카드인데... 엔비디아가 제동 | 핵심 층을 TSMC에서? 3나노 베이스다이 요구 보도 | 메모리 주문하던 엔비디아, 만드는 방식까지 정한다",
-    "video_id": "FBIwZuJuMIQ"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "FBVr38uMohw": {
@@ -3958,18 +3965,14 @@
    "wait_checks": 0
   },
   "SrL_gHCp5w0": {
+   "done_at": "2026-10-21T11:18:19+00:00",
    "errors": 0,
    "first_seen": "2026-10-21T10:42:17+00:00",
+   "last_attempt": "2026-10-21T11:14:08+00:00",
+   "notified": "2026-10-21T11:21:40+00:00",
    "published": "2026-10-21T10:40:48+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
-    "channel_name": "지식인사이드",
-    "description": "오늘은 박현도 교수 님을 모시고\n석유 한 방울 안 나는 한국이 중동 산유국들의 ‘심장’이 된 진짜 이유에 대해 들어봤습니다.\n\n영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요!\n\n#지식인사이드 #지식인클래스 #박현도 #중동 #석유 #방산\n\n00:00 인트로\n00:28 구독자 인사\n01:21 중동 전쟁 중인데 기름값이 내려간 진짜 이유\n04:55 한국은 왜 미국 기름 놔두고, '중동 기름'을 고집할까?\n06:15 한국이 마음 먹으면 전 세계 비행기 '3분의 1'이 못 뜹니다\n07:22 이란이 한국 배만 통과 시킨 이유\n09:24 전 세계 산유국들이 앞다퉈 한국에 몰려드는 까닭\n12:05 중동이 'K-방산'을 선택할 수밖에 없는 이유\n13:49 미국이 세계 1위 산유국이 되자 중동에 벌어진 일\n14:41 중동 교수가 중동 외교 차관에게 직접 들은 '기술 이전'\n17:00 서울엔 '테헤란로', 테헤란엔 '서울로'가 생긴 사연\n18:40 미국은 싸우는데, 한국은 중동과 친구가 된 비결\n\n* 이 영상은 10월 13일에 촬영되었습니다\n\n👇지식인사이드에 출연을 원하신다면 여기를 눌러주세요\nhttps://forms.gle/u4LxVcwFdhvkLH8m6\nknowledgeinside7@gmail.com\n\n👇 다양한 채널에서 지식인사이드의 지식을 얻고 싶다면 여기를 눌러주세요\n인스타그램: https://www.instagram.com/knowledgeins_kr/\n페이스북: https://www.facebook.com/knowledgeIns7?mibextid=LQQJ4d\n네이버 TV: https://tv.naver.com/purejboy2\n틱톡: https://www.tiktok.com/@allstorieskr?lang=ko-KR\n네이버 카페: https://cafe.naver.com/knowledgeins\n\nCopyright Ⓒ 지식인사이드. All rights reserved.\n\n본 콘텐츠(영상, 이미지, 음성, 대본, 편집물, 썸네일 포함)는 저작권 및 관련 권리의 보호를 받습니다.\n\n저작권자의 사전 승인 없이 복제, 배포, 수정, 재가공, 업로드, AI 학습 및 데이터셋 구축, 2차 저작물 제작(쇼츠·릴스 포함) 등 일체의 상업적 이용 및 수익화를 금지합니다.\n\n📧 콘텐츠 사용 및 협의 문의: knowledgeinside7@gmail.com",
-    "published": "2026-10-21T10:40:48+00:00",
-    "title": "\"기름 한 방울 안 나는데..\" 한국이 마음 먹으면 전 세계 비행기에 생기는 일ㅣ지식인 클래스 EP.32 (박현도 교수)",
-    "video_id": "SrL_gHCp5w0"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "Ss0gxPHU0ZI": {
@@ -4404,6 +4407,21 @@
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-08-14T10:00:15+00:00",
    "status": "baseline"
+  },
+  "VYi5QDBhX60": {
+   "errors": 0,
+   "first_seen": "2026-10-21T11:12:53+00:00",
+   "published": "2026-10-21T10:45:02+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+    "channel_name": "채널 제네시스박",
+    "description": "10/21(수) 라이브 입니다. \n\n📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 죽전 신세계(사우스시티) 세금 특강! + 1:1 현장 질문 (10/24, 토, 오후 2시 30분)\nhttps://m.site.naver.com/2eMlV\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (11/28, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=3&lectCd=0685\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
+    "published": "2026-10-21T10:45:02+00:00",
+    "title": "서울 아파트 월세 50% 처음 돌파! / 매입임대 아파트, 공공에 팔면 추가 세제혜택?",
+    "video_id": "VYi5QDBhX60"
+   },
+   "wait_checks": 0
   },
   "V_UPzeG15ns": {
    "first_seen": "2026-10-09T08:14:32+00:00",
@@ -7360,6 +7378,22 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "qiyrfp3UWjM": {
+   "errors": 0,
+   "first_seen": "2026-10-21T11:12:48+00:00",
+   "last_attempt": "2026-10-21T11:18:43+00:00",
+   "published": "2026-10-21T11:00:17+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "약 64광년 떨어진 외계행성 베타 픽토리스 b에서 온 전파가 처음으로 포착됐습니다.\n\n남아프리카공화국의 전파망원경 배열 MeerKAT으로 전파의 위치와 특성을 분석한 결과, 연구진은 이 신호가 행성의 오로라와 관련된 자연 발생 전파일 가능성을 제시했는데요.\n\n더 놀라운 건 전파의 주파수를 이용해 행성의 자기장까지 추정했다는 것입니다.\n\n64광년 밖 행성의 전파는 어떻게 찾아냈고, 전파 하나로 자기장을 알아낼 수 있었을까요?\n\n이번 영상에서 그 원리를 살펴봅니다.\n\n#외계행성 #외계행성전파 #베타픽토리스b #전파망원경 #자기장 #우주 #천문학 #MeerKAT #오로라 #안될과학 #항성\n\n◆ Thanks to \nEditor : 이재현\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science \n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience\n\n◆ 안될과학 문의\nE-MAIL : MoreScience2018@gmail.com",
+    "published": "2026-10-21T11:00:17+00:00",
+    "title": "64광년 밖 신호 포착? 외계행성이 직접 보낸 전파",
+    "video_id": "qiyrfp3UWjM"
+   },
+   "wait_checks": 0
+  },
   "qjFhI_bGWvc": {
    "errors": 0,
    "first_seen": "2026-10-21T08:23:27+00:00",
@@ -7601,18 +7635,14 @@
    "status": "baseline"
   },
   "sBT4XG5Ak1Q": {
+   "done_at": "2026-10-21T11:13:10+00:00",
    "errors": 0,
    "first_seen": "2026-10-21T10:12:24+00:00",
+   "last_attempt": "2026-10-21T11:12:55+00:00",
+   "notified": "2026-10-21T11:22:07+00:00",
    "published": "2026-10-21T10:00:34+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉https://bit.ly/4ow8KOs\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n“비트코인 충격 전망”, ‘이 때’ 되면 준비하세요\n“지금 개미들만 모르고 있어요”, ‘이때’ 비트코인 난리날 겁니다\n지금 비트코인 모아가세요, ‘이때’ 어마어마한 일 터질 겁니다\n\n☞촬영일: 26년 10월 19일",
-    "published": "2026-10-21T10:00:34+00:00",
-    "title": "“비트코인 충격 전망”, ‘이 때’ 되면 준비하세요 [문창훈 작가 2부]",
-    "video_id": "sBT4XG5Ak1Q"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "sL-TxOwboNw": {
