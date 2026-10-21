@@ -7073,7 +7073,7 @@
   "ns9ZnZfXu0Q": {
    "errors": 0,
    "first_seen": "2026-10-21T12:11:55+00:00",
-   "last_attempt": "2026-10-21T19:39:21+00:00",
+   "last_attempt": "2026-10-21T20:07:01+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-10-21T01:31:12+00:00",
    "status": "pending",
@@ -7085,7 +7085,7 @@
     "title": "배우 설인아 초대석 [궤도의 과학속으로]",
     "video_id": "ns9ZnZfXu0Q"
    },
-   "wait_checks": 8
+   "wait_checks": 9
   },
   "nsGX0AnxdLc": {
    "errors": 0,
