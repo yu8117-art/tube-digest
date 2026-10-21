@@ -552,18 +552,14 @@
    "wait_checks": 0
   },
   "2UiyCATTff8": {
+   "done_at": "2026-10-21T09:47:11+00:00",
    "errors": 0,
    "first_seen": "2026-10-21T09:02:04+00:00",
+   "last_attempt": "2026-10-21T09:42:44+00:00",
+   "notified": "2026-10-21T09:47:38+00:00",
    "published": "2026-10-21T09:00:14+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCXql5C57vS4ogUt6CPEWWHA",
-    "channel_name": "김지윤의 지식Play",
-    "description": "#김병현 #메이저리그 #bk \n\n월드시리즈는 핑계고...\n그냥 BK 초대석\n\n즐거움과 유익함이 가득가득, 김지윤의 지식Play!\nkimjyTV@gmail.com",
-    "published": "2026-10-21T09:00:14+00:00",
-    "title": "월드시리즈는 핑계고... |김병현, 메이저리그, BK",
-    "video_id": "2UiyCATTff8"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "2ZjPRUtdDYc": {
@@ -1218,6 +1214,21 @@
     "published": "2026-10-09T11:00:16+00:00",
     "title": "경기도 살 때 조심해야 하는 것",
     "video_id": "7Q8iay2d4WY"
+   },
+   "wait_checks": 0
+  },
+  "7S_VUQb3NXw": {
+   "errors": 0,
+   "first_seen": "2026-10-21T09:39:22+00:00",
+   "published": "2026-10-21T09:30:15+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
+    "channel_name": "집코노미",
+    "description": "공공분양 청년 특별공급은 혼인 중이 아닌 청년이어야 신청할 수 있습니다. 유주택자인 부모님과 함께 살고 있어도 본인만 주택을 가진 이력이 없으면 됩니다. 다만 모든 공공분양 주택에 청년 특공이 있는 건 아닙니다.\n\n#청년특공 #특별공급 #공공분양 #청약 #내집마련\n\n한국경제신문 구독하기\n📰https://vo.la/N79FE1B\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다\n\n영상의 맥락과 상관없는 비방이나 악의적인 댓글은 예고 없이 삭제됩니다",
+    "published": "2026-10-21T09:30:15+00:00",
+    "title": "2030 싱글은 이렇게 내집마련하세요 | 연수원",
+    "video_id": "7S_VUQb3NXw"
    },
    "wait_checks": 0
   },
@@ -4788,18 +4799,14 @@
    "wait_checks": 0
   },
   "_ENcH60lNJI": {
+   "done_at": "2026-10-21T09:39:38+00:00",
    "errors": 0,
    "first_seen": "2026-10-21T08:23:24+00:00",
+   "last_attempt": "2026-10-21T09:39:27+00:00",
+   "notified": "2026-10-21T09:48:05+00:00",
    "published": "2026-10-21T08:14:43+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCGHG_gTZ780LicZmc-WUVPQ",
-    "channel_name": "유안타증권 - Yuantakorea",
-    "description": "※ 본 영상은 투자자의 투자를 권유로 목적으로 촬영한 것이 아니라 투자자의 투자 판단에 참고가 되는 정보 제공을 목적으로 제작되었습니다.\n※ 해당 영상은 조사분석자료에 기반한 사실이며, 구체적인 자료 내용은 유안타증권 홈페이지에서 열람 가능합니다.\n\n🔔 계좌개설 문의 ☎1588-2600☎\n🔔 플레이 스토어에서 티레이더 APP 다운받기 ☞ https://bit.ly/4e5mgkU\n🔔 유안타증권 홈페이지 ☞ https://www.myasset.com",
-    "published": "2026-10-21T08:14:43+00:00",
-    "title": "삼성E&A : 수주는 이미 초과 달성, 실적도 순항 중",
-    "video_id": "_ENcH60lNJI"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "_EP6R_SwC6Q": {
@@ -6186,18 +6193,14 @@
    "status": "baseline"
   },
   "ilFT75W3mfM": {
+   "done_at": "2026-10-21T09:41:39+00:00",
    "errors": 0,
    "first_seen": "2026-10-21T09:02:06+00:00",
+   "last_attempt": "2026-10-21T09:40:36+00:00",
+   "notified": "2026-10-21T09:48:32+00:00",
    "published": "2026-10-21T08:30:11+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCYgVl2XoMfkvg1BzTFiyOiw",
-    "channel_name": "홈즈 부동산",
-    "description": "홈즈 부동산 밴드(급매 정보, 성남 투자시 필수)\n: https://band.us/band/91293447\n\n홈즈부동산 전화번호*  : 031-752-4984, 010-2082-0826\n(상담 및 매물 접수)\n\n네이버 블로그: https://blog.naver.com/11jhlee1199\n카카오톡 상담 채널: http://pf.kakao.com/_ciEcK\n\n홈즈 부동산 종합 링크 \nhttps://link.inpock.co.kr/homesrealestate\n\n주소: 경기도 성남시 수정구 산성대로 207, 109호(수진역 4번출구)",
-    "published": "2026-10-21T08:30:11+00:00",
-    "title": "전월세 매물 수 보고 깜짝 놀랐습니다… 지금 시장 상황 심각합니다",
-    "video_id": "ilFT75W3mfM"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "iog3op-jFfI": {
@@ -6536,18 +6539,14 @@
    "wait_checks": 0
   },
   "lX9ochUEyM8": {
+   "done_at": "2026-10-21T09:40:36+00:00",
    "errors": 0,
    "first_seen": "2026-10-21T08:23:24+00:00",
+   "last_attempt": "2026-10-21T09:39:38+00:00",
+   "notified": "2026-10-21T09:48:58+00:00",
    "published": "2026-10-21T08:15:52+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCGHG_gTZ780LicZmc-WUVPQ",
-    "channel_name": "유안타증권 - Yuantakorea",
-    "description": "※ 본 영상은 투자자의 투자를 권유로 목적으로 촬영한 것이 아니라 투자자의 투자 판단에 참고가 되는 정보 제공을 목적으로 제작되었습니다.\n※ 해당 영상은 조사분석자료에 기반한 사실이며, 구체적인 자료 내용은 유안타증권 홈페이지에서 열람 가능합니다.\n\n🔔 계좌개설 문의 ☎1588-2600☎\n🔔 플레이 스토어에서 티레이더 APP 다운받기 ☞ https://bit.ly/4e5mgkU\n🔔 유안타증권 홈페이지 ☞ https://www.myasset.com",
-    "published": "2026-10-21T08:15:52+00:00",
-    "title": "삼성물산 : 하이테크 가즈아!",
-    "video_id": "lX9ochUEyM8"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "ld0fBMB_IkM": {
@@ -6802,18 +6801,14 @@
    "status": "baseline"
   },
   "mv8aC3YpgbU": {
+   "done_at": "2026-10-21T09:42:44+00:00",
    "errors": 0,
    "first_seen": "2026-10-21T09:02:06+00:00",
+   "last_attempt": "2026-10-21T09:41:40+00:00",
+   "notified": "2026-10-21T09:49:25+00:00",
    "published": "2026-10-21T09:00:13+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘운명을 바꾸는 부동산 투자수업\n👉http://bit.ly/3tML9k0\n\n2027년 부동산 시장 전망, 내년 집값 심상치 않은 이유\n“경기 인천까지 번졌습니다” 수도권 집값 이제 ‘이렇게’ 됩니다\n전세난보다 무서운 일이 옵니다, 2년 뒤 부동산 시장이 위험한 이유 \n\n☞촬영일: 26년 10월 19일",
-    "published": "2026-10-21T09:00:13+00:00",
-    "title": "집값 2035년까지 오를 겁니다, 지금이라도 집 사야 하는 이유 [심형석 교수 2부]",
-    "video_id": "mv8aC3YpgbU"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "mvX2DW-P7tY": {
@@ -8085,6 +8080,21 @@
     "published": "2026-10-17T03:00:39+00:00",
     "title": "부동산 투자자가 공부하는 법",
     "video_id": "wbLHDxZNsX4"
+   },
+   "wait_checks": 0
+  },
+  "wiLNKyXIAWs": {
+   "errors": 0,
+   "first_seen": "2026-10-21T09:39:27+00:00",
+   "published": "2026-10-21T08:24:53+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+    "channel_name": "언더스탠딩 : 세상의 모든 지식",
+    "description": "제작 지원\n(주) 고래사 / 듀오 주식회사 / 어슈런스(주) / 한화자산운용(주) \n\n▶ https://www.musinsa.com/curator/shop/GyVEuRcF\n*본 링크는 무신사 큐레이터 활동의 일환으로 링크를 통해 구매가 발생할 경우 일정 수수료를 제공 받습니다",
+    "published": "2026-10-21T08:24:53+00:00",
+    "title": "10/21(수) \"주식시장 긴급점검, 떠날 때인가 버틸 때인가\" (이선엽 대표 / AFW파트너스)",
+    "video_id": "wiLNKyXIAWs"
    },
    "wait_checks": 0
   },

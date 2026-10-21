@@ -1,0 +1,42 @@
+{
+ "video": {
+  "video_id": "mv8aC3YpgbU",
+  "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+  "channel_name": "부읽남TV_내집마련부터건물주까지",
+  "title": "집값 2035년까지 오를 겁니다, 지금이라도 집 사야 하는 이유 [심형석 교수 2부]",
+  "published": "2026-10-21T09:00:13+00:00",
+  "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘운명을 바꾸는 부동산 투자수업\n👉http://bit.ly/3tML9k0\n\n2027년 부동산 시장 전망, 내년 집값 심상치 않은 이유\n“경기 인천까지 번졌습니다” 수도권 집값 이제 ‘이렇게’ 됩니다\n전세난보다 무서운 일이 옵니다, 2년 뒤 부동산 시장이 위험한 이유 \n\n☞촬영일: 26년 10월 19일",
+  "url": "https://www.youtube.com/watch?v=mv8aC3YpgbU"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/mv8aC3YpgbU/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1092,
+ "summary": {
+  "headline": "전세난은 2035년까지 이어진다",
+  "thumbnail_text": "집값 2035년까지 오를 겁니다 지금이라도 집 사야 하는 이유",
+  "thumbnail_answer": "공급 부족과 규제로 인해 전세 시장 불안이 장기화될 것이므로 내 집 마련이 유리하다.",
+  "conclusion": "전세 시장은 입주 물량 부족과 규제로 인해 2035년까지 불안이 지속된다. 전세보증금 반환 리스크와 월세 전환 가속화에 대비해 내 집 마련을 서두르는 것이 안전하다. 월세는 장기적으로 주거비 부담이 크므로 전세나 매매를 신중하게 비교해야 한다.",
+  "key_points": [
+   "전세 시장 불안은 빨라도 2035년까지 이어진다.",
+   "서울 등 주요 지역의 전세 수급 지수가 악화되고 있다.",
+   "정부의 규제와 입주 물량 부족이 전세난의 주원인이다.",
+   "대단지 입주 효과는 일시적이며 전체 시장을 안정시키기 어렵다.",
+   "전세 대출 제한 및 보증금 리스크로 월세화가 가속화된다.",
+   "전세 보증보험 가입과 기회비용을 꼼꼼히 따져야 한다."
+  ],
+  "timeline": [],
+  "tags": [
+   "전세시장",
+   "부동산전망",
+   "내집마련",
+   "월세전환",
+   "심형석교수"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 101171,
+   "output_tokens": 375
+  }
+ },
+ "created_at": "2026-10-21T09:42:44+00:00"
+}
