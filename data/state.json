@@ -5874,6 +5874,16 @@
    "published": "2025-02-14T00:17:50+00:00",
    "status": "baseline"
   },
+  "fVpFmJDiZxo": {
+   "done_at": "2026-10-21T11:42:32+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-21T11:42:05+00:00",
+   "last_attempt": "2026-10-21T11:42:11+00:00",
+   "published": "2026-10-21T11:15:05+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "f_4NqeDmfKU": {
    "errors": 0,
    "first_seen": "2026-10-13T12:08:45+00:00",
@@ -8190,15 +8200,7 @@
    "errors": 0,
    "first_seen": "2026-10-21T09:39:27+00:00",
    "published": "2026-10-21T08:24:53+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-    "channel_name": "언더스탠딩 : 세상의 모든 지식",
-    "description": "제작 지원\n(주) 고래사 / 듀오 주식회사 / 어슈런스(주) / 한화자산운용(주) \n\n▶ https://www.musinsa.com/curator/shop/GyVEuRcF\n*본 링크는 무신사 큐레이터 활동의 일환으로 링크를 통해 구매가 발생할 경우 일정 수수료를 제공 받습니다",
-    "published": "2026-10-21T08:24:53+00:00",
-    "title": "10/21(수) \"주식시장 긴급점검, 떠날 때인가 버틸 때인가\" (이선엽 대표 / AFW파트너스)",
-    "video_id": "wiLNKyXIAWs"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "win7PLNvuIA": {
@@ -8362,7 +8364,7 @@
   "y0wQdI1ej_8": {
    "errors": 0,
    "first_seen": "2026-10-21T08:23:30+00:00",
-   "last_attempt": "2026-10-21T08:23:30+00:00",
+   "last_attempt": "2026-10-21T11:42:32+00:00",
    "published": "2026-10-21T07:55:30+00:00",
    "status": "pending",
    "video": {
