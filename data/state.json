@@ -1485,6 +1485,17 @@
    "published": "2026-10-01T11:35:27+00:00",
    "status": "baseline"
   },
+  "8b5Zk_8E0mE": {
+   "done_at": "2026-10-22T08:24:01+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-22T08:18:44+00:00",
+   "last_attempt": "2026-10-22T08:23:16+00:00",
+   "notified": "2026-10-22T08:27:20+00:00",
+   "published": "2026-10-22T08:14:59+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "8f_-xQSCASg": {
    "done_at": "2026-10-21T12:12:30+00:00",
    "errors": 0,
@@ -2530,6 +2541,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "G7NF2nhsdlM": {
+   "errors": 0,
+   "first_seen": "2026-10-22T08:18:45+00:00",
+   "published": "2026-10-22T08:00:14+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
+    "channel_name": "집코노미",
+    "description": "그린벨트에서 자족도시가 되기까지😎\n\n#판교 #판교역 #판교테크노밸리 #신도시 #과거\n\n한국경제신문 구독하기\n📰https://vo.la/N79FE1B\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다",
+    "published": "2026-10-22T08:00:14+00:00",
+    "title": "판교신도시 10년 전 모습",
+    "video_id": "G7NF2nhsdlM"
+   },
+   "wait_checks": 0
+  },
   "G8iYbWStlDc": {
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-08T05:58:47+00:00",
@@ -3084,6 +3110,17 @@
    "first_seen": "2026-10-15T23:31:46+00:00",
    "published": "2026-10-15T23:17:46+00:00",
    "status": "skipped_live",
+   "wait_checks": 0
+  },
+  "KAL-rGQ1UZA": {
+   "done_at": "2026-10-22T08:25:17+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-22T08:18:43+00:00",
+   "last_attempt": "2026-10-22T08:24:01+00:00",
+   "notified": "2026-10-22T08:26:52+00:00",
+   "published": "2026-10-22T08:15:43+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "KDQCs7G6_7Y": {
@@ -4609,6 +4646,17 @@
    "first_seen": "2026-10-09T08:14:33+00:00",
    "published": "2026-10-03T00:29:09+00:00",
    "status": "baseline"
+  },
+  "V2Nz6Ay4vJI": {
+   "done_at": "2026-10-22T08:23:16+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-22T08:18:46+00:00",
+   "last_attempt": "2026-10-22T08:22:10+00:00",
+   "notified": "2026-10-22T08:27:47+00:00",
+   "published": "2026-10-22T08:00:31+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "V3ZQ02Syf5U": {
    "first_seen": "2026-10-09T08:14:37+00:00",
@@ -6276,6 +6324,17 @@
    "published": "2026-08-15T01:00:18+00:00",
    "status": "baseline"
   },
+  "fpTch4A9erE": {
+   "done_at": "2026-10-22T08:22:10+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-22T08:18:48+00:00",
+   "last_attempt": "2026-10-22T08:18:49+00:00",
+   "notified": "2026-10-22T08:28:15+00:00",
+   "published": "2026-10-22T07:55:25+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "g9emu8dbczM": {
    "errors": 0,
    "first_seen": "2026-10-13T22:14:17+00:00",
@@ -6711,6 +6770,17 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "j5ZNBG8MRIo": {
+   "done_at": "2026-10-22T08:25:58+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-22T08:18:43+00:00",
+   "last_attempt": "2026-10-22T08:25:18+00:00",
+   "notified": "2026-10-22T08:26:25+00:00",
+   "published": "2026-10-22T08:16:38+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "j6jAqqMIwYw": {
    "errors": 0,
    "first_seen": "2026-10-21T23:05:09+00:00",
@@ -6813,6 +6883,21 @@
    "published": "2026-10-17T15:55:13+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "jc0uSVh-jL8": {
+   "errors": 0,
+   "first_seen": "2026-10-22T08:18:43+00:00",
+   "published": "2026-10-22T08:17:28+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCGHG_gTZ780LicZmc-WUVPQ",
+    "channel_name": "유안타증권 - Yuantakorea",
+    "description": "※ 본 영상은 투자자의 투자를 권유로 목적으로 촬영한 것이 아니라 투자자의 투자 판단에 참고가 되는 정보 제공을 목적으로 제작되었습니다.\n※ 해당 영상은 조사분석자료에 기반한 사실이며, 구체적인 자료 내용은 유안타증권 홈페이지에서 열람 가능합니다.\n\n🔔 계좌개설 문의 ☎1588-2600☎\n🔔 플레이 스토어에서 티레이더 APP 다운받기 ☞ https://bit.ly/4e5mgkU\n🔔 유안타증권 홈페이지 ☞ https://www.myasset.com",
+    "published": "2026-10-22T08:17:28+00:00",
+    "title": "DL이앤씨 : 플랜트는 아쉽지만, 본업은 여전히 든든하다!",
+    "video_id": "jc0uSVh-jL8"
+   },
    "wait_checks": 0
   },
   "jh4tLSBci2I": {
