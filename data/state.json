@@ -6126,15 +6126,7 @@
    "errors": 0,
    "first_seen": "2026-10-22T11:45:19+00:00",
    "published": "2026-10-22T11:30:50+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-10-22T11:30:50+00:00",
-    "title": "\"결국 손흥민이 문제다?\" 노골적인 기사들 나오기 시작했다 / 브루노 페르난데스 \"캐릭이 압박하지 말라고 했다\"",
-    "video_id": "dItXgPrDR4U"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "dJUIRldvRYg": {
@@ -7206,6 +7198,22 @@
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-09T05:00:08+00:00",
    "status": "baseline"
+  },
+  "kDF2uATFan8": {
+   "errors": 0,
+   "first_seen": "2026-10-22T13:52:52+00:00",
+   "last_attempt": "2026-10-22T13:53:00+00:00",
+   "published": "2026-10-22T13:35:07+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#축구협회 #문진희 #국정감사 #축구",
+    "published": "2026-10-22T13:35:07+00:00",
+    "title": "\"거기는 끼지 마시고\" 당당했던 문진희 심판위원장.. 후배 심판에게 \"계좌로 용돈 보내라\" 녹취 공개되자 잠적",
+    "video_id": "kDF2uATFan8"
+   },
+   "wait_checks": 0
   },
   "kJOAC2wHRtU": {
    "done_at": "2026-10-21T21:09:42+00:00",
