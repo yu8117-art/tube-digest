@@ -769,6 +769,17 @@
    "published": "2026-10-02T12:42:21+00:00",
    "status": "baseline"
   },
+  "4G-Mazu4Tc4": {
+   "done_at": "2026-10-22T11:47:31+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-22T11:45:26+00:00",
+   "last_attempt": "2026-10-22T11:45:26+00:00",
+   "notified": "2026-10-22T11:50:42+00:00",
+   "published": "2026-10-22T11:40:45+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "4GlyvmKWivk": {
    "errors": 0,
    "first_seen": "2026-10-15T10:40:22+00:00",
@@ -2437,6 +2448,21 @@
     "published": "2026-10-15T08:30:11+00:00",
     "title": "전세 만기 6개월 남았다면 \"지금 알아보셔야 된다고 생각합니다\" [제네시스박]",
     "video_id": "EjgwZrcaniI"
+   },
+   "wait_checks": 0
+  },
+  "EmFv8ODelts": {
+   "errors": 0,
+   "first_seen": "2026-10-22T11:45:22+00:00",
+   "published": "2026-10-22T11:34:00+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
+    "channel_name": "지식보관소",
+    "description": "Instagram ID @archiveyoutube\n#Shorts #암흑물질 #우주 #감마선 #왜소은하 #물리학\n\n암흑물질의 단서로 주목받는 감마선 신호는 왜 우리은하와 왜소은하에서 다르게 나타날까요? 암흑물질이 두 상태로 존재하고, 두 상태의 상호작용과 공소멸이 신호를 만든다는 모형을 소개합니다.\n\n이 연구는 암흑물질의 정체를 확정한 발견이 아니라, 은하 환경에 따라 감마선 신호가 달라질 수 있음을 설명하는 이론 모형입니다. 두 상태 사이의 작은 질량 차이와 입자의 운동에너지가 핵심이며, 자세한 논의는 풀영상에서 이어집니다.\n\n참고 연구: dSphobic Dark Matter\nhttps://arxiv.org/abs/2504.12372\n\n원본영상\nhttps://youtu.be/vimw0vHkd9c?si=sxQ9vdQ63OPkfhBJ\n\n------- 본계정(지식보관소) -------\nhttps://www.youtube.com/@지식보관소\n-----------게임 개발 관련-----------\nhttps://asdfg3663-alt.github.io/\n------- 비지니스 문의 -------\nE-Mail : asdfg3663@gmail.com",
+    "published": "2026-10-22T11:34:00+00:00",
+    "title": "암흑물질 자체가 에너지의 상호작용으로 생기는 현상일까 #Shorts",
+    "video_id": "EmFv8ODelts"
    },
    "wait_checks": 0
   },
@@ -6081,6 +6107,21 @@
    "published": "2026-10-07T10:00:10+00:00",
    "status": "baseline"
   },
+  "dItXgPrDR4U": {
+   "errors": 0,
+   "first_seen": "2026-10-22T11:45:19+00:00",
+   "published": "2026-10-22T11:30:50+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-10-22T11:30:50+00:00",
+    "title": "\"결국 손흥민이 문제다?\" 노골적인 기사들 나오기 시작했다 / 브루노 페르난데스 \"캐릭이 압박하지 말라고 했다\"",
+    "video_id": "dItXgPrDR4U"
+   },
+   "wait_checks": 0
+  },
   "dJUIRldvRYg": {
    "done_at": "2026-10-20T13:49:47+00:00",
    "errors": 0,
@@ -6914,7 +6955,7 @@
   "isG56KrsN7o": {
    "errors": 0,
    "first_seen": "2026-10-22T11:14:51+00:00",
-   "last_attempt": "2026-10-22T11:15:04+00:00",
+   "last_attempt": "2026-10-22T11:47:32+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (30:00~42:59)",
    "published": "2026-10-22T11:00:04+00:00",
    "status": "pending",
@@ -6926,7 +6967,7 @@
     "title": "낙동강 넘기만하면 끝이라던 북한군의 비참한 최후ㅣ그날을 보다 EP.49",
     "video_id": "isG56KrsN7o"
    },
-   "wait_checks": 1
+   "wait_checks": 2
   },
   "isGi4LcrTa8": {
    "errors": 0,
