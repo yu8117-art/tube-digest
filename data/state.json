@@ -6981,6 +6981,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "mPs_RWwp-5g": {
+   "errors": 0,
+   "first_seen": "2026-10-22T01:25:02+00:00",
+   "published": "2026-10-22T00:24:45+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
+    "channel_name": "집코노미",
+    "description": "한 주 동안의 부동산 뉴스를 짚어보는 집코노미 타임즈 라이브입니다. 이번주엔 ①한국은행의 기준금리 결정과 ②법원경매 ③전세 보증금 등 한국경제신문의 주요 기사를 짚어봅니다.\n\n#금리 #월세 #전세 #경매 #대출\n\n한국경제신문 구독하기\n📰https://vo.la/N79FE1B\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다\n\n영상의 맥락과 상관없는 비방이나 악의적인 댓글은 예고 없이 삭제됩니다",
+    "published": "2026-10-22T00:24:45+00:00",
+    "title": "전고점 뚫은 전셋값 | 집코노미 타임즈 | 부동산뉴스 총정리",
+    "video_id": "mPs_RWwp-5g"
+   },
+   "wait_checks": 0
+  },
   "mZ22ca3OCYc": {
    "done_at": "2026-10-17T10:35:13+00:00",
    "errors": 0,
@@ -7203,7 +7218,7 @@
   "ns9ZnZfXu0Q": {
    "errors": 0,
    "first_seen": "2026-10-21T12:11:55+00:00",
-   "last_attempt": "2026-10-22T00:48:59+00:00",
+   "last_attempt": "2026-10-22T01:25:38+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-10-21T01:31:12+00:00",
    "status": "pending",
@@ -7215,7 +7230,7 @@
     "title": "배우 설인아 초대석 [궤도의 과학속으로]",
     "video_id": "ns9ZnZfXu0Q"
    },
-   "wait_checks": 18
+   "wait_checks": 19
   },
   "nsGX0AnxdLc": {
    "errors": 0,
@@ -8111,6 +8126,17 @@
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-06T07:42:37+00:00",
    "status": "baseline"
+  },
+  "u45Ad00wjvA": {
+   "done_at": "2026-10-22T01:25:37+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-22T01:25:00+00:00",
+   "last_attempt": "2026-10-22T01:25:07+00:00",
+   "notified": "2026-10-22T01:26:35+00:00",
+   "published": "2026-10-22T01:10:05+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "u68ctJ1RAfo": {
    "errors": 0,
