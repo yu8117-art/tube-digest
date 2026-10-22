@@ -1,0 +1,78 @@
+{
+ "video": {
+  "video_id": "0iwSgfzb01o",
+  "channel_id": "UCXql5C57vS4ogUt6CPEWWHA",
+  "channel_name": "김지윤의 지식Play",
+  "title": "[스페셜 Clip] 소시지 전문가(?) BK네 독일 음식! 내돈내산 먹방",
+  "published": "2026-10-22T09:47:38+00:00",
+  "description": "#김병현 #독일음식 #먹방\n\n소시지 전문가(?) 김병현 선수 가게에서 소시지 먹방\n그런데 슈니첼을 곁들인\n\n즐거움과 유익함이 가득가득, 김지윤의 지식Play!\nkimjyTV@gmail.com",
+  "url": "https://www.youtube.com/watch?v=0iwSgfzb01o"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/0iwSgfzb01o/maxresdefault.jpg",
+ "source": "video",
+ "duration": 261,
+ "summary": {
+  "headline": "김병현 가게의 독일식 소시지와 요리 먹방",
+  "thumbnail_text": "BK와 독일 음식, 맛있게 먹겠습니다",
+  "thumbnail_answer": "소시지와 슈바인학센, 수제 소시지 부대찌개 등 다채로운 독일식 요리를 맛있게 즐긴다.",
+  "conclusion": "김병현의 가게에서 만든 다양한 독일식 소시지와 슈바인학센, 독창적인 슈니첼을 맛본다. 잡내 없이 깔끔하고 깊은 풍미를 자랑하며 출연진 모두 감탄한다.",
+  "key_points": [
+   "카바노치, 복부어스트, 초리조, 뉘른베르거 등 다양한 독일식 소시지 소개",
+   "고급 햄과 소시지가 듬뿍 들어간 수제 소시지 부대찌개",
+   "독일 슈니첼을 한국식 돈카스 스타일로 두껍게 재해석한 '슈돈'",
+   "겉바속촉과 껍질의 식감이 일품인 독일식 돼지고기 다리구이 '슈바인학센'",
+   "음식 전반에 과하지 않고 적절하게 밴 '염지'가 핵심 노하우"
+  ],
+  "timeline": [
+   {
+    "seconds": 5,
+    "title": "독일 소시지 종류 소개",
+    "points": [
+     "카바노치, 복부어스트, 초리조, 뉘른베르거의 특징 설명"
+    ]
+   },
+   {
+    "seconds": 33,
+    "title": "수제 소시지 부대찌개",
+    "points": [
+     "햄과 소시지 위주로 풍성하게 들어간 고급 부대찌개"
+    ]
+   },
+   {
+    "seconds": 56,
+    "title": "슈니첼과 슈바인학센",
+    "points": [
+     "슈니첼과 돈카스를 합친 두툼한 '슈돈' 소개",
+     "독일식 돼지 다리구이 슈바인학센 등장"
+    ]
+   },
+   {
+    "seconds": 130,
+    "title": "슈바인학센 먹방",
+    "points": [
+     "사워크라우트와 함께 먹는 슈바인학센의 맛 평가"
+    ]
+   },
+   {
+    "seconds": 211,
+    "title": "소시지 시식 및 평가",
+    "points": [
+     "자극적이지 않고 짜지 않아 어르신들도 좋아하는 소시지 맛"
+    ]
+   }
+  ],
+  "tags": [
+   "김병현",
+   "독일음식",
+   "소시지",
+   "슈바인학센",
+   "슈니첼"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 25450,
+   "output_tokens": 741
+  }
+ },
+ "created_at": "2026-10-22T10:15:32+00:00"
+}
