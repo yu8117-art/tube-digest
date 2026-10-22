@@ -1478,6 +1478,21 @@
    },
    "wait_checks": 0
   },
+  "80lzZ9CdgJc": {
+   "errors": 0,
+   "first_seen": "2026-10-22T12:21:13+00:00",
+   "published": "2026-10-22T12:00:01+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/",
+    "published": "2026-10-22T12:00:01+00:00",
+    "title": "\"이강인 없으니 패스 퀄리티 떨어진다\" AT마드리드에서 이강인이 핵심으로 평가받는 이유",
+    "video_id": "80lzZ9CdgJc"
+   },
+   "wait_checks": 0
+  },
   "85PlYho9mHQ": {
    "first_seen": "2026-10-09T08:14:33+00:00",
    "published": "2026-10-08T07:46:34+00:00",
@@ -6953,20 +6968,15 @@
    "wait_checks": 0
   },
   "isG56KrsN7o": {
+   "done_at": "2026-10-22T12:23:50+00:00",
    "errors": 0,
    "first_seen": "2026-10-22T11:14:51+00:00",
-   "last_attempt": "2026-10-22T11:47:32+00:00",
+   "last_attempt": "2026-10-22T12:21:22+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (30:00~42:59)",
+   "notified": "2026-10-22T12:24:17+00:00",
    "published": "2026-10-22T11:00:04+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCoCvTlU0KpNYwnMIgs7MPrA",
-    "channel_name": "보다 BODA",
-    "description": "오늘은 MC 허준님과 군사 전문 이세환 기자님 그리고 윤영휘 교수님을 모시고, 6·25전쟁 당시 북한군의 거센 공세에 밀려 대한민국의 운명이 걸린 마지막 방어선, 낙동강에서 벌어진 치열한 사투에 대해 이야기 나눠봤습니다.\n\n00:00 오프닝\n04:13 [D-42] 한 달 만에 한반도 끝까지 밀린 대한민국\n11:58 [D-DAY] 낙동강 방어선 전투 시작\n18:36 [D+8] 하루에도 몇 번씩 주인이 바뀌는 전선\n27:16 [D+26] 이제는 사활을 걸고 쏟아붓는 북한군\n32:33 [D+41] 한 방에 북한을 무너뜨린 인천상륙작전\n\n📘〈그날을 보다〉가 한 권의 책으로 다시 태어납니다! 🥳🎉\n출간 기념 초판 한정으로 이세환·윤영휘·허준·짱재 저자 4인의 친필 사인 인쇄본을 만나보실 수 있습니다!🖋️\n\n📗교보문고: https://linkly.link/2xjUm\n📕예스24: https://linkly.link/2xjVA\n📙알라딘: https://linkly.link/2xjVT\n\n📚『세계사를 바꾼 그날』 예약판매 OPEN! 🥳🎉(예약판매 기간-2026.10.21~11.05)\n〈그날을 보다〉에서 다뤄온 전쟁과 작전의 순간들을 한 권의 책으로 확장했습니다.\n결정적인 ‘그날’만이 아니라, 그날에 이르기까지 어떤 선택과 오판이 있었고 그 이후 역사가 어떻게 달라졌는지를 함께 살펴봅니다.\n\n2026년 11월 6일 정식 출간!!\n\n궁금하신 부분들을 댓글에 달아주세요! 저희가 확인하겠습니다! 감사합니다!\n출연 및 제휴 문의 : boooda.kr@gmail.com\n\n BODA 인스타 : / boda_channel\n#보다 #낙동강방어선 #낙동강전투 #6.25전쟁 #한국전쟁",
-    "published": "2026-10-22T11:00:04+00:00",
-    "title": "낙동강 넘기만하면 끝이라던 북한군의 비참한 최후ㅣ그날을 보다 EP.49",
-    "video_id": "isG56KrsN7o"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 2
   },
   "isGi4LcrTa8": {
