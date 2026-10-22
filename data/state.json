@@ -1349,6 +1349,21 @@
    "published": "2026-09-29T08:07:42+00:00",
    "status": "baseline"
   },
+  "7Zv4DWCbb1w": {
+   "errors": 0,
+   "first_seen": "2026-10-22T06:10:13+00:00",
+   "published": "2026-10-22T06:00:27+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "담배를 끊으면 우리 몸은 언제부터 달라질까요? 금연하고 20분만 지나도 심박수와 혈압이 떨어지기 시작합니다.\n\n12시간이 지나면 혈중 일산화탄소 수치가 정상 수준으로 내려가고, 니코틴이 심박수와 혈압을 올리고 혈관을 수축시키던 급성 효과도 줄어들기 시작합니다. \n\n2주에서 12주가 지나면 혈액순환이 좋아지고 폐 기능도 개선되기 시작하는데요. 시간이 지날수록 심혈관 질환 위험도 계속 낮아집니다. \n\n금연 시간이 쌓일수록 몸이 회복되는 과정이 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#금연 #금연효과 #담배끊기 #니코틴 #노담 #노담소셜클럽 #노담사이언스클럽 #궤도 #안될과학 #과학유튜브",
+    "published": "2026-10-22T06:00:27+00:00",
+    "title": "담배 끊고 20분 만에 몸에서 시작되는 변화",
+    "video_id": "7Zv4DWCbb1w"
+   },
+   "wait_checks": 0
+  },
   "7fWNdH8I-Ho": {
    "errors": 0,
    "first_seen": "2026-10-18T08:37:42+00:00",
@@ -3019,6 +3034,21 @@
     "published": "2026-10-20T11:00:22+00:00",
     "title": "최근 현대차 AI 근황",
     "video_id": "Jl3Iiz160Ds"
+   },
+   "wait_checks": 0
+  },
+  "JqWXVw8hB0w": {
+   "errors": 0,
+   "first_seen": "2026-10-22T06:10:22+00:00",
+   "published": "2026-10-22T06:00:37+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+    "channel_name": "조코딩 JoCoding",
+    "description": "조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418\nAX 컨설팅 및 교육 문의: https://jocodingax.ai\n조코헌트: https://jocohunt.jocoding.io/\n\nVVIP 멤버십 후원\n그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#ai #취업 #구직난 #취뽀 #취준",
+    "published": "2026-10-22T06:00:37+00:00",
+    "title": "신입이 취업 못 하는 진짜 이유는 따로 있다??",
+    "video_id": "JqWXVw8hB0w"
    },
    "wait_checks": 0
   },
