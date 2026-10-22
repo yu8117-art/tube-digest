@@ -1,0 +1,91 @@
+{
+ "video": {
+  "video_id": "UigvLyH80sg",
+  "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+  "channel_name": "안될과학 Unrealscience",
+  "title": "정말 AI가 100년 묵은 유체역학 난제를 풀었을까? OpenAI가 공개한 논문의 진실",
+  "published": "2026-10-22T11:00:32+00:00",
+  "description": "지난 9월 8일 OpenAI가 100년 된 난제 나비에-스토크스 방정식을 풀어냈다는 소식에 전 세계가 들썩였습니다.\nAI는 정말 나비에-스토크스 방정식을 전부 해결한 걸까요?\n유체역학 전문가 민태기 박사님과 이번 발표가 완벽한 해결이 아닌 이유에 대해 알아봅니다.\nAI가 제시한 해법의 실체는 무엇이며, 왜 현실의 모든 유체역학을 해결했다고 볼 수 없는지.\n싱크대의 수력도약부터 Open AI가 제시한 논문의 진짜 팩트 속으로 유체역학 전문가 민태기 박사님과 함께 하시죠!\n\n\n #나비에스토크스 #유체역학 #OpenAI #밀레니엄난제 #AI수학 #비압축성 #수력도약 #물리학 #수학난제 #안될과학 #민태기 #랩미팅\n\n◆ Thanks to \nEditor : 김소라\nStudio : 서울스트리밍스테이션\nGuest : S&H 연구소 민태기 박사\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science \n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience\n\n◆ 안될과학 문의\nE-MAIL : MoreScience2018@gmail.com",
+  "url": "https://www.youtube.com/watch?v=UigvLyH80sg"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/UigvLyH80sg/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1447,
+ "summary": {
+  "headline": "OpenAI의 나비에-스토크스 방정식 발표, 과연 진실일까?",
+  "thumbnail_text": "AI가 이걸 진자로 풀었다는 건...\nAI가 인류 최대 난제를 풀었다?! OpenAI 발표의 숨겨진 진실",
+  "thumbnail_answer": "AI가 나비에-스토크스 방정식을 완벽히 푼 것은 아니며, 밀레니엄 문제와 관련된 매우 제한된 조건의 일부만 다룬 것이다.",
+  "conclusion": "OpenAI가 발표한 나비에-스토크스 방정식 관련 논문은 인류 최대 난제의 완전한 해결이 아니다. 이는 유체역학 중 비압축성 유동과 외력이 없는 특정 조건에 대한 제한적인 증명일 뿐이다. 따라서 AI가 유체역학 전체를 해결했다고 보는 것은 과장이다.",
+  "key_points": [
+   "OpenAI가 722개의 수학 난제 관련 논문을 발표하며 화제가 되었다.",
+   "나비에-스토크스 방정식은 유체의 운동을 기술하는 대표적인 방정식이다.",
+   "이번 OpenAI 발표는 비압축성 조건과 외력이 없는 제한적인 상황에 대한 증명이다.",
+   "유체역학에서는 밀도를 고정하는 비압축성 가정을 흔히 사용한다.",
+   "일상에서 흔히 보는 싱크대 물줄기의 수력도약 등은 여전히 복잡한 영역이다.",
+   "라이프니츠의 도약 불허 믿음과 달리 실제 유체에서는 다양한 도약 현상이 발생한다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "오프닝",
+    "points": [
+     "애니메이션 구현에 쓰인 수학과 아카데미상 수상 이야기",
+     "오늘의 주제인 OpenAI의 수학 난제 발표 소개"
+    ]
+   },
+   {
+    "seconds": 256,
+    "title": "OpenAI 발표의 실체",
+    "points": [
+     "나비에-스토크스 방정식의 '매끄로운 해' 유지 여부 이슈",
+     "특정 외력을 주면 속도가 무한히 발산하는 해 제시"
+    ]
+   },
+   {
+    "seconds": 401,
+    "title": "나비에-스토크스 방정식 파헤치기",
+    "points": [
+     "방정식의 구성 요소인 밀도, 압력, 점도, 외력 설명",
+     "현실 세계를 반영할 때 비압축성 가정을 하는 이유"
+    ]
+   },
+   {
+    "seconds": 737,
+    "title": "밀레니엄 문제의 조건",
+    "points": [
+     "밀레니엄 문제에서 다루는 비압축성 나비에-스토크스 방정식의 A, B, C, D 조건",
+     "외력이 없는 상태와 외력이 있는 상태의 차이"
+    ]
+   },
+   {
+    "seconds": 1210,
+    "title": "매끄러운 해와 불연속",
+    "points": [
+     "1887년 에른스트 마흐의 충격파 촬영 사진",
+     "자연은 도약을 허용하지 않는다는 19세기 믿음과 실제 현상"
+    ]
+   },
+   {
+    "seconds": 1378,
+    "title": "싱크대 수력도약과 Froude 수",
+    "points": [
+     "일상에서 보는 수력도약(Hydraulic Jump) 현상",
+     "상사법칙과 푸르드 수의 중요성"
+    ]
+   }
+  ],
+  "tags": [
+   "나비에스토크스",
+   "유체역학",
+   "OpenAI",
+   "밀레니엄난제",
+   "수력도약"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 133658,
+   "output_tokens": 1080
+  }
+ },
+ "created_at": "2026-10-22T11:21:50+00:00"
+}
