@@ -8404,6 +8404,17 @@
    "published": "2026-09-04T08:45:06+00:00",
    "status": "baseline"
   },
+  "uV89Lax1uGs": {
+   "done_at": "2026-10-22T05:37:16+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-22T05:36:55+00:00",
+   "last_attempt": "2026-10-22T05:37:02+00:00",
+   "notified": "2026-10-22T05:37:43+00:00",
+   "published": "2026-10-22T05:10:27+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "uVPI0vjGfMg": {
    "done_at": "2026-10-14T22:16:21+00:00",
    "errors": 0,
