@@ -1,0 +1,39 @@
+{
+ "video": {
+  "video_id": "ns9ZnZfXu0Q",
+  "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+  "channel_name": "안될과학 Unrealscience",
+  "title": "배우 설인아 초대석 [궤도의 과학속으로]",
+  "published": "2026-10-21T01:31:12+00:00",
+  "description": "◆신상 누리호 항공점퍼, 누리호 뱃지, 포스터, 누리호 텀블러\nhttps://smartstore.naver.com/morescience/search?q=누리호\n\n◆ 모어사이언스 신상 굿즈 구경하러 가기!\nhttps://smartstore.naver.com/morescience\n\n◆『우리는 어쩌다 과학을 믿게 되었을까?』\n예스24 https://t.ly/E0es4\n알라딘 https://t.ly/WpoQt\n교보문고 https://t.ly/0g_Yd",
+  "url": "https://www.youtube.com/watch?v=ns9ZnZfXu0Q"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/ns9ZnZfXu0Q/hqdefault.jpg",
+ "source": "metadata",
+ "duration": null,
+ "summary": {
+  "headline": "배우 설인아와 함께한 과학 속으로",
+  "thumbnail_text": "배우 설인아 초대석 [궤도의 과학속으로]",
+  "thumbnail_answer": "영상 본문을 직접 분석하지 못해 상세한 과학 주제에 대한 답은 확인할 수 없다.",
+  "conclusion": "제목, 설명란, 썸네일 정보만을 활용하여 요약했으며 영상의 구체적인 내용은 확인할 수 없다.",
+  "key_points": [
+   "안될과학 채널에 배우 설인아가 출연했다.",
+   "궤도의 과학속으로 코너가 진행됐다.",
+   "구체적인 과학 토론 내용은 스크립트 부재로 알 수 없다.",
+   "설명란에는 굿즈 판매처와 도서 정보가 기재되어 있다."
+  ],
+  "timeline": [],
+  "tags": [
+   "설인아",
+   "궤도",
+   "안될과학",
+   "과학속으로"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 754,
+   "output_tokens": 229
+  }
+ },
+ "created_at": "2026-10-22T01:58:54+00:00"
+}
