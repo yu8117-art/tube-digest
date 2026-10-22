@@ -2493,7 +2493,7 @@
   "Fjl2CMMHCx8": {
    "errors": 0,
    "first_seen": "2026-10-22T09:03:42+00:00",
-   "last_attempt": "2026-10-22T09:04:08+00:00",
+   "last_attempt": "2026-10-22T09:42:41+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (30:00~44:11)",
    "published": "2026-10-22T09:00:00+00:00",
    "status": "pending",
@@ -2505,7 +2505,7 @@
     "title": "세상 모든 문화와 예술에는 이유가 있다 - 문화예술 몰아보기 1편",
     "video_id": "Fjl2CMMHCx8"
    },
-   "wait_checks": 1
+   "wait_checks": 2
   },
   "Fu3tgSonpfE": {
    "first_seen": "2026-10-09T08:14:38+00:00",
@@ -3492,18 +3492,14 @@
    "status": "baseline"
   },
   "ML4Dicv7kQ4": {
+   "done_at": "2026-10-22T09:41:36+00:00",
    "errors": 0,
    "first_seen": "2026-10-22T09:03:44+00:00",
+   "last_attempt": "2026-10-22T09:40:44+00:00",
+   "notified": "2026-10-22T09:44:45+00:00",
    "published": "2026-10-22T09:00:39+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n삼전 닉스 지금 안 팔고 버티면 장기적으로 '이렇게' 될 겁니다\n30만 전자, 200만 닉스 이젠 끝났다? 정말 솔직하게 말씀드릴게요\n삼전닉스 지금이라도 팔까? \"정말 솔직하게 말씀드릴게요\"\n\n☞촬영일: 26년 10월 21일",
-    "published": "2026-10-22T09:00:39+00:00",
-    "title": "삼전 닉스 지금 안 팔고 버티면 장기적으로 '이렇게' 될 겁니다 [강관우 대표 1부]",
-    "video_id": "ML4Dicv7kQ4"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "M_Y0jE9P8wE": {
@@ -5847,6 +5843,17 @@
    "published": "2026-09-21T10:43:39+00:00",
    "status": "baseline"
   },
+  "cOxVmJaQyvo": {
+   "done_at": "2026-10-22T09:42:41+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-22T09:40:40+00:00",
+   "last_attempt": "2026-10-22T09:41:36+00:00",
+   "notified": "2026-10-22T09:45:12+00:00",
+   "published": "2026-10-22T09:30:26+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "cR0xMeY7rPc": {
    "article_url": "https://yu8117-art.github.io/tube-digest/a/cR0xMeY7rPc.html",
    "done_at": "2026-10-11T03:57:21+00:00",
@@ -7403,6 +7410,21 @@
    "published": "2026-10-17T10:20:55+00:00",
    "source": "video_notes",
    "status": "done",
+   "wait_checks": 0
+  },
+  "mZAV-ebRTWg": {
+   "errors": 0,
+   "first_seen": "2026-10-22T09:40:44+00:00",
+   "published": "2026-10-22T08:27:11+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+    "channel_name": "언더스탠딩 : 세상의 모든 지식",
+    "description": "제작 지원\n(주) 고래사 / 듀오 주식회사 / 어슈런스(주) / 한화자산운용(주) \n\n▶ https://www.musinsa.com/curator/shop/GyVEuRcF\n*본 링크는 무신사 큐레이터 활동의 일환으로 링크를 통해 구매가 발생할 경우 일정 수수료를 제공 받습니다",
+    "published": "2026-10-22T08:27:11+00:00",
+    "title": "Live on 10/22(목) 히틀러에 열광한 이유 국민에 돈 퍼줬다 (최준영 박사 / 법무법인 율촌)",
+    "video_id": "mZAV-ebRTWg"
+   },
    "wait_checks": 0
   },
   "ma8n3xSxxx0": {
