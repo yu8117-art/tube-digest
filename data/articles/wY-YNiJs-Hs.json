@@ -1,0 +1,75 @@
+{
+ "video": {
+  "video_id": "wY-YNiJs-Hs",
+  "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+  "channel_name": "에스오디 SOD",
+  "title": "\"이런 적은 없었다\" 라이벌 삼성·TSMC 초유의 협업, 한국 반도체 운명 걸렸다 ㄷㄷ",
+  "published": "2026-10-22T09:00:16+00:00",
+  "description": "삼성전자와 TSMC가 협업할지도 모른다는 소식입니다.\n엔비디아의 영향력은 두 라이벌 조차 손잡게 만들 정도인 걸까요?\n\n- 하이젠버그에서 더 자세한 정보를 얻어가세요: https://heisenberg.kr\n\n- 인스타그램: https://www.instagram.com/softdragon__/\n\n- Chapter\n0:00 인트로\n1:10 베이스다이\n5:42 NVHBM\n10:18 앞으로의 미래\n\n- 내용 출처\n1. 붉은실, \"HBM5 발열 전쟁, 삼성전자가 SK하이닉스를 역전할 기회\", 하이젠버그, 2026\n2. 이석진, \"[단독] 삼성전자, '차세대 HBM' TSMC와 함께 만든다\", 서울경제, 2026\n3. Jesse Clayton, \"NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory\", NVIDIA Blog, 2026\n4. Farshad Ghodsian·Jesse Clayton·Varun Nanda Kumar, \"NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure\", NVIDIA Technical Blog, 2026\n5. Patrick Kennedy, \"Samsung Evolving HBM Base Die at Hot Chips 2026\", ServeTheHome, 2026\n6. 김세훈, \"SK하이닉스, 발열 잡는 'iHBM' 기술 공개···열저항 30%↓\", 경향신문, 2026\n7. 박지영·이정완, \"[단독] SK하이닉스, 차세대 HBM '베이스 다이' 인텔에도 맡긴다\", 헤럴드경제, 2026\n8. 삼성전자 반도체 뉴스룸(구자흠 파운드리사업부 기술개발실장 인터뷰), \"HBM 성공의 또 다른 주역, 삼성 파운드리가 열어갈 AI 혁신\", 삼성전자 반도체 뉴스룸, 2026\n9. 이명신, \"HBM4 주도권 굳히기…SK하닉, 엔비디아 물량 2/3 확보\", 뉴스토마토, 2026\n10. 박지영, \"베일 벗은 SK하이닉스 HBM4E…차세대 HBM 본격 경쟁 막올랐다\", 헤럴드경제, 2026\n11. 배태용, \"HBM의 숨은 열쇠 '베이스 다이'…삼성·SK·마이크론이 다른 길을 택한 이유 [소부장반차장]\", 디지털데일리, 2025\n\n- BGM\n1. Beyond the Frame - Creative Cut - Sped Up by lumine wave\n2. The Explorer by Stephen Keech\n3. Solution by Romeo\n4. Rise Above By lumine wave\n5. Chasing Copper Skies by Semo\n6. liminal by kevin graham",
+  "url": "https://www.youtube.com/watch?v=wY-YNiJs-Hs"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/wY-YNiJs-Hs/maxresdefault.jpg",
+ "source": "video",
+ "duration": 876,
+ "summary": {
+  "headline": "삼성·TSMC 초유의 협업과 엔비디아의 HBM 패권 장악",
+  "thumbnail_text": "삼성·TSMC 손잡는다 엔비디아 폭탄 선언",
+  "thumbnail_answer": "엔비디아가 차세대 HBM 베이스 다이 제작을 TSMC에 맡기도록 요구하면서, 앙숙인 삼성전자와 TSMC의 초유의 협업 가능성이 제기된다.",
+  "conclusion": "엔비디아의 막강한 영향력으로 인해 HBM 설계와 제조의 주도권이 빅테크 기업으로 이동하고 있다. 삼성과 SK하이닉스는 베이스 다이 제조 방식을 두고 서로 다른 전략을 택하며 치열한 경쟁을 벌이고 있다. 향후 메모리 반도체 시장의 승패는 단순한 메모리 성능을 넘어 설계 및 제조 주도권을 누가 쥐느냐에 달려 있다.",
+  "key_points": [
+   "삼성전자와 TSMC가 엔비디아의 차세대 HBM 베이스 다이 제작을 위해 협업한다는 소식이 전해졌다.",
+   "엔비디아는 GPU에 있던 메모리 컨트롤러를 HBM 베이스 다이로 옮기는 NVHBM 방식을 추진한다.",
+   "HBM4부터는 데이터 통로가 두 배로 넓어지고 복잡한 회로가 들어가며 베이스 다이에 로직 공정이 도입된다.",
+   "삼성은 자체 3나노 공정으로 베이스 다이를 만들어 HBM4를 출하했으나, SK하이닉스는 TSMC와 손을 잡았다.",
+   "수많은 회로가 좁은 공간에 집적되면서 심각한 발열 문제가 발생하며, 삼성과 하이닉스는 각기 다른 해결책을 제시한다.",
+   "엔비디아가 맞춤형 HBM인 NVHBM을 요구하면서 메모리 반도체 기업들의 독자적 설계 영역이 줄어들고 있다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "인트로",
+    "points": [
+     "삼성전자와 TSMC의 초유의 협업 소식과 반도체 업계의 지각변동을 다룬다."
+    ]
+   },
+   {
+    "seconds": 70,
+    "title": "베이스다이",
+    "points": [
+     "HBM의 구조와 베이스 다이의 역할 변화를 설명한다.",
+     "HBM4부터 데이터 전송 속도와 회로 복잡도가 증가하면서 로직 공정 도입의 필요성을 강조한다."
+    ]
+   },
+   {
+    "seconds": 342,
+    "title": "NVHBM",
+    "points": [
+     "엔비디아가 메모리 컨트롤러를 HBM 베이스 다이로 이동시키는 NVHBM 전략을 발표한다.",
+     "삼성과 SK하이닉스가 베이스 다이 제조를 두고 각기 다른 전략을 취하는 배경을 분석한다."
+    ]
+   },
+   {
+    "seconds": 618,
+    "title": "앞으로의 미래",
+    "points": [
+     "차세대 HBM의 심각한 발열 문제와 이에 대응하는 삼성과 하이닉스의 냉각 기술을 비교한다.",
+     "메모리 반도체 시장에서 설계와 제조 주도권 확보의 중요성을 정리한다."
+    ]
+   }
+  ],
+  "tags": [
+   "삼성전자",
+   "TSMC",
+   "SK하이닉스",
+   "엔비디아",
+   "HBM",
+   "반도체파운드리"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 82004,
+   "output_tokens": 833
+  }
+ },
+ "created_at": "2026-10-22T09:07:11+00:00"
+}
