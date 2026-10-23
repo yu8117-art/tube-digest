@@ -541,6 +541,21 @@
    "published": "2026-08-05T11:00:09+00:00",
    "status": "baseline"
   },
+  "20WSmY9wVm0": {
+   "errors": 0,
+   "first_seen": "2026-10-23T12:06:58+00:00",
+   "published": "2026-10-23T12:00:20+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/",
+    "published": "2026-10-23T12:00:20+00:00",
+    "title": "“손흥민을 뒤에서 ‘그 7번’으로 불렀다“ 국대 내부갈등 폭로 또 나왔다..",
+    "video_id": "20WSmY9wVm0"
+   },
+   "wait_checks": 0
+  },
   "23MK8riMljY": {
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-10-06T04:49:43+00:00",
