@@ -408,6 +408,21 @@
    "published": "2026-09-29T13:00:41+00:00",
    "status": "baseline"
   },
+  "1CQbWvGkcdc": {
+   "errors": 0,
+   "first_seen": "2026-10-23T10:01:24+00:00",
+   "published": "2026-10-23T08:30:34+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+    "channel_name": "언더스탠딩 : 세상의 모든 지식",
+    "description": "제작 지원\n(주) 고래사 / 듀오 주식회사 / 어슈런스(주) / 한화자산운용(주) \n\n▶ https://www.musinsa.com/curator/shop/GyVEuRcF\n*본 링크는 무신사 큐레이터 활동의 일환으로 링크를 통해 구매가 발생할 경우 일정 수수료를 제공 받습니다",
+    "published": "2026-10-23T08:30:34+00:00",
+    "title": "10/23(금) 주택공급, 주차장에 달렸습니다 (장순원 기자 / 언더스탠딩)",
+    "video_id": "1CQbWvGkcdc"
+   },
+   "wait_checks": 0
+  },
   "1Ca5zN_W4-k": {
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-10-03T11:00:39+00:00",
@@ -3800,6 +3815,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "Mzs_PAPRZTE": {
+   "done_at": "2026-10-23T10:05:14+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-23T10:01:13+00:00",
+   "last_attempt": "2026-10-23T10:02:45+00:00",
+   "notified": "2026-10-23T10:08:23+00:00",
+   "published": "2026-10-23T10:00:02+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "N0B6uLEGRjM": {
    "done_at": "2026-10-20T07:47:49+00:00",
    "errors": 0,
@@ -3855,6 +3881,17 @@
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-08-24T09:30:48+00:00",
    "status": "baseline"
+  },
+  "NKXBhEXdhYA": {
+   "done_at": "2026-10-23T10:07:56+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-23T10:01:22+00:00",
+   "last_attempt": "2026-10-23T10:06:55+00:00",
+   "notified": "2026-10-23T10:10:11+00:00",
+   "published": "2026-10-23T10:00:35+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "NOLY6CuYLo0": {
    "first_seen": "2026-10-09T08:14:39+00:00",
@@ -4567,6 +4604,17 @@
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-08-29T14:42:45+00:00",
    "status": "baseline"
+  },
+  "SeB3eBg6t68": {
+   "done_at": "2026-10-23T10:06:55+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-23T10:01:18+00:00",
+   "last_attempt": "2026-10-23T10:05:14+00:00",
+   "notified": "2026-10-23T10:09:44+00:00",
+   "published": "2026-10-23T10:00:21+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
   },
   "Sh14nUq0mWE": {
    "first_seen": "2026-10-09T08:14:40+00:00",
@@ -5521,6 +5569,17 @@
    "notified": "2026-10-15T11:40:18+00:00",
    "published": "2026-10-15T10:20:12+00:00",
    "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "Z8eXd6gQmvA": {
+   "done_at": "2026-10-23T10:01:45+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-23T10:01:18+00:00",
+   "last_attempt": "2026-10-23T10:01:25+00:00",
+   "notified": "2026-10-23T10:09:17+00:00",
+   "published": "2026-10-23T09:30:37+00:00",
+   "source": "video",
    "status": "done",
    "wait_checks": 0
   },
@@ -9842,6 +9901,17 @@
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-10-02T09:30:01+00:00",
    "status": "baseline"
+  },
+  "yQMjy-irSnw": {
+   "done_at": "2026-10-23T10:02:45+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-23T10:01:17+00:00",
+   "last_attempt": "2026-10-23T10:01:45+00:00",
+   "notified": "2026-10-23T10:08:50+00:00",
+   "published": "2026-10-23T09:45:14+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "yTz1y3uW-yo": {
    "first_seen": "2026-10-09T08:14:32+00:00",
