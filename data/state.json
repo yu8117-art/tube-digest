@@ -5657,6 +5657,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "_Ri9M3EJZBM": {
+   "done_at": "2026-10-23T09:01:26+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-23T09:00:01+00:00",
+   "last_attempt": "2026-10-23T09:00:26+00:00",
+   "notified": "2026-10-23T09:02:20+00:00",
+   "published": "2026-10-23T08:30:29+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "_SMk0QURat4": {
    "article_url": "https://yu8117-art.github.io/tube-digest/a/_SMk0QURat4.html",
    "done_at": "2026-10-09T08:05:21+00:00",
@@ -5987,6 +5998,17 @@
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-10-09T04:00:06+00:00",
    "status": "baseline"
+  },
+  "bUOUo9q-9RA": {
+   "done_at": "2026-10-23T09:00:25+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-23T09:00:00+00:00",
+   "last_attempt": "2026-10-23T09:00:05+00:00",
+   "notified": "2026-10-23T09:01:53+00:00",
+   "published": "2026-10-23T08:30:23+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "bWfM54JHGFk": {
    "done_at": "2026-10-15T06:47:03+00:00",
