@@ -3969,6 +3969,17 @@
    "published": "2026-10-05T10:58:28+00:00",
    "status": "baseline"
   },
+  "NWpT4xAXcH0": {
+   "done_at": "2026-10-23T23:07:59+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-23T23:05:38+00:00",
+   "last_attempt": "2026-10-23T23:06:16+00:00",
+   "notified": "2026-10-23T23:08:26+00:00",
+   "published": "2026-10-23T23:00:18+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "NXpl9WQYwZE": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-09-30T11:39:27+00:00",
@@ -6004,6 +6015,17 @@
     "title": "삼성전자 지금 안 팔고 버티면 장기적으로 '이렇게' 될 겁니다 [박정호 교수]",
     "video_id": "a4r78nGkR9k"
    },
+   "wait_checks": 0
+  },
+  "a8H1Nuhpl3M": {
+   "done_at": "2026-10-23T23:06:16+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-23T23:05:44+00:00",
+   "last_attempt": "2026-10-23T23:05:45+00:00",
+   "notified": "2026-10-23T23:08:52+00:00",
+   "published": "2026-10-23T23:00:11+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "aIb2xqDklvQ": {
