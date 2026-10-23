@@ -6138,6 +6138,17 @@
    "published": "2026-10-09T01:00:04+00:00",
    "status": "baseline"
   },
+  "bhHFfJA6aMQ": {
+   "done_at": "2026-10-23T10:38:32+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-23T10:36:52+00:00",
+   "last_attempt": "2026-10-23T10:36:54+00:00",
+   "notified": "2026-10-23T10:38:59+00:00",
+   "published": "2026-10-23T10:22:15+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "bxXBLLonel4": {
    "done_at": "2026-10-23T07:34:56+00:00",
    "errors": 0,
