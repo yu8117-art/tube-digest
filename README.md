@@ -33,6 +33,8 @@ copy .env.example .env
 .\td remove "보다 BODA"
 ```
 
+`remove`는 이름(앞의 `@`, 대소문자, 띄어쓰기는 무시), 이름 일부, `@핸들`, 채널 주소, `UC…` ID 중 아무거나 받는다. 예를 들어 `.\td remove "유안타"`처럼 이름 일부만 쳐도 된다. 다만 이름 일부가 여러 채널에 걸리면 지우지 않고 후보만 보여준다.
+
 - PowerShell에서는 `@핸들`을 반드시 따옴표로 감싼다. 따옴표가 없으면 PowerShell이 `@이름`을 변수 펼치기 문법으로 해석해 인자가 사라진다.
 - `add` / `remove` / `list`는 GitHub에서 최신 채널 목록을 먼저 받아온다. `add`와 `remove`는 바뀐 `channels.yaml`만 커밋해서 GitHub에 올리므로, 다음 Actions 실행(15분 안팎)부터 바로 적용된다. 따로 `git` 명령을 칠 필요가 없다.
 - `td`는 `digest` 폴더 안에 있다. 다른 폴더에서는 `C:\DEV\tube\digest\td add "@핸들"`처럼 경로를 붙인다.

@@ -89,18 +89,54 @@ def cmd_add(args) -> None:
         channels.append(Channel(id=cid, name=name))
         added.append(name)
         print(f"추가: {name} ({cid})")
-    save_channels(channels)
     if added:
+        save_channels(channels)
         _publish_channels("채널 추가: " + ", ".join(added))
+
+
+def _norm(text: str) -> str:
+    return re.sub(r"\s+", "", text).casefold()
+
+
+def find_channels(channels: list[Channel], ref: str) -> tuple[list[Channel], list[Channel]]:
+    """삭제할 채널을 찾는다. (찾은 채널, 후보) — 후보는 이름 일부가 여러 채널에 걸려 하나로 못 정한 경우.
+
+    ID, 이름(앞의 @·대소문자·띄어쓰기 무시), @핸들·채널 URL(유튜브에서 ID 확인), 이름 일부(후보가 하나일 때) 순으로 본다.
+    """
+    q = ref.strip()
+    key = _norm(q.lstrip("@"))
+    hits = [c for c in channels if q == c.id or key == _norm(c.name)]
+    if hits:
+        return hits, []
+    if q.startswith(("@", "http")):
+        try:
+            cid, _ = resolve_channel_id(q)
+            hits = [c for c in channels if c.id == cid]
+        except Exception:  # 핸들이 아니라 이름에 @를 붙인 경우 등
+            hits = []
+        if hits:
+            return hits, []
+    part = [c for c in channels if key and key in _norm(c.name)]
+    return (part, []) if len(part) == 1 else ([], part)
 
 
 def cmd_remove(args) -> None:
     _pull_channels()
     channels = load_channels()
-    gone = [c for c in channels if c.id == args.channel_id or c.name == args.channel_id]
-    save_channels([c for c in channels if c not in gone])
-    print(f"삭제 {len(gone)}개" + (f": {', '.join(c.name for c in gone)}" if gone else " (일치하는 채널 없음)"))
+    gone: list[Channel] = []
+    for ref in args.refs:
+        hits, candidates = find_channels(channels, ref)
+        if hits:
+            gone += [c for c in hits if c not in gone]
+        elif candidates:
+            print(f"'{ref}'에 해당하는 채널이 여러 개라 지우지 않음. 정확한 이름으로 다시 실행:")
+            for c in candidates:
+                print(f'  .\\td remove "{c.name}"')
+        else:
+            print(f"'{ref}'에 해당하는 채널 없음 (.\\td list로 확인)")
     if gone:
+        save_channels([c for c in channels if c not in gone])
+        print(f"삭제 {len(gone)}개: {', '.join(c.name for c in gone)}")
         _publish_channels("채널 삭제: " + ", ".join(c.name for c in gone))
 
 
@@ -163,8 +199,8 @@ def main() -> None:
     a = sub.add_parser("add", help="채널 추가 (@핸들, 채널 URL, UC… ID) → GitHub 반영까지")
     a.add_argument("refs", nargs="+")
     a.set_defaults(func=cmd_add)
-    rm = sub.add_parser("remove", help="채널 삭제 (ID 또는 이름) → GitHub 반영까지")
-    rm.add_argument("channel_id")
+    rm = sub.add_parser("remove", help="채널 삭제 (이름, 이름 일부, @핸들, 채널 URL, UC… ID) → GitHub 반영까지")
+    rm.add_argument("refs", nargs="+")
     rm.set_defaults(func=cmd_remove)
     sub.add_parser("list", help="등록 채널 보기 (GitHub 최신 상태 기준)").set_defaults(func=cmd_list)
     s = sub.add_parser("summarize", help="특정 영상 하나를 바로 요약해 화면에 출력")
