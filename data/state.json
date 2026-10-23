@@ -412,15 +412,7 @@
    "errors": 0,
    "first_seen": "2026-10-23T10:01:24+00:00",
    "published": "2026-10-23T08:30:34+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-    "channel_name": "언더스탠딩 : 세상의 모든 지식",
-    "description": "제작 지원\n(주) 고래사 / 듀오 주식회사 / 어슈런스(주) / 한화자산운용(주) \n\n▶ https://www.musinsa.com/curator/shop/GyVEuRcF\n*본 링크는 무신사 큐레이터 활동의 일환으로 링크를 통해 구매가 발생할 경우 일정 수수료를 제공 받습니다",
-    "published": "2026-10-23T08:30:34+00:00",
-    "title": "10/23(금) 주택공급, 주차장에 달렸습니다 (장순원 기자 / 언더스탠딩)",
-    "video_id": "1CQbWvGkcdc"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "1Ca5zN_W4-k": {
@@ -4918,6 +4910,17 @@
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-05-18T07:05:29+00:00",
    "status": "baseline"
+  },
+  "UCahOJEiEd0": {
+   "done_at": "2026-10-23T11:40:07+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-23T11:39:25+00:00",
+   "last_attempt": "2026-10-23T11:39:32+00:00",
+   "notified": "2026-10-23T11:40:34+00:00",
+   "published": "2026-10-23T11:30:33+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "UD8MG24tjdk": {
    "first_seen": "2026-10-09T08:14:39+00:00",
