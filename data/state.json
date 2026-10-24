@@ -2009,15 +2009,7 @@
    "errors": 0,
    "first_seen": "2026-10-24T16:36:11+00:00",
    "published": "2026-10-24T16:17:46+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-10-24T16:17:46+00:00",
-    "title": "첼시 vs 토트넘!! 데제르비 2연승 도전!! 알론소 3연승 도전!!",
-    "video_id": "AeIjZ3xNqg0"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "Aep0Y8EHimA": {
@@ -2953,6 +2945,17 @@
    "notified": "2026-10-19T10:17:13+00:00",
    "published": "2026-10-19T09:59:02+00:00",
    "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "GQwzwKydyQQ": {
+   "done_at": "2026-10-24T22:08:42+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-24T22:02:56+00:00",
+   "last_attempt": "2026-10-24T22:07:40+00:00",
+   "notified": "2026-10-24T22:09:36+00:00",
+   "published": "2026-10-24T21:50:07+00:00",
+   "source": "video",
    "status": "done",
    "wait_checks": 0
   },
@@ -9666,6 +9669,17 @@
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-06T09:30:33+00:00",
    "status": "baseline"
+  },
+  "td7dDM9lMf0": {
+   "done_at": "2026-10-24T22:07:40+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-24T22:02:53+00:00",
+   "last_attempt": "2026-10-24T22:02:58+00:00",
+   "notified": "2026-10-24T22:09:09+00:00",
+   "published": "2026-10-24T21:40:02+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "tg4S_iWWl4o": {
    "errors": 0,
