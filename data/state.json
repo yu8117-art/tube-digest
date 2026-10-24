@@ -867,6 +867,17 @@
    },
    "wait_checks": 0
   },
+  "4Unus1LQgnw": {
+   "done_at": "2026-10-24T01:33:35+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-24T01:30:57+00:00",
+   "last_attempt": "2026-10-24T01:30:58+00:00",
+   "notified": "2026-10-24T01:36:56+00:00",
+   "published": "2026-10-24T01:00:24+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "4VDb1n8lrLQ": {
    "first_seen": "2026-10-21T02:25:36+00:00",
    "published": "2026-10-19T12:25:03+00:00",
@@ -7362,6 +7373,17 @@
     "title": "최소 700세대, 역세권 10분 이내 '이런 아파트'를 사야 합니다 [제네시스박]",
     "video_id": "iE9p44iNzkA"
    },
+   "wait_checks": 0
+  },
+  "iI07Oa5aX5Y": {
+   "done_at": "2026-10-24T01:36:03+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-24T01:30:54+00:00",
+   "last_attempt": "2026-10-24T01:33:35+00:00",
+   "notified": "2026-10-24T01:36:30+00:00",
+   "published": "2026-10-24T01:00:26+00:00",
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "iJhQ1-iDwN4": {
