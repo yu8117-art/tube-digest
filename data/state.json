@@ -4648,6 +4648,17 @@
    "published": "2026-07-26T08:00:35+00:00",
    "status": "baseline"
   },
+  "S4Eu4d7yE-g": {
+   "done_at": "2026-10-24T06:08:50+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-24T06:05:25+00:00",
+   "last_attempt": "2026-10-24T06:07:47+00:00",
+   "notified": "2026-10-24T06:09:18+00:00",
+   "published": "2026-10-24T06:00:24+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "SG5RyRWFmJU": {
    "errors": 0,
    "first_seen": "2026-10-12T08:45:58+00:00",
@@ -5609,6 +5620,17 @@
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2025-01-24T07:06:50+00:00",
    "status": "baseline"
+  },
+  "YQDGKxVCqLA": {
+   "done_at": "2026-10-24T06:07:47+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-24T06:05:33+00:00",
+   "last_attempt": "2026-10-24T06:05:33+00:00",
+   "notified": "2026-10-24T06:09:45+00:00",
+   "published": "2026-10-24T05:55:36+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
   },
   "YST9mwhlWA4": {
    "errors": 0,
@@ -7979,6 +8001,21 @@
     "published": "2026-10-14T02:00:28+00:00",
     "title": "50년 전 상상한 AI 기업, 지금과 놀랍도록 닮았다?!",
     "video_id": "lGd12rF8JO8"
+   },
+   "wait_checks": 0
+  },
+  "lHM8mwzVquM": {
+   "errors": 0,
+   "first_seen": "2026-10-24T06:05:30+00:00",
+   "published": "2026-10-24T06:00:37+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
+    "channel_name": "집코노미",
+    "description": "30년 만기 주담대💸어떻게 갚을까?\n\n#부동산 #대출 #주담대 #주택담보대출 #체증식상환\n\n한국경제신문 구독하기\n📰https://vo.la/N79FE1B\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다",
+    "published": "2026-10-24T06:00:37+00:00",
+    "title": "30년 만기 주담대, 초반 부담 줄이는 법",
+    "video_id": "lHM8mwzVquM"
    },
    "wait_checks": 0
   },
