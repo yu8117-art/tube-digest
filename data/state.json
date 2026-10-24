@@ -9281,6 +9281,21 @@
    "published": "2026-09-18T11:00:40+00:00",
    "status": "baseline"
   },
+  "sLQcVJ4M1pQ": {
+   "errors": 0,
+   "first_seen": "2026-10-24T04:35:53+00:00",
+   "published": "2026-10-24T04:30:24+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "description": "",
+    "published": "2026-10-24T04:30:24+00:00",
+    "title": "아틀라스 손가락이 4개인 이유",
+    "video_id": "sLQcVJ4M1pQ"
+   },
+   "wait_checks": 0
+  },
   "sOrIy4k70J0": {
    "errors": 0,
    "first_seen": "2026-10-22T23:50:21+00:00",
