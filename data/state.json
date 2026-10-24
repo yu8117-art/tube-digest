@@ -9359,6 +9359,17 @@
    "published": "2026-09-22T13:13:14+00:00",
    "status": "baseline"
   },
+  "rtFvx1TWHS0": {
+   "done_at": "2026-10-24T13:18:46+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-24T13:16:32+00:00",
+   "last_attempt": "2026-10-24T13:16:34+00:00",
+   "notified": "2026-10-24T13:19:13+00:00",
+   "published": "2026-10-24T13:05:23+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "rzzqVLJtvdw": {
    "done_at": "2026-10-15T11:09:54+00:00",
    "errors": 0,
