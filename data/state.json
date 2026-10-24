@@ -1307,6 +1307,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "6sKrsgcEd7k": {
+   "done_at": "2026-10-24T08:15:14+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-24T08:14:54+00:00",
+   "last_attempt": "2026-10-24T08:14:56+00:00",
+   "notified": "2026-10-24T08:16:40+00:00",
+   "published": "2026-10-24T08:00:05+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "6sLpOdTpYq8": {
    "done_at": "2026-10-17T15:23:54+00:00",
    "errors": 0,
@@ -1411,6 +1422,17 @@
     "title": "대출 막아도 집값 오릅니다, 단 한 번도 잡은 적이 없습니다 [김제경 박사]",
     "video_id": "7HpnLHtusFs"
    },
+   "wait_checks": 0
+  },
+  "7Kml4CwuXOs": {
+   "done_at": "2026-10-24T08:16:12+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-24T08:14:50+00:00",
+   "last_attempt": "2026-10-24T08:15:14+00:00",
+   "notified": "2026-10-24T08:16:40+00:00",
+   "published": "2026-10-24T08:00:19+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "7Q8iay2d4WY": {
