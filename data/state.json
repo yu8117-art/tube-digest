@@ -1073,6 +1073,17 @@
    },
    "wait_checks": 0
   },
+  "56uQlElP7xw": {
+   "done_at": "2026-10-25T08:09:57+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-25T08:06:45+00:00",
+   "last_attempt": "2026-10-25T08:08:04+00:00",
+   "notified": "2026-10-25T08:10:50+00:00",
+   "published": "2026-10-25T08:00:17+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "5Aa44OlWx18": {
    "done_at": "2026-10-20T10:24:17+00:00",
    "errors": 0,
@@ -4188,15 +4199,7 @@
    "errors": 0,
    "first_seen": "2026-10-25T05:21:08+00:00",
    "published": "2026-10-25T05:06:45+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-10-25T05:06:45+00:00",
-    "title": "수원 승격까지 3승!! 성남 vs 수원 : 정효볼 7연승 도전!!",
-    "video_id": "NY-hXUdnFhE"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "NbOVRClA84c": {
@@ -6478,6 +6481,17 @@
     "title": "깃 없이도 코드 관리가 가능한 이유",
     "video_id": "b270jMdTTsY"
    },
+   "wait_checks": 0
+  },
+  "b2bQWLcVbPQ": {
+   "done_at": "2026-10-25T08:08:04+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-25T08:06:47+00:00",
+   "last_attempt": "2026-10-25T08:07:30+00:00",
+   "notified": "2026-10-25T08:11:18+00:00",
+   "published": "2026-10-25T08:00:03+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "b2hurrJlogk": {
@@ -10233,6 +10247,17 @@
    "first_seen": "2026-10-09T08:14:30+00:00",
    "published": "2026-10-04T01:59:08+00:00",
    "status": "baseline"
+  },
+  "vrfcKCobME0": {
+   "done_at": "2026-10-25T08:07:30+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-25T08:06:41+00:00",
+   "last_attempt": "2026-10-25T08:06:51+00:00",
+   "notified": "2026-10-25T08:10:24+00:00",
+   "published": "2026-10-25T07:47:53+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "vrhxtDD72R8": {
    "first_seen": "2026-10-09T08:14:36+00:00",
