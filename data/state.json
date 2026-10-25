@@ -671,6 +671,21 @@
    "published": "2026-10-01T12:02:43+00:00",
    "status": "baseline"
   },
+  "2dbCeyC-WFw": {
+   "errors": 0,
+   "first_seen": "2026-10-25T09:07:02+00:00",
+   "published": "2026-10-25T09:01:07+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+    "channel_name": "조코딩 JoCoding",
+    "description": "IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등",
+    "published": "2026-10-25T09:01:07+00:00",
+    "title": "IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등",
+    "video_id": "2dbCeyC-WFw"
+   },
+   "wait_checks": 0
+  },
   "2hUkTmwYm3A": {
    "done_at": "2026-10-12T07:12:51+00:00",
    "errors": 1,
@@ -10243,6 +10258,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "v_bREJ2zj-Y": {
+   "done_at": "2026-10-25T09:08:22+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-25T09:06:59+00:00",
+   "last_attempt": "2026-10-25T09:07:14+00:00",
+   "notified": "2026-10-25T09:09:17+00:00",
+   "published": "2026-10-25T09:00:22+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "v_xurn5uTw8": {
    "done_at": "2026-10-23T03:12:54+00:00",
    "errors": 0,
@@ -10673,6 +10699,17 @@
     "title": "충무로는 왜 충무로가 됐을까?",
     "video_id": "yBscYompvW4"
    },
+   "wait_checks": 0
+  },
+  "yHO7d7g99J8": {
+   "done_at": "2026-10-25T09:07:14+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-25T09:06:56+00:00",
+   "last_attempt": "2026-10-25T09:07:02+00:00",
+   "notified": "2026-10-25T09:08:49+00:00",
+   "published": "2026-10-25T09:00:03+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "yJrsZ5Y72RU": {
