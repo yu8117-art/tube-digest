@@ -713,6 +713,17 @@
    },
    "wait_checks": 0
   },
+  "2xKWELKf1wA": {
+   "done_at": "2026-10-25T05:21:53+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-25T05:21:12+00:00",
+   "last_attempt": "2026-10-25T05:21:15+00:00",
+   "notified": "2026-10-25T05:22:20+00:00",
+   "published": "2026-10-25T05:00:27+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "31_3pJPeFec": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-08-31T03:40:25+00:00",
@@ -4172,6 +4183,21 @@
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-09-30T11:39:27+00:00",
    "status": "baseline"
+  },
+  "NY-hXUdnFhE": {
+   "errors": 0,
+   "first_seen": "2026-10-25T05:21:08+00:00",
+   "published": "2026-10-25T05:06:45+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-10-25T05:06:45+00:00",
+    "title": "수원 승격까지 3승!! 성남 vs 수원 : 정효볼 7연승 도전!!",
+    "video_id": "NY-hXUdnFhE"
+   },
+   "wait_checks": 0
   },
   "NbOVRClA84c": {
    "errors": 0,
