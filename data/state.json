@@ -2756,6 +2756,22 @@
    "published": "2026-10-08T03:00:24+00:00",
    "status": "baseline"
   },
+  "F5H7pwMD9Y4": {
+   "errors": 0,
+   "first_seen": "2026-10-25T01:24:18+00:00",
+   "last_attempt": "2026-10-25T01:28:31+00:00",
+   "published": "2026-10-25T01:00:11+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
+    "channel_name": "지식인사이드",
+    "description": "오늘은 샤를세환 기자와 함께 세계적인 수준으로 성장한 대한민국의 군사력과\n주변국의 군사적 위협에 대응하는 한국 방위 기술의 경쟁력에 대한 이야기를 나눠봤습니다.\n\n역사를 바꾼 '그날'은 하루 만에 만들어지지 않았습니다\n9개의 전쟁 속 결정적인 선택과 판단, 그 전후의 이야기를 소설처럼 몰입감 있게 풀어낸\n현대 전쟁사 『세계사를 바꾼 그날』\n과거의 전쟁을 통해 오늘의 세계를 읽는 새로운 시선을 만나보세요\n\n🎁 초판 한정 저자 4인 사인 인쇄본\n📖 도서 살펴보기\n교보문고: https://linkly.link/2xuQr \n예스24: https://linkly.link/2xuRT \n알라딘: https://linkly.link/2xuRf \n\n#샤를세환 #지식인사이드 #전쟁 #무기 #북한 #핵 #미사일 #군사력\n\n00:00 인트로\n00:38 구독자 인사\n01:13 안정적인 직장 그만두고 전쟁덕후가 된 이유\n04:45 북한이 신무기를 쏟아내며 노리는 진짜 상대\n07:16북한이 신무기 영상마다 끝까지 숨긴 ‘이 장면’\n11:11 북한이 서울에 미사일 쏘면 3분안에 벌어질 일\n14:52 전세계가 한국 방산기술  쉽게 못따라오는 이유\n17:39 트럼프가 북미정상회담에 집착하는 진짜 목적\n20:49 한vs중vs일, 실제 전쟁하면 누가 이길까?\n24:48 이란 전쟁으로 드러난, 미중 군사력 수준\n26:54 일본이 한국과 전쟁 쉽게 시작할 수 없는 이유\n29:40 한국이 작정하고 핵개발하면 전세계에 벌어질 일\n33:09 미국도 경악한 한국 괴물 미사일의 정체\n35:46 트럼프가 기술 달라고 싹싹빈 한국 전투기 위력\n\n\n* 이 영상은 10월 21일에 촬영되었습니다\n\n\n👇지식인사이드에 출연을 원하신다면 여기를 눌러주세요\nhttps://forms.gle/u4LxVcwFdhvkLH8m6\nknowledgeinside7@gmail.com\n\n👇 다양한 채널에서 지식인사이드의 지식을 얻고 싶다면 여기를 눌러주세요\n인스타그램: https://www.instagram.com/knowledgeins_kr/\n페이스북: https://www.facebook.com/knowledgeIns7?mibextid=LQQJ4d\n네이버 TV: https://tv.naver.com/purejboy2\n틱톡: https://www.tiktok.com/@allstorieskr?lang=ko-KR\n네이버 카페: https://cafe.naver.com/knowledgeins\n\nCopyright Ⓒ 지식인사이드. All rights reserved.\n\n본 콘텐츠(영상, 이미지, 음성, 대본, 편집물, 썸네일 포함)는 저작권 및 관련 권리의 보호를 받습니다.\n\n저작권자의 사전 승인 없이 복제, 배포, 수정, 재가공, 업로드, AI 학습 및 데이터셋 구축, 2차 저작물 제작(쇼츠·릴스 포함) 등 일체의 상업적 이용 및 수익화를 금지합니다.\n\n📧 콘텐츠 사용 및 협의 문의: knowledgeinside7@gmail.com",
+    "published": "2026-10-25T01:00:11+00:00",
+    "title": "\"핵 금지 맞지?\" 미국도 당황했다는 한국 무기 수준ㅣ지식인초대석 EP.183 (샤를세환 1부)",
+    "video_id": "F5H7pwMD9Y4"
+   },
+   "wait_checks": 0
+  },
   "FBIwZuJuMIQ": {
    "done_at": "2026-10-21T11:14:07+00:00",
    "errors": 0,
@@ -4097,6 +4113,17 @@
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-10-05T10:58:28+00:00",
    "status": "baseline"
+  },
+  "NTfNcTw1fO0": {
+   "done_at": "2026-10-25T01:28:31+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-25T01:24:16+00:00",
+   "last_attempt": "2026-10-25T01:24:19+00:00",
+   "notified": "2026-10-25T01:43:18+00:00",
+   "published": "2026-10-25T01:00:01+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
   },
   "NWpT4xAXcH0": {
    "done_at": "2026-10-23T23:07:59+00:00",
