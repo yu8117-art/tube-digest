@@ -3373,6 +3373,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "Il-mi25hAyM": {
+   "errors": 0,
+   "first_seen": "2026-10-25T13:52:19+00:00",
+   "published": "2026-10-25T13:48:14+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-10-25T13:48:14+00:00",
+    "title": "캐릭 비판한 브페, 선발 제외! 내부에서 징계 내렸다 / 맨유 vs 본머스",
+    "video_id": "Il-mi25hAyM"
+   },
+   "wait_checks": 0
+  },
   "ImrcViCkYm4": {
    "errors": 0,
    "first_seen": "2026-10-18T12:58:43+00:00",
