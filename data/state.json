@@ -7508,6 +7508,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "gqaUxASNgbY": {
+   "done_at": "2026-10-25T12:07:16+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-25T12:03:14+00:00",
+   "last_attempt": "2026-10-25T12:03:15+00:00",
+   "notified": "2026-10-25T12:07:42+00:00",
+   "published": "2026-10-25T11:55:29+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "gwi16U85X5U": {
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-08-30T02:00:34+00:00",
