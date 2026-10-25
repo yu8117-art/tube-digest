@@ -6282,6 +6282,21 @@
    "published": "2026-10-02T07:40:30+00:00",
    "status": "baseline"
   },
+  "_Wi3bsusmeI": {
+   "errors": 0,
+   "first_seen": "2026-10-25T20:14:51+00:00",
+   "published": "2026-10-25T20:01:13+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-10-25T20:01:13+00:00",
+    "title": "야말 vs 음바페, 엘클라시코!! 바르셀로나 : 레알 마드리드",
+    "video_id": "_Wi3bsusmeI"
+   },
+   "wait_checks": 0
+  },
   "_kQ8R0r8pXU": {
    "done_at": "2026-10-16T09:30:10+00:00",
    "errors": 0,
