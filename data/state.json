@@ -7325,6 +7325,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "fq4LpGC_JBU": {
+   "errors": 0,
+   "first_seen": "2026-10-25T04:57:49+00:00",
+   "published": "2026-10-25T04:30:35+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "description": "",
+    "published": "2026-10-25T04:30:35+00:00",
+    "title": "비행기가 지나간 자리에 생긴 일자 구름, 지구 온난화를 가속시킨다?",
+    "video_id": "fq4LpGC_JBU"
+   },
+   "wait_checks": 0
+  },
   "g9emu8dbczM": {
    "errors": 0,
    "first_seen": "2026-10-13T22:14:17+00:00",
