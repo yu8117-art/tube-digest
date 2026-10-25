@@ -675,15 +675,7 @@
    "errors": 0,
    "first_seen": "2026-10-25T09:07:02+00:00",
    "published": "2026-10-25T09:01:07+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
-    "channel_name": "조코딩 JoCoding",
-    "description": "IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등",
-    "published": "2026-10-25T09:01:07+00:00",
-    "title": "IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등",
-    "video_id": "2dbCeyC-WFw"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "2hUkTmwYm3A": {
@@ -7056,6 +7048,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "djny0bkGyqk": {
+   "errors": 0,
+   "first_seen": "2026-10-25T11:34:57+00:00",
+   "published": "2026-10-25T11:25:12+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+    "published": "2026-10-25T11:25:12+00:00",
+    "title": "[슈카월드] 세계 주식시장 하락율 1위 국가의 대책 / 불타는 프랑스, 그 원인은? / 김정은은 사망했는가 / 미국 중간선거, 선 넘는 네거티브 광고 / 미국 부유세 논란",
+    "video_id": "djny0bkGyqk"
+   },
+   "wait_checks": 0
+  },
   "dvbfpJcYkx8": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-08T08:15:30+00:00",
@@ -9134,6 +9141,21 @@
    "published": "2026-10-17T11:00:20+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "p7wiquIxE9I": {
+   "errors": 0,
+   "first_seen": "2026-10-25T11:35:03+00:00",
+   "published": "2026-10-25T11:18:31+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+    "channel_name": "채널 제네시스박",
+    "description": "10/25(일) 라이브 입니다. \n📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 (마감/대기접수중) 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (11/28, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=3&lectCd=0685\n\n📌 명동 본점 롯데백화점 세금 특강! + 1:1 현장 질문 (12/12, 토, 오후 2시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0001&yy=2026&lectSmsterCd=4&lectCd=0351\n\n📌 수원 타임빌라스 롯데백화점 세금 특강! + 1:1 현장 질문 (1/16, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0349&yy=2026&lectSmsterCd=4&lectCd=0245\n\n📌 부산 롯데백화점 세금 특강! + 1:1 현장 질문 (1/30, 토, 오후 4시 30분)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0005&yy=2026&lectSmsterCd=4&lectCd=0718\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (2/21, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=4&lectCd=0403\n\n📌 관악 롯데백화점 세금 특강! + 1:1 현장 질문 (2/27, 토, 오후 1시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0006&yy=2026&lectSmsterCd=4&lectCd=0876\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
+    "published": "2026-10-25T11:18:31+00:00",
+    "title": "\"종부세 올리면 세입자가 덮어쓴다\" / 규제 완화, 가능할까?",
+    "video_id": "p7wiquIxE9I"
+   },
    "wait_checks": 0
   },
   "p92dCk27zV4": {
