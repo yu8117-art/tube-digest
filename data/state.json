@@ -4867,6 +4867,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "SB5GreIbiik": {
+   "done_at": "2026-10-25T06:19:37+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-25T06:16:20+00:00",
+   "last_attempt": "2026-10-25T06:19:23+00:00",
+   "notified": "2026-10-25T06:20:05+00:00",
+   "published": "2026-10-25T06:00:39+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "SG5RyRWFmJU": {
    "errors": 0,
    "first_seen": "2026-10-12T08:45:58+00:00",
@@ -8319,6 +8330,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "lbJfrGlAGZ0": {
+   "done_at": "2026-10-25T06:19:23+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-25T06:16:29+00:00",
+   "last_attempt": "2026-10-25T06:16:30+00:00",
+   "notified": "2026-10-25T06:20:32+00:00",
+   "published": "2026-10-25T05:55:18+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "ld0fBMB_IkM": {
    "done_at": "2026-10-17T06:03:13+00:00",
    "errors": 0,
@@ -10585,6 +10607,21 @@
    "published": "2026-10-15T08:30:15+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "yBscYompvW4": {
+   "errors": 0,
+   "first_seen": "2026-10-25T06:16:26+00:00",
+   "published": "2026-10-25T06:00:00+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
+    "channel_name": "집코노미",
+    "description": "‘혼마치’에서 ‘충무로’가 된 이유😯\n\n#충무로 #혼마치 #이순신 #충무공 #집코노미\n\n한국경제신문 구독하기\n📰https://vo.la/N79FE1B\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다",
+    "published": "2026-10-25T06:00:00+00:00",
+    "title": "충무로는 왜 충무로가 됐을까?",
+    "video_id": "yBscYompvW4"
+   },
    "wait_checks": 0
   },
   "yJrsZ5Y72RU": {
