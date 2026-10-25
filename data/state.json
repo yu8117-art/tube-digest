@@ -1628,6 +1628,21 @@
    "published": "2026-10-05T21:12:36+00:00",
    "status": "baseline"
   },
+  "7n73Vp3PJhs": {
+   "errors": 0,
+   "first_seen": "2026-10-25T09:36:42+00:00",
+   "published": "2026-10-25T09:14:03+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC7F6UDq3gykPZHWRhrj_BDw",
+    "channel_name": "사물궁이 잡학지식",
+    "description": "- 사물궁이 유튜브 채널 구독 : https://youtube.com/@사물궁이\n- 사물궁이 시리즈 정주행 : https://youtube.com/playlist?list=PLs8vi5Jd35y55jcjDHMWIXfWjl206sSSF\n- 궁금증 제보 : https://forms.gle/xT6HQEpVTYbfe9EY8\n- 유튜브 멤버십 가입 : https://youtube.com/channel/UC7F6UDq3gykPZHWRhrj_BDw/join\n- E-Mail : facebookspeedwg@gmail.com",
+    "published": "2026-10-25T09:14:03+00:00",
+    "title": "밥을 풀 때 따라 나오는 얇은 막은 무엇일까?",
+    "video_id": "7n73Vp3PJhs"
+   },
+   "wait_checks": 0
+  },
   "7p1A415EryE": {
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-09-29T09:19:04+00:00",
@@ -8342,6 +8357,17 @@
     "title": "30년 만기 주담대, 초반 부담 줄이는 법",
     "video_id": "lHM8mwzVquM"
    },
+   "wait_checks": 0
+  },
+  "lKq8ZMqNEg4": {
+   "done_at": "2026-10-25T09:37:15+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-25T09:36:40+00:00",
+   "last_attempt": "2026-10-25T09:36:49+00:00",
+   "notified": "2026-10-25T09:37:43+00:00",
+   "published": "2026-10-25T09:15:17+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "lOMeisEFZek": {
