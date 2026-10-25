@@ -541,6 +541,21 @@
    "published": "2026-08-05T11:00:09+00:00",
    "status": "baseline"
   },
+  "2-frsVsAQy8": {
+   "errors": 0,
+   "first_seen": "2026-10-25T03:58:41+00:00",
+   "published": "2026-10-25T03:30:10+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n재건축 분담금 10억 시대, 5~6억은 이제 싼 겁니다\n\n☞촬영일: 26년 10월 16일",
+    "published": "2026-10-25T03:30:10+00:00",
+    "title": "재건축 분담금 10억 시대, 5~6억은 이제 싼 겁니다 [김제경 박사]",
+    "video_id": "2-frsVsAQy8"
+   },
+   "wait_checks": 0
+  },
   "20WSmY9wVm0": {
    "errors": 0,
    "first_seen": "2026-10-23T12:06:58+00:00",
