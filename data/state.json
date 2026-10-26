@@ -3932,6 +3932,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "LKogfAxy6bo": {
+   "done_at": "2026-10-26T11:48:34+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-26T11:47:53+00:00",
+   "last_attempt": "2026-10-26T11:47:59+00:00",
+   "notified": "2026-10-26T11:49:49+00:00",
+   "published": "2026-10-26T11:15:08+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "LKrggqQ3ayU": {
    "first_seen": "2026-10-09T08:14:30+00:00",
    "published": "2026-10-06T12:34:57+00:00",
@@ -4636,6 +4647,17 @@
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-10-04T08:00:27+00:00",
    "status": "baseline"
+  },
+  "P4i9A1Woky8": {
+   "done_at": "2026-10-26T11:49:22+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-26T11:47:54+00:00",
+   "last_attempt": "2026-10-26T11:48:34+00:00",
+   "notified": "2026-10-26T11:50:16+00:00",
+   "published": "2026-10-26T11:15:59+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "P7Fj0Pnh-7w": {
    "first_seen": "2026-10-09T08:14:38+00:00",
@@ -9728,15 +9750,7 @@
    "errors": 0,
    "first_seen": "2026-10-26T09:48:38+00:00",
    "published": "2026-10-26T08:10:42+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-    "channel_name": "언더스탠딩 : 세상의 모든 지식",
-    "description": "제작 지원\n(주) 고래사 / 듀오 주식회사 / 어슈런스(주) / 한화자산운용(주) \n\n▶ https://www.musinsa.com/curator/shop/GyVEuRcF\n*본 링크는 무신사 큐레이터 활동의 일환으로 링크를 통해 구매가 발생할 경우 일정 수수료를 제공 받습니다",
-    "published": "2026-10-26T08:10:42+00:00",
-    "title": "10/26(월) 눈치작전 입시 \"노벨상이 답 찾았다\" (한순구 교수 / 연세대 경제학과)",
-    "video_id": "q2AEjh4bnek"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "q3Ux91AaMQY": {
