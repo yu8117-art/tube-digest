@@ -879,6 +879,17 @@
    "published": "2026-10-02T12:42:21+00:00",
    "status": "baseline"
   },
+  "46ndNxexlq4": {
+   "done_at": "2026-10-26T08:29:25+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-26T08:24:45+00:00",
+   "last_attempt": "2026-10-26T08:27:26+00:00",
+   "notified": "2026-10-26T08:30:19+00:00",
+   "published": "2026-10-26T08:00:25+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "4G-Mazu4Tc4": {
    "done_at": "2026-10-22T11:47:31+00:00",
    "errors": 0,
@@ -968,6 +979,17 @@
    "first_seen": "2026-10-21T02:25:36+00:00",
    "published": "2026-10-18T11:55:36+00:00",
    "status": "baseline"
+  },
+  "4dwjZWHYPaE": {
+   "done_at": "2026-10-26T08:27:25+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-26T08:24:48+00:00",
+   "last_attempt": "2026-10-26T08:25:07+00:00",
+   "notified": "2026-10-26T08:30:46+00:00",
+   "published": "2026-10-26T07:55:12+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
   },
   "4jcAop_vEVI": {
    "first_seen": "2026-10-09T08:14:39+00:00",
@@ -4489,6 +4511,17 @@
    "last_attempt": "2026-10-16T09:58:51+00:00",
    "notified": "2026-10-16T09:59:10+00:00",
    "published": "2026-10-16T09:30:24+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "Otucjt3JLXE": {
+   "done_at": "2026-10-26T08:25:07+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-26T08:24:39+00:00",
+   "last_attempt": "2026-10-26T08:24:49+00:00",
+   "notified": "2026-10-26T08:29:51+00:00",
+   "published": "2026-10-26T07:43:26+00:00",
    "source": "video",
    "status": "done",
    "wait_checks": 0
