@@ -11075,6 +11075,17 @@
    "transcript_status": "blocked:RequestBlocked",
    "wait_checks": 0
   },
+  "wkYf_k9G7UU": {
+   "done_at": "2026-10-26T21:27:02+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-26T21:26:27+00:00",
+   "last_attempt": "2026-10-26T21:26:29+00:00",
+   "notified": "2026-10-26T21:27:29+00:00",
+   "published": "2026-10-26T21:08:22+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "wn_NlmZKoxY": {
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-09-22T06:37:48+00:00",
