@@ -1,0 +1,83 @@
+{
+ "video": {
+  "video_id": "nkkPAjj6KYA",
+  "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+  "channel_name": "언더스탠딩 : 세상의 모든 지식",
+  "title": "[언더상회] 땀나는 무신사 플리스 28,000원·오리털 패딩 68,700원! 요청 폭주로 딱 마지막 20% 앵콜 할인 (~11/1)",
+  "published": "2026-10-26T08:57:47+00:00",
+  "description": "📢 겨울 시작 전 마지막 기회! 옷, 싸게 사세요\n🔗 https://www.musinsa.com/curator/shop/GyVEuRcF\n\n※본 링크는 무신사 큐레이터 활동의 일환으로 링크를 통해 구매가 발생할 경우 일정 수수료를 제공받습니다\n\n\n\n👉언더스탠딩 문의: understanding.officialmail@gmail.com\n👉글로 읽는 \"언더스탠딩 텍스트\".  \nhttps://contents.premium.naver.com/backbriefing/news\n👉언더스탠딩 멤버십 가입\nhttps://www.youtube.com/channel/UCIUni4ScRp4mqPXsxy62L5w/join",
+  "url": "https://www.youtube.com/watch?v=nkkPAjj6KYA"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/nkkPAjj6KYA/maxresdefault.jpg",
+ "source": "video",
+ "duration": 295,
+ "summary": {
+  "headline": "무신사 겨울 의류 마지막 앵콜 할인",
+  "thumbnail_text": "이 가격 실화냐",
+  "thumbnail_answer": "실화다. 2만원대 플리스와 6만원대 오리털 패딩을 할인 판매한다.",
+  "conclusion": "무신사 겨울 의류 할인 행사가 11월 1일까지 진행된다. 플리스와 오리털 패딩을 저렴하게 구매할 수 있는 마지막 기회다. 할인 쿠폰은 고정 댓글과 QR코드를 통해 받을 수 있다.",
+  "key_points": [
+   "무신사 겨울 전 마지막 쿠폰 이벤트가 11월 1일까지 진행된다.",
+   "남자는 최대 20%, 여자는 최대 15% 할인된다.",
+   "플래피 플리스 집업 자켓은 쿠폰 적용 시 최저가 27,280원이다.",
+   "후디 라이트 다운 자켓은 쿠폰 적용 시 최저가 68,720원이다.",
+   "패딩은 오리털이 들어 있어 매우 가볍고 따뜻하다.",
+   "밑단 스트링과 이중 지퍼 등 보온과 착용감을 높이는 디테일이 포함되어 있다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "오프닝 및 가벼운 패딩 소개",
+    "points": [
+     "가볍고 따뜻한 오리털 패딩을 소개한다."
+    ]
+   },
+   {
+    "seconds": 16,
+    "title": "무신사 앵콜 할인 안내",
+    "points": [
+     "요청 폭주로 진행하는 겨울 전 마지막 할인이다.",
+     "11월 1일까지 최대 20% 할인 쿠폰을 제공한다."
+    ]
+   },
+   {
+    "seconds": 111,
+    "title": "플래피 플리스 집업 자켓 소개",
+    "points": [
+     "동물 털처럼 따뜻하고 땀이 날 정도로 보온성이 좋다.",
+     "쿠폰 적용 시 최저가 27,280원에 판매한다."
+    ]
+   },
+   {
+    "seconds": 129,
+    "title": "후디 라이트 다운 자켓 소개",
+    "points": [
+     "국민 패딩으로 불리는 오리털 패딩이다.",
+     "쿠폰 적용 시 최저가 68,720원이다."
+    ]
+   },
+   {
+    "seconds": 140,
+    "title": "다운 패딩 디테일 설명",
+    "points": [
+     "오리털 충전재로 가볍고 활동성이 좋다.",
+     "밑단 스트링과 이중 지퍼로 찬바람을 막고 앉을 때 편하다.",
+     "주머니 안감도 기모 처리되어 따뜻하다."
+    ]
+   }
+  ],
+  "tags": [
+   "무신사",
+   "패딩",
+   "플리스",
+   "할인",
+   "겨울의류"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 28741,
+   "output_tokens": 856
+  }
+ },
+ "created_at": "2026-10-26T09:10:17+00:00"
+}
