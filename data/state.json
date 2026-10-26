@@ -1787,18 +1787,14 @@
    "status": "baseline"
   },
   "8XZsGAyX0Sw": {
+   "done_at": "2026-10-26T09:49:07+00:00",
    "errors": 0,
    "first_seen": "2026-10-26T09:09:02+00:00",
+   "last_attempt": "2026-10-26T09:48:39+00:00",
+   "notified": "2026-10-26T09:52:14+00:00",
    "published": "2026-10-26T09:00:26+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
-    "channel_name": "스마트튜브(스튜TV)",
-    "description": "인천 정규강의 오프라인) 3주 만에 끝내는 인천 9개 구 완전정복!\nhttps://www.smarttube.kr/web/82?wmod=detail&idx=648\n\n50부터 시작하는 은퇴 후 월급 만드는 부동산 출간 기념 특강 신청 링크\n🔹https://forms.gle/CATkDLzuhYHxbEd38\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n부동산 끝판왕, 트루카피의 지금 당장 사야 할 아파트 리스트 200!\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=656\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
-    "published": "2026-10-26T09:00:26+00:00",
-    "title": "2027년 대한민국 부동산! 결국 '이렇게' 됩니다!(남혁우 우리은행 부동산 연구원)",
-    "video_id": "8XZsGAyX0Sw"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "8aEGw6UXRJQ": {
@@ -6997,6 +6993,17 @@
    "published": "2026-09-28T22:00:26+00:00",
    "status": "baseline"
   },
+  "c7eoynzRGME": {
+   "done_at": "2026-10-26T09:51:47+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-26T09:48:39+00:00",
+   "last_attempt": "2026-10-26T09:50:35+00:00",
+   "notified": "2026-10-26T09:53:08+00:00",
+   "published": "2026-10-26T09:30:31+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "c8ebZXOhGps": {
    "errors": 0,
    "first_seen": "2026-10-12T10:56:52+00:00",
@@ -9651,6 +9658,21 @@
    "published": "2023-04-19T04:55:58+00:00",
    "status": "baseline"
   },
+  "q2AEjh4bnek": {
+   "errors": 0,
+   "first_seen": "2026-10-26T09:48:38+00:00",
+   "published": "2026-10-26T08:10:42+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+    "channel_name": "언더스탠딩 : 세상의 모든 지식",
+    "description": "제작 지원\n(주) 고래사 / 듀오 주식회사 / 어슈런스(주) / 한화자산운용(주) \n\n▶ https://www.musinsa.com/curator/shop/GyVEuRcF\n*본 링크는 무신사 큐레이터 활동의 일환으로 링크를 통해 구매가 발생할 경우 일정 수수료를 제공 받습니다",
+    "published": "2026-10-26T08:10:42+00:00",
+    "title": "10/26(월) 눈치작전 입시 \"노벨상이 답 찾았다\" (한순구 교수 / 연세대 경제학과)",
+    "video_id": "q2AEjh4bnek"
+   },
+   "wait_checks": 0
+  },
   "q3Ux91AaMQY": {
    "errors": 0,
    "first_seen": "2026-10-17T06:41:58+00:00",
@@ -10779,6 +10801,17 @@
    "first_seen": "2026-10-23T22:36:48+00:00",
    "published": "2026-10-23T22:35:03+00:00",
    "status": "skipped_live",
+   "wait_checks": 0
+  },
+  "wGG59mpPv3I": {
+   "done_at": "2026-10-26T09:50:35+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-26T09:48:34+00:00",
+   "last_attempt": "2026-10-26T09:49:07+00:00",
+   "notified": "2026-10-26T09:52:41+00:00",
+   "published": "2026-10-26T09:30:21+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "wGUJ4yk49l4": {
