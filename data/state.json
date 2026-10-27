@@ -9998,6 +9998,21 @@
    },
    "wait_checks": 0
   },
+  "prQUpQh_gko": {
+   "errors": 0,
+   "first_seen": "2026-10-27T06:55:22+00:00",
+   "published": "2026-10-27T06:50:22+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+    "published": "2026-10-27T06:50:22+00:00",
+    "title": "형들 우리 어깨 걸고 함께 가는거 아니었어요?",
+    "video_id": "prQUpQh_gko"
+   },
+   "wait_checks": 0
+  },
   "psHrvjFgxVI": {
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-09-25T08:30:25+00:00",
