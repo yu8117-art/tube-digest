@@ -10993,6 +10993,17 @@
    "published": "2026-10-06T09:30:33+00:00",
    "status": "baseline"
   },
+  "tczmkytV4Ec": {
+   "done_at": "2026-10-27T22:29:29+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-27T22:27:54+00:00",
+   "last_attempt": "2026-10-27T22:27:55+00:00",
+   "notified": "2026-10-27T22:29:30+00:00",
+   "published": "2026-10-27T22:00:21+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "td7dDM9lMf0": {
    "done_at": "2026-10-24T22:07:40+00:00",
    "errors": 0,
