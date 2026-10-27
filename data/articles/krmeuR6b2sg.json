@@ -1,0 +1,78 @@
+{
+ "video": {
+  "video_id": "krmeuR6b2sg",
+  "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
+  "channel_name": "지식보관소",
+  "title": "공간 자체가 정보의 연산과정에서 만들어진다는 새로운 연구",
+  "published": "2026-10-27T12:35:16+00:00",
+  "description": "Ares Program : https://store.steampowered.com/app/5440610\n\n#양자중력이론 #시뮬레이션우주 #양자정보이론 #양자역학\n\n얼마전 물리학자들은 시공간이 실제 물리적으로 존재하는 실체가 아니라 우주의 양자정보 처리 연산에 의해 생겨나는 결과물일 수 있다는 것을 발견했으며 이 내용은 2026년 8월 Frontiers in Astronomy and Space Sciences 저널에 게시가 되었습니다.\nhttps://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2026.1839487/full \n\nHomepage : https://asdfg3663-alt.github.io/ \n\n--------------------------------------\n제보 및 비지니스 문의\nE-Mail : asdfg3663@gmail.com\nBlog : http://blog.naver.com/asdfg3663\nInstagram : https://www.instagram.com/archiveyoutube/\n--------------------------------------\n게임 개발 관련\nHomepage : https://asdfg3663-alt.github.io/\n--------------------------------------\n\n\nBGM 정보\nSavfk - Ultra : https://youtu.be/8A4Jak73Lao\n웅장한 느낌의 곡 - TTRM\nDestination Unknown - Ugonna Onyekwe",
+  "url": "https://www.youtube.com/watch?v=krmeuR6b2sg"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/krmeuR6b2sg/maxresdefault.jpg",
+ "source": "video",
+ "duration": 498,
+ "summary": {
+  "headline": "시공간은 실제 실체가 아니라 양자정보 연산의 결과물이다.",
+  "thumbnail_text": "우리가 사는 공간은 사실 정보의 연산 결과일 수 있다",
+  "thumbnail_answer": "시공간은 물리적 실체가 아니라 우주의 양자정보 처리 연산에 의해 생겨나는 결과물이다.",
+  "conclusion": "시공간은 물리적 실체가 아니라 컴퓨터 프로그램의 좌표값 연산처럼 양자정보 처리 과정에서 창발된 결과물이다. 이는 양자중력 이론과 일반상대성이론을 연결하고 빛의 속도가 절대적인 이유를 명쾌하게 설명한다. 우리 우주는 무한한 아날로그가 아니라 유한한 리소스 위에서 정해진 규칙에 따라 연산되는 디지털 시스템에 가깝다.",
+  "key_points": [
+   "시공간이 물리적 실체가 아니라 우주의 양자정보 처리 연산 결과물이라는 최신 연구가 발표됐다.",
+   "컴퓨터 게임에서 수십억 킬로미터 공간이 좌표와 규칙만 존재하듯 우주도 이와 유사하다.",
+   "일반상대성이론의 연속적 시공간과 불연속적인 양자역학은 서로 모순되어 통합이 어려웠다.",
+   "양자중력 이론에서는 양자정보의 연결관계가 우리가 아는 시공간의 진짜 본질이라고 설명한다.",
+   "이번 논문은 양자정보의 연산 결과로 시공간과 중력방정식, 엔트로피 증가 법칙까지 설명한다.",
+   "빛의 속도가 절대적인 이유는 특정 좌표간의 거리를 정의하는 상수값이기 때문이다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "시공간의 실체에 대한 새로운 발견",
+    "points": [
+     "시공간이 물리적 실체가 아닌 양자정보 연산의 결과물일 수 있다는 연구가 발표됐다."
+    ]
+   },
+   {
+    "seconds": 22,
+    "title": "컴퓨터 게임으로 이해하는 공간의 개념",
+    "points": [
+     "우주 탐험 게임에서 넓은 공간은 실제하지 않고 좌표와 규칙에 따른 연산 결과일 뿐이다."
+    ]
+   },
+   {
+    "seconds": 156,
+    "title": "일반상대성이론과 양자역학의 모순",
+    "points": [
+     "아인슈타인의 상대성이론은 시공간을 연속적인 기하학으로 설명해 양자역학과 모순이 생긴다."
+    ]
+   },
+   {
+    "seconds": 320,
+    "title": "양자중력 이론과 양자정보",
+    "points": [
+     "양자중력 이론에서는 양자정보의 연결관계가 중력과 시공간의 본질이라고 본다."
+    ]
+   },
+   {
+    "seconds": 394,
+    "title": "창발적 질서로서의 시공간 논문",
+    "points": [
+     "연구팀은 시공간이 양자정보 연산 결과로 창발적으로 만들어진다는 주장을 제기했다."
+    ]
+   }
+  ],
+  "tags": [
+   "양자중력이론",
+   "시뮬레이션우주",
+   "양자정보이론",
+   "양자역학",
+   "일반상대성이론"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 47253,
+   "output_tokens": 940
+  }
+ },
+ "created_at": "2026-10-27T13:48:16+00:00"
+}

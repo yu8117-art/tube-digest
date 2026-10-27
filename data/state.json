@@ -4903,6 +4903,17 @@
    "published": "2026-10-09T06:00:01+00:00",
    "status": "baseline"
   },
+  "P8s16lHe-TQ": {
+   "done_at": "2026-10-27T13:47:36+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-27T13:43:40+00:00",
+   "last_attempt": "2026-10-27T13:44:29+00:00",
+   "notified": "2026-10-27T13:48:17+00:00",
+   "published": "2026-10-27T13:18:03+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "PCfiAmjBYfU": {
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-09-23T09:00:21+00:00",
@@ -7728,6 +7739,21 @@
    "published": "2026-10-07T10:00:10+00:00",
    "status": "baseline"
   },
+  "dISPw0UHISo": {
+   "errors": 0,
+   "first_seen": "2026-10-27T13:43:49+00:00",
+   "published": "2026-10-27T13:00:18+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 \n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-10-27T13:00:18+00:00",
+    "title": "경제부서에 정치인 있으면 안 되는 이유",
+    "video_id": "dISPw0UHISo"
+   },
+   "wait_checks": 0
+  },
   "dItXgPrDR4U": {
    "errors": 0,
    "first_seen": "2026-10-22T11:45:19+00:00",
@@ -8992,6 +9018,17 @@
    "published": "2026-10-09T05:00:08+00:00",
    "status": "baseline"
   },
+  "k8GZWziw3uI": {
+   "done_at": "2026-10-27T13:44:29+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-27T13:43:44+00:00",
+   "last_attempt": "2026-10-27T13:43:52+00:00",
+   "notified": "2026-10-27T13:48:18+00:00",
+   "published": "2026-10-27T13:00:00+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "kCcPrRXbSUw": {
    "done_at": "2026-10-26T10:28:41+00:00",
    "errors": 0,
@@ -9118,19 +9155,14 @@
    "status": "baseline"
   },
   "krmeuR6b2sg": {
+   "done_at": "2026-10-27T13:48:16+00:00",
    "errors": 0,
    "first_seen": "2026-10-27T12:58:40+00:00",
-   "last_attempt": "2026-10-27T13:02:17+00:00",
+   "last_attempt": "2026-10-27T13:47:36+00:00",
+   "notified": "2026-10-27T13:48:16+00:00",
    "published": "2026-10-27T12:35:16+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
-    "channel_name": "지식보관소",
-    "description": "Ares Program : https://store.steampowered.com/app/5440610\n\n#양자중력이론 #시뮬레이션우주 #양자정보이론 #양자역학\n\n얼마전 물리학자들은 시공간이 실제 물리적으로 존재하는 실체가 아니라 우주의 양자정보 처리 연산에 의해 생겨나는 결과물일 수 있다는 것을 발견했으며 이 내용은 2026년 8월 Frontiers in Astronomy and Space Sciences 저널에 게시가 되었습니다.\nhttps://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2026.1839487/full \n\nHomepage : https://asdfg3663-alt.github.io/ \n\n--------------------------------------\n제보 및 비지니스 문의\nE-Mail : asdfg3663@gmail.com\nBlog : http://blog.naver.com/asdfg3663\nInstagram : https://www.instagram.com/archiveyoutube/\n--------------------------------------\n게임 개발 관련\nHomepage : https://asdfg3663-alt.github.io/\n--------------------------------------\n\n\nBGM 정보\nSavfk - Ultra : https://youtu.be/8A4Jak73Lao\n웅장한 느낌의 곡 - TTRM\nDestination Unknown - Ugonna Onyekwe",
-    "published": "2026-10-27T12:35:16+00:00",
-    "title": "공간 자체가 정보의 연산과정에서 만들어진다는 새로운 연구",
-    "video_id": "krmeuR6b2sg"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "ksS7PSO59l4": {
