@@ -4249,6 +4249,17 @@
    "published": "2026-08-17T11:48:09+00:00",
    "status": "baseline"
   },
+  "Lrh-elQaS4c": {
+   "done_at": "2026-10-27T13:02:17+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-27T12:58:45+00:00",
+   "last_attempt": "2026-10-27T12:58:46+00:00",
+   "notified": "2026-10-27T13:02:28+00:00",
+   "published": "2026-10-27T12:25:08+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "LsFztXJ-uZQ": {
    "errors": 0,
    "first_seen": "2026-10-21T12:49:33+00:00",
@@ -9105,6 +9116,22 @@
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-08-27T09:03:53+00:00",
    "status": "baseline"
+  },
+  "krmeuR6b2sg": {
+   "errors": 0,
+   "first_seen": "2026-10-27T12:58:40+00:00",
+   "last_attempt": "2026-10-27T13:02:17+00:00",
+   "published": "2026-10-27T12:35:16+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
+    "channel_name": "지식보관소",
+    "description": "Ares Program : https://store.steampowered.com/app/5440610\n\n#양자중력이론 #시뮬레이션우주 #양자정보이론 #양자역학\n\n얼마전 물리학자들은 시공간이 실제 물리적으로 존재하는 실체가 아니라 우주의 양자정보 처리 연산에 의해 생겨나는 결과물일 수 있다는 것을 발견했으며 이 내용은 2026년 8월 Frontiers in Astronomy and Space Sciences 저널에 게시가 되었습니다.\nhttps://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2026.1839487/full \n\nHomepage : https://asdfg3663-alt.github.io/ \n\n--------------------------------------\n제보 및 비지니스 문의\nE-Mail : asdfg3663@gmail.com\nBlog : http://blog.naver.com/asdfg3663\nInstagram : https://www.instagram.com/archiveyoutube/\n--------------------------------------\n게임 개발 관련\nHomepage : https://asdfg3663-alt.github.io/\n--------------------------------------\n\n\nBGM 정보\nSavfk - Ultra : https://youtu.be/8A4Jak73Lao\n웅장한 느낌의 곡 - TTRM\nDestination Unknown - Ugonna Onyekwe",
+    "published": "2026-10-27T12:35:16+00:00",
+    "title": "공간 자체가 정보의 연산과정에서 만들어진다는 새로운 연구",
+    "video_id": "krmeuR6b2sg"
+   },
+   "wait_checks": 0
   },
   "ksS7PSO59l4": {
    "errors": 0,
