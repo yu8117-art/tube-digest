@@ -498,15 +498,7 @@
    "errors": 0,
    "first_seen": "2026-10-26T23:52:57+00:00",
    "published": "2026-10-26T23:38:21+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
-    "channel_name": "소유보다 경험 - 아이언 / 공모주",
-    "description": "아이언의 공모주청약 대시보드 실시간청약경쟁률 LIVE 입니다.\n\n다른 분들과 소통을 원하시면 메인 방송을 이용해주세요.\nhttps://youtube.com/live/_041snw0CuU \n\n어니언 자동계산은 어니언 방송을 이용해주세요. \nhttps://youtube.com/live/nnhULKsvS2c \n\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트(하이브) 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다.\n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
-    "published": "2026-10-26T23:38:21+00:00",
-    "title": "[10/27] 아이언의 공모주청약 대시보드 실시간청약경쟁률 LIVE / 아이엠스팩1호",
-    "video_id": "1abniDHxJks"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "1e0XDNjfgAo": {
@@ -6603,15 +6595,7 @@
    "errors": 0,
    "first_seen": "2026-10-26T22:59:09+00:00",
    "published": "2026-10-26T22:50:54+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
-    "channel_name": "소유보다 경험 - 아이언 / 공모주",
-    "description": "아이엠스팩1호 2일차를 실시간 경쟁률 라이브로 제공합니다.\n자세한 정보는 유튜브 영상과 블로그를 참고해주세요.\nhttps://blog.naver.com/msql/\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다. \n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
-    "published": "2026-10-26T22:50:54+00:00",
-    "title": "[10/27] 아이엠스팩1호 2일차 실시간 청약경쟁률 LIVE",
-    "video_id": "_041snw0CuU"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "_6dNsZ3eMZA": {
@@ -8032,6 +8016,17 @@
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-08-15T01:00:18+00:00",
    "status": "baseline"
+  },
+  "foXMV9CtiTs": {
+   "done_at": "2026-10-27T07:36:08+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-27T07:35:43+00:00",
+   "last_attempt": "2026-10-27T07:35:51+00:00",
+   "notified": "2026-10-27T07:37:52+00:00",
+   "published": "2026-10-27T07:00:19+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "fpTch4A9erE": {
    "done_at": "2026-10-22T08:22:10+00:00",
@@ -9537,15 +9532,7 @@
    "errors": 0,
    "first_seen": "2026-10-26T23:21:54+00:00",
    "published": "2026-10-26T23:08:26+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
-    "channel_name": "소유보다 경험 - 아이언 / 공모주",
-    "description": "이 방송은 아이엠스팩1호 공모주 청약의 어니언 5사6입 라이브입니다.\n\n다른 분들과 소통을 원하시면 메인 방송을 이용해주세요.\nhttps://youtube.com/live/_041snw0CuU \n\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트(하이브) 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다.\n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
-    "published": "2026-10-26T23:08:26+00:00",
-    "title": "[10/27] 아이엠스팩1호 어니언 5사6입 2일차 실시간 공모주 청약경쟁률 LIVE / 아이엠증권(구 하이투자증권)",
-    "video_id": "nnhULKsvS2c"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "ns9ZnZfXu0Q": {
@@ -11031,6 +11018,17 @@
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-09-29T03:45:07+00:00",
    "status": "baseline"
+  },
+  "vVFEw59SgDM": {
+   "done_at": "2026-10-27T07:37:25+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-27T07:35:49+00:00",
+   "last_attempt": "2026-10-27T07:36:08+00:00",
+   "notified": "2026-10-27T07:38:19+00:00",
+   "published": "2026-10-27T07:20:52+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "vW7pVM0s6Ok": {
    "done_at": "2026-10-14T09:48:29+00:00",
