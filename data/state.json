@@ -776,6 +776,21 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "3BPnVnWQ5WY": {
+   "errors": 0,
+   "first_seen": "2026-10-27T08:21:14+00:00",
+   "published": "2026-10-27T07:49:08+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCFhF5oooL5ugxHKvTxBD75Q",
+    "channel_name": "땅집고",
+    "description": "",
+    "published": "2026-10-27T07:49:08+00:00",
+    "title": "[긴급LIVE] \"공사비 폭등에 올스톱 vs 빠른 입주\" 끝까지 가는 정비사업의 필수 조건ㅣ이상우 인베이드투자자문 대표",
+    "video_id": "3BPnVnWQ5WY"
+   },
+   "wait_checks": 0
+  },
   "3CxOJJz9PEs": {
    "done_at": "2026-10-16T08:00:57+00:00",
    "errors": 0,
@@ -4675,6 +4690,21 @@
    "published": "2026-08-13T10:13:28+00:00",
    "status": "baseline"
   },
+  "OfWjge8qJpU": {
+   "errors": 0,
+   "first_seen": "2026-10-27T08:21:13+00:00",
+   "published": "2026-10-27T08:16:57+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-10-27T08:16:57+00:00",
+    "title": "모레노 감독, 목요일 국대명단 발표!! 96, 92 논란, 어떻게 뽑을까 / 캐릭 경질 논의중 / 이정효의 역발 중미 전략",
+    "video_id": "OfWjge8qJpU"
+   },
+   "wait_checks": 0
+  },
   "Oi750nQmO4M": {
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-10-02T07:11:35+00:00",
@@ -5466,6 +5496,17 @@
    "published": "2026-05-25T02:45:50+00:00",
    "status": "baseline"
   },
+  "TBuog5kGlAY": {
+   "done_at": "2026-10-27T08:23:49+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-27T08:21:15+00:00",
+   "last_attempt": "2026-10-27T08:22:31+00:00",
+   "notified": "2026-10-27T08:24:17+00:00",
+   "published": "2026-10-27T08:00:13+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "TDru3oXw3uM": {
    "errors": 0,
    "first_seen": "2026-10-12T10:33:44+00:00",
@@ -6127,6 +6168,17 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "WQYeFgCuUuA": {
+   "done_at": "2026-10-27T08:22:31+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-27T08:21:17+00:00",
+   "last_attempt": "2026-10-27T08:21:18+00:00",
+   "notified": "2026-10-27T08:24:44+00:00",
+   "published": "2026-10-27T07:55:05+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "WbJARnQFzuk": {
    "errors": 0,
    "first_seen": "2026-10-19T11:09:34+00:00",
@@ -6146,15 +6198,7 @@
    "errors": 0,
    "first_seen": "2026-10-27T02:20:53+00:00",
    "published": "2026-10-27T01:53:38+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
-    "channel_name": "스마트튜브(스튜TV)",
-    "description": "인천 정규강의 오프라인) 3주 만에 끝내는 인천 9개 구 완전정복!\nhttps://www.smarttube.kr/web/82?wmod=detail&idx=648\n\n11월 오프라인 세미나) 경기도 총정리 & 2027년 절세 전략 (빠숑&제네시스박)\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=657\n\n이제부터는 오를 곳만 오른다 \n🔹교보문고 http://app.ac/LqnFfb203\n🔹예스24 http://app.ac/8AGBe3533\n\n부동산 끝판왕, 트루카피의 지금 당장 사야 할 아파트 리스트 200!\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=656\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
-    "published": "2026-10-27T01:53:38+00:00",
-    "title": "5차 국가철도망에서 진짜 돈 되는 노선,지역은 '여기'(표찬)",
-    "video_id": "WfEUJ30LHyk"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "WmTcNn597FA": {
