@@ -1719,6 +1719,17 @@
    "published": "2026-10-05T21:12:36+00:00",
    "status": "baseline"
   },
+  "7n5GM9DUUcg": {
+   "done_at": "2026-10-27T11:03:22+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-27T11:01:43+00:00",
+   "last_attempt": "2026-10-27T11:01:52+00:00",
+   "notified": "2026-10-27T11:06:43+00:00",
+   "published": "2026-10-27T11:00:18+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "7n73Vp3PJhs": {
    "errors": 0,
    "first_seen": "2026-10-25T09:36:42+00:00",
@@ -1963,6 +1974,21 @@
    "published": "2026-10-13T11:35:06+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "95byWBST8AU": {
+   "errors": 0,
+   "first_seen": "2026-10-27T11:01:46+00:00",
+   "published": "2026-10-27T11:00:27+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+    "channel_name": "에스오디 SOD",
+    "description": "#에스오디 #기술 #인공지능 #chatgpt #openai",
+    "published": "2026-10-27T11:00:27+00:00",
+    "title": "AI들의 섬뜩한 소통방식",
+    "video_id": "95byWBST8AU"
+   },
    "wait_checks": 0
   },
   "9968iWlK5dc": {
@@ -4454,6 +4480,17 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "NGRxIgfJqQI": {
+   "done_at": "2026-10-27T11:05:49+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-27T11:01:50+00:00",
+   "last_attempt": "2026-10-27T11:05:09+00:00",
+   "notified": "2026-10-27T11:07:38+00:00",
+   "published": "2026-10-27T11:00:34+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "NHSLix_-E2o": {
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-08-24T09:30:48+00:00",
@@ -4723,15 +4760,7 @@
    "errors": 0,
    "first_seen": "2026-10-27T08:21:13+00:00",
    "published": "2026-10-27T08:16:57+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-10-27T08:16:57+00:00",
-    "title": "모레노 감독, 목요일 국대명단 발표!! 96, 92 논란, 어떻게 뽑을까 / 캐릭 경질 논의중 / 이정효의 역발 중미 전략",
-    "video_id": "OfWjge8qJpU"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "Oi750nQmO4M": {
@@ -7980,6 +8009,17 @@
    "published": "2026-10-04T23:00:27+00:00",
    "status": "baseline"
   },
+  "f1tkcXZP_vE": {
+   "done_at": "2026-10-27T11:04:07+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-27T11:01:49+00:00",
+   "last_attempt": "2026-10-27T11:03:22+00:00",
+   "notified": "2026-10-27T11:07:10+00:00",
+   "published": "2026-10-27T11:00:22+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "f2-iGCJRz7A": {
    "done_at": "2026-10-20T09:02:45+00:00",
    "errors": 0,
@@ -8212,6 +8252,17 @@
    "last_attempt": "2026-10-12T06:37:01+00:00",
    "notified": "2026-10-12T06:41:19+00:00",
    "published": "2026-10-11T10:24:58+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "gUem3y969uE": {
+   "done_at": "2026-10-27T11:05:09+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-27T11:01:43+00:00",
+   "last_attempt": "2026-10-27T11:04:07+00:00",
+   "notified": "2026-10-27T11:06:16+00:00",
+   "published": "2026-10-27T11:00:31+00:00",
    "source": "video",
    "status": "done",
    "wait_checks": 0
