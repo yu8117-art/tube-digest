@@ -958,6 +958,17 @@
    "published": "2026-10-05T07:00:23+00:00",
    "status": "baseline"
   },
+  "4NjqLmXhoQA": {
+   "done_at": "2026-10-27T09:45:32+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-27T09:45:00+00:00",
+   "last_attempt": "2026-10-27T09:45:06+00:00",
+   "notified": "2026-10-27T09:45:58+00:00",
+   "published": "2026-10-27T09:30:27+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "4QGwCQ0ua4g": {
    "errors": 0,
    "first_seen": "2026-10-15T09:11:37+00:00",
@@ -7781,6 +7792,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "eBk5foUHZIc": {
+   "errors": 0,
+   "first_seen": "2026-10-27T09:45:04+00:00",
+   "published": "2026-10-27T07:47:15+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+    "channel_name": "언더스탠딩 : 세상의 모든 지식",
+    "description": "제작 지원\n(주) 고래사 / 듀오 주식회사 / 어슈런스(주) / 한화자산운용(주) \n\n▶ https://www.musinsa.com/curator/shop/GyVEuRcF\n*본 링크는 무신사 큐레이터 활동의 일환으로 링크를 통해 구매가 발생할 경우 일정 수수료를 제공 받습니다",
+    "published": "2026-10-27T07:47:15+00:00",
+    "title": "10/27(화) \"알래스카 LNG, 실낱같은 기회도 있다\" (권효재 대표 / COR에너지인사이트)",
+    "video_id": "eBk5foUHZIc"
+   },
+   "wait_checks": 0
+  },
   "eDkBla8nrsA": {
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-09-17T05:00:09+00:00",
@@ -9610,6 +9636,21 @@
    "first_seen": "2026-10-26T23:21:54+00:00",
    "published": "2026-10-26T23:08:26+00:00",
    "status": "skipped_live",
+   "wait_checks": 0
+  },
+  "nrk3SM1ogEY": {
+   "errors": 0,
+   "first_seen": "2026-10-27T09:44:57+00:00",
+   "published": "2026-10-27T09:06:16+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC7F6UDq3gykPZHWRhrj_BDw",
+    "channel_name": "사물궁이 잡학지식",
+    "description": "- 사물궁이 유튜브 채널 구독 : https://youtube.com/@사물궁이\n- 사물궁이 시리즈 정주행 : https://youtube.com/playlist?list=PLs8vi5Jd35y55jcjDHMWIXfWjl206sSSF\n- 궁금증 제보 : https://forms.gle/xT6HQEpVTYbfe9EY8\n- 유튜브 멤버십 가입 : https://youtube.com/channel/UC7F6UDq3gykPZHWRhrj_BDw/join\n- E-Mail : facebookspeedwg@gmail.com",
+    "published": "2026-10-27T09:06:16+00:00",
+    "title": "왜 할 일을 자꾸 미루게 될까?",
+    "video_id": "nrk3SM1ogEY"
+   },
    "wait_checks": 0
   },
   "ns9ZnZfXu0Q": {
