@@ -5266,15 +5266,7 @@
    "errors": 0,
    "first_seen": "2026-10-27T02:59:33+00:00",
    "published": "2026-10-27T02:50:12+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "전문가 알려주는 추천단지가 궁금하다면\n바이집 멤버십 : https://www.buyzip.kr",
-    "published": "2026-10-27T02:50:12+00:00",
-    "title": "경매당한부모님모셔야할까요/40대,이젠독립해도될까요 [상담하는남자들]",
-    "video_id": "SI4FJR6VdAg"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "SJhCTon5-54": {
