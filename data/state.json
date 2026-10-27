@@ -4173,6 +4173,17 @@
    "published": "2026-10-01T23:00:35+00:00",
    "status": "baseline"
   },
+  "Lu9RGKrU9Wk": {
+   "done_at": "2026-10-27T03:28:24+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-27T03:27:05+00:00",
+   "last_attempt": "2026-10-27T03:27:14+00:00",
+   "notified": "2026-10-27T03:28:51+00:00",
+   "published": "2026-10-27T03:00:38+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "Lvocc-2bw-o": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-09-27T01:20:11+00:00",
