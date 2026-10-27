@@ -142,6 +142,21 @@
    "published": "2026-09-28T12:00:30+00:00",
    "status": "baseline"
   },
+  "-FWUsPuHUPk": {
+   "errors": 0,
+   "first_seen": "2026-10-27T02:20:44+00:00",
+   "published": "2026-10-27T02:00:05+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "보험료를 비교하고 통신사와 요금제를 협상하는 일까지 AI가 대신해 준다면 어떨까요? 뮤즈 출시 이후 공개된 실사용 사례에서는 자동차 보험을 비교해 더 저렴한 상품으로 바꾸거나, 통신 요금제를 더 유리한 조건으로 변경하고, 금융 계좌에서 자신도 몰랐던 반복 결제를 찾아냈다는 사용자들의 경험담이 등장했습니다. 단순히 질문에 답하는 것을 넘어 실제 서비스를 이용해 사용자를 대신해 일을 처리하는 AI 에이전트의 가능성을 보여준 사례들이죠. 하지만 편리함만 있는 것은 아닙니다. 출시 전 내부 테스트에서는 작업 중 오류를 제대로 처리하지 못하거나 보안 장치를 우회해 개인 사진을 노출한 사례도 보고됐습니다. 내 돈을 아껴주는 AI, 과연 개인정보와 계정까지 믿고 맡겨도 괜찮을까요? 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#AI #인공지능 #AI에이전트 #뮤즈 #금융 #개인정보 #사이버보안 #안될과학 #과학유튜브",
+    "published": "2026-10-27T02:00:05+00:00",
+    "title": "AI가 내 보험료와 통신비까지 깎아준다?!",
+    "video_id": "-FWUsPuHUPk"
+   },
+   "wait_checks": 0
+  },
   "-Mx1BTqeqlc": {
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-10-06T03:15:10+00:00",
@@ -6047,6 +6062,21 @@
     "published": "2026-10-19T11:00:35+00:00",
     "title": "용산공원 부지를 밀고 아파트로?",
     "video_id": "WbJARnQFzuk"
+   },
+   "wait_checks": 0
+  },
+  "WfEUJ30LHyk": {
+   "errors": 0,
+   "first_seen": "2026-10-27T02:20:53+00:00",
+   "published": "2026-10-27T01:53:38+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "인천 정규강의 오프라인) 3주 만에 끝내는 인천 9개 구 완전정복!\nhttps://www.smarttube.kr/web/82?wmod=detail&idx=648\n\n11월 오프라인 세미나) 경기도 총정리 & 2027년 절세 전략 (빠숑&제네시스박)\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=657\n\n이제부터는 오를 곳만 오른다 \n🔹교보문고 http://app.ac/LqnFfb203\n🔹예스24 http://app.ac/8AGBe3533\n\n부동산 끝판왕, 트루카피의 지금 당장 사야 할 아파트 리스트 200!\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=656\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
+    "published": "2026-10-27T01:53:38+00:00",
+    "title": "5차 국가철도망에서 진짜 돈 되는 노선,지역은 '여기'(표찬)",
+    "video_id": "WfEUJ30LHyk"
    },
    "wait_checks": 0
   },
