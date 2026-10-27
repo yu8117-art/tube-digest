@@ -4303,6 +4303,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "MViNbwb2xEc": {
+   "errors": 0,
+   "first_seen": "2026-10-27T12:15:09+00:00",
+   "published": "2026-10-27T12:00:15+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/",
+    "published": "2026-10-27T12:00:15+00:00",
+    "title": "\"모레노 명단발표\" 대표팀 내부 불화설, 명단 발표에 영향 있을까?",
+    "video_id": "MViNbwb2xEc"
+   },
+   "wait_checks": 0
+  },
   "M_Y0jE9P8wE": {
    "first_seen": "2026-10-09T08:14:30+00:00",
    "published": "2026-10-07T09:55:36+00:00",
