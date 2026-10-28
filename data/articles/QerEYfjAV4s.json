@@ -1,0 +1,78 @@
+{
+ "video": {
+  "video_id": "QerEYfjAV4s",
+  "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+  "channel_name": "에스오디 SOD",
+  "title": "\"머스크도 긴장했다\" 로봇 양산 시작한 테슬라, 결국 한국 메모리에 발목 잡혔다 ㄷㄷ",
+  "published": "2026-10-28T09:00:28+00:00",
+  "description": "메모리 공급 부족으로 인해 일론 머스크가 AI 칩 용량을 줄이겠다 발표했습니다.\n일론 머스크는 테라팹으로 AI칩 역량을 확보할 수 있을까요?\n\n- 하이젠버그에서 더 자세한 정보를 얻어가세요: https://heisenberg.kr\n\n- 인스타그램: https://www.instagram.com/softdragon__/\n\n- Chapter\n0:00 인트로\n0:59 머스크의 선택\n3:45 메모리 감축\n6:07 삼전닉스 전망\n8:53 앞으로의 미래\n\n- 내용 출처\n1. John Power, \"Elon Musk says SpaceX and Tesla exploring largest merger in history\", Al Jazeera, 2026\n2. SpaceX, \"SpaceX Reports Third Quarter 2026 Results\", SpaceX(미국 증권거래위원회 제출본), 2026\n3. Elon Musk, \"We cut our RAM in half for the Tesla AI5 chip (now 72GB of LP5) and 1/3 for AI6 (now 144GB of LP6)\", X, 2026\n4. Park Shin-won, \"Chip Suppliers Tumble Over 20% as Samsung, SK hynix Slide\", Seoul Economic Daily, 2026\n5. Ethan Qi, \"로봇 D램 수요, 2030년까지 20배 증가…삼성전자·SK하이닉스 성장동력 확대\", Counterpoint Research, 2026\n6. Stewart Burnett, \"Musk unveils Terafab as Tesla-SpaceX joint chip venture\", Automotive World, 2026\n7.Tesla, \"Q1 2026 Update\", Tesla, 2026\n8. TrendForce, \"[News] AI Reportedly to Consume 20% of Global DRAM Wafer Capacity in 2026, HBM and GDDR7 Lead Demand\", TrendForce, 2025\n9. 김이슬, \"메모리 품귀에 칩 다이어트 확산…삼전닉스 여파는\", MTN 머니투데이방송, 2026\n10. Tesla, \"Q3 2026 Update\", Tesla, 2026\n11. Elon Musk, \"Actually, we decided to nudge AI5 up a little to 96GB\", X, 2026\n12. Elon Musk, \"Best was working with such a great team of AI hardware & software engineers!\", X, 2026\n13. Larry Dignan, \"Nvidia's Groq deal: Acquisition, acquihire or creative licensing deal?\", Constellation Research, 2025\n14. Kim Kyung-mi, \"Humanoid robots eyed as next driver of memory chip demand\", Korea JoongAng Daily, 2026\n15. 원종환, \"성과급 7.5억 내걸었다…삼성전자, '코어팀' 본격 가동”, 한국경제, 2026\n16. Elon Musk Archive, \"Tesla Q1 2026 earnings call\", Elon Musk Archive, 2026\n17. TrendForce, \"[News] Tesla's Terafab Takes Shape in Texas with $16.8B First Phase; Memory Engineering Hiring Signals DRAM Push\", TrendForce, 2026\n\n- BGM\n1. Beyond the Frame - Creative Cut - Sped Up by lumine wave\n2. Empress by Veaceslav Draganov\n3. Resonate - Instrumental version by Romeo\n4. Wake Up Call by Ran Raiten\n5. Rebellions by AlexGrohl",
+  "url": "https://www.youtube.com/watch?v=QerEYfjAV4s"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/QerEYfjAV4s/maxresdefault.jpg",
+ "source": "video",
+ "duration": 699,
+ "summary": {
+  "headline": "테슬라의 메모리 감축과 삼성전자·SK하이닉스에 미치는 영향",
+  "thumbnail_text": "머스크도 긴장했다 한국 칩이 두려운 이유",
+  "thumbnail_answer": "테슬라는 메모리 공급 부족으로 인해 AI 칩 RAM 용량을 줄이는 설계를 선택했다. 이는 로봇 산업의 메모리 수요 급증과 맞물려 국내 반도체 기업들에게 새로운 기회와 위기를 동시에 안겨주고 있다.",
+  "conclusion": "테슬라의 메모리 감축과 테라팹 추진은 메모리 산업에 큰 변화를 예고한다. 단기적으로는 메모리 수요 감소에 대한 우려가 있지만, 장기적으로 피지컬 AI 시장의 성장은 삼성전자와 SK하이닉스에게 거대한 새로운 기회가 될 것이다.",
+  "key_points": [
+   "테슬라는 AI 칩인 AI5와 AI6의 RAM 용량을 대폭 줄이기로 결정했다.",
+   "이는 옵티머스 양산에 필요한 메모리 물량을 확보하고 비용을 절감하기 위한 조치다.",
+   "2030년까지 휴머노이드 로봇에 들어가는 D램 전체 수요는 20배 이상 늘어날 전망이다.",
+   "머스크는 메모리 용량을 줄이더라도 대역폭을 유지하여 성능 저하를 최소화하고자 한다.",
+   "삼성전자와 SK하이닉스는 차세대 저전력 DRAM과 로봇용 메모리 개발에 나서고 있다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "인트로",
+    "points": [
+     "테슬라의 AI5 칩 RAM 용량 축소 발표 내용 소개"
+    ]
+   },
+   {
+    "seconds": 59,
+    "title": "머스크의 선택",
+    "points": [
+     "로봇과 AI 데이터센터 사업 확대로 인한 메모리 수요 급증"
+    ]
+   },
+   {
+    "seconds": 225,
+    "title": "메모리 감축",
+    "points": [
+     "HBM 등 AI용 메모리로 인한 일반 D램 공급 부족 문제 설명"
+    ]
+   },
+   {
+    "seconds": 367,
+    "title": "삼전닉스 전망",
+    "points": [
+     "메모리 감축이 삼성전자와 SK하이닉스 주가 및 실적에 미치는 영향 분석"
+    ]
+   },
+   {
+    "seconds": 533,
+    "title": "앞으로의 미래",
+    "points": [
+     "테라팹 추진과 피지컬 AI 시장의 장기적인 성장 가능성 전망"
+    ]
+   }
+  ],
+  "tags": [
+   "테슬라",
+   "일론머스크",
+   "메모리",
+   "삼성전자",
+   "SK하이닉스",
+   "반도체"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 66126,
+   "output_tokens": 691
+  }
+ },
+ "created_at": "2026-10-28T09:28:16+00:00"
+}
