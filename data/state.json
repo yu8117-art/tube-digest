@@ -913,6 +913,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "3saDrEH21eU": {
+   "errors": 0,
+   "first_seen": "2026-10-28T08:35:15+00:00",
+   "published": "2026-10-28T08:11:23+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-10-28T08:11:23+00:00",
+    "title": "모레노 명단발표 D-1!! 손흥민 파트너, 누구 뽑을까? 오현규 조규성 이영준 오세훈?",
+    "video_id": "3saDrEH21eU"
+   },
+   "wait_checks": 0
+  },
   "40ea8JvdZhs": {
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2025-02-26T02:08:11+00:00",
@@ -1620,18 +1635,14 @@
    "wait_checks": 0
   },
   "7IlCe6FpMvo": {
+   "done_at": "2026-10-28T08:35:42+00:00",
    "errors": 0,
    "first_seen": "2026-10-28T07:45:45+00:00",
+   "last_attempt": "2026-10-28T08:35:24+00:00",
+   "notified": "2026-10-28T08:47:28+00:00",
    "published": "2026-10-28T07:07:54+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCRCNBeNS8MrOwFV6h6Yjemw",
-    "channel_name": "시황맨TV",
-    "description": "주식 시황. 증시, AI 위기론 깨버린 빅호재. SK하이닉스 실적, 주주환원, 증시 영향 총정리. 오를 이유 또 있다. 약 300조원대 숨은 호재. 이후 증시 전망과 조심할 변수 \n\n방송 요약\n증시, AI 위기론 깨버린 빅호재. \nSK하이닉스 실적, 예상치와 비교해 보니\n주주환원, 업황 전망 등 컨콜 핵심 분석\n향 후 증시 영향 총정리. \n오를 이유 또 있었다. 약 300조원대 숨은 호재. \n투자 주체별 움직임. 주요 특징주 분석\n이번 상승 이 후 증시 전망은 \n\n#삼성전자, #테슬라 ,#채권 ,#에코프로비엠 ,#sk하이닉스 ,#주식시황 ,#에코프로 ,#애플 ,#엔비디아 ,#국제유가 ,#증시전망 ,#환율 ,#국채금리 ,#마이크론테크,#코스닥 ,#엘앤에프 ,#미국주식,#해외증시 ,#다우지수 ,#마이크론테크 ,#채권금리 ,#LG에너지솔루션 ,#반도체주식 ,#HBM관련주 ,#FOMC ,#비트코인 ,#LG에너지솔루션 ,#가상화폐 ,#암호화폐 ,#셀트리온,#셀트리온제약 ,#ai관련주 ,#TSMC,#KB금융 ,#저PBR ,#밸류업 ,#기아 ,#한미반도체 ,#파월의장 ,#경기선행지수 ,#한미약품 ,#엘앤에프 , #태양광관련주 ,#구리관련주 ,#TSMC ,#PCE ,#대차대조표 ,#HLB ,#CPI ,#JP모건 ,#모건스탠리 ,#셀트리온 ,#삼성전자HBM ,#CPI ,#달러차트 ,#HLB ,#삼성전자HBM ,#미국고용지표  ,#알테오젠 ,#트럼프 ,#ISM제조업지수 ,#BTS ,#금투세 ,#모건스탠리 ,#밸류업지수 ,#북한 ,#고려아연 ,#금양 ,#엔달러 ,#엔캐리트레이드 ,#로봇관련주 ,#레인보우로보틱스 ,#딥시크 ,#DeepSeek ,#관세 ,#트럼프관세 ,#무역전쟁 ,#관세전쟁 ,#세법개정안 ,#스테이블코인 ,#주식양도세 ,#파운드리 ,#PPI ,#생산자물가지수 ,#한화오션 ,#양적긴축 ,#부동산정책 ,#부동산대책 ,#FOMC ,#주주환원 ,#관세협상 ,#ADR ,#HBM ,#HBM4 ,#마이클버리 ,#빅쇼트 ,#사이드카 ,#매출채권 ,#제미나이3 ,#TPU ,#오라클 ,#잭슨홀 ,#환헤지 ,#전략적환헤지, #잭슨홀미팅 ,#SMR ,#BTS ,#블루아울 ,#IEEPA ,#국제비상경제권한법 ,#이란전쟁 ,#호르무즈 ,#호르무즈해협 ,#에이비엘바이오 ,#휴전 ,#스페이스X ,#젠슨황 ,#케빈워시 ,#마이크론실적 ,#삼성전자ETF ,#EUV ,#DUV ,#서킷브레이커 ,#아스트라AI ,#CXMT ,#코어위브 ,#프랑스",
-    "published": "2026-10-28T07:07:54+00:00",
-    "title": "주식 시황. 증시, AI 위기론 깨버린 빅호재. SK하이닉스 실적, 주주환원, 증시 영향 총정리. 오를 이유 또 있다. 약 300조원대 숨은 호재. 이후 증시 전망과 조심할 변수",
-    "video_id": "7IlCe6FpMvo"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "7Kml4CwuXOs": {
@@ -4989,6 +5000,17 @@
    "published": "2026-08-21T10:00:23+00:00",
    "status": "baseline"
   },
+  "P-xwLhcApDM": {
+   "done_at": "2026-10-28T08:43:35+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-28T08:35:17+00:00",
+   "last_attempt": "2026-10-28T08:42:29+00:00",
+   "notified": "2026-10-28T08:47:30+00:00",
+   "published": "2026-10-28T08:30:06+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "P13t65dbIdo": {
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-10-01T12:18:08+00:00",
@@ -7407,6 +7429,17 @@
    "published": "2026-08-28T22:45:06+00:00",
    "status": "baseline"
   },
+  "b6-kyiV1QwE": {
+   "done_at": "2026-10-28T08:39:04+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-28T08:35:23+00:00",
+   "last_attempt": "2026-10-28T08:35:42+00:00",
+   "notified": "2026-10-28T08:47:31+00:00",
+   "published": "2026-10-28T07:55:33+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "b61LbkoCBFM": {
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-08-09T02:00:16+00:00",
@@ -8198,19 +8231,14 @@
    "wait_checks": 0
   },
   "ei_IiiPuzNs": {
+   "done_at": "2026-10-28T08:47:28+00:00",
    "errors": 0,
    "first_seen": "2026-10-28T07:45:44+00:00",
-   "last_attempt": "2026-10-28T07:46:06+00:00",
+   "last_attempt": "2026-10-28T08:43:35+00:00",
+   "notified": "2026-10-28T08:47:29+00:00",
    "published": "2026-10-28T07:00:24+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘운명을 바꾸는 부동산 투자수업\n👉http://bit.ly/3tML9k0\n\n집값 2035년까지 오릅니다, 내집마련해야 하는 진짜 이유\n전세난보다 무서운 게 옵니다, 2년 뒤 부동산 시장이 위험한 이유\n한국 아파트 싹다 물갈이된다? 집값 내년부터 이렇게 됩니다\n\n☞촬영일: 26년 10월 19일",
-    "published": "2026-10-28T07:00:24+00:00",
-    "title": "집값 2035년까지 오릅니다, 내집마련해야 하는 진짜 이유 [심형석 교수 풀버전]",
-    "video_id": "ei_IiiPuzNs"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "ekZ30e6Lxvw": {
@@ -9409,6 +9437,21 @@
     "published": "2026-10-24T03:00:19+00:00",
     "title": "다주택자 규제의 대참사, 2~3년 뒤 진짜 지옥 온다 #shorts",
     "video_id": "kvE_UlBzmgs"
+   },
+   "wait_checks": 0
+  },
+  "kwvXo7RIuMU": {
+   "errors": 0,
+   "first_seen": "2026-10-28T08:35:20+00:00",
+   "published": "2026-10-28T08:30:28+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n서울 평당가 1억, 30평대 말고 '이 평수' 사세요\n\n☞촬영일: 26년 10월 19일",
+    "published": "2026-10-28T08:30:28+00:00",
+    "title": "서울 평당가 1억, 30평대 말고 '이 평수' 사세요 [심형석 교수]",
+    "video_id": "kwvXo7RIuMU"
    },
    "wait_checks": 0
   },
@@ -11153,6 +11196,17 @@
     "title": "Manus 2.0으로 만든 반도체 쇼티지 게임!! ㅋㅋㅋ 원하는 영상 넣으면 스타일도 만들어준다!",
     "video_id": "tKaUk1pKvOQ"
    },
+   "wait_checks": 0
+  },
+  "tSDElwgP8KM": {
+   "done_at": "2026-10-28T08:42:29+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-28T08:35:20+00:00",
+   "last_attempt": "2026-10-28T08:39:04+00:00",
+   "notified": "2026-10-28T08:47:30+00:00",
+   "published": "2026-10-28T08:00:11+00:00",
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "tSaA_rN_cWQ": {
