@@ -1698,6 +1698,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "7hvmTFb7XO4": {
+   "done_at": "2026-10-28T03:33:04+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-28T03:28:21+00:00",
+   "last_attempt": "2026-10-28T03:28:29+00:00",
+   "notified": "2026-10-28T03:33:05+00:00",
+   "published": "2026-10-28T03:00:09+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "7jD67zXfr0g": {
    "article_url": "https://yu8117-art.github.io/tube-digest/a/7jD67zXfr0g.html",
    "done_at": "2026-10-09T10:10:55+00:00",
