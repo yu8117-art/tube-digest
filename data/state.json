@@ -3455,6 +3455,17 @@
    "published": "2026-08-02T02:00:27+00:00",
    "status": "baseline"
   },
+  "Hp9fvsaNsVw": {
+   "done_at": "2026-10-28T05:28:10+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-28T05:27:50+00:00",
+   "last_attempt": "2026-10-28T05:27:52+00:00",
+   "notified": "2026-10-28T05:28:10+00:00",
+   "published": "2026-10-28T05:00:26+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "HqV7T-AmCCY": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-08T08:01:39+00:00",
