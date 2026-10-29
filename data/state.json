@@ -2362,6 +2362,17 @@
    "published": "2026-10-02T10:00:00+00:00",
    "status": "baseline"
   },
+  "A8Q2W97hWSk": {
+   "done_at": "2026-10-29T10:23:29+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-29T10:17:28+00:00",
+   "last_attempt": "2026-10-29T10:21:09+00:00",
+   "notified": "2026-10-29T10:37:33+00:00",
+   "published": "2026-10-29T09:30:38+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "ACiTnMyE3AA": {
    "errors": 0,
    "first_seen": "2026-10-17T01:05:11+00:00",
@@ -5524,18 +5535,14 @@
    "wait_checks": 0
   },
   "QJZPWt2EBho": {
+   "done_at": "2026-10-29T10:20:37+00:00",
    "errors": 0,
    "first_seen": "2026-10-29T09:29:00+00:00",
+   "last_attempt": "2026-10-29T10:19:09+00:00",
+   "notified": "2026-10-29T10:37:32+00:00",
    "published": "2026-10-29T09:14:38+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
-    "channel_name": "지식인사이드",
-    "description": "오늘은 이명현 박사 님을 모시고\n과학자가 말하는 외계인의 실체와 우주에서 온 수상한 신호의 진실에 대해 들어봤습니다.\n\n영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요!\n\n#지식인사이드 #이명현 #외계인 #UFO #우주과학 #태비의별\n\n00:00 인트로\n00:30 구독자 인사\n00:50 천문학자들이 실제로 쓰는 고백의 기술\n03:13 천문학자가 외계인이 99.9% 존재한다 확신하는 이유\n04:55 외계인 전문가가 포착한 수상한 외계 신호\n07:16 인류가 외계인에게 계속 신호를 보내는 이유\n09:17 과학자가 외계 문명의 흔적을 찾아내는 뜻밖의 방법들\n11:35 외계 행성까지 찾아주는 요즘 AI 근황\n13:32 외계 문명과의 접촉이 인류의 재앙인 이유\n16:09 외계인이 우리 앞에 나타난다면 '이런 모습'일 겁니다\n19:17 미국 국방부가 UFO 영상을 공개한 숨겨진 이유\n21:00 드디어 찾은 외계 문명? 태비의 별의 정체\n24:14 '이것'만 알아내면 우주의 모든 비밀이 풀립니다\n27:05 천문학자가 외계인을 만나면 꼭 물어보고 싶은 한 가지\n\n👇지식인사이드에 출연을 원하신다면 여기를 눌러주세요\nhttps://forms.gle/u4LxVcwFdhvkLH8m6\nknowledgeinside7@gmail.com\n\n👇 다양한 채널에서 지식인사이드의 지식을 얻고 싶다면 여기를 눌러주세요\n인스타그램: https://www.instagram.com/knowledgeins_kr/\n페이스북: https://www.facebook.com/knowledgeIns7?mibextid=LQQJ4d\n네이버 TV: https://tv.naver.com/purejboy2\n틱톡: https://www.tiktok.com/@allstorieskr?lang=ko-KR\n네이버 카페: https://cafe.naver.com/knowledgeins\n\nCopyright Ⓒ 지식인사이드. All rights reserved.\n\n본 콘텐츠(영상, 이미지, 음성, 대본, 편집물, 썸네일 포함)는 저작권 및 관련 권리의 보호를 받습니다.\n\n저작권자의 사전 승인 없이 복제, 배포, 수정, 재가공, 업로드, AI 학습 및 데이터셋 구축, 2차 저작물 제작(쇼츠·릴스 포함) 등 일체의 상업적 이용 및 수익화를 금지합니다.\n\n📧 콘텐츠 사용 및 협의 문의: knowledgeinside7@gmail.com",
-    "published": "2026-10-29T09:14:38+00:00",
-    "title": "외계인은 '이런 모습'으로 인류 앞에 나타날 겁니다ㅣ지식인 클래스 EP.35 (이명현 박사)",
-    "video_id": "QJZPWt2EBho"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "QKQM1Z2v0tY": {
@@ -5727,6 +5734,21 @@
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-09-30T12:05:53+00:00",
    "status": "baseline"
+  },
+  "RGasdOpNqvY": {
+   "errors": 0,
+   "first_seen": "2026-10-29T10:17:30+00:00",
+   "published": "2026-10-29T10:13:09+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
+    "channel_name": "지식보관소",
+    "description": "화성 생존게임 : https://store.steampowered.com/app/5440610\n#외계문명 #SETI #외계행성 #우주 #지식보관소 #Shorts\n\n외계문명은 조용한 걸까요, 아니면 우리가 신호를 찾는 방식에 한계가 있었던 걸까요?\n좁은 주파수의 전파에 주목해 온 탐색 방식과 신호가 퍼지는 문제, 특정 별을 향한 교신 가능성에 주목하는 새로운 아이디어를 살펴봅니다. 더 많은 외계행성을 찾는 일이 왜 외계문명 탐색과 연결되는지도 영상에서 확인해 보세요.\n\n이번 내용은 외계문명을 발견했다는 발표가 아니라, 신호를 놓칠 가능성과 탐색 전략에 관한 연구·제안을 소개합니다. 자세한 배경은 풀영상에서 이어집니다.\n\n원본영상\nhttps://youtu.be/aQmUrDZRCf0?si=6Z3BDTnMg7MvMCv4\n\n------- 본계정(지식보관소) -------\nhttps://www.youtube.com/@지식보관소\n-----------게임 개발 관련-----------\nhttps://asdfg3663-alt.github.io/\n------- 비지니스 문의 -------\nE-Mail : asdfg3663@gmail.com",
+    "published": "2026-10-29T10:13:09+00:00",
+    "title": "외계인이 없는게 아니라 지금까지 방법이 찾을 수 없는 방법이었음이 밝혀졌다",
+    "video_id": "RGasdOpNqvY"
+   },
+   "wait_checks": 0
   },
   "RLyXXpD2EAI": {
    "errors": 0,
@@ -6935,18 +6957,14 @@
    "wait_checks": 0
   },
   "X-IBG4adoaw": {
+   "done_at": "2026-10-29T10:19:09+00:00",
    "errors": 0,
    "first_seen": "2026-10-29T09:28:58+00:00",
+   "last_attempt": "2026-10-29T10:17:37+00:00",
+   "notified": "2026-10-29T10:37:32+00:00",
    "published": "2026-10-29T09:00:10+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n삼전 닉스 지금 안 팔고 버텨도 될까? 저는 장기적으로 ‘이렇게’ 봅니다\n삼전 닉스 지금 매수한다면 반드시 ‘이렇게’ 나눠 사세요\n삼전 닉스 한 번에 사지 마세요, 저라면 ‘이렇게’ 분할매수합니다\n\n☞촬영일: 26년 10월 23일",
-    "published": "2026-10-29T09:00:10+00:00",
-    "title": "삼전 닉스 지금 안 팔고 버텨도 될까? 저는 장기적으로 ‘이렇게’ 봅니다 [김장열 센터장 4부]",
-    "video_id": "X-IBG4adoaw"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "X6ES9ks4SwE": {
@@ -9717,6 +9735,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "jIVk52OhwNk": {
+   "done_at": "2026-10-29T10:37:31+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-29T10:17:32+00:00",
+   "last_attempt": "2026-10-29T10:23:29+00:00",
+   "notified": "2026-10-29T10:37:35+00:00",
+   "published": "2026-10-29T10:00:07+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "jJhhW9Lj-wE": {
    "errors": 0,
    "first_seen": "2026-10-13T02:06:27+00:00",
@@ -9861,6 +9890,21 @@
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-09T05:00:08+00:00",
    "status": "baseline"
+  },
+  "k6CDRTmyAHo": {
+   "errors": 0,
+   "first_seen": "2026-10-29T10:17:24+00:00",
+   "published": "2026-10-29T10:07:50+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "0:08 일본 농촌 현황 및 일본의 농협(JA)\n8:32 국내 금융업권 현황 및 상호금융 특수성\n11:46 농협의 구조 및 장점\n16:48 경기침체에 대응하는 농협의 역할\n21:38 농협상호금융 예금자 보호제도\n\n본 영상은 농협중앙회로부터 제작비를 지원받아 제작된 유료 광고를 포함하고 있습니다.\n\n짚고 넘어가야 할 경제 상식, 오늘은 '농협'에 대해 봅니다!\n\n🏦 국내 금융시장에서 상호금융이 가진 독특한 위치\n🔍 우리가 몰랐던 농협의 구조와 농협만의 차별화된 경쟁력\n🛡️ 경기침체 속에서 더욱 빛을 발하는 농협의 역할 & 예금자 보호제도까지\n\n슈카가 알기 쉽게 풀어주는 경제·금융 상식, 놓치지 마세요!\n농협상호금융 더 알아보러 가기\nhttps://youtube.com/@nh_sangho?si=EdWoJ9qzzTdA5hgg",
+    "published": "2026-10-29T10:07:50+00:00",
+    "title": "뼈를 깎는 구조조정에 들어간 협동조합들",
+    "video_id": "k6CDRTmyAHo"
+   },
+   "wait_checks": 0
   },
   "k8GZWziw3uI": {
    "done_at": "2026-10-27T13:44:29+00:00",
@@ -12145,6 +12189,17 @@
    },
    "wait_checks": 0
   },
+  "uFXR_phcvno": {
+   "done_at": "2026-10-29T10:21:08+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-29T10:17:32+00:00",
+   "last_attempt": "2026-10-29T10:20:38+00:00",
+   "notified": "2026-10-29T10:37:34+00:00",
+   "published": "2026-10-29T09:30:20+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "uIeJNtDnZUM": {
    "done_at": "2026-10-19T23:53:20+00:00",
    "errors": 0,
@@ -12789,6 +12844,21 @@
     "published": "2026-10-26T02:46:10+00:00",
     "title": "정부가 전국민에게 AI 사용료 4만원을 준다고?",
     "video_id": "xSxnii4W-Pc"
+   },
+   "wait_checks": 0
+  },
+  "xWFYSsLEmOI": {
+   "errors": 0,
+   "first_seen": "2026-10-29T10:17:36+00:00",
+   "published": "2026-10-29T08:04:01+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+    "channel_name": "언더스탠딩 : 세상의 모든 지식",
+    "description": "제작 지원\n(주) 고래사 / 듀오 주식회사 / 어슈런스(주) / 한화자산운용(주) \n\n▶ https://www.musinsa.com/curator/shop/GyVEuRcF\n*본 링크는 무신사 큐레이터 활동의 일환으로 링크를 통해 구매가 발생할 경우 일정 수수료를 제공 받습니다",
+    "published": "2026-10-29T08:04:01+00:00",
+    "title": "Live on 10/29(목) 프랑스는 이래서 망가진 겁니다 (손진석 기자/'부자 미국 가난한 유럽' 저자)",
+    "video_id": "xWFYSsLEmOI"
    },
    "wait_checks": 0
   },
