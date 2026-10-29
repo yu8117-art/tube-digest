@@ -963,18 +963,14 @@
    "status": "baseline"
   },
   "3Rh9THir2gA": {
+   "done_at": "2026-10-29T11:48:59+00:00",
    "errors": 0,
    "first_seen": "2026-10-29T11:08:53+00:00",
+   "last_attempt": "2026-10-29T11:48:21+00:00",
+   "notified": "2026-10-29T11:58:36+00:00",
    "published": "2026-10-29T10:50:13+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCXql5C57vS4ogUt6CPEWWHA",
-    "channel_name": "김지윤의 지식Play",
-    "description": "#닉슨 #트럼프 #미국대통령\n\n관세 10%, 미군 철수...\n그런데 트럼프가 아니라 닉슨의 정책?\n\n즐거움과 유익함이 가득가득, 김지윤의 지식Play!\nkimjyTV@gmail.com\n\n📑 참고문헌 📑\nNixon, R. (1971, August 15). Address to the nation outlining a new economic policy: “The Challenge of Peace.” | The American Presidency Project. https://www.presidency.ucsb.edu/documents/address-the-nation-outlining-new-economic-policy-the-challenge-peace\nNixon, R. M. (1969, November 3). Address to the nation on the war in Vietnam. The American Presidency Project.\nMann, L. (2026, September 22). Trump signals possible Russia-Ukraine peace deal: \"I think something is going to happen.\" One America News Network. https://www.oann.com/newsroom/trump-signals-possible-russia-ukraine-peace-deal-i-think-something-is-going-to-happen/\nUS envoys arrive in Kyiv for Ukraine war talks after meeting Putin. (2026, September 5). Al Jazeera. https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war\nHughes, K. (2016). Richard Nixon: Foreign Affairs | Miller Center. Miller Center. https://millercenter.org/president/nixon/foreign-affairs\nBoys, J. D. (2021). The unpredictability factor: Nixon, Trump and the application of the Madman Theory in US grand strategy. Cambridge Review of International Affairs, 34(3), 430–451. https://doi.org/10.1080/09557571.2020.1847042\nCha, T., & Seo, J. (2018). Trump by Nixon: Maverick presidents in the years of U.S. relative decline. The Korean Journal of Defense Analysis, 30(1), 79–96.\nStokes, D., & Williamson, M. (2021). The United States, China and the WTO after coronavirus. The Chinese Journal of International Politics, 14(1), 23–49.\nNaftali, T. (2017, October 5). The Problem With Trump's Madman Theory. The Atlantic. https://www.theatlantic.com/international/archive/2017/10/madman-theory-trump-north-korea/542055/\nZoffer, J. P. (2024, July 24). The Bully Pulpit and U.S. Economic Policy: Lessons for Trump from the Nixon Era. Foreign Affairs. https://www.foreignaffairs.com/united-states/bully-pulpit-and-us-economic-policy\nMilestones in the history of U.S. Foreign Relations - Office of the Historian. (n.d.). https://history.state.gov/milestones/1969-1976/ending-vietnam\nForeign Relations of the United States, 1969-1976, Volume XXXIV, National Security Policy, 1969-1972. Historical Documents - Office of the Historian. (n.d.). https://history.state.gov/historicaldocuments/frus1969-76v34/d59\nHaldeman, H. R., & DiMona, J. (1978). The ends of power. Times Books.",
-    "published": "2026-10-29T10:50:13+00:00",
-    "title": "닉슨의 정책을 보면 트럼프의 맛이 난다 | 닉슨, 트럼프, 미국 대통령",
-    "video_id": "3Rh9THir2gA"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "3TBrgN00Kx8": {
@@ -4936,6 +4932,7 @@
   "NGxapq1A7kc": {
    "errors": 0,
    "first_seen": "2026-10-29T11:08:50+00:00",
+   "last_attempt": "2026-10-29T11:54:08+00:00",
    "published": "2026-10-29T11:00:28+00:00",
    "status": "pending",
    "video": {
@@ -12521,18 +12518,14 @@
    "wait_checks": 0
   },
   "vXZOubI2UOg": {
+   "done_at": "2026-10-29T11:54:08+00:00",
    "errors": 0,
    "first_seen": "2026-10-29T11:08:54+00:00",
+   "last_attempt": "2026-10-29T11:48:59+00:00",
+   "notified": "2026-10-29T11:58:36+00:00",
    "published": "2026-10-29T11:00:25+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "매주 화요일 저녁 8시 생방송 (촬영일 : 26년 10월 27일)\n\n🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"이젠 사내대출도 막겠다\" 앞으로 부동산에서 벌어질 일들\n\"집값 폭락 가능성 높다?\" 계속된 경고 메시지의 의미\n\"대출 받으면 투기꾼이다\" 앞으로 부동산에서 벌어질 일들",
-    "published": "2026-10-29T11:00:25+00:00",
-    "title": "\"이젠 사내대출도 막겠다\" 앞으로 부동산에서 벌어질 일들",
-    "video_id": "vXZOubI2UOg"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "vY-1xGHxiUs": {
@@ -12945,15 +12938,7 @@
    "errors": 0,
    "first_seen": "2026-10-29T10:17:36+00:00",
    "published": "2026-10-29T08:04:01+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-    "channel_name": "언더스탠딩 : 세상의 모든 지식",
-    "description": "제작 지원\n(주) 고래사 / 듀오 주식회사 / 어슈런스(주) / 한화자산운용(주) \n\n▶ https://www.musinsa.com/curator/shop/GyVEuRcF\n*본 링크는 무신사 큐레이터 활동의 일환으로 링크를 통해 구매가 발생할 경우 일정 수수료를 제공 받습니다",
-    "published": "2026-10-29T08:04:01+00:00",
-    "title": "Live on 10/29(목) 프랑스는 이래서 망가진 겁니다 (손진석 기자/'부자 미국 가난한 유럽' 저자)",
-    "video_id": "xWFYSsLEmOI"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "xaWBzROS_64": {
