@@ -5145,6 +5145,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "Os24cfUFj4M": {
+   "done_at": "2026-10-29T06:06:21+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-29T06:05:23+00:00",
+   "last_attempt": "2026-10-29T06:05:24+00:00",
+   "notified": "2026-10-29T06:06:22+00:00",
+   "published": "2026-10-29T05:45:37+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "Otucjt3JLXE": {
    "done_at": "2026-10-26T08:25:07+00:00",
    "errors": 0,
@@ -8201,6 +8212,21 @@
    "published": "2026-10-28T10:00:07+00:00",
    "source": "video_notes",
    "status": "done",
+   "wait_checks": 0
+  },
+  "cmvfrxZ8MkQ": {
+   "errors": 0,
+   "first_seen": "2026-10-29T06:05:21+00:00",
+   "published": "2026-10-29T06:00:13+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n3기 신도시 2033년에 완공 그래도 효과 떨어지는 진짜 이유\n\n☞촬영일: 26년 10월 22일",
+    "published": "2026-10-29T06:00:13+00:00",
+    "title": "3기 신도시 2033년에 완공 그래도 효과 떨어지는 진짜 이유 [김인만 소장]",
+    "video_id": "cmvfrxZ8MkQ"
+   },
    "wait_checks": 0
   },
   "cnjWbILvM-s": {
