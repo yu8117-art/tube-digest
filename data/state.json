@@ -331,15 +331,7 @@
    "errors": 0,
    "first_seen": "2026-10-29T02:17:30+00:00",
    "published": "2026-10-29T02:00:49+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
-    "channel_name": "스마트튜브(스튜TV)",
-    "description": "인천 정규강의 오프라인) 3주 만에 끝내는 인천 9개 구 완전정복!\nhttps://www.smarttube.kr/web/82?wmod=detail&idx=648\n\n11월 오프라인 세미나) 경기도 총정리 & 2027년 절세 전략 (빠숑&제네시스박)\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=657\n\n이제부터는 오를 곳만 오른다 \n🔹교보문고 http://app.ac/LqnFfb203\n🔹예스24 http://app.ac/8AGBe3533\n\n부동산 끝판왕, 트루카피의 지금 당장 사야 할 아파트 리스트 200!\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=656\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
-    "published": "2026-10-29T02:00:49+00:00",
-    "title": "강남은 현금 부자만 사고, 외곽은 대출로 받친 상승이 금리 앞에서 흔들리고, 재건축은 분담금 10억 시대로 갑니다!",
-    "video_id": "0MqEGQDqdy0"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "0OBeZwBmPC0": {
@@ -906,15 +898,7 @@
    "errors": 0,
    "first_seen": "2026-10-29T01:29:06+00:00",
    "published": "2026-10-29T00:52:58+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
-    "channel_name": "집코노미",
-    "description": "한 주 동안의 부동산 뉴스를 짚어보는 집코노미 타임즈 라이브입니다. 이번주엔 ①1+1 분양과 ②서울 아파트 매물 ③자금조달계획서 분석 등 한국경제신문의 주요 기사를 짚어봅니다.\n\n#재개발 #미사 #감일 #고촌 #건원 #감북\n\n한국경제신문 구독하기\n📰https://vo.la/N79FE1B\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다\n\n영상의 맥락과 상관없는 비방이나 악의적인 댓글은 예고 없이 삭제됩니다",
-    "published": "2026-10-29T00:52:58+00:00",
-    "title": "[속보] 미사·감일·고촌 7만 가구 짓는다 | 집코노미 타임즈 | 부동산뉴스 총정리",
-    "video_id": "3PW_wcfYqKM"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "3Qinx1CdIAM": {
@@ -3839,6 +3823,17 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "IjFcY1maZvg": {
+   "done_at": "2026-10-29T03:09:29+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-29T03:09:01+00:00",
+   "last_attempt": "2026-10-29T03:09:09+00:00",
+   "notified": "2026-10-29T03:09:30+00:00",
+   "published": "2026-10-29T02:30:13+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "IjIxmD2b5FQ": {
    "done_at": "2026-10-20T08:29:20+00:00",
    "errors": 0,
@@ -4422,6 +4417,21 @@
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-09-19T23:00:11+00:00",
    "status": "baseline"
+  },
+  "LdGYs8IxSjQ": {
+   "errors": 0,
+   "first_seen": "2026-10-29T03:08:59+00:00",
+   "published": "2026-10-29T02:24:15+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "클라우드에 데이터를 저장하면 여러 곳에 알아서 백업돼 안전할 것 같지만, 반드시 그런 것은 아닙니다. 클라우드 사업자는 전력과 냉각, 네트워크 등을 최대한 분리해 장애에 대비하지만 광역 정전이나 통신망 장애, 자연재해, 전쟁처럼 하나의 원인이 여러 시설에 동시에 영향을 주는 ‘공통원인 장애’가 발생할 수도 있습니다. 실제 공격으로 여러 시설이 피해를 입으면서 일부 데이터와 리소스를 끝내 복구하지 못한 사례도 발생했는데요. 물론 멀리 떨어진 다른 리전에 데이터를 복사해 둘 수는 있습니다. 하지만 이러한 백업이 항상 자동으로 이루어지는 것은 아니며, 고객이 직접 백업 방식을 설계하고 비용을 부담해야 하는 경우도 있습니다. 결국 클라우드를 사용한다는 것과 재난에도 살아남을 백업을 갖추고 있다는 것은 같은 이야기가 아닙니다. 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#클라우드 #AWS #아마존웹서비스 #데이터센터 #데이터백업 #서버 #클라우드보안 #안될과학 #과학유튜브",
+    "published": "2026-10-29T02:24:15+00:00",
+    "title": "클라우드에 저장하면 데이터는 안전할까?",
+    "video_id": "LdGYs8IxSjQ"
+   },
+   "wait_checks": 0
   },
   "Lf2pO-6mZ1k": {
    "errors": 0,
