@@ -8715,7 +8715,7 @@
   "dgwYvsGMqvk": {
    "errors": 0,
    "first_seen": "2026-10-29T09:28:59+00:00",
-   "last_attempt": "2026-10-29T19:36:19+00:00",
+   "last_attempt": "2026-10-29T20:21:35+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-10-29T09:24:44+00:00",
    "status": "pending",
@@ -8727,7 +8727,7 @@
     "title": "[구해줘월부 라이브] \"매물 쌓이고 거래량 줄기 시작했다?\" 최근 서울 부동산에 벌어지는 심상찮은 일들",
     "video_id": "dgwYvsGMqvk"
    },
-   "wait_checks": 8
+   "wait_checks": 9
   },
   "divtOi6rWtE": {
    "done_at": "2026-10-23T11:10:23+00:00",
