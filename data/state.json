@@ -1133,6 +1133,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "44INsrJe7FY": {
+   "errors": 0,
+   "first_seen": "2026-10-30T11:05:10+00:00",
+   "published": "2026-10-30T11:00:06+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+    "channel_name": "에스오디 SOD",
+    "description": "#에스오디 #기술 #역노화 #노화방지 #k뷰티",
+    "published": "2026-10-30T11:00:06+00:00",
+    "title": "K뷰티가 초대박인 이유",
+    "video_id": "44INsrJe7FY"
+   },
+   "wait_checks": 0
+  },
   "46cgwUb6wl4": {
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-10-02T12:42:21+00:00",
@@ -1558,6 +1573,21 @@
     "published": "2026-10-22T07:30:06+00:00",
     "title": "🚨 전세계가 난리난 PHP 보안사고",
     "video_id": "6BNrU-nXJSA"
+   },
+   "wait_checks": 0
+  },
+  "6J0MuPdthq4": {
+   "errors": 0,
+   "first_seen": "2026-10-30T11:05:16+00:00",
+   "published": "2026-10-30T11:00:19+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+    "channel_name": "채널 제네시스박",
+    "description": "부모님께 집값을 빌리면 세금이 나올까요?\n빌린 돈엔 세금이 없다고 알고 계셨다면, 이 영상을 꼭 끝까지 보세요.\n차용증을 써도 증여로 보는 경우가 있고, 잘 갚았는데도 소명 연락을 받는 경우가 있습니다.\n\n증여냐 차용이냐, 부모님 도움을 받을 때 세금폭탄을 피하려면 무엇을 알아야 하는지 정리했습니다.\n\n📄 금전대차계약서 양식 다운로드 (서울중앙지방법원 제공)\n👉 https://bit.ly/3Wctel6\n\n00:00 부모님께 빌리면 세금 나올까?\n00:16 증여냐 차용이냐\n01:02 편법 증여가 생기는 이유\n01:26 정말 빌렸다면, 차용증은 이렇게\n03:04 국세청이 적발한 실제 사례\n03:40 공증, 꼭 받아야 할까?\n04:07 이자율은 얼마로 정해야 할까?\n05:09 차라리 증여가 나은 이유\n06:10 증여재산공제·혼인공제 활용법\n07:31 양가에서 받는다면?\n09:24 실제 신혼부부 사례\n10:40 정리\n\n#증여 #차용증 #증여세 #자금출처 #부모님증여 #혼인공제 #제네시스박\n\n📌 커피 한 잔 값으로 부동산 세금 완전정복!\nhttps://www.genesispark.co.kr/cu/Mfa9NVGW\n\n📌 연회원 신청 및 1:1 상담, 외부 교육 문의\nhttps://pf.kakao.com/_SfaRn\n\n📌 매년 바뀌는 부동산 세금 트렌드 완전정복!\n신간, 부동산 세금 트렌드 2025\nhttps://han.gl/pwiFQ\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
+    "published": "2026-10-30T11:00:19+00:00",
+    "title": "부모님 돈으로 집 살 때, 차용증만 쓰면 괜찮을까? | 채널 제네시스박",
+    "video_id": "6J0MuPdthq4"
    },
    "wait_checks": 0
   },
@@ -2659,6 +2689,21 @@
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-10-08T05:07:30+00:00",
    "status": "baseline"
+  },
+  "B2QBL9TV6bI": {
+   "errors": 0,
+   "first_seen": "2026-10-30T11:05:07+00:00",
+   "published": "2026-10-30T10:57:36+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "description": "일부 AI 작업의 이용 요금은 내려가는데, GPU를 빌리는 값은 오르는 곳들이 있습니다. 같은 연산 장비로 돌아가는 서비스인데 왜 두 가격은 다르게 움직일까요? 장비 한 대로 더 많은 일을 처리하면 작업당 비용은 낮아질 수 있지만, 사람들이 맡기는 일이 더 빠르게 늘면 필요한 서버도 많아질 수 있습니다. 코드 추천을 넘어 수정과 실행, 검사까지 맡기는 AI 에이전트가 이런 변화를 어떻게 만드는지 살펴봅니다.\n\n구글과 마이크로소프트, AWS의 발표를 통해 고객의 AI 사용과 지출, 클라우드 매출이 어떻게 달라졌는지 짚어봅니다. 클라우드 성장에 함께 반영되는 AI 서비스와 기존 사업, 칩 시스템 판매를 나눠 살펴봅니다. 메모리와 네트워크, 전력과 냉각의 병목부터 TPU·트레이니엄으로 작업을 옮기는 비용까지, 실제로 서비스를 제공할 수 있는 용량을 늘리는 조건을 설명합니다.\n\n수요가 늘어도 설비를 먼저 준비하고 고객에게 돈을 받기까지는 시간이 걸립니다. 빅테크와 신흥 AI 클라우드 업체의 투자와 계약을 통해, 늘어난 사용이 매출과 이익으로 이어지려면 무엇이 맞아야 하는지 살펴봅니다. 마지막으로 이 흐름이 실제 서버 증설과 한국 메모리의 주문·출하로 연결되는 조건까지 정리합니다.\n\nWritten by 패치\nEdited by 이재현\n\nunrealtech2021@gmail.com",
+    "published": "2026-10-30T10:57:36+00:00",
+    "title": "AI 작업은 싸졌는데 GPU 임대료는 왜 오를까? | 구글·MS·AWS 실적으로 살펴본 처리 효율, AI가 더 많이 쓰이면 한국 메모리도 바로 늘어날까?",
+    "video_id": "B2QBL9TV6bI"
+   },
+   "wait_checks": 0
   },
   "B37W0Lz5qbE": {
    "first_seen": "2026-10-09T08:14:35+00:00",
@@ -6275,6 +6320,21 @@
    },
    "wait_checks": 0
   },
+  "SKvJAfa_Ueo": {
+   "errors": 0,
+   "first_seen": "2026-10-30T11:05:13+00:00",
+   "published": "2026-10-30T11:00:23+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n매일 2분이면 부자됩니다, 치과의사가 은퇴한 방법\n5년만에 순자산 140억 만든 법, ‘이것’만 사 모았어요\n폭락 오든 말든 ‘이것’ 사세요, 은퇴 후 순자산 140억 만들었어요\n\n☞촬영일: 26년 10월 28일",
+    "published": "2026-10-30T11:00:23+00:00",
+    "title": "매일 2분이면 부자됩니다, 치과의사가 은퇴한 방법 [라오어 작가 1부]",
+    "video_id": "SKvJAfa_Ueo"
+   },
+   "wait_checks": 0
+  },
   "SLoG9gC0a4o": {
    "first_seen": "2026-10-21T02:25:36+00:00",
    "published": "2026-10-17T11:55:17+00:00",
@@ -7033,6 +7093,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "VKNPaInn0Gc": {
+   "errors": 0,
+   "first_seen": "2026-10-30T11:05:08+00:00",
+   "published": "2026-10-30T11:00:26+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "지수 시간 가설 · 양자색역학(QCD) · AI 증명\n\n25년 넘게 컴퓨터과학의 중요한 가정으로 받아들여졌던 지수 시간 가설(ETH).\nAI는 이 가설을 뒤집을 수 있는 새로운 계산법을 찾아냈다고 주장했습니다.\n\n물리학에서는 또 다른 결과가 나왔습니다.\n쿼크를 묶어두는 강한 상호작용을 설명하는 이론인 **양자색역학(QCD)**이 4차원에서 수학적으로 존재한다는 증명을 얻었다는 것입니다.\n\n하지만 중요한 건 여기서 끝나지 않습니다.\n\nAI가 새로운 증명을 찾아냈다고 해서 곧바로 과학적 사실이 되는 것은 아닙니다. 이번 발표에서는 무엇을 증명한 것인지, 어디까지 검증됐는지, 그리고 AI가 만든 증명을 과학계가 어떻게 받아들여야 하는지까지 함께 살펴봅니다.\n\n컴퓨터과학의 25년 가설부터 쿼크와 강한 상호작용, 그리고 AI 시대의 과학적 검증까지.\nAI가 과학의 문제를 푸는 방식을 따라가 봅니다.\n\n#지수시간가설 #ETH #양자색역학 #QCD #강한상호작용 #쿼크 #AI #인공지능 #수학 #물리학 #컴퓨터과학 #과학 #안될과학 #약\n\n◆ Thanks to \nEditor : 이재현\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science \n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience\n\n◆ 안될과학 문의\nE-MAIL : MoreScience2018@gmail.com",
+    "published": "2026-10-30T11:00:26+00:00",
+    "title": "컴퓨터는 정말 모든 경우를 다 계산해야 할까?",
+    "video_id": "VKNPaInn0Gc"
+   },
+   "wait_checks": 0
+  },
   "VQKL5ojuTmg": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-08-14T10:00:15+00:00",
@@ -7469,6 +7544,21 @@
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-07-15T12:00:38+00:00",
    "status": "baseline"
+  },
+  "YOKc_mgoifY": {
+   "errors": 0,
+   "first_seen": "2026-10-30T11:05:12+00:00",
+   "published": "2026-10-30T11:00:30+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
+    "channel_name": "집코노미",
+    "description": "집을 살 때 대표적인 정책대출인 디딤돌대출과 보금자리론을 동시에 받을 수 있는 방법이 있습니다. 두 가지를 잘 조합하면 대출 이자는 낮추고 한도는 높일 수 있습니다.\n\n#디딤돌대출 #보금자리론 #정책대출 #주담대 #내집마련\n\n한국경제신문 구독하기\n📰https://vo.la/N79FE1B\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다\n\n영상의 맥락과 상관없는 비방이나 악의적인 댓글은 예고 없이 삭제됩니다",
+    "published": "2026-10-30T11:00:30+00:00",
+    "title": "주담대 이자 매달 수십만원 아끼는 법(feat.정책대출) | 연수원",
+    "video_id": "YOKc_mgoifY"
+   },
+   "wait_checks": 0
   },
   "YP90xaf1mYI": {
    "first_seen": "2026-10-09T08:14:40+00:00",
@@ -8522,6 +8612,7 @@
   "buQP5h_oT44": {
    "errors": 0,
    "first_seen": "2026-10-30T10:17:25+00:00",
+   "last_attempt": "2026-10-30T11:09:38+00:00",
    "published": "2026-10-30T10:00:18+00:00",
    "status": "pending",
    "video": {
@@ -8787,6 +8878,21 @@
    "published": "2026-10-28T10:00:07+00:00",
    "source": "video_notes",
    "status": "done",
+   "wait_checks": 0
+  },
+  "cmI6puRr6oo": {
+   "errors": 0,
+   "first_seen": "2026-10-30T11:05:14+00:00",
+   "published": "2026-10-30T10:30:05+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n삼전 닉스 지금 손절하면 사고 싶어도 못 삽니다\n\n☞촬영일: 26년 10월 26일",
+    "published": "2026-10-30T10:30:05+00:00",
+    "title": "삼전 닉스 지금 손절하면 사고 싶어도 못 삽니다 [박세익 대표]",
+    "video_id": "cmI6puRr6oo"
+   },
    "wait_checks": 0
   },
   "cmvfrxZ8MkQ": {
@@ -13562,6 +13668,8 @@
   "xfiG2qzFH28": {
    "errors": 0,
    "first_seen": "2026-10-30T10:17:34+00:00",
+   "last_attempt": "2026-10-30T11:05:17+00:00",
+   "last_error": "GeminiError: 구간 노트가 비어 있음 (1:00:00~1:07:50)",
    "published": "2026-10-30T10:00:08+00:00",
    "status": "pending",
    "video": {
@@ -13572,7 +13680,7 @@
     "title": "삼전 닉스 안 팔고 버티면 장기적으로 '이렇게' 됩니다 [김장열 센터장 풀버전]",
     "video_id": "xfiG2qzFH28"
    },
-   "wait_checks": 0
+   "wait_checks": 1
   },
   "xgqI-RzrNjc": {
    "errors": 0,
