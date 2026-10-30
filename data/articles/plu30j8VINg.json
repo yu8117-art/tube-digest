@@ -1,0 +1,40 @@
+{
+ "video": {
+  "video_id": "plu30j8VINg",
+  "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+  "channel_name": "새벽의 축구 전문가",
+  "title": "\"황희찬 선발논란\" 모레노 감독, 왜 뽑았을까? 부진한 황희찬 컨디션, 대표팀 활약 괜찮을까?",
+  "published": "2026-10-30T02:30:11+00:00",
+  "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#황희찬 #모레노 #국가대표",
+  "url": "https://www.youtube.com/watch?v=plu30j8VINg"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/plu30j8VINg/maxresdefault.jpg",
+ "source": "video",
+ "duration": 737,
+ "summary": {
+  "headline": "황희찬 선발 논란, 모레노 감독 전술에 맞을까",
+  "thumbnail_text": "황희찬 선발논란 대표팀에 맞는 선수일까?",
+  "thumbnail_answer": "황희찬의 스타일은 저돌적인 침투에 특화되어 있어 모레노 감독의 다재다능한 연결고리 전술에는 아쉬움이 있다.",
+  "conclusion": "황희찬은 최근 소속팀과 대표팀에서 득점이 부진하고 개인 퍼포먼스도 떨어져 있다. 모레노 감독의 전술에서 요구하는 연계와 빌드업 역할을 소화하기에는 플레이 스타일이 저돌성에 치우쳐 있다. 따라서 본인이 확실한 증량을 해내지 못하면 선발 발탁에 대한 의구심은 계속될 것이다.",
+  "key_points": [
+   "황희찬은 최근 대표팀과 소속팀에서 13경기 동안 득점이 없다.",
+   "모레노 감독은 측면과 중앙을 오가는 다재다능한 육각형 공격수를 선호한다.",
+   "황희찬의 플레이 스타일은 패스 공급이나 연계보다 저돌적인 침투에 특화되어 있다.",
+   "김민수 같은 선수가 모레노 감독의 전술적 성향에 더 적합하다는 평가가 나온다.",
+   "황희찬이 선발로 뛰려면 전술적 요구를 충족하거나 스스로 기량을 증명해야 한다."
+  ],
+  "timeline": [],
+  "tags": [
+   "황희찬",
+   "모레노",
+   "축구대표팀",
+   "전술분석"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 68835,
+   "output_tokens": 384
+  }
+ },
+ "created_at": "2026-10-30T02:41:57+00:00"
+}

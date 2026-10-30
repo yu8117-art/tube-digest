@@ -8793,7 +8793,7 @@
   "dgwYvsGMqvk": {
    "errors": 0,
    "first_seen": "2026-10-29T09:28:59+00:00",
-   "last_attempt": "2026-10-30T02:00:06+00:00",
+   "last_attempt": "2026-10-30T02:41:57+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-10-29T09:24:44+00:00",
    "status": "pending",
@@ -8805,7 +8805,7 @@
     "title": "[구해줘월부 라이브] \"매물 쌓이고 거래량 줄기 시작했다?\" 최근 서울 부동산에 벌어지는 심상찮은 일들",
     "video_id": "dgwYvsGMqvk"
    },
-   "wait_checks": 17
+   "wait_checks": 18
   },
   "divtOi6rWtE": {
    "done_at": "2026-10-23T11:10:23+00:00",
@@ -11368,6 +11368,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "pRJuQtkqPdE": {
+   "errors": 0,
+   "first_seen": "2026-10-30T02:41:13+00:00",
+   "published": "2026-10-30T02:00:31+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "전쟁이 시작되면 국가의 중요한 데이터는 어떻게 지켜야 할까요? 2022년 러시아의 침공을 앞두고 우크라이나는 공공기관이 클라우드 서비스를 이용할 수 있는 법적 기반을 마련했고, 침공 이후에는 국가정보시스템과 공공 전자등록부를 해외 클라우드에서도 운영할 수 있도록 조치를 취했습니다. 물리적인 서버가 공격받더라도 국가의 핵심 정보까지 함께 사라지는 것을 막기 위해서였죠. 침공이 시작된 뒤에는 AWS의 대용량 데이터 이전 장비인 ‘스노우볼’을 활용해 정부기관과 대학, 학교, 민간기업 등이 보유한 중요 데이터를 클라우드로 옮기는 작업도 진행됐습니다. 전쟁에서는 사람과 물자뿐 아니라 국가를 움직이는 ‘데이터’ 역시 안전한 곳으로 대피시켜야 하는 시대가 된 것입니다. 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#우크라이나 #클라우드 #AWS #데이터 #데이터센터 #사이버보안 #전쟁 #안될과학 #과학유튜브",
+    "published": "2026-10-30T02:00:31+00:00",
+    "title": "전쟁이 나면 ‘데이터’도 피난을 간다?!",
+    "video_id": "pRJuQtkqPdE"
+   },
+   "wait_checks": 0
+  },
   "pX-QjtFdL_I": {
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-10-06T08:15:09+00:00",
@@ -11417,6 +11432,17 @@
     "title": "\"성북구도 동대문구도 20억 찍었습니다\" 이제 노도강도 무섭게 오릅니다 [김제경 박사]",
     "video_id": "pkOdrOkv2PQ"
    },
+   "wait_checks": 0
+  },
+  "plu30j8VINg": {
+   "done_at": "2026-10-30T02:41:57+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-30T02:41:16+00:00",
+   "last_attempt": "2026-10-30T02:41:22+00:00",
+   "notified": "2026-10-30T02:42:24+00:00",
+   "published": "2026-10-30T02:30:11+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "prQUpQh_gko": {
