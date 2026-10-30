@@ -5582,19 +5582,14 @@
    "status": "baseline"
   },
   "P-0Rk4OpmcE": {
+   "done_at": "2026-10-30T18:08:31+00:00",
    "errors": 0,
    "first_seen": "2026-10-30T11:45:35+00:00",
-   "last_attempt": "2026-10-30T16:12:12+00:00",
+   "last_attempt": "2026-10-30T18:06:38+00:00",
+   "notified": "2026-10-30T18:10:18+00:00",
    "published": "2026-10-30T11:32:41+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
-    "channel_name": "지식인사이드",
-    "description": "오늘은 군사전문가 샤를세환님을 모시고\n\n세계 곳곳에서 벌어지는 전쟁의 현황과 3차 대전 가능성에 대해 알아봤습니다.\n\n📖 『세계사를 바꾼 그날』 출간!\n🎁 초판 한정 저자 4인 사인 인쇄본\n교보문고: https://linkly.link/2xuLb \n예스24: https://linkly.link/2xuLm \n알라딘: https://linkly.link/2xuLo \n\n세계 최강의 무기를 가졌다고 전쟁에서 반드시 이길까요?\n압도적인 군사력도 뒤집어버린 결정적 선택과 판단의 순간들.\n\n군사 전문가 이세환 기자가 9개의 전쟁을 통해 풀어낸 『세계사를 바꾼 그날』에서 그 이유를 확인해 보세요. \n\n#샤를세환 #지식인사이드 #전쟁 #무기 #3차대전 #중국 #대만 #한반도 #군사력\n\n00:00 인트로\n00:30 구독자 인사\n01:51 20년차 밀덕도 감탄한 최고의 전쟁 영화 TOP3\n08:11 3차 대전 터지기 위한 결정적 조건 ‘1가지’\n12:43 중국이 대만 본토 쉽게 침공하지 못하는 이유\n17:01 세계사의 흐름을 뒤바꿔놓은 결정적 순간들\n22:11 강대국도 무너뜨릴 수 있는 전쟁의 숨은 변수\n26:23 세계 석학들이 지적한 한국 안보의 아킬레스건\n\n* 이 영상은 10월 21일에 촬영되었습니다\n\nㅡ\n\n👇지식인사이드에 출연을 원하신다면 여기를 눌러주세요\nhttps://forms.gle/u4LxVcwFdhvkLH8m6\nknowledgeinside7@gmail.com\n\n👇 다양한 채널에서 지식인사이드의 지식을 얻고 싶다면 여기를 눌러주세요\n인스타그램: https://www.instagram.com/knowledgeins_kr/\n페이스북: https://www.facebook.com/knowledgeIns7?mibextid=LQQJ4d\n네이버 TV: https://tv.naver.com/purejboy2\n틱톡: https://www.tiktok.com/@allstorieskr?lang=ko-KR\n네이버 카페: https://cafe.naver.com/knowledgeins\n\nCopyright Ⓒ 지식인사이드. All rights reserved.\n\n본 콘텐츠(영상, 이미지, 음성, 대본, 편집물, 썸네일 포함)는 저작권 및 관련 권리의 보호를 받습니다.\n\n저작권자의 사전 승인 없이 복제, 배포, 수정, 재가공, 업로드, AI 학습 및 데이터셋 구축, 2차 저작물 제작(쇼츠·릴스 포함) 등 일체의 상업적 이용 및 수익화를 금지합니다.\n\n📧 콘텐츠 사용 및 협의 문의: knowledgeinside7@gmail.com",
-    "published": "2026-10-30T11:32:41+00:00",
-    "title": "동북아에서 전쟁나면 진짜 3차 대전 옵니다ㅣ지식인초대석 EP.184 (샤를세환 2부)",
-    "video_id": "P-0Rk4OpmcE"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "P-B-KnSIAPY": {
@@ -13730,7 +13725,7 @@
   "xfiG2qzFH28": {
    "errors": 0,
    "first_seen": "2026-10-30T10:17:34+00:00",
-   "last_attempt": "2026-10-30T17:00:28+00:00",
+   "last_attempt": "2026-10-30T18:08:31+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (1:00:00~1:07:50)",
    "published": "2026-10-30T10:00:08+00:00",
    "status": "pending",
