@@ -5589,7 +5589,7 @@
   "P-0Rk4OpmcE": {
    "errors": 0,
    "first_seen": "2026-10-30T11:45:35+00:00",
-   "last_attempt": "2026-10-30T12:31:57+00:00",
+   "last_attempt": "2026-10-30T16:12:12+00:00",
    "published": "2026-10-30T11:32:41+00:00",
    "status": "pending",
    "video": {
@@ -7142,19 +7142,14 @@
    "wait_checks": 0
   },
   "VKNPaInn0Gc": {
+   "done_at": "2026-10-30T16:12:11+00:00",
    "errors": 0,
    "first_seen": "2026-10-30T11:05:08+00:00",
-   "last_attempt": "2026-10-30T11:50:02+00:00",
+   "last_attempt": "2026-10-30T16:11:17+00:00",
+   "notified": "2026-10-30T16:17:56+00:00",
    "published": "2026-10-30T11:00:26+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
-    "channel_name": "안될과학 Unrealscience",
-    "description": "지수 시간 가설 · 양자색역학(QCD) · AI 증명\n\n25년 넘게 컴퓨터과학의 중요한 가정으로 받아들여졌던 지수 시간 가설(ETH).\nAI는 이 가설을 뒤집을 수 있는 새로운 계산법을 찾아냈다고 주장했습니다.\n\n물리학에서는 또 다른 결과가 나왔습니다.\n쿼크를 묶어두는 강한 상호작용을 설명하는 이론인 **양자색역학(QCD)**이 4차원에서 수학적으로 존재한다는 증명을 얻었다는 것입니다.\n\n하지만 중요한 건 여기서 끝나지 않습니다.\n\nAI가 새로운 증명을 찾아냈다고 해서 곧바로 과학적 사실이 되는 것은 아닙니다. 이번 발표에서는 무엇을 증명한 것인지, 어디까지 검증됐는지, 그리고 AI가 만든 증명을 과학계가 어떻게 받아들여야 하는지까지 함께 살펴봅니다.\n\n컴퓨터과학의 25년 가설부터 쿼크와 강한 상호작용, 그리고 AI 시대의 과학적 검증까지.\nAI가 과학의 문제를 푸는 방식을 따라가 봅니다.\n\n#지수시간가설 #ETH #양자색역학 #QCD #강한상호작용 #쿼크 #AI #인공지능 #수학 #물리학 #컴퓨터과학 #과학 #안될과학 #약\n\n◆ Thanks to \nEditor : 이재현\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science \n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience\n\n◆ 안될과학 문의\nE-MAIL : MoreScience2018@gmail.com",
-    "published": "2026-10-30T11:00:26+00:00",
-    "title": "컴퓨터는 정말 모든 경우를 다 계산해야 할까?",
-    "video_id": "VKNPaInn0Gc"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "VQKL5ojuTmg": {
