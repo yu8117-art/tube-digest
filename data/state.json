@@ -8649,7 +8649,7 @@
   "buQP5h_oT44": {
    "errors": 0,
    "first_seen": "2026-10-30T10:17:25+00:00",
-   "last_attempt": "2026-10-30T19:35:11+00:00",
+   "last_attempt": "2026-10-30T20:26:55+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (30:00~44:52)",
    "published": "2026-10-30T10:00:18+00:00",
    "status": "pending",
@@ -13724,20 +13724,15 @@
    "wait_checks": 0
   },
   "xfiG2qzFH28": {
+   "done_at": "2026-10-30T20:26:55+00:00",
    "errors": 0,
    "first_seen": "2026-10-30T10:17:34+00:00",
-   "last_attempt": "2026-10-30T18:52:57+00:00",
+   "last_attempt": "2026-10-30T20:16:12+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (1:00:00~1:07:50)",
+   "notified": "2026-10-30T20:26:56+00:00",
    "published": "2026-10-30T10:00:08+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n삼전 닉스 안 팔고 버티면 장기적으로 '이렇게' 됩니다\n영업이익 107조 찍은 삼성전자, 주가 폭락한 진짜 이유\n107조 벌었는데 폭락? 삼성전자 앞으로 '이렇게' 된다\n\n☞촬영일: 26년 10월 23일",
-    "published": "2026-10-30T10:00:08+00:00",
-    "title": "삼전 닉스 안 팔고 버티면 장기적으로 '이렇게' 됩니다 [김장열 센터장 풀버전]",
-    "video_id": "xfiG2qzFH28"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 1
   },
   "xgqI-RzrNjc": {
