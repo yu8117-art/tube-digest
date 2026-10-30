@@ -2843,6 +2843,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "BylETcYBDWU": {
+   "errors": 0,
+   "first_seen": "2026-10-30T12:27:57+00:00",
+   "published": "2026-10-30T12:25:21+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+    "channel_name": "언더스탠딩 : 세상의 모든 지식",
+    "description": "📢 겨울 시작 전 마지막 기회! 옷, 싸게 사세요\n🔗 https://www.musinsa.com/curator/shop/GyVEuRcF\n\n※본 링크는 무신사 큐레이터 활동의 일환으로 링크를 통해 구매가 발생할 경우 일정 수수료를 제공받습니다\n\n💡 내용 요약\n미국 중간선거를 앞두고 AI 기업들이 막대한 정치자금을 쏟아붓고 있습니다. AI 산업이 급격히 성장하면서 전력 소비와 전기요금 상승, 일자리 감소, 개인정보 및 안전 문제 등에 대한 미국 사회의 반감이 커졌기 때문입니다. 이에 민주당뿐 아니라 공화당도 AI 기업에 대한 압박을 강화하고 있으며, 선거 이후에는 조사·세금·규제라는 세 가지 위험이 본격화될 가능성이 제기됩니다.\n\n첫 번째는 조사 강화입니다. 미국 연방거래위원회(FTC)와 여러 주정부가 오픈AI와 앤트로픽을 대상으로 소비자 보호 및 AI 안전 문제를 조사하거나 소송을 제기하고 있습니다. 민주당이 하원 다수당을 차지할 경우 AI 특별위원회 설치와 기업 경영진에 대한 청문회가 추진될 수 있습니다. 특히 상장을 준비하는 AI 기업들은 내부 안전 문제가 공개될 경우 기업가치와 사업 확장에 상당한 타격을 받을 수 있습니다.\n\n두 번째는 세금과 인프라 비용 부담 증가입니다. 민주당에서는 데이터센터에 별도의 세금을 부과하고 기존 세제 혜택을 축소하는 방안을 검토하고 있습니다. 또한 대규모 데이터센터로 인해 발생하는 발전소 및 송전망 확충 비용을 기업이 직접 부담하도록 하는 법안은 하원에서 417대 3이라는 압도적인 찬성으로 통과됐습니다. 이는 AI 기업에 대한 비용 부담 강화가 양당의 공통된 관심사임을 보여줍니다.\n\n세 번째는 AI 규제의 확대와 복잡화입니다. 미국에는 통일된 연방 차원의 AI 규제법이 없는 가운데 각 주정부가 서로 다른 규제법을 제정하고 있습니다. 기업들은 주마다 다른 안전 기준과 신고 의무를 충족해야 하므로 사업 운영 비용이 증가할 수밖에 없습니다. 트럼프 행정부는 연방법을 통한 규제 통일을 추진하지만, 중간선거 이후 의회 권력 구도에 따라 실현이 어려워질 수 있습니다.\n\n이러한 정치적 위험에 대응하기 위해 오픈AI와 앤트로픽 등 AI 기업들은 민주당과 공화당 양쪽에 거액의 정치자금을 지원하고 있습니다. 그러나 정치권의 압박은 이번 중간선거로 끝나지 않고 2028년 대통령선거까지 이어질 가능성이 있습니다.\n\n결국 영상은 AI 산업이 규제의 사각지대에서 빠르게 성장하던 혁신 산업에서 정치적 통제와 사회적 책임을 요구받는 규제 산업으로 전환되고 있다고 분석합니다. 이 과정에서 AI 산업의 성장 속도가 둔화되고, 복잡한 규제에 대응할 자본과 조직을 갖춘 소수 빅테크 기업의 독과점이 오히려 강화될 수 있다는 전망을 제시합니다.\n\n📌 핵심주제\n미국 중간선거와 AI 산업의 정치적 위험\nAI 기업에 대한 조사 및 청문회 확대\n데이터센터 과세와 인프라 비용 부담\n주정부별 AI 규제 강화와 연방법 갈등\nAI 산업의 성장 둔화와 빅테크 독과점 강화\n\n[AI로 영상을 요약한 내용입니다]\n\n👉언더스탠딩 문의: understanding.officialmail@gmail.com\n👉글로 읽는 \"언더스탠딩 텍스트\".  \nhttps://contents.premium.naver.com/backbriefing/news\n👉언더스탠딩 멤버십 가입\nhttps://www.youtube.com/channel/UCIUni4ScRp4mqPXsxy62L5w/join",
+    "published": "2026-10-30T12:25:21+00:00",
+    "title": "미국 AI 기업이 수천억 정치자금을 뿌리는 이유. 미운털 박힌 AI 기업, 선거 이후 3개의 규제 폭탄 터진다 (하수정 경제전문기자)",
+    "video_id": "BylETcYBDWU"
+   },
+   "wait_checks": 0
+  },
   "C2na8ouWKaU": {
    "errors": 0,
    "first_seen": "2026-10-21T00:01:34+00:00",
@@ -2994,6 +3009,21 @@
    "published": "2026-10-02T11:18:32+00:00",
    "status": "baseline"
   },
+  "CR4kVtg4W1w": {
+   "errors": 0,
+   "first_seen": "2026-10-30T12:27:48+00:00",
+   "published": "2026-10-30T12:00:12+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#모레노 #국가대표 #축구 #손흥민 #김민재 #황희찬",
+    "published": "2026-10-30T12:00:12+00:00",
+    "title": "“모레노의 투톱 전술“ 이강인 또 오른쪽에 써야 하나? 밸런스 부족한 442, 모레노의 전술 고민",
+    "video_id": "CR4kVtg4W1w"
+   },
+   "wait_checks": 0
+  },
   "CTn9ez8PxE4": {
    "errors": 0,
    "first_seen": "2026-10-12T06:12:58+00:00",
@@ -3101,6 +3131,21 @@
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-09-29T12:39:56+00:00",
    "status": "baseline"
+  },
+  "CvUdDSThgMM": {
+   "errors": 0,
+   "first_seen": "2026-10-30T12:27:49+00:00",
+   "published": "2026-10-30T12:00:02+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/",
+    "published": "2026-10-30T12:00:02+00:00",
+    "title": "\"96 선수들 모두 뽑았다\" 모레노, 11월 명단발표!",
+    "video_id": "CvUdDSThgMM"
+   },
+   "wait_checks": 0
   },
   "CxlT-HSTd6g": {
    "first_seen": "2026-10-09T08:14:32+00:00",
@@ -5552,6 +5597,7 @@
   "P-0Rk4OpmcE": {
    "errors": 0,
    "first_seen": "2026-10-30T11:45:35+00:00",
+   "last_attempt": "2026-10-30T12:31:57+00:00",
    "published": "2026-10-30T11:32:41+00:00",
    "status": "pending",
    "video": {
@@ -7542,18 +7588,14 @@
    "status": "baseline"
   },
   "YOKc_mgoifY": {
+   "done_at": "2026-10-30T12:31:57+00:00",
    "errors": 0,
    "first_seen": "2026-10-30T11:05:12+00:00",
+   "last_attempt": "2026-10-30T12:27:59+00:00",
+   "notified": "2026-10-30T12:36:41+00:00",
    "published": "2026-10-30T11:00:30+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
-    "channel_name": "집코노미",
-    "description": "집을 살 때 대표적인 정책대출인 디딤돌대출과 보금자리론을 동시에 받을 수 있는 방법이 있습니다. 두 가지를 잘 조합하면 대출 이자는 낮추고 한도는 높일 수 있습니다.\n\n#디딤돌대출 #보금자리론 #정책대출 #주담대 #내집마련\n\n한국경제신문 구독하기\n📰https://vo.la/N79FE1B\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다\n\n영상의 맥락과 상관없는 비방이나 악의적인 댓글은 예고 없이 삭제됩니다",
-    "published": "2026-10-30T11:00:30+00:00",
-    "title": "주담대 이자 매달 수십만원 아끼는 법(feat.정책대출) | 연수원",
-    "video_id": "YOKc_mgoifY"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "YP90xaf1mYI": {
@@ -9659,6 +9701,21 @@
     "published": "2026-10-25T04:30:35+00:00",
     "title": "비행기가 지나간 자리에 생긴 일자 구름, 지구 온난화를 가속시킨다?",
     "video_id": "fq4LpGC_JBU"
+   },
+   "wait_checks": 0
+  },
+  "fxlpfCEIGUc": {
+   "errors": 0,
+   "first_seen": "2026-10-30T12:27:58+00:00",
+   "published": "2026-10-30T12:00:23+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+    "channel_name": "조코딩 JoCoding",
+    "description": "조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418\nAX 컨설팅 및 교육 문의: https://jocodingax.ai\n조코헌트: https://jocohunt.jocoding.io/\n\nVVIP 멤버십 후원\n그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#ai #창업 #서비스 #게임",
+    "published": "2026-10-30T12:00:23+00:00",
+    "title": "하루 2만명이 쓰는 게임을 만든 비밀",
+    "video_id": "fxlpfCEIGUc"
    },
    "wait_checks": 0
   },
