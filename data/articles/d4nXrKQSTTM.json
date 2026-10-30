@@ -1,0 +1,66 @@
+{
+ "video": {
+  "video_id": "d4nXrKQSTTM",
+  "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+  "channel_name": "스마트튜브(스튜TV)",
+  "title": "2027년 부동산 미쳤다! 내년 부동산 결국 이렇게 됩니다",
+  "published": "2026-10-30T08:00:13+00:00",
+  "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n🔹교보문고 http://app.ac/LqnFfb203\n🔹예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 #부룡 #신선배 \n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+  "url": "https://www.youtube.com/watch?v=d4nXrKQSTTM"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/d4nXrKQSTTM/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1141,
+ "summary": {
+  "headline": "2027년 수도권 전월세 대란 온다",
+  "thumbnail_text": "2027년 부동산 미쳤다! 내년 부동산 결국 이렇게 됩니다",
+  "thumbnail_answer": "서울, 경기, 인천 등 수도권의 입주 물량이 급감하면서 내년부터 역대급 전월세 난국이 시작된다.",
+  "conclusion": "서울과 수도권은 이미 입주 물량이 부족한 상태로 2027년에는 상황이 더욱 악화된다. 다주택자 규제로 공급이 막혀있어 전월세 시장은 최악의 위기를 맞이한다. 정부의 규제 정책은 문제를 해결하지 못하고 오히려 시장을 왜곡시킨다.",
+  "key_points": [
+   "작년부터 서울 및 수도권의 공급 부족과 물량 소멸이 시작됐다.",
+   "2027년은 수도권 전역에서 입주 물량이 자취를 감춘다.",
+   "다주택자 규제로 인해 전월세 공급이 원활하게 이루어지지 않는다.",
+   "재건축과 재개발은 시간이 오래 걸려 단기 공급 부족을 해결할 수 없다.",
+   "정부의 부동산 규제는 유동성을 막고 시장을 불안정하게 만든다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "오프닝 및 전월세 시장 진단",
+    "points": [
+     "작년부터 서울과 수도권의 입주 물량이 부족해졌다.",
+     "2027년은 역대 가장 어려운 임차 시장이 될 것이다."
+    ]
+   },
+   {
+    "seconds": 26,
+    "title": "빠숑 김학렬 소장 소개",
+    "points": [
+     "대한민국 부동산 전문가 빠숑 소장이 출연했다.",
+     "부동산뿐만 아니라 다양한 자산에 투자하고 있다."
+    ]
+   },
+   {
+    "seconds": 528,
+    "title": "현재 전월세 시장의 심각성",
+    "points": [
+     "전월세 대란이 곧 닥친다는 경고가 나오고 있다.",
+     "서울과 수도권 전세 단지 중 10개 이상 매물이 없는 곳이 많다."
+    ]
+   }
+  ],
+  "tags": [
+   "부동산",
+   "전월세",
+   "입주물량",
+   "아파트",
+   "시장전망"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 105688,
+   "output_tokens": 658
+  }
+ },
+ "created_at": "2026-10-30T09:29:06+00:00"
+}

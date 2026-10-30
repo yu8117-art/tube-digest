@@ -337,6 +337,21 @@
    },
    "wait_checks": 0
   },
+  "09OVZISnXI0": {
+   "errors": 0,
+   "first_seen": "2026-10-30T09:28:26+00:00",
+   "published": "2026-10-30T08:48:25+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCXql5C57vS4ogUt6CPEWWHA",
+    "channel_name": "김지윤의 지식Play",
+    "description": "김지윤 박사의 국제뉴스 3분 브리핑_#오바마 #치즈케이크팩토리 #중간선거 #shorts",
+    "published": "2026-10-30T08:48:25+00:00",
+    "title": "3분 뉴스_오바마와 치즈케이크 팩토리 논란 #김지윤의 지식Play",
+    "video_id": "09OVZISnXI0"
+   },
+   "wait_checks": 0
+  },
   "0CAVCbxUuP0": {
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2025-01-07T05:24:10+00:00",
@@ -674,6 +689,21 @@
    "published": "2026-10-20T14:28:10+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "1rDlR0UxGE4": {
+   "errors": 0,
+   "first_seen": "2026-10-30T09:28:32+00:00",
+   "published": "2026-10-30T09:00:03+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+    "channel_name": "조코딩 JoCoding",
+    "description": "저장소: https://github.com/ianand/spreadsheets-are-all-you-need\n\n조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418\nAX 컨설팅 및 교육 문의: https://jocodingax.ai\n조코헌트: https://jocohunt.jocoding.io/\n\nVVIP 멤버십 후원\n그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#ai #오픈소스 #gpt #엑셀",
+    "published": "2026-10-30T09:00:03+00:00",
+    "title": "엑셀은 이제 AI 프로그램입니다",
+    "video_id": "1rDlR0UxGE4"
+   },
    "wait_checks": 0
   },
   "1xxcRGaHi0Y": {
@@ -2795,18 +2825,14 @@
    "wait_checks": 0
   },
   "C5B-bnNbPl0": {
+   "done_at": "2026-10-30T09:40:08+00:00",
    "errors": 0,
    "first_seen": "2026-10-30T08:38:38+00:00",
+   "last_attempt": "2026-10-30T09:31:15+00:00",
+   "notified": "2026-10-30T09:40:40+00:00",
    "published": "2026-10-30T08:00:29+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉https://link.fanding.com/JfMY/4lipnc2p\n\n📘 『운명을 바꾸는 부동산 투자수업』\nhttp://bit.ly/3tML9k0\n\n상남자들에선 욜로, 카드빚, 대출, 목돈, 월급&통장, 내 집 마련과 관련된\n모든 사연을 받아 솔루션을 제시합니다. \n돈 모으기 힘들다면, 경제적인 부분에서 관리가 어렵다면 언제든 사연을 보내주세요.\n좋아요와 구독 알림 설정 부탁드립니다. \n\n\"집이 경매로 넘어갔어요\" 저희 이제 어떻게 해야 하나요?\n\"집이 경매로 넘어갔어요\" 어떻게 해야 할지 너무 막막합니다\n\"1주일 내내 일해서 돈을 모았어요\" 경매 당한 부모님 모셔야 할까요?",
-    "published": "2026-10-30T08:00:29+00:00",
-    "title": "\"집이 경매로 넘어갔어요\" 저희 이제 어떻게 해야 하나요? [상남자들]",
-    "video_id": "C5B-bnNbPl0"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "C7Xe6REXPO4": {
@@ -3953,6 +3979,21 @@
    },
    "wait_checks": 0
   },
+  "IFbgm7YVIG8": {
+   "errors": 0,
+   "first_seen": "2026-10-30T09:28:29+00:00",
+   "published": "2026-10-30T09:00:01+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🏠 2027년 부동산 시장, 어떻게 흘러가고 어떻게 대응해야 할까?\n👉 재야의 고수 아기곰의 부동산 특강 (온·오프라인 모집)\nhttps://fanding.me/buyzip11_yt\n\n❗ 현장 Q&A까지 포함된 핵심 커리큘럼\n\n✅ 1부: 부동산 시장 전망\n✅ 2부: 시나리오별 대응 전략\n✅ 3부: 자산군별 주목해야 할 지역\n✅ 4부: 현장 Q&A\n\n📚 2027년 부동산 투자 숙제, 하루 만에 끝내세요!\n\n\"이제 강제로 집 사게 됐어요\" 한국 부동산에 나타난 이상현상\n전세난보다 무서운 일이 옵니다, 2년 뒤 부동산 시장이 위험한 이유 \n“전세 찾으러 왔다가 집 삽니다” 집값은 점점 산으로 가는 이유\n\n☞촬영일: 26년 10월 22일",
+    "published": "2026-10-30T09:00:01+00:00",
+    "title": "\"이제 강제로 집 사게 됐어요\" 한국 부동산에 나타난 이상현상 [아기곰 4부]",
+    "video_id": "IFbgm7YVIG8"
+   },
+   "wait_checks": 0
+  },
   "IKIJNUg6jAU": {
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-05-20T08:20:12+00:00",
@@ -4630,6 +4671,21 @@
    "status": "done",
    "wait_checks": 1
   },
+  "LS-7jQs74ko": {
+   "errors": 0,
+   "first_seen": "2026-10-30T09:28:23+00:00",
+   "published": "2026-10-30T09:00:25+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+    "channel_name": "에스오디 SOD",
+    "description": "암을 없애는 데 엄청난 영향을 준 반전 물질이 발견되었습니다.\nAI의 발전으로 10년 뒤에는 약 하나로 암이 치료되는 시대가 올 수 있을까요?\n\n- 하이젠버그에서 더 자세한 정보를 얻어가세요: https://heisenberg.kr\n\n- 인스타그램: https://www.instagram.com/softdragon__/\n\n- Chapter\n0:00 인트로\n0:56 우울증 증상\n3:05 하이젠버그 홍보\n4:16 왜 우울증 약인가?\n8:12 연구 결과\n10:09 앞으로의 미래\n\n- 내용 출처\n1. Esra Öz, \"Common Antidepressants Could Have an Unexpected Role in Cancer Survival\", ScienceAlert, 2026\n2. Po-Huang Chen 외, \"Selective serotonin reuptake inhibitors and immune checkpoint blockade in solid tumors: A target trial emulation with pan-cancer transcriptomic analyses\", PLOS Medicine, 2026\n3. Bo Li 외(교신 Lili Yang), \"Serotonin transporter inhibits antitumor immunity through regulating the intratumoral serotonin axis\", Cell, 2025\n4. The Nobel Assembly at Karolinska Institutet, \"The Nobel Prize in Physiology or Medicine 2018 — Press release\", NobelPrize.org, 2018\n5. 손형민, \"키트루다 급여 확대…주요 고형암 치료성적 향상 기대\", 데일리팜, 2026\n6. Tiare Dunlap, \"Common antidepressants could help the immune system fight cancer, UCLA study finds\", UCLA Health, 2025\n7. Christopher A. Muir 외, \"Immune Related Adverse Events of the Thyroid – A Narrative Review\", Frontiers in Endocrinology, 2022\n\n- BGM\n1. Glimpse - Creative Cut - Minimal by Jamie Wright\n2. We are ready by Angel Salazar\n3. Fragility by Romeo\n4. Riven by Sam Lux\n5. Sidegroovin by Out of Flux\n6. Play with Fire by Rockn Stock",
+    "published": "2026-10-30T09:00:25+00:00",
+    "title": "\"암 치료 최종병기\" 암환자 생존율 급상승, 의학계 발칵 뒤집힌 역대급 반전 ㄷㄷ",
+    "video_id": "LS-7jQs74ko"
+   },
+   "wait_checks": 0
+  },
   "LS83HeH5JiE": {
    "errors": 0,
    "first_seen": "2026-10-13T03:06:32+00:00",
@@ -5016,6 +5072,21 @@
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-09-23T12:44:32+00:00",
    "status": "baseline"
+  },
+  "N8oOcgWkmG4": {
+   "errors": 0,
+   "first_seen": "2026-10-30T09:28:25+00:00",
+   "published": "2026-10-30T09:00:23+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#AT마드리드 #이강인 #라리가",
+    "published": "2026-10-30T09:00:23+00:00",
+    "title": "\"득점이 필요하다\" 결정력 부족한 AT마드리드.. 이강인의 공격포인트는 왜 안 나올까?",
+    "video_id": "N8oOcgWkmG4"
+   },
+   "wait_checks": 0
   },
   "NA8d-xq8_JY": {
    "first_seen": "2026-10-09T08:14:34+00:00",
@@ -8726,6 +8797,21 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "cpWKPnlegxo": {
+   "errors": 0,
+   "first_seen": "2026-10-30T09:28:20+00:00",
+   "published": "2026-10-30T09:00:39+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCoCvTlU0KpNYwnMIgs7MPrA",
+    "channel_name": "보다 BODA",
+    "description": "물리학자 김범준 교수가 마술사 모자를 쓰게 된 사연.. 🎩\n이래도 안 오실 건가요?\n\n《과학을 보다: 과학대전(大戰)》\n• 예매 링크: https://nol.yanolja.com/ticket/products/26014490\n  (NOL 티켓에서 '과학을 보다' 검색!)\n\n- 행사 일시: 11월 21일(토) 오후 1시 / 오후 6시\n- 행사 장소: 대전 한남대학교 성지관\n- 출연진: MC 정영진 & 김범준, 우주먼지, 이정모, 장홍제, 김기범",
+    "published": "2026-10-30T09:00:39+00:00",
+    "title": "마술하는 물리학자",
+    "video_id": "cpWKPnlegxo"
+   },
+   "wait_checks": 0
+  },
   "ct56zed7PxA": {
    "errors": 0,
    "first_seen": "2026-10-26T03:00:37+00:00",
@@ -8799,18 +8885,14 @@
    "wait_checks": 0
   },
   "d4nXrKQSTTM": {
+   "done_at": "2026-10-30T09:29:06+00:00",
    "errors": 0,
    "first_seen": "2026-10-30T08:38:35+00:00",
+   "last_attempt": "2026-10-30T09:28:32+00:00",
+   "notified": "2026-10-30T09:40:41+00:00",
    "published": "2026-10-30T08:00:13+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
-    "channel_name": "스마트튜브(스튜TV)",
-    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n🔹교보문고 http://app.ac/LqnFfb203\n🔹예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 #부룡 #신선배 \n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
-    "published": "2026-10-30T08:00:13+00:00",
-    "title": "2027년 부동산 미쳤다! 내년 부동산 결국 이렇게 됩니다",
-    "video_id": "d4nXrKQSTTM"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "d5K7ytTBmjE": {
@@ -12380,6 +12462,7 @@
   "tOUA9SV941g": {
    "errors": 0,
    "first_seen": "2026-10-30T08:38:34+00:00",
+   "last_attempt": "2026-10-30T09:40:08+00:00",
    "published": "2026-10-30T08:30:08+00:00",
    "status": "pending",
    "video": {
@@ -12431,6 +12514,21 @@
    "first_seen": "2026-10-19T19:18:54+00:00",
    "published": "2026-10-19T18:54:38+00:00",
    "status": "skipped_live",
+   "wait_checks": 0
+  },
+  "tXWs9zUqR-g": {
+   "errors": 0,
+   "first_seen": "2026-10-30T09:28:19+00:00",
+   "published": "2026-10-30T09:07:37+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "0:00 누구인가? 누가 김정은 사망 소리를 내었어?\n13:10 김정은의 요트 사랑\n20:43 부자의 급을 나누는 척도",
+    "published": "2026-10-30T09:07:37+00:00",
+    "title": "김정은 사망 루머를 퍼트린자는 누구인가",
+    "video_id": "tXWs9zUqR-g"
+   },
    "wait_checks": 0
   },
   "ta3lArKuck4": {
@@ -13515,18 +13613,14 @@
    "status": "baseline"
   },
   "yLaD1gH9PDg": {
+   "done_at": "2026-10-30T09:31:15+00:00",
    "errors": 0,
    "first_seen": "2026-10-30T08:38:28+00:00",
+   "last_attempt": "2026-10-30T09:29:06+00:00",
+   "notified": "2026-10-30T09:40:41+00:00",
    "published": "2026-10-30T08:00:19+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCWrBzLKCUS3Ifl1hkd8X-wQ",
-    "channel_name": "고고한 강교수",
-    "description": "드디어 펼쳐지는 대망의 경주 기행 마지막 편!\n실제의 유적 현장에서 소금 결정 같은 땀을 흘리며 발굴에 매진하는\n고고학자들의 생생한 이야기를 담았습니다.\n\n어떻게 발굴이 이루어지고\n역사 속 무덤이 어떤 의미를 품고 있는지\n그 놀라운 이야기들의 세계로\n여러분을 초대합니다.\n\n📌 구독 & 좋아요, 알림설정은\n더 알찬 고고학 이야기를 만드는 데 큰 힘이 됩니다!\n---------------------------\n강인욱 교수님이 10년의 세월에 걸쳐 저술한 새 책이 나왔습니다.\n지금 서점에서 구매하세요!\n'발해, 문명의 빛을 찾아서: 강인욱의 유라시아 빅히스토리'\n\n교보문고 https://product.kyobobook.co.kr/detail/S000221804823\n예스24 https://www.yes24.com/product/goods/199461333\nhttps://www.aladin.co.kr/shop/wproduct.aspx?ItemId=405421045&start=pcsearch_auto\n\n함께 보면 좋을 영상\nhttps://youtu.be/-Cyn9GBRJF4\n\n#역사이야기 #고고학 #강인욱 #고고한강교수 #보다tv #역사를보다 #과학을보다 #BTS #지민 #인류역사 #교양콘텐츠 #지식유튜브 #경주 #국립경주박물관 #동궁 #월지 #쪽샘 #쪽샘44호분 #학예사 #금박",
-    "published": "2026-10-30T08:00:19+00:00",
-    "title": "우리가 보는 유물들은 누가 파냈을까? (피, 땀, 눈물 그리고 마음)",
-    "video_id": "yLaD1gH9PDg"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "yQMjy-irSnw": {
