@@ -3104,6 +3104,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "DBm1cqv3avc": {
+   "done_at": "2026-10-30T10:25:06+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-30T10:17:32+00:00",
+   "last_attempt": "2026-10-30T10:22:48+00:00",
+   "notified": "2026-10-30T10:25:09+00:00",
+   "published": "2026-10-30T09:33:21+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "DDKGoXPf8vM": {
    "errors": 0,
    "first_seen": "2026-10-11T07:31:41+00:00",
@@ -3980,18 +3991,14 @@
    "wait_checks": 0
   },
   "IFbgm7YVIG8": {
+   "done_at": "2026-10-30T10:18:00+00:00",
    "errors": 0,
    "first_seen": "2026-10-30T09:28:29+00:00",
+   "last_attempt": "2026-10-30T10:17:40+00:00",
+   "notified": "2026-10-30T10:25:07+00:00",
    "published": "2026-10-30T09:00:01+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🏠 2027년 부동산 시장, 어떻게 흘러가고 어떻게 대응해야 할까?\n👉 재야의 고수 아기곰의 부동산 특강 (온·오프라인 모집)\nhttps://fanding.me/buyzip11_yt\n\n❗ 현장 Q&A까지 포함된 핵심 커리큘럼\n\n✅ 1부: 부동산 시장 전망\n✅ 2부: 시나리오별 대응 전략\n✅ 3부: 자산군별 주목해야 할 지역\n✅ 4부: 현장 Q&A\n\n📚 2027년 부동산 투자 숙제, 하루 만에 끝내세요!\n\n\"이제 강제로 집 사게 됐어요\" 한국 부동산에 나타난 이상현상\n전세난보다 무서운 일이 옵니다, 2년 뒤 부동산 시장이 위험한 이유 \n“전세 찾으러 왔다가 집 삽니다” 집값은 점점 산으로 가는 이유\n\n☞촬영일: 26년 10월 22일",
-    "published": "2026-10-30T09:00:01+00:00",
-    "title": "\"이제 강제로 집 사게 됐어요\" 한국 부동산에 나타난 이상현상 [아기곰 4부]",
-    "video_id": "IFbgm7YVIG8"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "IKIJNUg6jAU": {
@@ -4672,18 +4679,14 @@
    "wait_checks": 1
   },
   "LS-7jQs74ko": {
+   "done_at": "2026-10-30T10:20:02+00:00",
    "errors": 0,
    "first_seen": "2026-10-30T09:28:23+00:00",
+   "last_attempt": "2026-10-30T10:18:56+00:00",
+   "notified": "2026-10-30T10:25:07+00:00",
    "published": "2026-10-30T09:00:25+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
-    "channel_name": "에스오디 SOD",
-    "description": "암을 없애는 데 엄청난 영향을 준 반전 물질이 발견되었습니다.\nAI의 발전으로 10년 뒤에는 약 하나로 암이 치료되는 시대가 올 수 있을까요?\n\n- 하이젠버그에서 더 자세한 정보를 얻어가세요: https://heisenberg.kr\n\n- 인스타그램: https://www.instagram.com/softdragon__/\n\n- Chapter\n0:00 인트로\n0:56 우울증 증상\n3:05 하이젠버그 홍보\n4:16 왜 우울증 약인가?\n8:12 연구 결과\n10:09 앞으로의 미래\n\n- 내용 출처\n1. Esra Öz, \"Common Antidepressants Could Have an Unexpected Role in Cancer Survival\", ScienceAlert, 2026\n2. Po-Huang Chen 외, \"Selective serotonin reuptake inhibitors and immune checkpoint blockade in solid tumors: A target trial emulation with pan-cancer transcriptomic analyses\", PLOS Medicine, 2026\n3. Bo Li 외(교신 Lili Yang), \"Serotonin transporter inhibits antitumor immunity through regulating the intratumoral serotonin axis\", Cell, 2025\n4. The Nobel Assembly at Karolinska Institutet, \"The Nobel Prize in Physiology or Medicine 2018 — Press release\", NobelPrize.org, 2018\n5. 손형민, \"키트루다 급여 확대…주요 고형암 치료성적 향상 기대\", 데일리팜, 2026\n6. Tiare Dunlap, \"Common antidepressants could help the immune system fight cancer, UCLA study finds\", UCLA Health, 2025\n7. Christopher A. Muir 외, \"Immune Related Adverse Events of the Thyroid – A Narrative Review\", Frontiers in Endocrinology, 2022\n\n- BGM\n1. Glimpse - Creative Cut - Minimal by Jamie Wright\n2. We are ready by Angel Salazar\n3. Fragility by Romeo\n4. Riven by Sam Lux\n5. Sidegroovin by Out of Flux\n6. Play with Fire by Rockn Stock",
-    "published": "2026-10-30T09:00:25+00:00",
-    "title": "\"암 치료 최종병기\" 암환자 생존율 급상승, 의학계 발칵 뒤집힌 역대급 반전 ㄷㄷ",
-    "video_id": "LS-7jQs74ko"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "LS83HeH5JiE": {
@@ -5074,18 +5077,14 @@
    "status": "baseline"
   },
   "N8oOcgWkmG4": {
+   "done_at": "2026-10-30T10:18:56+00:00",
    "errors": 0,
    "first_seen": "2026-10-30T09:28:25+00:00",
+   "last_attempt": "2026-10-30T10:18:00+00:00",
+   "notified": "2026-10-30T10:25:08+00:00",
    "published": "2026-10-30T09:00:23+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#AT마드리드 #이강인 #라리가",
-    "published": "2026-10-30T09:00:23+00:00",
-    "title": "\"득점이 필요하다\" 결정력 부족한 AT마드리드.. 이강인의 공격포인트는 왜 안 나올까?",
-    "video_id": "N8oOcgWkmG4"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "NA8d-xq8_JY": {
@@ -8520,6 +8519,21 @@
    },
    "wait_checks": 0
   },
+  "buQP5h_oT44": {
+   "errors": 0,
+   "first_seen": "2026-10-30T10:17:25+00:00",
+   "published": "2026-10-30T10:00:18+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCoCvTlU0KpNYwnMIgs7MPrA",
+    "channel_name": "보다 BODA",
+    "description": "*이 영상은 지식재산처의 지원을 받아 제작되었습니다.\n\n안녕하세요 오늘은 역사 속 기술 유출이 바꾼 패러다임과 현대까지 이어진 기술의 중요성에 대해 알아봤습니다.\n\n오늘의 출연진\nMC 허준님\n지식재산처 김용선 처장님\n중동학자 박현도 교수님\n유라시아 고고학자 강인욱 교수님\n이집트 고고학자 곽민수 소장님\n중국사 이성원 교수님\n\n00:00 오프닝\n02:16 중국 황실이 2500년간 독점한 금서\n05:50 전세계 권력자들이 기술을 독재한 이유\n10:04 국운을 건 기술경쟁의 시작\n12:26 과거에도 산업 스파이가 있었을까?\n25:04 최근 대한민국에서 일어난 기술 유출 사건\n28:51 치열한 전 세계의 기술 패권 전쟁\n36:28 인재들을 포섭하기 위한 은밀한 움직임\n39:45 기술 유출을 막기 위한 과거 사람들의 노력\n\n📢역사를 보다 토크 콘서트 in 부산 티켓이 오픈되었습니다! \n\n• 예매 링크: https://nol.yanolja.com/ticket/products/26014590\n• 행사 일시: 11월 28일(토) 오후 1시 / 오후 6시\n• 행사 장소: 부산 소향씨어터 우리은행홀\n• 출연진: MC 허준 & 강인욱, 박현도, 곽민수, 이성원\n\n많은 관심 부탁드리겠습니다.🧡\n\n궁금하신 부분들을 댓글에 달아주세요!\n저희가 확인하겠습니다! 감사합니다!\n\n출연 및 제휴 문의 : boooda.kr@gmail.com\n\nBODA 인스타 :   / boda_channel\n#보다 #역사 #지식재산처#금서#중국#기술",
+    "published": "2026-10-30T10:00:18+00:00",
+    "title": "중국 황실이 2500년간 독점한 금서의 정체..(이런 기술이;;)ㅣ역사를 보다 EP.169",
+    "video_id": "buQP5h_oT44"
+   },
+   "wait_checks": 0
+  },
   "bxXBLLonel4": {
    "done_at": "2026-10-23T07:34:56+00:00",
    "errors": 0,
@@ -9112,6 +9126,21 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "e7nrw5FPPUw": {
+   "errors": 0,
+   "first_seen": "2026-10-30T10:17:27+00:00",
+   "published": "2026-10-30T09:33:19+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCCQPdv4o4ywVZQkAMOlvFbw",
+    "channel_name": "오목교 전자상가",
+    "description": "오목교 전자상가가 전문 시험 장비를 이용해 직접 테스트했습니다\n\n과연 그 결과는?!\n\n며칠 뒤 본편에서 공개됩니다. Coming Soon!\n\n#아이폰듀오 #아이폰 #애플 #방수테스트 #방진테스트",
+    "published": "2026-10-30T09:33:19+00:00",
+    "title": "IP68 아이폰 듀오! 과연 방수·방진 테스트에서 살아남을 수 있을까요? #shorts",
+    "video_id": "e7nrw5FPPUw"
+   },
+   "wait_checks": 0
+  },
   "eALVA6EohaE": {
    "done_at": "2026-10-19T06:25:01+00:00",
    "errors": 0,
@@ -9521,6 +9550,21 @@
     "published": "2026-10-25T04:30:35+00:00",
     "title": "비행기가 지나간 자리에 생긴 일자 구름, 지구 온난화를 가속시킨다?",
     "video_id": "fq4LpGC_JBU"
+   },
+   "wait_checks": 0
+  },
+  "g3wAqBb5r_o": {
+   "errors": 0,
+   "first_seen": "2026-10-30T10:17:34+00:00",
+   "published": "2026-10-30T10:00:07+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 #세입자 #서울 #수도권\n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-10-30T10:00:07+00:00",
+    "title": "지금 서울, 수권 세입자들 상황",
+    "video_id": "g3wAqBb5r_o"
    },
    "wait_checks": 0
   },
@@ -10676,6 +10720,21 @@
    },
    "wait_checks": 0
   },
+  "lUi7OVENQHs": {
+   "errors": 0,
+   "first_seen": "2026-10-30T10:17:40+00:00",
+   "published": "2026-10-30T10:00:30+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+    "channel_name": "조코딩 JoCoding",
+    "description": "조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418\nAX 컨설팅 및 교육 문의: https://jocodingax.ai\n조코헌트: https://jocohunt.jocoding.io/\n\nVVIP 멤버십 후원\n그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#ai #바둑 #알파고 #대국",
+    "published": "2026-10-30T10:00:30+00:00",
+    "title": "바둑 AI를 상대로 14승 1패를 기록한 사람의 비밀",
+    "video_id": "lUi7OVENQHs"
+   },
+   "wait_checks": 0
+  },
   "lX9ochUEyM8": {
    "done_at": "2026-10-21T09:40:36+00:00",
    "errors": 0,
@@ -11028,6 +11087,21 @@
     "published": "2026-10-22T00:30:08+00:00",
     "title": "보유세 증가가 소름돋는 이유 \"20년 30년 살았어도 팔고 떠나세요\" [김제경 박사]",
     "video_id": "mtEAbap9MKQ"
+   },
+   "wait_checks": 0
+  },
+  "muv6-5Aycjw": {
+   "errors": 0,
+   "first_seen": "2026-10-30T10:17:36+00:00",
+   "published": "2026-10-30T09:30:01+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n삼성전자 7만원 간다는 말 딱 '이것'만 확인하면 됩니다\n\n☞촬영일: 26년 10월 23일",
+    "published": "2026-10-30T09:30:01+00:00",
+    "title": "삼성전자 7만원 간다는 말 딱 '이것'만 확인하면 됩니다 [김장열 센터장]",
+    "video_id": "muv6-5Aycjw"
    },
    "wait_checks": 0
   },
@@ -12059,6 +12133,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "rDrvjkmilUM": {
+   "errors": 0,
+   "first_seen": "2026-10-30T10:17:31+00:00",
+   "published": "2026-10-30T09:55:30+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
+    "channel_name": "지식보관소",
+    "description": "Instagram ID @archiveyoutube\n#양자역학 #양자장 #양자얽힘 #물질의본질 #지식보관소 #Shorts\n\n서울에 있는 전자와 먼 은하에 있는 전자는 왜 같은 성질을 가질까요?\n물질을 작은 알갱이로 떠올리는 직관에서 출발해, 입자를 양자장의 들뜸으로 보는 관점과 양자얽힘·시공간의 연결을 탐구하는 아이디어를 살펴봅니다. 우리가 익숙하게 생각하는 ‘물질’의 모습은 어디까지 맞는 걸까요?\n\n양자장 이론의 입자 설명과 양자웜홀 가설은 구분해서 볼 필요가 있습니다. 양자웜홀이 실험으로 확인되었거나 물질이 존재하지 않는다는 사실이 증명된 것은 아닙니다. 영상에서 다루는 관점과 남은 질문은 풀영상에서 이어집니다.\n\n원본영상\nhttps://youtu.be/R1p0JF5gTQU?si=uEb2VCP0ulCZHrAV\n\n------- 본계정(지식보관소) -------\nhttps://www.youtube.com/@지식보관소\n-----------게임 개발 관련-----------\nhttps://asdfg3663-alt.github.io/\n------- 비지니스 문의 -------\nE-Mail : asdfg3663@gmail.com",
+    "published": "2026-10-30T09:55:30+00:00",
+    "title": "이 세상에 사실 물질이라는 건 없다고 하는 이유 #shorts",
+    "video_id": "rDrvjkmilUM"
+   },
+   "wait_checks": 0
+  },
   "rJeu34q1sME": {
    "done_at": "2026-10-18T01:26:43+00:00",
    "errors": 0,
@@ -12517,18 +12606,14 @@
    "wait_checks": 0
   },
   "tXWs9zUqR-g": {
+   "done_at": "2026-10-30T10:22:48+00:00",
    "errors": 0,
    "first_seen": "2026-10-30T09:28:19+00:00",
+   "last_attempt": "2026-10-30T10:20:02+00:00",
+   "notified": "2026-10-30T10:25:09+00:00",
    "published": "2026-10-30T09:07:37+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-    "channel_name": "슈카월드",
-    "description": "0:00 누구인가? 누가 김정은 사망 소리를 내었어?\n13:10 김정은의 요트 사랑\n20:43 부자의 급을 나누는 척도",
-    "published": "2026-10-30T09:07:37+00:00",
-    "title": "김정은 사망 루머를 퍼트린자는 누구인가",
-    "video_id": "tXWs9zUqR-g"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "ta3lArKuck4": {
@@ -13472,6 +13557,21 @@
    "published": "2026-10-17T08:30:23+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "xfiG2qzFH28": {
+   "errors": 0,
+   "first_seen": "2026-10-30T10:17:34+00:00",
+   "published": "2026-10-30T10:00:08+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n삼전 닉스 안 팔고 버티면 장기적으로 '이렇게' 됩니다\n영업이익 107조 찍은 삼성전자, 주가 폭락한 진짜 이유\n107조 벌었는데 폭락? 삼성전자 앞으로 '이렇게' 된다\n\n☞촬영일: 26년 10월 23일",
+    "published": "2026-10-30T10:00:08+00:00",
+    "title": "삼전 닉스 안 팔고 버티면 장기적으로 '이렇게' 됩니다 [김장열 센터장 풀버전]",
+    "video_id": "xfiG2qzFH28"
+   },
    "wait_checks": 0
   },
   "xgqI-RzrNjc": {

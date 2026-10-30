@@ -1,0 +1,72 @@
+{
+ "video": {
+  "video_id": "LS-7jQs74ko",
+  "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+  "channel_name": "에스오디 SOD",
+  "title": "\"암 치료 최종병기\" 암환자 생존율 급상승, 의학계 발칵 뒤집힌 역대급 반전 ㄷㄷ",
+  "published": "2026-10-30T09:00:25+00:00",
+  "description": "암을 없애는 데 엄청난 영향을 준 반전 물질이 발견되었습니다.\nAI의 발전으로 10년 뒤에는 약 하나로 암이 치료되는 시대가 올 수 있을까요?\n\n- 하이젠버그에서 더 자세한 정보를 얻어가세요: https://heisenberg.kr\n\n- 인스타그램: https://www.instagram.com/softdragon__/\n\n- Chapter\n0:00 인트로\n0:56 우울증 증상\n3:05 하이젠버그 홍보\n4:16 왜 우울증 약인가?\n8:12 연구 결과\n10:09 앞으로의 미래\n\n- 내용 출처\n1. Esra Öz, \"Common Antidepressants Could Have an Unexpected Role in Cancer Survival\", ScienceAlert, 2026\n2. Po-Huang Chen 외, \"Selective serotonin reuptake inhibitors and immune checkpoint blockade in solid tumors: A target trial emulation with pan-cancer transcriptomic analyses\", PLOS Medicine, 2026\n3. Bo Li 외(교신 Lili Yang), \"Serotonin transporter inhibits antitumor immunity through regulating the intratumoral serotonin axis\", Cell, 2025\n4. The Nobel Assembly at Karolinska Institutet, \"The Nobel Prize in Physiology or Medicine 2018 — Press release\", NobelPrize.org, 2018\n5. 손형민, \"키트루다 급여 확대…주요 고형암 치료성적 향상 기대\", 데일리팜, 2026\n6. Tiare Dunlap, \"Common antidepressants could help the immune system fight cancer, UCLA study finds\", UCLA Health, 2025\n7. Christopher A. Muir 외, \"Immune Related Adverse Events of the Thyroid – A Narrative Review\", Frontiers in Endocrinology, 2022\n\n- BGM\n1. Glimpse - Creative Cut - Minimal by Jamie Wright\n2. We are ready by Angel Salazar\n3. Fragility by Romeo\n4. Riven by Sam Lux\n5. Sidegroovin by Out of Flux\n6. Play with Fire by Rockn Stock",
+  "url": "https://www.youtube.com/watch?v=LS-7jQs74ko"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/LS-7jQs74ko/maxresdefault.jpg",
+ "source": "video",
+ "duration": 698,
+ "summary": {
+  "headline": "우울증 약과 면역항암제의 놀라운 항암 시너지",
+  "thumbnail_text": "\"정신과 약 아니었어?\" 암 없애버린 반전 물질",
+  "thumbnail_answer": "세로토닌 재흡수 억제제(SSRI) 계열의 우울증 약을 면역항암제와 함께 복용하면 암 사망 위험이 37% 낮아진다는 연구 결과가 나왔다.",
+  "conclusion": "면역항암제 치료를 받는 암환자가 세로토닌 관련 우울증 약을 함께 복용하면 생존율이 크게 향상된다. 우울증 약이 직접 암세포를 죽이는 것은 아니지만 면역세포인 T세포를 도와 암과 더 잘 싸우도록 돕는다. 기존 면역항암제만으로 효과를 보지 못했던 환자들에게 새로운 치료 선택지가 열릴 수 있다.",
+  "key_points": [
+   "우울증 약을 먹은 암 환자들의 생존율이 극도로 올라갔다는 연구 결과가 발표됐다.",
+   "세로토닌 재흡수 억제제(SSRI) 계열의 우울증 약은 세로토닌이 흡수되지 않고 몸속에 오래 머물게 만든다.",
+   "암세포를 공격하는 T세포 역시 세로토닌을 만들어내며, 세로토닌은 T세포에게 공격 신호를 준다.",
+   "면역항암제를 맞으면서 SSRI 계열 우울증 약을 복용한 환자들은 사망 위험이 37% 낮아졌다.",
+   "동물 실험에서도 SSRI 투여 시 종양 성장이 억제되고 종양 평균 크기가 50% 이상 작아졌다.",
+   "이 연구는 새로운 항암제가 아니라 기존 우울증 치료제를 활용해 항암 효과를 높인다는 점에서 의미가 크다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "인트로",
+    "points": [
+     "우울증 약을 먹은 암 환자들의 생존율이 높아졌다는 충격적인 연구 결과가 학계를 뒤집었다."
+    ]
+   },
+   {
+    "seconds": 56,
+    "title": "우울증 증상",
+    "points": [
+     "크리에이터가 겪었던 우울감과 불안감, 그리고 이를 사업으로 승화시킨 과정을 이야기한다."
+    ]
+   },
+   {
+    "seconds": 305,
+    "title": "하이젠버그 홍보",
+    "points": [
+     "바이오 및 기술 트렌드를 다루는 하이젠버그 플랫폼을 소개한다."
+    ]
+   },
+   {
+    "seconds": 416,
+    "title": "왜 우울증 약인가?",
+    "points": [
+     "면역항암제의 작동 원리와 T세포의 브레이크 단백질인 PD-1에 대해 설명한다.",
+     "키트루다 같은 면역항암제가 암세포의 면역 회피를 막는 방식을 다룬다."
+    ]
+   }
+  ],
+  "tags": [
+   "우울증약",
+   "면역항암제",
+   "세로토닌",
+   "암치료",
+   "의학연구"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 65611,
+   "output_tokens": 952
+  }
+ },
+ "created_at": "2026-10-30T10:20:02+00:00"
+}

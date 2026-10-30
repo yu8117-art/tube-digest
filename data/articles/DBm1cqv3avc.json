@@ -1,0 +1,66 @@
+{
+ "video": {
+  "video_id": "DBm1cqv3avc",
+  "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+  "channel_name": "소수몽키",
+  "title": "AI인프라 쇼크 어떻게 대응해야 할까, 다음 승자까지 마음 편하게 투자하는 법",
+  "published": "2026-10-30T09:33:21+00:00",
+  "description": "😱단기로 너무 무섭지만 장기로 본다면! 영상에 나온 1Q ETF 더 알아보기\n1Q 엔비디아고정미국AI반도체 : https://blog.naver.com/1qetf/224443466738\n1Q 미국AI테크플랫폼TOP10 : https://blog.naver.com/1qetf/224454115460",
+  "url": "https://www.youtube.com/watch?v=DBm1cqv3avc"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/DBm1cqv3avc/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1378,
+ "summary": {
+  "headline": "AI 인프라 쇼크 대비와 다음 승자 찾는 투자법",
+  "thumbnail_text": "AI 인프라 쇼크? 겁먹지 마세요 다음 승자까지 알아서 담는 투자법",
+  "thumbnail_answer": "AI 인프라 쇼크나 앤트로픽 상장 같은 변동성에도 ETF를 통해 하드웨어와 소프트웨어 플랫폼 기업을 고정 비중으로 분산 투자하는 것이 답이다.",
+  "conclusion": "AI 기술 발전과 앤트로픽 같은 대형 AI 기업의 상장은 단기적으로 증시에 충격을 줄 수 있다. 하지만 AI 인프라와 플랫폼 생태계 전반을 아우르는 ETF를 활용하면 변동성을 분산하고 안전하게 투자할 수 있다.",
+  "key_points": [
+   "AI 하드웨어부터 소프트웨어, 플랫폼까지 전방위적인 투자가 필요하다.",
+   "엔비디아에만 집중 투자하는 것은 리스크가 있으므로 분산이 중요하다.",
+   "하나1Q엔비디아고정미국AI반도체 ETF는 엔비디아와 핵심 반도체 기업을 고정 비중으로 담는다.",
+   "하나1Q미국AI테크플랫폼TOP10 ETF는 AI 소프트웨어와 플랫폼 생태계에 집중한다.",
+   "앤트로픽 등 신규 상장 기업은 상장일 기준 이틀 뒤부터 신속하게 편입된다."
+  ],
+  "timeline": [
+   {
+    "seconds": 105,
+    "title": "AI 기술 발전과 투자처",
+    "points": [
+     "AI 에이전트 시대의 도래로 하드웨어와 소프트웨어 모두 주목해야 한다.",
+     "반도체뿐만 아니라 메모리, CPU, AI 인프라 전반으로 투자가 확장된다."
+    ]
+   },
+   {
+    "seconds": 317,
+    "title": "엔비디아 집중 투자 리스크",
+    "points": [
+     "엔비디아 대장주 몰빵 투자는 단기 변동성 리스크가 크다.",
+     "AI 인프라 생태계 전반에 분산 투자하는 것이 안전하다."
+    ]
+   },
+   {
+    "seconds": 551,
+    "title": "하나1Q 엔비디아 고정 미국 AI 반도체 ETF",
+    "points": [
+     "엔비디아 종목과 비중을 매월 고정적으로 25% 편입한다.",
+     "나머지 9개 미국 반도체 대장주에 분산 투자한다."
+    ]
+   }
+  ],
+  "tags": [
+   "AI",
+   "ETF",
+   "엔비디아",
+   "반도체",
+   "테크"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 127120,
+   "output_tokens": 817
+  }
+ },
+ "created_at": "2026-10-30T10:25:06+00:00"
+}
