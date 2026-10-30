@@ -8649,7 +8649,7 @@
   "buQP5h_oT44": {
    "errors": 0,
    "first_seen": "2026-10-30T10:17:25+00:00",
-   "last_attempt": "2026-10-30T18:50:10+00:00",
+   "last_attempt": "2026-10-30T19:35:11+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (30:00~44:52)",
    "published": "2026-10-30T10:00:18+00:00",
    "status": "pending",
