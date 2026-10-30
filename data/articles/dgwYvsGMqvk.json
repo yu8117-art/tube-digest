@@ -1,0 +1,40 @@
+{
+ "video": {
+  "video_id": "dgwYvsGMqvk",
+  "channel_id": "UCDSj40X9FFUAnx1nv7gQhcA",
+  "channel_name": "월급쟁이부자들TV",
+  "title": "[구해줘월부 라이브] \"매물 쌓이고 거래량 줄기 시작했다?\" 최근 서울 부동산에 벌어지는 심상찮은 일들",
+  "published": "2026-10-29T09:24:44+00:00",
+  "description": "🏠 내가 가진 돈으로 어떤 집 사야할지 고민이라면?\n내 돈으로 내게 맞는 가장 좋은 집 사는 법 알려드릴게요\n너나위의 [내집마련 기초반]\n👉 https://link.weolbu.com/4ANVgDr\n\n가족, 친구에게도 말 못한 재테크 고민이 있다면?\n구해줘월부 사연 남기고 너나위, 자음과모음, 잔쟈니님에게 1:1 솔루션을 받으세요\n✏️ https://link.weolbu.com/4geG6yv\n\n#내집마련 #부동산기회 #부동산 #영끌 #무주택자 #갈아타기 #환율 #주식",
+  "url": "https://www.youtube.com/watch?v=dgwYvsGMqvk"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/dgwYvsGMqvk/hqdefault.jpg",
+ "source": "metadata",
+ "duration": null,
+ "summary": {
+  "headline": "서울 부동산 거래량 감소와 매물 증가의 진실",
+  "thumbnail_text": "매물 쌓이고 거래량 줄기 시작했다?",
+  "thumbnail_answer": "영상을 직접 시청하지 않아 썸네일 질문에 대한 명확한 답변을 확인할 수 없다.",
+  "conclusion": "제공된 영상 내용이 부족하여 상세한 분석에는 한계가 있다. 다만 현재 서울 부동산 시장은 매물 증가와 거래량 감소 등 변화의 조짐을 보이고 있다. 무주택자와 갈아타기 수요자는 시장 상황을 면밀히 살펴야 한다. 추후 상세한 데이터와 전문가 분석을 통해 대응 전략을 세워야 한다.",
+  "key_points": [
+   "최근 서울 부동산 시장에 매물이 쌓이고 거래량이 줄어드는 변화가 나타나고 있다.",
+   "무주택자는 자금 상황에 맞는 최선의 집을 찾는 것이 중요하다.",
+   "재테크 및 부동산 관련 고민은 사연을 통해 전문가 솔루션을 받을 수 있다.",
+   "내집마련 기초반 등을 통해 구체적인 투자 전략을 학습할 수 있다."
+  ],
+  "timeline": [],
+  "tags": [
+   "부동산",
+   "내집마련",
+   "서울부동산",
+   "갈아타기",
+   "무주택자"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 799,
+   "output_tokens": 309
+  }
+ },
+ "created_at": "2026-10-30T13:32:17+00:00"
+}
