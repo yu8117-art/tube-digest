@@ -5441,6 +5441,21 @@
    "published": "2026-10-19T07:55:35+00:00",
    "status": "baseline"
   },
+  "PD5rRf3_uOE": {
+   "errors": 0,
+   "first_seen": "2026-10-30T01:06:05+00:00",
+   "published": "2026-10-30T00:30:38+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCYgVl2XoMfkvg1BzTFiyOiw",
+    "channel_name": "홈즈 부동산",
+    "description": "2026.10.30일에 올린 영상입니다. \n\n시기에 따라 추천은 달라져요.",
+    "published": "2026-10-30T00:30:38+00:00",
+    "title": "지금 투자 추천중인 성남 재개발 구역",
+    "video_id": "PD5rRf3_uOE"
+   },
+   "wait_checks": 0
+  },
   "PG8xg5V7_Y8": {
    "errors": 0,
    "first_seen": "2026-10-15T04:37:28+00:00",
@@ -8778,7 +8793,7 @@
   "dgwYvsGMqvk": {
    "errors": 0,
    "first_seen": "2026-10-29T09:28:59+00:00",
-   "last_attempt": "2026-10-30T00:13:06+00:00",
+   "last_attempt": "2026-10-30T01:06:09+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-10-29T09:24:44+00:00",
    "status": "pending",
@@ -8790,7 +8805,7 @@
     "title": "[구해줘월부 라이브] \"매물 쌓이고 거래량 줄기 시작했다?\" 최근 서울 부동산에 벌어지는 심상찮은 일들",
     "video_id": "dgwYvsGMqvk"
    },
-   "wait_checks": 15
+   "wait_checks": 16
   },
   "divtOi6rWtE": {
    "done_at": "2026-10-23T11:10:23+00:00",
