@@ -1577,18 +1577,14 @@
    "wait_checks": 0
   },
   "6J0MuPdthq4": {
+   "done_at": "2026-10-30T11:47:09+00:00",
    "errors": 0,
    "first_seen": "2026-10-30T11:05:16+00:00",
+   "last_attempt": "2026-10-30T11:46:25+00:00",
+   "notified": "2026-10-30T11:50:10+00:00",
    "published": "2026-10-30T11:00:19+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
-    "channel_name": "채널 제네시스박",
-    "description": "부모님께 집값을 빌리면 세금이 나올까요?\n빌린 돈엔 세금이 없다고 알고 계셨다면, 이 영상을 꼭 끝까지 보세요.\n차용증을 써도 증여로 보는 경우가 있고, 잘 갚았는데도 소명 연락을 받는 경우가 있습니다.\n\n증여냐 차용이냐, 부모님 도움을 받을 때 세금폭탄을 피하려면 무엇을 알아야 하는지 정리했습니다.\n\n📄 금전대차계약서 양식 다운로드 (서울중앙지방법원 제공)\n👉 https://bit.ly/3Wctel6\n\n00:00 부모님께 빌리면 세금 나올까?\n00:16 증여냐 차용이냐\n01:02 편법 증여가 생기는 이유\n01:26 정말 빌렸다면, 차용증은 이렇게\n03:04 국세청이 적발한 실제 사례\n03:40 공증, 꼭 받아야 할까?\n04:07 이자율은 얼마로 정해야 할까?\n05:09 차라리 증여가 나은 이유\n06:10 증여재산공제·혼인공제 활용법\n07:31 양가에서 받는다면?\n09:24 실제 신혼부부 사례\n10:40 정리\n\n#증여 #차용증 #증여세 #자금출처 #부모님증여 #혼인공제 #제네시스박\n\n📌 커피 한 잔 값으로 부동산 세금 완전정복!\nhttps://www.genesispark.co.kr/cu/Mfa9NVGW\n\n📌 연회원 신청 및 1:1 상담, 외부 교육 문의\nhttps://pf.kakao.com/_SfaRn\n\n📌 매년 바뀌는 부동산 세금 트렌드 완전정복!\n신간, 부동산 세금 트렌드 2025\nhttps://han.gl/pwiFQ\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
-    "published": "2026-10-30T11:00:19+00:00",
-    "title": "부모님 돈으로 집 살 때, 차용증만 쓰면 괜찮을까? | 채널 제네시스박",
-    "video_id": "6J0MuPdthq4"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "6OjmZgnK3oU": {
@@ -2691,18 +2687,14 @@
    "status": "baseline"
   },
   "B2QBL9TV6bI": {
+   "done_at": "2026-10-30T11:46:25+00:00",
    "errors": 0,
    "first_seen": "2026-10-30T11:05:07+00:00",
+   "last_attempt": "2026-10-30T11:45:36+00:00",
+   "notified": "2026-10-30T11:50:11+00:00",
    "published": "2026-10-30T10:57:36+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
-    "channel_name": "안될공학 - IT 테크 신기술",
-    "description": "일부 AI 작업의 이용 요금은 내려가는데, GPU를 빌리는 값은 오르는 곳들이 있습니다. 같은 연산 장비로 돌아가는 서비스인데 왜 두 가격은 다르게 움직일까요? 장비 한 대로 더 많은 일을 처리하면 작업당 비용은 낮아질 수 있지만, 사람들이 맡기는 일이 더 빠르게 늘면 필요한 서버도 많아질 수 있습니다. 코드 추천을 넘어 수정과 실행, 검사까지 맡기는 AI 에이전트가 이런 변화를 어떻게 만드는지 살펴봅니다.\n\n구글과 마이크로소프트, AWS의 발표를 통해 고객의 AI 사용과 지출, 클라우드 매출이 어떻게 달라졌는지 짚어봅니다. 클라우드 성장에 함께 반영되는 AI 서비스와 기존 사업, 칩 시스템 판매를 나눠 살펴봅니다. 메모리와 네트워크, 전력과 냉각의 병목부터 TPU·트레이니엄으로 작업을 옮기는 비용까지, 실제로 서비스를 제공할 수 있는 용량을 늘리는 조건을 설명합니다.\n\n수요가 늘어도 설비를 먼저 준비하고 고객에게 돈을 받기까지는 시간이 걸립니다. 빅테크와 신흥 AI 클라우드 업체의 투자와 계약을 통해, 늘어난 사용이 매출과 이익으로 이어지려면 무엇이 맞아야 하는지 살펴봅니다. 마지막으로 이 흐름이 실제 서버 증설과 한국 메모리의 주문·출하로 연결되는 조건까지 정리합니다.\n\nWritten by 패치\nEdited by 이재현\n\nunrealtech2021@gmail.com",
-    "published": "2026-10-30T10:57:36+00:00",
-    "title": "AI 작업은 싸졌는데 GPU 임대료는 왜 오를까? | 구글·MS·AWS 실적으로 살펴본 처리 효율, AI가 더 많이 쓰이면 한국 메모리도 바로 늘어날까?",
-    "video_id": "B2QBL9TV6bI"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "B37W0Lz5qbE": {
@@ -5191,15 +5183,7 @@
    "errors": 0,
    "first_seen": "2026-10-29T23:04:21+00:00",
    "published": "2026-10-29T22:49:23+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
-    "channel_name": "소유보다 경험 - 아이언 / 공모주",
-    "description": "인텔리빅스 공모주 상장일의 실시간 동시호가, 주가 현황을 실시간 라이브로 제공합니다.\n특히 이번부터 기존의 상장라이브 시스템을 개편하여, 조금 더 가독성이 높고 양질의 정보를 제공하도록 새롭게 제공되니 참고부탁드립니다.\n-\n상장 전과 직후에는 안내가 진행되지만, 이후에는 음악만 제공되는 점 참고하시기 바랍니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
-    "published": "2026-10-29T22:49:23+00:00",
-    "title": "[10/30] 인텔리빅스 상장일 실시간 동시호가, 주가 현황  LIVE / 미래에셋증권",
-    "video_id": "NPpwdUm3k0A"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "NSk4HSpWv2g": {
@@ -5564,6 +5548,21 @@
    "first_seen": "2026-10-19T00:15:33+00:00",
    "published": "2026-10-12T10:00:20+00:00",
    "status": "baseline"
+  },
+  "P-0Rk4OpmcE": {
+   "errors": 0,
+   "first_seen": "2026-10-30T11:45:35+00:00",
+   "published": "2026-10-30T11:32:41+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
+    "channel_name": "지식인사이드",
+    "description": "오늘은 군사전문가 샤를세환님을 모시고\n\n세계 곳곳에서 벌어지는 전쟁의 현황과 3차 대전 가능성에 대해 알아봤습니다.\n\n📖 『세계사를 바꾼 그날』 출간!\n🎁 초판 한정 저자 4인 사인 인쇄본\n교보문고: https://linkly.link/2xuLb \n예스24: https://linkly.link/2xuLm \n알라딘: https://linkly.link/2xuLo \n\n세계 최강의 무기를 가졌다고 전쟁에서 반드시 이길까요?\n압도적인 군사력도 뒤집어버린 결정적 선택과 판단의 순간들.\n\n군사 전문가 이세환 기자가 9개의 전쟁을 통해 풀어낸 『세계사를 바꾼 그날』에서 그 이유를 확인해 보세요. \n\n#샤를세환 #지식인사이드 #전쟁 #무기 #3차대전 #중국 #대만 #한반도 #군사력\n\n00:00 인트로\n00:30 구독자 인사\n01:51 20년차 밀덕도 감탄한 최고의 전쟁 영화 TOP3\n08:11 3차 대전 터지기 위한 결정적 조건 ‘1가지’\n12:43 중국이 대만 본토 쉽게 침공하지 못하는 이유\n17:01 세계사의 흐름을 뒤바꿔놓은 결정적 순간들\n22:11 강대국도 무너뜨릴 수 있는 전쟁의 숨은 변수\n26:23 세계 석학들이 지적한 한국 안보의 아킬레스건\n\n* 이 영상은 10월 21일에 촬영되었습니다\n\nㅡ\n\n👇지식인사이드에 출연을 원하신다면 여기를 눌러주세요\nhttps://forms.gle/u4LxVcwFdhvkLH8m6\nknowledgeinside7@gmail.com\n\n👇 다양한 채널에서 지식인사이드의 지식을 얻고 싶다면 여기를 눌러주세요\n인스타그램: https://www.instagram.com/knowledgeins_kr/\n페이스북: https://www.facebook.com/knowledgeIns7?mibextid=LQQJ4d\n네이버 TV: https://tv.naver.com/purejboy2\n틱톡: https://www.tiktok.com/@allstorieskr?lang=ko-KR\n네이버 카페: https://cafe.naver.com/knowledgeins\n\nCopyright Ⓒ 지식인사이드. All rights reserved.\n\n본 콘텐츠(영상, 이미지, 음성, 대본, 편집물, 썸네일 포함)는 저작권 및 관련 권리의 보호를 받습니다.\n\n저작권자의 사전 승인 없이 복제, 배포, 수정, 재가공, 업로드, AI 학습 및 데이터셋 구축, 2차 저작물 제작(쇼츠·릴스 포함) 등 일체의 상업적 이용 및 수익화를 금지합니다.\n\n📧 콘텐츠 사용 및 협의 문의: knowledgeinside7@gmail.com",
+    "published": "2026-10-30T11:32:41+00:00",
+    "title": "동북아에서 전쟁나면 진짜 3차 대전 옵니다ㅣ지식인초대석 EP.184 (샤를세환 2부)",
+    "video_id": "P-0Rk4OpmcE"
+   },
+   "wait_checks": 0
   },
   "P-B-KnSIAPY": {
    "first_seen": "2026-10-09T08:14:36+00:00",
@@ -6321,18 +6320,14 @@
    "wait_checks": 0
   },
   "SKvJAfa_Ueo": {
+   "done_at": "2026-10-30T11:50:02+00:00",
    "errors": 0,
    "first_seen": "2026-10-30T11:05:13+00:00",
+   "last_attempt": "2026-10-30T11:47:09+00:00",
+   "notified": "2026-10-30T11:50:12+00:00",
    "published": "2026-10-30T11:00:23+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n매일 2분이면 부자됩니다, 치과의사가 은퇴한 방법\n5년만에 순자산 140억 만든 법, ‘이것’만 사 모았어요\n폭락 오든 말든 ‘이것’ 사세요, 은퇴 후 순자산 140억 만들었어요\n\n☞촬영일: 26년 10월 28일",
-    "published": "2026-10-30T11:00:23+00:00",
-    "title": "매일 2분이면 부자됩니다, 치과의사가 은퇴한 방법 [라오어 작가 1부]",
-    "video_id": "SKvJAfa_Ueo"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "SLoG9gC0a4o": {
@@ -7096,6 +7091,7 @@
   "VKNPaInn0Gc": {
    "errors": 0,
    "first_seen": "2026-10-30T11:05:08+00:00",
+   "last_attempt": "2026-10-30T11:50:02+00:00",
    "published": "2026-10-30T11:00:26+00:00",
    "status": "pending",
    "video": {
@@ -7837,15 +7833,7 @@
    "errors": 0,
    "first_seen": "2026-10-29T23:04:20+00:00",
    "published": "2026-10-29T22:50:35+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
-    "channel_name": "소유보다 경험 - 아이언 / 공모주",
-    "description": "인텔리빅스, 크리에이츠, 한화플러스제6호스팩 공모주 동시 상장일의 실시간 동시호가, 주가 현황을 실시간 라이브로 제공합니다.\n특히 이번부터 기존의 상장라이브 시스템을 개편하여, 조금 더 가독성이 높고 양질의 정보를 제공하도록 새롭게 제공되니 참고부탁드립니다.\n-\n상장 전과 직후에는 안내가 진행되지만, 이후에는 음악만 제공되는 점 참고하시기 바랍니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
-    "published": "2026-10-29T22:50:35+00:00",
-    "title": "[10/30] 동시상장 인텔리빅스, 크리에이츠, 한화플러스제6호스팩 상장일 실시간 동시호가, 주가 현황  LIVE / 미래,삼성,한화",
-    "video_id": "ZdOK-wZK0U8"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "Ze8752aldjQ": {
@@ -8824,6 +8812,21 @@
     "published": "2026-10-16T22:30:18+00:00",
     "title": "\"금리 인상발 하락이 온다\"는 댓글들 \"그때만큼의 급락은 어렵습니다\" [송승현 대표]",
     "video_id": "cV1-wm0gs_k"
+   },
+   "wait_checks": 0
+  },
+  "cVZBDgzbAEM": {
+   "errors": 0,
+   "first_seen": "2026-10-30T11:45:32+00:00",
+   "published": "2026-10-30T11:30:31+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n삼성 하이닉스가 마이크론보다, 유독 더 빠진 진짜 이유\n\n☞촬영일: 26년 10월 23일",
+    "published": "2026-10-30T11:30:31+00:00",
+    "title": "삼성 하이닉스가 마이크론보다, 유독 더 빠진 진짜 이유 [김장열 센터장]",
+    "video_id": "cVZBDgzbAEM"
    },
    "wait_checks": 0
   },
