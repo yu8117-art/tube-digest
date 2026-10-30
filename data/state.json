@@ -8649,7 +8649,7 @@
   "buQP5h_oT44": {
    "errors": 0,
    "first_seen": "2026-10-30T10:17:25+00:00",
-   "last_attempt": "2026-10-30T20:26:55+00:00",
+   "last_attempt": "2026-10-30T21:02:37+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (30:00~44:52)",
    "published": "2026-10-30T10:00:18+00:00",
    "status": "pending",
@@ -8661,7 +8661,7 @@
     "title": "중국 황실이 2500년간 독점한 금서의 정체..(이런 기술이;;)ㅣ역사를 보다 EP.169",
     "video_id": "buQP5h_oT44"
    },
-   "wait_checks": 1
+   "wait_checks": 2
   },
   "bxXBLLonel4": {
    "done_at": "2026-10-23T07:34:56+00:00",
