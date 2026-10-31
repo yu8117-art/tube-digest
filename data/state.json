@@ -2105,6 +2105,17 @@
    "published": "2026-09-29T09:19:04+00:00",
    "status": "baseline"
   },
+  "7q43kTixWFI": {
+   "done_at": "2026-10-31T23:15:14+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-31T23:13:54+00:00",
+   "last_attempt": "2026-10-31T23:14:00+00:00",
+   "notified": "2026-10-31T23:15:15+00:00",
+   "published": "2026-10-31T23:00:09+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "7tRmzusXNbI": {
    "errors": 0,
    "first_seen": "2026-10-21T23:05:12+00:00",
