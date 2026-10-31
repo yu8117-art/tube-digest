@@ -1,0 +1,42 @@
+{
+ "video": {
+  "video_id": "VFs7yd3Yqts",
+  "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+  "channel_name": "새벽의 축구 전문가",
+  "title": "AT마드리드 드디어 1위 등극!! 아쉬웠던 이강인, 이제는 공격포인트도 필요하다",
+  "published": "2026-10-31T17:40:34+00:00",
+  "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#이강인 #라리가 #at마드리드 #축구",
+  "url": "https://www.youtube.com/watch?v=VFs7yd3Yqts"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/VFs7yd3Yqts/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1201,
+ "summary": {
+  "headline": "아틀레티코 마드리드 1위 등극과 이강인의 역할",
+  "thumbnail_text": "AT마드리드 1위 등극 아쉬운 이강인 공격포인트",
+  "thumbnail_answer": "이강인은 빌드업 과정에서 팀에 큰 기여를 하고 있으나 결정적인 공격포인트 생산이 부족하다는 평가를 받고 있다.",
+  "conclusion": "아틀레티코 마드리드는 시메오네 감독의 전술 아래 완벽한 공수 전환과 조직력을 보여주며 리그 1위에 올랐다. 이강인은 팀의 빌드업 축구에서 핵심적인 역할을 수행하고 있다. 그러나 월드 클래스 선수로 도약하기 위해서는 득점과 어시스트 같은 공격포인트 생산 능력을 증명해야 한다.",
+  "key_points": [
+   "아틀레티코 마드리드가 레반테전 승리로 리그 1위에 올랐다.",
+   "시메오네 감독의 전술적 핵심은 5-3-2 수비와 유기적인 공격 가담이다.",
+   "이강인은 팀의 빌드업 과정에서 중심적인 역할을 하고 있다.",
+   "공격 전개 시 오른쪽 라인에 선수가 집중되며 이강인이 1차 패스를 공급한다.",
+   "이강인은 주로 외곽이나 기점 패스 단계에 머물러 있어 직접적인 공격포인트 생산이 다소 아쉽다.",
+   "팀의 승리와 전술 완성도는 높지만 이강인 개인의 공격포인트 비중을 늘릴 필요가 있다."
+  ],
+  "timeline": [],
+  "tags": [
+   "이강인",
+   "아틀레티코마드리드",
+   "라리가",
+   "시메오네",
+   "축구분석"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 110982,
+   "output_tokens": 418
+  }
+ },
+ "created_at": "2026-10-31T17:55:50+00:00"
+}
