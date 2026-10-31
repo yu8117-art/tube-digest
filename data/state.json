@@ -8267,6 +8267,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "_ZJYtbocTv0": {
+   "done_at": "2026-10-31T05:10:28+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-31T05:09:01+00:00",
+   "last_attempt": "2026-10-31T05:09:04+00:00",
+   "notified": "2026-10-31T05:10:29+00:00",
+   "published": "2026-10-31T05:00:37+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "_gMyqLP0928": {
    "done_at": "2026-10-28T12:08:53+00:00",
    "errors": 0,
@@ -11660,6 +11671,21 @@
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-09-03T09:00:39+00:00",
    "status": "baseline"
+  },
+  "oFcNVqC_voc": {
+   "errors": 0,
+   "first_seen": "2026-10-31T05:09:01+00:00",
+   "published": "2026-10-31T04:41:50+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+    "channel_name": "채널 제네시스박",
+    "description": "10/31(토) 라이브 입니다. \n\n📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 (마감/대기접수중) 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (11/28, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=3&lectCd=0685\n\n📌 명동 본점 롯데백화점 세금 특강! + 1:1 현장 질문 (12/12, 토, 오후 2시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0001&yy=2026&lectSmsterCd=4&lectCd=0351\n\n📌 수원 타임빌라스 롯데백화점 세금 특강! + 1:1 현장 질문 (1/16, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0349&yy=2026&lectSmsterCd=4&lectCd=0245\n\n📌 부산 롯데백화점 세금 특강! + 1:1 현장 질문 (1/30, 토, 오후 4시 30분)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0005&yy=2026&lectSmsterCd=4&lectCd=0718\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (2/21, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=4&lectCd=0403\n\n📌 관악 롯데백화점 세금 특강! + 1:1 현장 질문 (2/27, 토, 오후 1시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0006&yy=2026&lectSmsterCd=4&lectCd=0876\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
+    "published": "2026-10-31T04:41:50+00:00",
+    "title": "강남 7억 근저당의 비밀 / 국토부, 부동산 직거래 위법의심거래 적발",
+    "video_id": "oFcNVqC_voc"
+   },
+   "wait_checks": 0
   },
   "oLdLro9TKRM": {
    "first_seen": "2026-10-09T08:14:38+00:00",
