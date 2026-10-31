@@ -9698,6 +9698,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "f3XvOfhjNZE": {
+   "errors": 0,
+   "first_seen": "2026-10-31T10:02:26+00:00",
+   "published": "2026-10-31T09:54:33+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+    "channel_name": "조코딩 JoCoding",
+    "description": "대학생이 AI 하나로 대기업에 취직한 방법\n\n컴퓨터공학과 4학년 조영탁 님은 AX인재전쟁 1기 본선에서\nCEO의 의사결정 오류를 찾아 분석하는 AI 에이전트를 만들었고,\n삼일PwC에 채용되었어요.\n\n이제 AX인재전쟁이 온라인으로 열려요.\n온라인으로 AI 결과물을 제출하고, 채용돼요.\n가입 안 하면 놓치는 4가지 👇\n\n✅ ChatGPT Plus 1개월 이용권 (가입자 1,000명 추첨)\n✅ 코덱스 사용법 VOD 강의 무료\n✅ 기업이 낸 문제로 포트폴리오 완성\n✅ 채용 연계 기업에 실력을 보여줄 기회\n\n👉 지금 가입하기: axacademy.ai\n\n#AX인재전쟁 #삼일PwC #AI취업 #대학생취업 #코덱스",
+    "published": "2026-10-31T09:54:33+00:00",
+    "title": "스펙 없이 삼일PwC 간 컴공 4학년의 비결",
+    "video_id": "f3XvOfhjNZE"
+   },
+   "wait_checks": 0
+  },
   "f6SqyRI38YE": {
    "done_at": "2026-10-12T07:09:13+00:00",
    "errors": 0,
