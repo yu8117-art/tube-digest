@@ -5640,6 +5640,17 @@
    "published": "2026-10-04T08:00:27+00:00",
    "status": "baseline"
   },
+  "P4fExauVo1c": {
+   "done_at": "2026-10-31T02:30:05+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-31T02:26:11+00:00",
+   "last_attempt": "2026-10-31T02:26:20+00:00",
+   "notified": "2026-10-31T02:30:05+00:00",
+   "published": "2026-10-31T01:59:44+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "P4i9A1Woky8": {
    "done_at": "2026-10-26T11:49:22+00:00",
    "errors": 0,
