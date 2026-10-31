@@ -2499,6 +2499,21 @@
    "published": "2026-10-02T10:00:00+00:00",
    "status": "baseline"
   },
+  "A8O1WUkOwEM": {
+   "errors": 0,
+   "first_seen": "2026-10-31T03:49:09+00:00",
+   "published": "2026-10-31T03:30:08+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n삼전 닉스 물려 계신 분들 '이때'까지 안 팔고 버티면 됩니다\n\n☞촬영일: 26년 10월 23일",
+    "published": "2026-10-31T03:30:08+00:00",
+    "title": "삼전 닉스 물려 계신 분들 '이때'까지 안 팔고 버티면 됩니다 [김장열 센터장]",
+    "video_id": "A8O1WUkOwEM"
+   },
+   "wait_checks": 0
+  },
   "A8Q2W97hWSk": {
    "done_at": "2026-10-29T10:23:29+00:00",
    "errors": 0,
@@ -5425,6 +5440,17 @@
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-09T05:30:26+00:00",
    "status": "baseline"
+  },
+  "ONxBG288McY": {
+   "done_at": "2026-10-31T03:49:39+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-31T03:49:05+00:00",
+   "last_attempt": "2026-10-31T03:49:12+00:00",
+   "notified": "2026-10-31T03:49:40+00:00",
+   "published": "2026-10-31T03:25:14+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "OP0TSQlS8bg": {
    "first_seen": "2026-10-22T04:00:19+00:00",
