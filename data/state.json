@@ -10078,6 +10078,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "gj6JvCyfxLI": {
+   "errors": 0,
+   "first_seen": "2026-10-31T11:43:02+00:00",
+   "published": "2026-10-31T11:41:49+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
+    "channel_name": "지식보관소",
+    "description": "Instagram ID @archiveyoutube\n#광자 #양자역학 #광학셔터 #양자중첩 #지식보관소 #Shorts\n\n빛 알갱이 하나를 반으로 자르면, 더 작은 빛 알갱이 두 개가 생길까요?\n단일 광자를 다루는 장치와 초고속 광학 셔터를 통해, 광자의 파동묶음을 시간적으로 잘라내는 문제를 살펴봅니다. 직관과 다른 양자상태가 예측되는 이유와 빛의 본질에 대한 질문을 풀영상에서 이어갑니다.\n\n이 내용의 바탕이 된 오슬로대학교 연구팀의 「Truncated Photon」은 광학 셔터로 광자를 절단하는 상황을 다룬 이론 연구입니다. 광자를 실제 반쪽 입자 두 개로 나눈 실험 결과는 아닙니다. ‘무한 중첩’은 무한한 에너지가 생긴다는 뜻이 아니라 여러 광자 수 상태의 중첩·혼합을 설명하는 표현이며, 현실적인 셔터의 전환 속도도 고려해야 합니다.\n논문: https://doi.org/10.1103/94pm-hp34\n\n원본영상\nhttps://youtu.be/H-PiDRrQ2ik?si=traNaW7XgBdZbxn0\n\n------- 본계정(지식보관소) -------\nhttps://www.youtube.com/@지식보관소\n-----------게임 개발 관련-----------\nhttps://asdfg3663-alt.github.io/\n------- 비지니스 문의 -------\nE-Mail : asdfg3663@gmail.com",
+    "published": "2026-10-31T11:41:49+00:00",
+    "title": "광자를 반으로 자르자 믿을 수 없는 일이 일어났다",
+    "video_id": "gj6JvCyfxLI"
+   },
+   "wait_checks": 0
+  },
   "gqaUxASNgbY": {
    "done_at": "2026-10-25T12:07:16+00:00",
    "errors": 0,
@@ -14080,6 +14095,17 @@
    "last_attempt": "2026-10-28T13:46:25+00:00",
    "notified": "2026-10-28T13:50:17+00:00",
    "published": "2026-10-28T12:52:47+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "xwoqgBb8NZY": {
+   "done_at": "2026-10-31T11:46:18+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-31T11:42:56+00:00",
+   "last_attempt": "2026-10-31T11:43:06+00:00",
+   "notified": "2026-10-31T11:46:19+00:00",
+   "published": "2026-10-31T11:17:21+00:00",
    "source": "video_notes",
    "status": "done",
    "wait_checks": 0
