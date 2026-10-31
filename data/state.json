@@ -5871,6 +5871,21 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "Ph9F391fJrU": {
+   "errors": 0,
+   "first_seen": "2026-10-31T06:19:52+00:00",
+   "published": "2026-10-31T06:00:39+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
+    "channel_name": "집코노미",
+    "description": "외벌이 부부라면 공동명의 함부로 하지 마세요\n\n#공동명의 #부부공동명의 #건보료 #증여세 #집코노미\n\n한국경제신문 구독하기\n📰https://vo.la/N79FE1B\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다\n\n영상의 맥락과 상관없는 비방이나 악의적인 댓글은 예고 없이 삭제됩니다",
+    "published": "2026-10-31T06:00:39+00:00",
+    "title": "공동명의 잘못하면 세금폭탄 💣",
+    "video_id": "Ph9F391fJrU"
+   },
+   "wait_checks": 0
+  },
   "PhJ9JyOx7Pk": {
    "done_at": "2026-10-26T22:24:50+00:00",
    "errors": 0,
@@ -7188,6 +7203,17 @@
    "first_seen": "2026-10-09T08:14:30+00:00",
    "published": "2026-09-26T02:00:49+00:00",
    "status": "baseline"
+  },
+  "V91TywS3zK8": {
+   "done_at": "2026-10-31T06:25:59+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-31T06:19:48+00:00",
+   "last_attempt": "2026-10-31T06:24:42+00:00",
+   "notified": "2026-10-31T06:26:00+00:00",
+   "published": "2026-10-31T06:00:04+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "VBq1n3rbZ18": {
    "first_seen": "2026-10-09T08:14:37+00:00",
@@ -9337,6 +9363,17 @@
    "source": "metadata",
    "status": "done",
    "wait_checks": 24
+  },
+  "dh0YHb_CSjI": {
+   "done_at": "2026-10-31T06:24:42+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-31T06:19:58+00:00",
+   "last_attempt": "2026-10-31T06:20:00+00:00",
+   "notified": "2026-10-31T06:26:00+00:00",
+   "published": "2026-10-31T05:55:18+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
   },
   "divtOi6rWtE": {
    "done_at": "2026-10-23T11:10:23+00:00",
@@ -11676,15 +11713,7 @@
    "errors": 0,
    "first_seen": "2026-10-31T05:09:01+00:00",
    "published": "2026-10-31T04:41:50+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
-    "channel_name": "채널 제네시스박",
-    "description": "10/31(토) 라이브 입니다. \n\n📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 (마감/대기접수중) 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (11/28, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=3&lectCd=0685\n\n📌 명동 본점 롯데백화점 세금 특강! + 1:1 현장 질문 (12/12, 토, 오후 2시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0001&yy=2026&lectSmsterCd=4&lectCd=0351\n\n📌 수원 타임빌라스 롯데백화점 세금 특강! + 1:1 현장 질문 (1/16, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0349&yy=2026&lectSmsterCd=4&lectCd=0245\n\n📌 부산 롯데백화점 세금 특강! + 1:1 현장 질문 (1/30, 토, 오후 4시 30분)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0005&yy=2026&lectSmsterCd=4&lectCd=0718\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (2/21, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=4&lectCd=0403\n\n📌 관악 롯데백화점 세금 특강! + 1:1 현장 질문 (2/27, 토, 오후 1시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0006&yy=2026&lectSmsterCd=4&lectCd=0876\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
-    "published": "2026-10-31T04:41:50+00:00",
-    "title": "강남 7억 근저당의 비밀 / 국토부, 부동산 직거래 위법의심거래 적발",
-    "video_id": "oFcNVqC_voc"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "oLdLro9TKRM": {
