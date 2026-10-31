@@ -9890,6 +9890,17 @@
    },
    "wait_checks": 0
   },
+  "g2wDGdx7qQg": {
+   "done_at": "2026-10-31T08:10:09+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-31T08:08:44+00:00",
+   "last_attempt": "2026-10-31T08:08:47+00:00",
+   "notified": "2026-10-31T08:10:10+00:00",
+   "published": "2026-10-31T08:00:08+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "g3wAqBb5r_o": {
    "errors": 0,
    "first_seen": "2026-10-30T10:17:34+00:00",
@@ -12185,6 +12196,21 @@
     "published": "2026-10-17T06:30:43+00:00",
     "title": "\"서울보다 수도권이 더 심해요\" 분당은 10건 중 9건이 전고점입니다 [송승현 대표]",
     "video_id": "q3Ux91AaMQY"
+   },
+   "wait_checks": 0
+  },
+  "q4D2GMRWy3s": {
+   "errors": 0,
+   "first_seen": "2026-10-31T08:08:44+00:00",
+   "published": "2026-10-31T08:02:09+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCYgVl2XoMfkvg1BzTFiyOiw",
+    "channel_name": "홈즈 부동산",
+    "description": "홈즈 부동산 밴드(급매 정보, 성남 투자시 필수)\n: https://band.us/band/91293447\n\n홈즈부동산 전화번호*  : 031-752-4984, 010-2082-0826\n(상담 및 매물 접수)\n\n네이버 블로그: https://blog.naver.com/11jhlee1199\n카카오톡 상담 채널: http://pf.kakao.com/_ciEcK\n\n홈즈 부동산 종합 링크 \nhttps://link.inpock.co.kr/homesrealestate\n\n\n주소: 경기도 성남시 수정구 산성대로 207, 109호(수진역 4번출구)",
+    "published": "2026-10-31T08:02:09+00:00",
+    "title": "부동산 지금 사도 될지 급지별로 알려드립니다! (LIVE)(feat. 공명)",
+    "video_id": "q4D2GMRWy3s"
    },
    "wait_checks": 0
   },
