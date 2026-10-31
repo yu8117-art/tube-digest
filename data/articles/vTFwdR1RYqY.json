@@ -1,0 +1,78 @@
+{
+ "video": {
+  "video_id": "vTFwdR1RYqY",
+  "channel_id": "UCvW8norVMTLt7QN-s2pS4Bw",
+  "channel_name": "조승연의 탐구생활",
+  "title": "우주선? 금융? 돈이 모이는 도시들의 특징 | MMM ‪‪‪@MickeyPedia‬",
+  "published": "2026-10-31T00:00:18+00:00",
+  "description": "오늘 MMM에서는 청라에 새로 생긴 하나금융그룹 청라HQ에서\n대기업 캠퍼스가 어떻게 변해왔는지 이야기해보고\n하나로 쭉 연결된 보행자 램프도 산책하며 구경해보았습니다 ㅎㅎ\n\n*이 영상에는 하나금융그룹의 유료광고가 포함되어 있습니다\n\n채널에 가입하여 혜택을 누려보세요.\nhttps://www.youtube.com/channel/UCvW8norVMTLt7QN-s2pS4Bw/join\n\n배우는 즐거움이 있는 \n본격 취미 탐구 라이프 채널!\n조승연의 탐구생활 🕵🏻‍♂️\n  \n조승연 insta \n / totalintelli  \n\n#하나금융그룹 #캠퍼스 #기업본사\n\nCopyright © 2026 Studio Episode - All Rights Reserved",
+  "url": "https://www.youtube.com/watch?v=vTFwdR1RYqY"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/vTFwdR1RYqY/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1333,
+ "summary": {
+  "headline": "돈이 모이는 미래 도시와 캠퍼스 본사의 진화",
+  "thumbnail_text": "돈이 모이는 도시 특징?",
+  "thumbnail_answer": "물류 중심지에서 지식과 기술 인재가 모이는 지식경제 기반의 캠퍼스 형태로 진화한다.",
+  "conclusion": "과거 도시는 물류 중심의 요충지에 형성되었으나 현대는 지식과 기술을 가진 인재들이 모이는 캠퍼스형 본사로 진화하고 있다. 대기업과 테크 기업들은 개방적이고 수평적인 문화를 유도하기 위해 외곽에 대규모 캠퍼스를 짓고 있다. 이는 단순한 건물이 아니라 새로운 경제적 가치를 창출하는 도시의 역할을 한다.",
+  "key_points": [
+   "대기업 본사는 도심 속 큰 빌딩에서 도심 외곽의 캠퍼스 형태로 진화했다.",
+   "실리콘밸리의 테크 기업들은 개방적이고 수평적인 기업 문화를 반영한 캠퍼스를 만들었다.",
+   "과거 도시 발전 순서는 물건에서 사람, 돈으로 이어졌다.",
+   "현대 지식경제 시대에는 인재와 정보가 모여 새로운 도시와 가치를 창출한다.",
+   "월트 디즈니와 일론 머스크 같은 창업자들은 미래 도시를 직접 꿈꾸고 건설했다.",
+   "하나금융그룹 청라HQ는 도심 외곽에 지어진 혁신적인 캠퍼스 본사 사례다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "오프닝 및 청라HQ 소개",
+    "points": [
+     "하나금융그룹 청라HQ에서 기업 본사의 변화 트렌드를 이야기한다."
+    ]
+   },
+   {
+    "seconds": 223,
+    "title": "기업 본사의 변천사",
+    "points": [
+     "2000년대 이전 도심 속 대기업 빌딩에서 외곽의 테크 캠퍼스로 변화했다."
+    ]
+   },
+   {
+    "seconds": 424,
+    "title": "캠퍼스의 어원과 의미",
+    "points": [
+     "라틴어 밭에서 유래한 캠퍼스가 현대에는 기업과 대학의 공간을 뜻한다."
+    ]
+   },
+   {
+    "seconds": 551,
+    "title": "캠퍼스식 조직의 장점",
+    "points": [
+     "넓고 열린 공간에서 수평적인 소통과 우연한 만남을 통한 시너지가 발생한다."
+    ]
+   },
+   {
+    "seconds": 1043,
+    "title": "도시를 만들고 싶어하는 사업가들",
+    "points": [
+     "월트 디즈니의 미래도시 EPCOT 계획과 일론 머스크의 스타베이스를 다룬다."
+    ]
+   }
+  ],
+  "tags": [
+   "기업본사",
+   "캠퍼스",
+   "도시발전",
+   "지식경제",
+   "하나금융그룹"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 123127,
+   "output_tokens": 787
+  }
+ },
+ "created_at": "2026-10-31T00:34:49+00:00"
+}
