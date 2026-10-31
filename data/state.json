@@ -4357,6 +4357,17 @@
    "published": "2026-10-06T09:37:50+00:00",
    "status": "baseline"
   },
+  "JNQwqJC2_9E": {
+   "done_at": "2026-10-31T03:10:15+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-31T03:09:58+00:00",
+   "last_attempt": "2026-10-31T03:10:04+00:00",
+   "notified": "2026-10-31T03:10:16+00:00",
+   "published": "2026-10-31T03:00:23+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "JNZOZQjWTSE": {
    "errors": 0,
    "first_seen": "2026-10-18T21:34:15+00:00",
@@ -6466,6 +6477,21 @@
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-08-29T14:42:45+00:00",
    "status": "baseline"
+  },
+  "SdXqSqwk620": {
+   "errors": 0,
+   "first_seen": "2026-10-31T03:10:04+00:00",
+   "published": "2026-10-31T02:57:06+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+    "channel_name": "조코딩 JoCoding",
+    "description": "조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418\nAX 컨설팅 및 교육 문의: https://jocodingax.ai\n조코헌트: https://jocohunt.jocoding.io/\n\nVVIP 멤버십 후원\n그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#ai #개발자 #코딩 #조코딩",
+    "published": "2026-10-31T02:57:06+00:00",
+    "title": "AI한테 버튼 하나 부탁했을 뿐인데",
+    "video_id": "SdXqSqwk620"
+   },
+   "wait_checks": 0
   },
   "SeB3eBg6t68": {
    "done_at": "2026-10-23T10:06:55+00:00",
