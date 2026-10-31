@@ -920,6 +920,21 @@
    },
    "wait_checks": 0
   },
+  "2wB2SsEVGb8": {
+   "errors": 0,
+   "first_seen": "2026-10-31T11:12:53+00:00",
+   "published": "2026-10-31T11:00:08+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "작은 모형 배를 그대로 확대하면 거대한 배의 성능도 예측할 수 있을까요? 19세기 선박이 점점 커지면서 단순히 크기만 비례해 계산하는 방식에는 한계가 있다는 사실이 드러났습니다. 이 문제를 해결하는 데 중요한 역할을 한 것이 바로 '프루드 수(Froude number)'인데요. 선박의 크기와 속도, 중력의 관계를 고려해 모형과 실제 배에서 파도가 만들어지는 현상을 비교할 수 있도록 해주는 무차원 수입니다. 이러한 상사법칙은 선박의 저항과 필요한 동력을 예측하는 데 중요한 기반이 됐습니다. 복잡한 유체의 움직임을 이해하는 문제는 오늘날 나비에–스토크스 방정식 연구와도 연결되는데요. AI와 수학이 유체역학의 난제에 어떻게 접근하고 있는지 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#나비에스토크스 #유체역학 #프루드수 #상사법칙 #물리학 #수학 #인공지능 #안될과학 #과학유튜브",
+    "published": "2026-10-31T11:00:08+00:00",
+    "title": "배의 크기를 키웠더니 계산이 맞지 않았다?!",
+    "video_id": "2wB2SsEVGb8"
+   },
+   "wait_checks": 0
+  },
   "2wpg22xTHcU": {
    "errors": 0,
    "first_seen": "2026-10-18T06:40:54+00:00",
@@ -1915,6 +1930,21 @@
     "published": "2026-10-09T11:00:16+00:00",
     "title": "경기도 살 때 조심해야 하는 것",
     "video_id": "7Q8iay2d4WY"
+   },
+   "wait_checks": 0
+  },
+  "7QSmdX7hdzQ": {
+   "errors": 0,
+   "first_seen": "2026-10-31T11:13:00+00:00",
+   "published": "2026-10-31T11:00:30+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 #세입자 #서울 #수도권\n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-10-31T11:00:30+00:00",
+    "title": "지금 부동산에서 가장 불안한 세대",
+    "video_id": "7QSmdX7hdzQ"
    },
    "wait_checks": 0
   },
@@ -4255,6 +4285,17 @@
     "title": "\"정부는 쉬쉬하고 있어요\" 서울 전월세 실제로 이렇습니다 [빠숑]",
     "video_id": "IocZ_Fw-zFU"
    },
+   "wait_checks": 0
+  },
+  "IpLxZWMQy9c": {
+   "done_at": "2026-10-31T11:15:27+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-31T11:12:51+00:00",
+   "last_attempt": "2026-10-31T11:14:27+00:00",
+   "notified": "2026-10-31T11:15:27+00:00",
+   "published": "2026-10-31T11:00:34+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "Ipzz78FutEM": {
@@ -8578,6 +8619,17 @@
    "notified": "2026-10-26T09:16:49+00:00",
    "published": "2026-10-26T09:00:16+00:00",
    "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "aq465qg2J4k": {
+   "done_at": "2026-10-31T11:14:27+00:00",
+   "errors": 0,
+   "first_seen": "2026-10-31T11:13:01+00:00",
+   "last_attempt": "2026-10-31T11:13:04+00:00",
+   "notified": "2026-10-31T11:15:28+00:00",
+   "published": "2026-10-31T11:00:14+00:00",
+   "source": "video",
    "status": "done",
    "wait_checks": 0
   },
