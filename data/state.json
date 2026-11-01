@@ -8778,15 +8778,7 @@
    "errors": 0,
    "first_seen": "2026-11-01T10:06:10+00:00",
    "published": "2026-11-01T09:42:26+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
-    "channel_name": "소수몽키",
-    "description": "🌟[NEW]올해 마지막 마무리 함께해요! 소수의견 4분기 구독자 모집 시작!\nhttps://bit.ly/4y7RZNr\n\n🏆소몽 입문반 강의★\n🌟미국 주식 시작할 때 반드시 알아야 할 핵심 정보부터, \n실전 매매에 필요한 알짜 노하우까지 아낌없이 담았습니다!\n📌[소몽의 미국주식 베이직클래스] 신청하러가기\nhttps://us-campus.co.kr/products/academy237",
-    "published": "2026-11-01T09:42:26+00:00",
-    "title": "인텔-30% 알파벳-12% 쇼크, 선거 후 반전 가능할까/대량 전사자 매장 훈련? 더 큰 지정학 충격 오는걸까",
-    "video_id": "a2-adRUJvTs"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "a4r78nGkR9k": {
@@ -13110,6 +13102,17 @@
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-08T11:00:10+00:00",
    "status": "baseline"
+  },
+  "rb-hs3EkVe4": {
+   "done_at": "2026-11-01T12:29:29+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-01T12:26:45+00:00",
+   "last_attempt": "2026-11-01T12:26:46+00:00",
+   "notified": "2026-11-01T12:29:29+00:00",
+   "published": "2026-11-01T11:55:13+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
   },
   "rdnyZA4Tv1M": {
    "first_seen": "2026-10-09T08:14:39+00:00",
