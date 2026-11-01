@@ -1,0 +1,41 @@
+{
+ "video": {
+  "video_id": "jRwkKU9cGAI",
+  "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+  "channel_name": "새벽의 축구 전문가",
+  "title": "“3연승 대성공” 토트넘 챔스권 가능해졌다! 8위 등극, 데제르비 전술 통하기 시작했다",
+  "published": "2026-11-01T10:10:37+00:00",
+  "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#토트넘 #프리미어리그 #데제르비 #축구",
+  "url": "https://www.youtube.com/watch?v=jRwkKU9cGAI"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/jRwkKU9cGAI/maxresdefault.jpg",
+ "source": "video",
+ "duration": 940,
+ "summary": {
+  "headline": "토트넘 3연승과 데제르비 전술의 본격 가동",
+  "thumbnail_text": "토트넘 3연승 성공! 챔스권 가능해졌다",
+  "thumbnail_answer": "토트넘이 3연승을 거두며 승점 12점으로 8위에 올랐고 챔스권 진입이 가능해졌다.",
+  "conclusion": "토트넘은 데제르비 감독의 전술적 일관성과 조직력을 바탕으로 3연승을 달성했다. 경기력과 득점력이 살아나면서 챔스권 진입 가능성을 증명했다. 시즌 초반의 부진을 딛고 반전에 성공했다.",
+  "key_points": [
+   "토트넘은 3연승을 거두며 승점 12점으로 8위에 등극했다.",
+   "데제르비 감독의 전술 포인트가 선수단에 완벽히 이식되기 시작했다.",
+   "마르무시는 메디슨의 빈자리를 채우며 새로운 전술적 핵심으로 활약했다.",
+   "수비진의 유기적인 연계와 공간 창출 플레이가 돋보였다.",
+   "경기력의 일관성이 유지되면서 90분 내내 안정적인 경기를 펼쳤다."
+  ],
+  "timeline": [],
+  "tags": [
+   "토트넘",
+   "프리미어리그",
+   "데제르비",
+   "마르무시",
+   "축구전술"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 87310,
+   "output_tokens": 363
+  }
+ },
+ "created_at": "2026-11-01T10:44:22+00:00"
+}
