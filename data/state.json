@@ -468,6 +468,21 @@
    "transcript_status": "ok",
    "wait_checks": 4
   },
+  "0fk8zHnBwWg": {
+   "errors": 0,
+   "first_seen": "2026-11-01T11:14:44+00:00",
+   "published": "2026-11-01T11:00:16+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 #서울 \n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-01T11:00:16+00:00",
+    "title": "앞으로 6년, 돈 버는 최상급지 부동산 22선",
+    "video_id": "0fk8zHnBwWg"
+   },
+   "wait_checks": 0
+  },
   "0h4cDajEp8I": {
    "first_seen": "2026-10-19T00:15:33+00:00",
    "published": "2026-10-09T01:00:33+00:00",
@@ -798,15 +813,7 @@
    "errors": 0,
    "first_seen": "2026-11-01T09:23:27+00:00",
    "published": "2026-11-01T08:56:43+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
-    "channel_name": "조코딩 JoCoding",
-    "description": "🎉 짐브로 X 조코딩 특별 이벤트! 🎉\n👉 https://gymbro.kr/product/list.html?cate_no=480\n💥 조코딩 채널 구독자 전용 혜택으로 역대급 할인을 누리세요!\n📢 단 15일 동안만! 초특가 세일!\n✅ 조코딩 PICK 프리미엄 퍼 후드 자켓 169,000원\n✅ 작년 269,000원에 10만 장 판매된 제품!\n\n조코딩 채널 구독자분들만을 위한 특별 혜택이니 지금 바로 확인하세요! 🚀",
-    "published": "2026-11-01T08:56:43+00:00",
-    "title": "IT뉴스 - Gemini 4 Carbon, 검색의 종말, 앤트로픽 S1, GPT-6.1 테라, Subvocal, LFM3, agent-desktop, 바이낸스 해킹 등",
-    "video_id": "2Aa0ArNDHVU"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "2FYFahPNaLA": {
@@ -1278,6 +1285,21 @@
    "published": "2026-10-27T09:30:27+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "4O4tolNO4Jk": {
+   "errors": 0,
+   "first_seen": "2026-11-01T11:14:39+00:00",
+   "published": "2026-11-01T11:00:22+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "영화 속에서 자연스럽게 흐르고 요동치는 물, 그 움직임에도 복잡한 수학이 숨어 있습니다. 과거 컴퓨터 애니메이션에서는 고체의 움직임을 표현하는 것에 비해 물이나 공기처럼 끊임없이 형태가 변하는 유체를 사실적으로 구현하기가 어려웠는데요. 수학자이자 컴퓨터 과학자인 론 페드키우는 물과 공기의 경계를 추적하는 레벨셋 방법 등 수치해석 기술을 활용해 복잡한 유체의 움직임을 컴퓨터 그래픽으로 구현하는 데 기여했습니다. 이러한 연구는 영화 속 자연스러운 물과 다양한 유체 효과를 표현하는 기술로 발전했고, 아카데미 과학기술상 수상으로도 이어졌습니다. 수학과 물리학은 어떻게 영화 속 장면을 바꿔놓았을까요? 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#유체역학 #나비에스토크스 #컴퓨터그래픽 #CG #애니메이션 #수학 #아카데미상 #안될과학 #과학유튜브",
+    "published": "2026-11-01T11:00:22+00:00",
+    "title": "영화 속 물의 움직임으로 아카데미상을 받았다?!",
+    "video_id": "4O4tolNO4Jk"
+   },
    "wait_checks": 0
   },
   "4QGwCQ0ua4g": {
@@ -2448,6 +2470,17 @@
     "title": "애플 아이폰18 프로 성능, A20 PRO 칩 얼마나 좋아졌을까?",
     "video_id": "9968iWlK5dc"
    },
+   "wait_checks": 0
+  },
+  "9DTCNJUSDCk": {
+   "done_at": "2026-11-01T11:16:05+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-01T11:14:45+00:00",
+   "last_attempt": "2026-11-01T11:14:47+00:00",
+   "notified": "2026-11-01T11:16:06+00:00",
+   "published": "2026-11-01T11:00:22+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "9DwkIQ4AdoY": {
