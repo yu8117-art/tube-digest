@@ -434,6 +434,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "0Tik3AYVznc": {
+   "errors": 0,
+   "first_seen": "2026-11-01T11:45:27+00:00",
+   "published": "2026-11-01T11:13:32+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+    "channel_name": "채널 제네시스박",
+    "description": "11/1(일) 라이브 입니다. \n\n📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 (마감/대기접수중) 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (11/28, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=3&lectCd=0685\n\n📌 명동 본점 롯데백화점 세금 특강! + 1:1 현장 질문 (12/12, 토, 오후 2시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0001&yy=2026&lectSmsterCd=4&lectCd=0351\n\n📌 수원 타임빌라스 롯데백화점 세금 특강! + 1:1 현장 질문 (1/16, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0349&yy=2026&lectSmsterCd=4&lectCd=0245\n\n📌 부산 롯데백화점 세금 특강! + 1:1 현장 질문 (1/30, 토, 오후 4시 30분)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0005&yy=2026&lectSmsterCd=4&lectCd=0718\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (2/21, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=4&lectCd=0403\n\n📌 관악 롯데백화점 세금 특강! + 1:1 현장 질문 (2/27, 토, 오후 1시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0006&yy=2026&lectSmsterCd=4&lectCd=0876\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
+    "published": "2026-11-01T11:13:32+00:00",
+    "title": "비 내리는 편안한 일요일 밤 라이브 입니다 ^^",
+    "video_id": "0Tik3AYVznc"
+   },
+   "wait_checks": 0
+  },
   "0UemZmOBdPY": {
    "errors": 0,
    "first_seen": "2026-10-15T02:37:31+00:00",
@@ -9513,6 +9528,21 @@
     "published": "2026-10-30T09:00:39+00:00",
     "title": "마술하는 물리학자",
     "video_id": "cpWKPnlegxo"
+   },
+   "wait_checks": 0
+  },
+  "crBp-bc8JiA": {
+   "errors": 0,
+   "first_seen": "2026-11-01T11:45:18+00:00",
+   "published": "2026-11-01T11:21:39+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+    "published": "2026-11-01T11:21:39+00:00",
+    "title": "[슈카월드]  AI 기업들 폭락, 버..버블이니? / 폴란드 쿠데타 발생!? / 화제와 논란의 애플 듀오 / 브라질 감옥빵 대선 결과 / 스페인 기차 탈선 참사",
+    "video_id": "crBp-bc8JiA"
    },
    "wait_checks": 0
   },
