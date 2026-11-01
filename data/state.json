@@ -12196,6 +12196,17 @@
    "published": "2026-09-02T08:25:22+00:00",
    "status": "baseline"
   },
+  "o3XDZDKvv7A": {
+   "done_at": "2026-11-01T22:25:48+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-01T22:24:12+00:00",
+   "last_attempt": "2026-11-01T22:24:13+00:00",
+   "notified": "2026-11-01T22:25:48+00:00",
+   "published": "2026-11-01T22:00:05+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "o5_fc_DaRcI": {
    "done_at": "2026-10-28T09:26:49+00:00",
    "errors": 0,
