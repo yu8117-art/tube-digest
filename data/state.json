@@ -514,6 +514,17 @@
    },
    "wait_checks": 0
   },
+  "0rD4CTUiJNQ": {
+   "done_at": "2026-11-01T08:34:27+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-01T08:33:33+00:00",
+   "last_attempt": "2026-11-01T08:33:39+00:00",
+   "notified": "2026-11-01T08:36:05+00:00",
+   "published": "2026-11-01T08:00:00+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "0xfOZ6_Vqr8": {
    "article_url": "https://yu8117-art.github.io/tube-digest/a/0xfOZ6_Vqr8.html",
    "done_at": "2026-10-10T07:43:05+00:00",
@@ -2570,6 +2581,21 @@
    "published": "2026-08-27T04:11:39+00:00",
    "status": "baseline"
   },
+  "9uGHweztGkY": {
+   "errors": 0,
+   "first_seen": "2026-11-01T08:33:35+00:00",
+   "published": "2026-11-01T08:30:13+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n싸게 나오길 기다리지 말고 집은 이럴 때 사야 합니다\n\n☞촬영일: 26년 10월 22일",
+    "published": "2026-11-01T08:30:13+00:00",
+    "title": "싸게 나오길 기다리지 말고 집은 이럴 때 사야 합니다 [아기곰]",
+    "video_id": "9uGHweztGkY"
+   },
+   "wait_checks": 0
+  },
   "A-yZfiROY9g": {
    "first_seen": "2026-10-19T00:15:33+00:00",
    "published": "2026-10-16T09:00:17+00:00",
@@ -2706,6 +2732,17 @@
     "title": "당황스러운 한국산 휴머노이드 근황",
     "video_id": "AfCMaoYIzvg"
    },
+   "wait_checks": 0
+  },
+  "Aga9u0FBH_I": {
+   "done_at": "2026-11-01T08:36:05+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-01T08:33:34+00:00",
+   "last_attempt": "2026-11-01T08:35:53+00:00",
+   "notified": "2026-11-01T08:36:06+00:00",
+   "published": "2026-11-01T08:30:32+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "AihKu8liFNA": {
@@ -9840,6 +9877,17 @@
     "title": "\"먹고 졸린 약은 당장 바꾸세요\" 무심코 먹은 알레르기·감기약이 치매 위험 높이는 이유 (서울아산병원 알레르기내과 권혁수 교수)",
     "video_id": "eaFtc4OGu_k"
    },
+   "wait_checks": 0
+  },
+  "eaxclLsjtzg": {
+   "done_at": "2026-11-01T08:35:53+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-01T08:33:36+00:00",
+   "last_attempt": "2026-11-01T08:34:27+00:00",
+   "notified": "2026-11-01T08:36:06+00:00",
+   "published": "2026-11-01T08:00:35+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "ebxhSasUKL4": {
