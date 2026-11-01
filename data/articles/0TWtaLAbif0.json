@@ -1,0 +1,42 @@
+{
+ "video": {
+  "video_id": "0TWtaLAbif0",
+  "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+  "channel_name": "새벽의 축구 전문가",
+  "title": "“충격적인 강등권 추락” 맨유 3연패 + 9경기 무승.. 캐릭의 전술문제? 맨유는 모든 것이 문제다 해",
+  "published": "2026-11-01T07:20:30+00:00",
+  "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#맨유 #프리미어리그",
+  "url": "https://www.youtube.com/watch?v=0TWtaLAbif0"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/0TWtaLAbif0/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1122,
+ "summary": {
+  "headline": "맨유 강등권 추락과 9경기 무승, 전술과 개인 실책의 악순환",
+  "thumbnail_text": "맨유 강등권 추락 충격적인 9경기 무승",
+  "thumbnail_answer": "캐릭 감독의 전술적 문제와 선수들의 개인적인 결정력 및 집중력 미스가 겹치면서 강등권으로 추락했다.",
+  "conclusion": "맨유는 최근 9경기에서 3무 6패를 기록하며 강등권으로 추락했다. 전술적인 한계와 선수들의 결정적인 실책이 겹치며 최악의 흐름을 벗어나지 못하고 있다. 빡빡한 일정 속에서 분위기 반전이 시급하다.",
+  "key_points": [
+   "맨유는 첼시전 0대2 패배로 강등권인 17위까지 떨어졌다.",
+   "최근 9경기 동안 3무 6패로 승리가 없는 최악의 부진을 겪고 있다.",
+   "첼시전 전반전 네 번의 결정적 기회를 골로 연결하지 못했다.",
+   "캐릭 감독의 수비 라인 조율과 압박 전술이 조직적으로 작동하지 않았다.",
+   "리산드로 마르티네스의 성급한 태클과 퇴장 등 선수들의 개인 실수로 무너졌다.",
+   "챔피언스리그와 리그를 오가는 빡빡한 일정 속에서 연이은 강팀과의 경기를 앞두고 있다."
+  ],
+  "timeline": [],
+  "tags": [
+   "맨유",
+   "프리미어리그",
+   "첼시",
+   "캐릭",
+   "축구분석"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 103875,
+   "output_tokens": 405
+  }
+ },
+ "created_at": "2026-11-01T07:49:51+00:00"
+}
