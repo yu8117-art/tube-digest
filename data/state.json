@@ -794,6 +794,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "2Aa0ArNDHVU": {
+   "errors": 0,
+   "first_seen": "2026-11-01T09:23:27+00:00",
+   "published": "2026-11-01T08:56:43+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+    "channel_name": "조코딩 JoCoding",
+    "description": "🎉 짐브로 X 조코딩 특별 이벤트! 🎉\n👉 https://gymbro.kr/product/list.html?cate_no=480\n💥 조코딩 채널 구독자 전용 혜택으로 역대급 할인을 누리세요!\n📢 단 15일 동안만! 초특가 세일!\n✅ 조코딩 PICK 프리미엄 퍼 후드 자켓 169,000원\n✅ 작년 269,000원에 10만 장 판매된 제품!\n\n조코딩 채널 구독자분들만을 위한 특별 혜택이니 지금 바로 확인하세요! 🚀",
+    "published": "2026-11-01T08:56:43+00:00",
+    "title": "IT뉴스 - Gemini 4 Carbon, 검색의 종말, 앤트로픽 S1, GPT-6.1 테라, Subvocal, LFM3, agent-desktop, 바이낸스 해킹 등",
+    "video_id": "2Aa0ArNDHVU"
+   },
+   "wait_checks": 0
+  },
   "2FYFahPNaLA": {
    "errors": 0,
    "first_seen": "2026-10-12T06:13:01+00:00",
@@ -6775,6 +6790,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "SfRUFw4AEFY": {
+   "done_at": "2026-11-01T09:24:39+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-01T09:23:20+00:00",
+   "last_attempt": "2026-11-01T09:23:50+00:00",
+   "notified": "2026-11-01T09:24:39+00:00",
+   "published": "2026-11-01T09:00:20+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "Sh14nUq0mWE": {
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-10-01T21:02:22+00:00",
@@ -7202,6 +7228,21 @@
    "published": "2026-10-17T01:59:21+00:00",
    "source": "video_notes",
    "status": "done",
+   "wait_checks": 0
+  },
+  "UTq0nsKWzY8": {
+   "errors": 0,
+   "first_seen": "2026-11-01T09:23:22+00:00",
+   "published": "2026-11-01T09:05:01+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC7F6UDq3gykPZHWRhrj_BDw",
+    "channel_name": "사물궁이 잡학지식",
+    "description": "- 사물궁이 유튜브 채널 구독 : https://youtube.com/@사물궁이\n- 사물궁이 시리즈 정주행 : https://youtube.com/playlist?list=PLs8vi5Jd35y55jcjDHMWIXfWjl206sSSF\n- 궁금증 제보 : https://forms.gle/xT6HQEpVTYbfe9EY8\n- 유튜브 멤버십 가입 : https://youtube.com/channel/UC7F6UDq3gykPZHWRhrj_BDw/join\n- E-Mail : facebookspeedwg@gmail.com",
+    "published": "2026-11-01T09:05:01+00:00",
+    "title": "족발·설렁탕 고기 단면에 푸른빛의 정체가 뭘까?",
+    "video_id": "UTq0nsKWzY8"
+   },
    "wait_checks": 0
   },
   "UXWAcdo1U_4": {
@@ -13759,6 +13800,17 @@
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-10-01T04:39:51+00:00",
    "status": "baseline"
+  },
+  "v9lQYgbfWDY": {
+   "done_at": "2026-11-01T09:23:50+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-01T09:23:25+00:00",
+   "last_attempt": "2026-11-01T09:23:28+00:00",
+   "notified": "2026-11-01T09:24:40+00:00",
+   "published": "2026-11-01T09:00:16+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "vAp_-JBKudo": {
    "done_at": "2026-10-12T07:08:21+00:00",

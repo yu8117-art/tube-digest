@@ -1,0 +1,66 @@
+{
+ "video": {
+  "video_id": "SfRUFw4AEFY",
+  "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+  "channel_name": "에스오디 SOD",
+  "title": "\"챗GPT도 클로드도 아니다\" AI 전쟁 끝낼 메타의 '최종병기'가 등장했습니다",
+  "published": "2026-11-01T09:00:20+00:00",
+  "description": "메타가 AI 글래스에 사활을 거는 진짜 이유는 뭘까요?\n\n포스텍 출신이 알려주는 메타 스마트 글라스의 비밀\nhttps://heisenberg.kr/meta-antenna/\n\n카이스트 출신이 공개한 메타의 '뇌 읽는 기술'\nhttps://heisenberg.kr/opinion-meta-connect-2026/",
+  "url": "https://www.youtube.com/watch?v=SfRUFw4AEFY"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/SfRUFw4AEFY/maxresdefault.jpg",
+ "source": "video",
+ "duration": 327,
+ "summary": {
+  "headline": "AI 글래스와 뇌 데이터로 이커머스를 노리는 메타의 전략",
+  "thumbnail_text": "\"당신의 뇌를 예측한다\" 메타가 숨겨둔 최종병기",
+  "thumbnail_answer": "메타는 AI 글래스와 뇌파 분석 모델을 통해 사용자의 구매 의도를 선점하고 이커머스 구매 길목을 독점하려 한다.",
+  "conclusion": "메타는 메타버스 사업에서 거대한 적자를 기록했으나 AI 글래스 시장에서 압도적인 점유율을 차지하고 있다. 안경을 통해 사용자의 시선과 뇌 데이터를 수집하여 광고와 이커머스를 직접 연결하는 고도화된 전략을 추진하고 있다. 단순히 똑같은 AI 모델을 쫓는 대신 구매 직전의 의도를 파악하는 방식으로 AI 전쟁의 판도를 뒤집으려 한다.",
+  "key_points": [
+   "메타의 리얼리티 랩스는 110조 원이 넘는 누적 적자를 기록했다.",
+   "메타는 전 세계 AI 스마트글래스 출하량의 84%를 차지하며 세계 1위에 올랐다.",
+   "메타는 AI 패션 앱 '스타일 스케치'와 에이전트 '뮤즈'를 통해 구매 길목을 독점한다.",
+   "메타는 뇌 파운데이션 모델 'TRIBE v2'를 통해 인간의 시청각 자극과 반응을 예측한다.",
+   "메타의 최종 목표는 스마트폰 화면을 넘어 현실 세계의 구매 의도를 선점하는 것이다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "메타버스의 실패와 AI 글래스의 등장",
+    "points": [
+     "메타버스의 실패로 110조 원이 넘는 누적 적자가 발생했다.",
+     "AI 경쟁에서 뒤처진 메타가 스마트글래스 시장에서는 세계 1위를 기록했다."
+    ]
+   },
+   {
+    "seconds": 36,
+    "title": "메타가 AI 글래스로 노리는 진짜 목적",
+    "points": [
+     "물건을 고르고 결제할 때 메타를 거치게 만드는 이커머스 전략이다.",
+     "스타일 스케치와 뮤즈를 통해 가상 옷장과 코디 추천 서비스를 제공한다."
+    ]
+   },
+   {
+    "seconds": 130,
+    "title": "메타의 뇌 연구와 TRIBE v2 모델",
+    "points": [
+     "메타는 2022년부터 뇌 데이터를 활용한 인공지능 연구를 진행했다.",
+     "TRIBE v2 모델은 인간의 뇌가 시각과 청각 자극에 반응하는 방식을 예측한다."
+    ]
+   }
+  ],
+  "tags": [
+   "메타",
+   "AI글래스",
+   "스마트글래스",
+   "인공지능",
+   "이커머스"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 31469,
+   "output_tokens": 800
+  }
+ },
+ "created_at": "2026-11-01T09:24:39+00:00"
+}
