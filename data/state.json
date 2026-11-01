@@ -7647,6 +7647,17 @@
    "published": "2026-08-19T11:52:54+00:00",
    "status": "baseline"
   },
+  "WtYWltGjho4": {
+   "done_at": "2026-11-01T02:52:53+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-01T02:51:56+00:00",
+   "last_attempt": "2026-11-01T02:52:07+00:00",
+   "notified": "2026-11-01T02:56:18+00:00",
+   "published": "2026-11-01T02:15:50+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "Wx2LS6edFUQ": {
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-09-27T02:00:33+00:00",
@@ -11475,7 +11486,7 @@
   "mP2uA1itfmU": {
    "errors": 0,
    "first_seen": "2026-11-01T01:10:04+00:00",
-   "last_attempt": "2026-11-01T02:06:42+00:00",
+   "last_attempt": "2026-11-01T02:52:53+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (1:00:00~1:06:43)",
    "published": "2026-11-01T01:00:28+00:00",
    "status": "pending",
@@ -11487,7 +11498,7 @@
     "title": "금리 인상보다 무서운 게 온다? 돈 어마어마하게 풀릴 겁니다 [아기곰 풀버전]",
     "video_id": "mP2uA1itfmU"
    },
-   "wait_checks": 1
+   "wait_checks": 2
   },
   "mP5eKUpjQYM": {
    "errors": 0,
