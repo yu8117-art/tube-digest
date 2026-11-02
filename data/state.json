@@ -2602,6 +2602,7 @@
   "9f28yLAGLUE": {
    "errors": 0,
    "first_seen": "2026-11-02T09:46:44+00:00",
+   "last_attempt": "2026-11-02T10:44:32+00:00",
    "published": "2026-11-02T09:00:17+00:00",
    "status": "pending",
    "video": {
@@ -4850,6 +4851,21 @@
    },
    "wait_checks": 0
   },
+  "Jpxp1mJlz5A": {
+   "errors": 0,
+   "first_seen": "2026-11-02T10:44:29+00:00",
+   "published": "2026-11-02T10:30:39+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 #세입자 #서울 #수도권\n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-02T10:30:39+00:00",
+    "title": "정비사업 왜 못하게 하는 건가요?",
+    "video_id": "Jpxp1mJlz5A"
+   },
+   "wait_checks": 0
+  },
   "JqWXVw8hB0w": {
    "errors": 0,
    "first_seen": "2026-10-22T06:10:22+00:00",
@@ -6335,6 +6351,21 @@
     "published": "2026-10-29T14:15:27+00:00",
     "title": "옷 쇼핑 하기 딱 좋은 계절..",
     "video_id": "Q9UAyixRN7U"
+   },
+   "wait_checks": 0
+  },
+  "QA7apMfUnR4": {
+   "errors": 0,
+   "first_seen": "2026-11-02T10:44:29+00:00",
+   "published": "2026-11-02T10:00:37+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n폭락 오든 말든 ‘이것’ 사세요, 은퇴 후 순자산 140억 만들었어요\n나스닥100보다 '이 주식' 사세요, 앞으로 어마어마하게 오를 겁니다\n\"2022년에도 버틴 사람이 이겼어요\" 현금 있다면 미국주식 이렇게 사세요\n\n☞촬영일: 26년 10월 28일",
+    "published": "2026-11-02T10:00:37+00:00",
+    "title": "폭락 오든 말든 ‘이것’ 사세요, 은퇴 후 순자산 140억 만들었어요 [라오어 작가 풀버전]",
+    "video_id": "QA7apMfUnR4"
    },
    "wait_checks": 0
   },
