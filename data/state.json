@@ -8545,6 +8545,21 @@
    },
    "wait_checks": 0
   },
+  "_70l_qR_Gq4": {
+   "errors": 0,
+   "first_seen": "2026-11-02T05:25:29+00:00",
+   "published": "2026-11-02T04:31:00+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
+    "channel_name": "안될공학 - IT 테크 신기술",
+    "description": "테슬라가 할로윈을 맞아 제대로 장난을 쳤습니다. 🎃\n\n운전대도, 페달도 없는 무인 자율주행차 ‘사이버캡’에\n사람 대신 해골 두 구를 태우고 오스틴 시내를 돌아다니게 한 건데요.\n\n아무도 운전하지 않는 차가 도로를 달리는 것만으로도 충분히 낯선데,\n안에 해골까지 타고 있으니 할로윈 분위기는 제대로입니다. 💀🚕\n\n#Tesla #Cybercab #자율주행 #무인차 #테슬라 #할로윈 #미래모빌리티",
+    "published": "2026-11-02T04:31:00+00:00",
+    "title": "테슬라의 할로윈데이",
+    "video_id": "_70l_qR_Gq4"
+   },
+   "wait_checks": 0
+  },
   "_CfIf9C90b8": {
    "article_url": "https://yu8117-art.github.io/tube-digest/a/_CfIf9C90b8.html",
    "done_at": "2026-10-10T03:32:36+00:00",
