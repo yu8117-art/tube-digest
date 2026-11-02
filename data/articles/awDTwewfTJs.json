@@ -1,0 +1,84 @@
+{
+ "video": {
+  "video_id": "awDTwewfTJs",
+  "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+  "channel_name": "에스오디 SOD",
+  "title": "\"한국산은 웃돈 내겠다\" 알리바바·텐센트도 삼성에 SOS, 붕괴 위기의 중국 반도체",
+  "published": "2026-11-02T09:00:03+00:00",
+  "description": "중국 메모리 CXMT의 충격적인 수율이 공개되었고, 중국 4대 빅테크는 삼전닉스에 무려 10년의 장기 메모리 공급 계약을 요청하였습니다. 대체 중국에서 무슨 일이 일어나고 있는 걸까요?\n\n- 하이젠버그에서 더 자세한 정보를 얻어가세요: https://heisenberg.kr\n\n- 인스타그램: https://www.instagram.com/softdragon__/\n\n- Chapter\n0:00 인트로\n1:12 삼성 레시피 약탈\n2:44 중국의 현재 상황\n6:12 벼랑 끝에 몰린 중국\n7:41 앞으로의 미래\n\n- 내용 출처\n1. 김수민·이영근, \"[단독] '삼전 레시피 훔쳐와'…대놓고 협박한 창신메모리 CEO\", 중앙일보, 2026\n2. 강경주, \"미국 이어 中 빅테크 삼성전자 찾는 이유…메모리 '10년 전쟁'\", 한국경제, 2026\n3. 노우리, \"[단독] 삼성 'EUV 기술' 대학 연구실서 샜다\", 서울경제, 2026\n4. Reuters, \"Exclusive-China's CXMT to start advanced AI memory production despite poor yields, sources say\", Reuters, 2026\n5. SK hynix, \"SK hynix First to Complete Intel Data Center Certification for 32Gb Die-based 256GB Server DDR5 RDIMM\", SK hynix Newsroom, 2025\n6. Samsung Electronics, \"Samsung and AMD Expand Strategic Collaboration on Next-Generation AI Memory Solutions\", Samsung Semiconductor Newsroom, 2026\n7. 임수빈, \"삼성전자 '현재 메모리 캐파 최대 70% 수준서 장기공급계약 진행' [컨콜]\", 파이낸셜뉴스, 2026\n8. 조성준, \"설계부터 수율까지 중국행…삼성·SK 출신 27명 CXMT로\", 아주경제, 2026\n9. CXMT, \"CXMT Pioneers Mass-Production of LPDDR6\", CXMT Newsroom, 2026\n10. 한지연, “다급한 중국 빅테크, D램 장기계약 맺자”, 매일경제, 2026\n11. 이민아, “SK하이닉스 “D램-HBM 2029년까지 완판” 피크아웃 우려 일축”, 동아일보, 2026\n\n- BGM\n1. Seguiré Soñando - Short version e by Roie Shpigler\n2. Appassionato by Nono\n3. Eureka by Ardie Son\n4. Beyond the Frame - Creative Cut - Sped Up by lumine wave\n5. Hidden Worlds - Creative Cut - Orchestra by Angelika Conrad\n6. One Blade Left by Kai Livermore",
+  "url": "https://www.youtube.com/watch?v=awDTwewfTJs"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/awDTwewfTJs/maxresdefault.jpg",
+ "source": "video",
+ "duration": 605,
+ "summary": {
+  "headline": "중국 메모리 굴기의 실체와 삼성·SK하이닉스에 SOS 친 중국 빅테크",
+  "thumbnail_text": "\"그 돈이면 삼성 쓰죠\" 발칵 뒤집힌 중국 상황",
+  "thumbnail_answer": "중국 빅테크들은 성능과 수율이 떨어지는 자국산 대신 비싼 값을 치르더라도 한국산 메모리를 확보하기 위해 장기 계약을 요구하고 있다.",
+  "conclusion": "중국의 메모리반도체 업체 CXMT가 삼성의 기술을 탈취하고 인력을 빼내가며 빠르게 성장하고 있지만, 실제 AI 서버용 D램과 HBM의 수율은 20~30% 수준에 머물고 있다. 중국 빅테크들은 미국 규제와 낮은 성능으로 인해 웃돈을 주고서라도 한국산 메모리를 찾고 있다. 기술 유출과 인력 이탈에 대한 처벌 강화도 중요하지만, 한국이 더 빠른 속도로 신기술을 상용화하는 것이 유일한 생존 전략이다.",
+  "key_points": [
+   "중국의 메모리 회사 CXMT의 전 CEO가 삼성 출신 엔지니어를 협박해 18나노 D램 공정 레시피를 탈취했다.",
+   "중국 CXMT의 D램 세계 시장 점유율은 7%로 4위에 올랐으나, AI 서버용 메모리의 수율은 20~30%에 불과하다.",
+   "알리바바, 바이두, 텐센트, 바이트댄스 등 중국 4대 빅테크는 삼성과 SK하이닉스에 10년 초장기 메모리 계약을 요구하고 있다.",
+   "SK하이닉스는 HBM과 D램이 2029년까지 완판되었으며, 삼성전자 역시 주요 빅테크들과 공급 계약을 완료했다.",
+   "CXMT는 HBM 경쟁력이 현저히 낮아 하이닉스의 5년 전 HBM3 수준에 머물러 있다.",
+   "삼성과 SK하이닉스 출신 반도체 기술자 최소 27명이 CXMT로 이직한 이력이 확인되었다.",
+   "한국 정부와 기업은 기술 유출을 막는 동시에, 새로운 기술을 상용화하는 속도를 높여야 한다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "인트로",
+    "points": [
+     "중국의 삼성전자 기술 탈취와 협박 사건 소개",
+     "중국 빅테크의 삼성 메모리 장기 계약 요청 배경 설명"
+    ]
+   },
+   {
+    "seconds": 72,
+    "title": "삼성 레시피 약탈",
+    "points": [
+     "CXMT 전 CEO 왕닝귀의 삼성 출신 인력 회유 및 반협박 정황",
+     "1조 6000억 원이 투입된 삼성의 18나노 D램 공정 레시피(PRP) 유출 사건"
+    ]
+   },
+   {
+    "seconds": 164,
+    "title": "중국의 현재 상황",
+    "points": [
+     "중국 빅테크들의 삼성 및 하이닉스 대상 10년 장기 메모리 공급 계약 요구",
+     "CXMT의 AI 서버용 D램 및 HBM 수율이 20~30%에 불과한 한계",
+     "최신 HBM 성능이 하이닉스의 5년 전 수준에 머무는 현실"
+    ]
+   },
+   {
+    "seconds": 372,
+    "title": "벼랑 끝에 몰린 중국",
+    "points": [
+     "삼성과 SK하이닉스 출신 반도체 기술자 최소 27명의 CXMT 이직 확인",
+     "중국 빅테크들이 비공식 경로로 비싼 값을 치르며 한국산 메모리를 확보하는 이유"
+    ]
+   },
+   {
+    "seconds": 461,
+    "title": "앞으로의 미래",
+    "points": [
+     "기술 유출자에 대한 처벌보다 한국이 신기술을 상용화하는 속도를 높이는 것이 중요함"
+    ]
+   }
+  ],
+  "tags": [
+   "삼성전자",
+   "SK하이닉스",
+   "CXMT",
+   "HBM",
+   "반도체"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 57427,
+   "output_tokens": 1008
+  }
+ },
+ "created_at": "2026-11-02T18:32:56+00:00"
+}
