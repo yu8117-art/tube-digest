@@ -3218,7 +3218,7 @@
   "Bmp-_pk4V4o": {
    "errors": 0,
    "first_seen": "2026-11-02T22:11:13+00:00",
-   "last_attempt": "2026-11-02T23:57:01+00:00",
+   "last_attempt": "2026-11-03T01:46:26+00:00",
    "published": "2026-11-02T22:00:24+00:00",
    "status": "pending",
    "video": {
@@ -13115,19 +13115,14 @@
    "status": "baseline"
   },
   "pMTdySOUNcQ": {
+   "done_at": "2026-11-03T01:46:26+00:00",
    "errors": 0,
    "first_seen": "2026-11-02T13:48:52+00:00",
-   "last_attempt": "2026-11-02T23:27:43+00:00",
+   "last_attempt": "2026-11-03T01:44:43+00:00",
+   "notified": "2026-11-03T01:47:39+00:00",
    "published": "2026-11-02T13:00:35+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
-    "channel_name": "조코딩 JoCoding",
-    "description": "🎉 짐브로 X 조코딩 특별 이벤트! 🎉\n👉 https://gymbro.kr/product/list.html?cate_no=480\n💥 조코딩 채널 구독자 전용 혜택으로 역대급 할인을 누리세요!\n📢 단 15일 동안만! 초특가 세일!\n✅ 조코딩 PICK 프리미엄 퍼 후드 자켓 169,000원\n✅ 작년 269,000원에 10만 장 판매된 제품!\n조코딩 채널 구독자분들만을 위한 특별 혜택이니 지금 바로 확인하세요! 🚀\n\nAX인재전쟁 온라인: https://axacademy.ai/axwar\n🎁 ChatGPT Plus 1개월 이용권 가입자 선착순 1,000명 증정\n\n조코딩의 바이브 코딩 1인 창업: https://youtu.be/P3jFI-VpyLg\nAX 컨설팅 및 교육 문의: https://jocodingax.ai\n조코헌트: https://jocohunt.jocoding.io/\n\n🕖목차\n00:00 Gemini 4 Carbon\n01:52 구글 주가 폭락 - 검색의 종말\n03:09 Reddit도 폭락\n03:54 Genie 4\n04:54 Anthropic 나스닥 상장 신청 - S-1 공개\n06:42 기술업계 밖 AI 투자 성과\n07:49 Claude와 신약 개발 - 1인 바이오테크 인수\n08:34 Claude 플랜 이름 변경 - Ultra 5시간 제한 제거\n09:00 GPT-6.1 Terra\n10:00 ChatGPT Pro 사용 한도 2배\n10:25 ChatGPT 구독자 API 크레딧 500달러\n11:05 Codex 계정 개수 제한\n11:46 ChatGPT 문자 연동 업데이트\n12:04 OpenAI 수학·컴퓨터과학·물리학 새 발견\n12:59 Colossus 2 - 블랙웰 120만 개\n13:44 Subvocal - 음성 없이 음성 인식\n15:30 NVIDIA RE-USE - 노이즈 제거 오픈웨이트\n16:02 NVIDIA Nemotron 3.5 Transcribe\n17:01 NVIDIA MotionBricks - 3D 동작 생성\n18:15 Liquid AI LFM3\n18:46 오픈웨이트 모델의 우려 행동 - Qwen 3.8 Flash Next\n19:56 짐브로 퍼 후드 자켓 (광고)\n21:14 Vercel agent-desktop\n22:09 아이폰 Duo에서 Mac 돌리기\n22:40 화장실 청소 휴머노이드 구독 - Tau Robotics\n23:05 바이낸스 8.5조 원 해킹\n24:48 더존 해킹 · 비전공자도 AI로 해킹\n25:44 리눅스 커널 9.8 취약점\n26:42 마이크로소프트 6만 명 희망퇴직\n27:16 바이브 코딩 1인 창업\n27:39 온라인 절 산사 - 하루 10만 명\n28:48 Pinchart - 앱스토어 순위 추적\n29:31 월운 - 동물의 숲 감성 종합 운세앱\n30:05 조코헌트 주간 1등\n30:32 AX 인재전쟁 × 삼일PwC 온라인 해커톤\n31:46 VVIP 감사 인사\n\n📌 출처 및 참고자료\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\nhttps://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1\nhttps://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5\nhttps://news.hada.io/topic?id=36242\nhttps://x.com/Charles_SEO/status/2116611932858015884\nhttps://x.com/GoogleDeepMind/status/2115114028338962672\nhttps://news.hada.io/topic?id=36045\nhttps://news.hada.io/topic?id=35937\nhttps://x.com/AnthropicAI/status/2115178675050307942\nhttps://www.anthropic.com/research/early-progress-drug-development\nhttps://x.com/Prof_Oak_/status/2115185849424048564\nhttps://x.com/claudeai/status/2116220869479428500\nhttps://openai.com/ko-KR/index/introducing-gpt-6-1-terra/\nhttps://x.com/thsottiaux/status/2115850175868727621\nhttps://x.com/OpenAIDevs/status/2115583698074755078\nhttps://x.com/CodexUpdate/status/2116476292904161624\nhttps://x.com/ChatGPT/status/2115496387613786374\nhttps://openai.com/ko-KR/index/building-scientific-understanding-with-academic-communities/\nhttps://news.hada.io/topic?id=36069\nhttps://x.com/elonmusk/status/2116596535433871630\nhttps://x.com/AarushYadav47/status/2116198463847408066\nhttps://x.com/bishara/status/2116639642351214793\nhttps://x.com/NVIDIAAI/status/2116262634349818190\nhttps://news.hada.io/topic?id=36196\nhttps://x.com/NVIDIAAI/status/2115462302078320816\nhttps://x.com/NVIDIAAI/status/2065196536276173306\nhttps://x.com/tokufxug/status/2115264971089297426\nhttps://x.com/victormustar/status/2115531118292131887\nhttps://x.com/liquidai/status/2115128329003303107\nhttps://news.hada.io/topic?id=36062\nhttps://x.com/ctatedev/status/2116323148706771302\nhttps://x.com/tolimarchuk/status/2116650163930587441\nhttps://x.com/alexkoch_ai/status/2115871971393331663\nhttps://news.hada.io/topic?id=36297\nhttps://x.com/Smart_Money/status/2116500626938986673\nhttps://x.com/CiscoCANFT/status/2116524389797593142\nhttps://www.news1.kr/it-science/security-hacking/6333265\nhttps://ubuntu.com/security/CVE-2026-98432\nhttps://x.com/IvanPerezF_/status/2115900137016848684\nhttps://news.hada.io/topic?id=36051\nhttps://www.threads.com/@metamong.dev/post/DfFOysoGZ2j\nhttps://www.threads.com/@h_y_account/post/DfE3k-GEy5Q\nhttps://www.threads.com/@stinlia_/post/DfHVrDHH15P\nhttps://pinchart.jocoding.io/\nhttps://weolun.com/\n\nVVIP 멤버십 후원\n그림자그림자님, Sicongbabe님, 정진균님, 시원-r9u님, GomnaStudio님, 천사슥님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#AI뉴스 #AI #인공지능",
-    "published": "2026-11-02T13:00:35+00:00",
-    "title": "AI뉴스 - Gemini 4 Carbon, 검색의 종말, 앤트로픽 S1, GPT-6.1 테라, Subvocal, LFM3, agent-desktop, 바이낸스 해킹 등",
-    "video_id": "pMTdySOUNcQ"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "pN1Jpz72SXk": {
