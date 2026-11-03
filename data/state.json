@@ -10493,7 +10493,7 @@
   "d-ZA6Btv4Pw": {
    "errors": 0,
    "first_seen": "2026-11-03T08:35:04+00:00",
-   "last_attempt": "2026-11-03T20:57:08+00:00",
+   "last_attempt": "2026-11-03T21:30:33+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-03T07:55:17+00:00",
    "status": "pending",
@@ -10505,7 +10505,7 @@
     "title": "[박형근의 테슬라 1부] 5대 차량을 공중제비로 뛰어넘는 신형 로드스터. 대체 어떤 로켓 기술 썼길래 (HMG경영연구원 박형근 실장)",
     "video_id": "d-ZA6Btv4Pw"
    },
-   "wait_checks": 9
+   "wait_checks": 10
   },
   "d-lC7ucli8k": {
    "errors": 0,
