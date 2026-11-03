@@ -1,0 +1,112 @@
+{
+ "video": {
+  "video_id": "lx8ef0ed690",
+  "channel_id": "UCdUcjkyZtf-1WJyPPiETF1g",
+  "channel_name": "ITSub잇섭",
+  "title": "아이폰 듀오를 지금 꼭 사야만할까? 소프트웨어&앱 최적화가 아쉬운 이유",
+  "published": "2026-11-03T11:00:26+00:00",
+  "description": "아이폰 듀오를 사용해보니 요즘 나오는 여러 이슈들보다 실제로 썼을때 저는 소프트웨어와 앱 최적화가 매우 아쉬웠는데요, 오늘은 왜 아이폰 듀오가 애플답지 않은 모습을 보였는지, 실제로 오른쪽에 있는 상태 막대는 편한지에 대해 이야기 해봤습니다! \n\n🔋 info.\n- Duo 용 편리한 단축어 다운로드\nhttps://itsub.cc/duoshortcut/\n\n- Duo 앱 호환성 체크 사이트\nhttps://itsub.cc/forduo/\n\n\n🎵 BGM.\nJumping Sideways - The Fly Guy Five\nRush Hour 4 - Fredrik Ekstrom\nMidnight Messages - Rebecca Mardal\n\n\n⏲️ Timestamps.\n00:00 인트로\n00:19 오프닝\n01:12 정체성\n01:57 UI/UX\n08:41 멀티태스킹\n10:15 오른쪽 바\n13:06 서드파티 앱\n16:56 앱 최적화\n18:18 오늘의 결론\n\n\n🔖Tags.\n#아이폰\n#아이폰듀오\n#최적화\n\n\n💡 Merch.\n블랙카우랩스 굿즈를 사고 싶다면?\n-https://abit.ly/blackcowlabs\n\n\n📨 Business contacts.\n itsub@itud.io",
+  "url": "https://www.youtube.com/watch?v=lx8ef0ed690"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/lx8ef0ed690/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1175,
+ "summary": {
+  "headline": "아이폰 듀오 소프트웨어와 앱 최적화의 아쉬운 현실",
+  "thumbnail_text": "최적화 O, 최적화 X, 아이폰 듀오 최적화 현실",
+  "thumbnail_answer": "메이저 앱은 최적화가 잘 되어 있으나 서드파티 앱과 폴더블 폼팩터 UI/UX는 아직 개선할 점이 많다.",
+  "conclusion": "아이폰 듀오는 하드웨어적 완성도에 비해 소프트웨어와 앱 최적화 측면에서 아쉬움이 크다. 특히 우측 상태 막대 영역이나 일관성 없는 UI 배치는 개선이 필요하다. 지금 당장은 얼리어답터가 아니라면 구매를 추천하기 어렵다.",
+  "key_points": [
+   "애플 최초의 폴더블 아이폰 듀오는 소프트웨어 완성도가 아쉽다.",
+   "접었을 때와 펼쳤을 때의 UI 비대칭성과 일관성 부족이 눈에 띈다.",
+   "우측 상태 막대 영역 때문에 일부 앱에서 화면 공간 낭비와 가독성 저하가 발생한다.",
+   "메이저 앱은 빠르게 최적화되고 있으나 서드파티 앱은 여전히 시간이 필요하다.",
+   "멀티태스킹 시 1:1 비율 고정과 제스처 제한 등 불편함이 존재한다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "인트로",
+    "points": [
+     "아이폰 듀오 소프트웨어에 대한 궁금증을 유발하는 도입부"
+    ]
+   },
+   {
+    "seconds": 19,
+    "title": "오프닝",
+    "points": [
+     "아이폰 듀오 일주일 사용 후 소프트웨어 최적화 이야기를 시작함"
+    ]
+   },
+   {
+    "seconds": 72,
+    "title": "정체성",
+    "points": [
+     "하드웨어와 소프트웨어의 유기적 결합이라는 애플의 장점이 흔들림",
+     "개발자들도 폴더블 폼팩터에 대한 정체성을 고민하고 있음"
+    ]
+   },
+   {
+    "seconds": 117,
+    "title": "UI/UX",
+    "points": [
+     "전면 카메라 위치와 내부 UDC 배치에 따른 UI 일관성 문제",
+     "잠금 화면과 홈 화면에서의 정렬 어긋남 현상"
+    ]
+   },
+   {
+    "seconds": 521,
+    "title": "멀티태스킹",
+    "points": [
+     "최대 2개 앱까지만 지원하는 스플릿뷰",
+     "1:1 비율 고정으로 인해 화면 활용도가 떨어짐"
+    ]
+   },
+   {
+    "seconds": 615,
+    "title": "오른쪽 바",
+    "points": [
+     "우측 상태 막대 영역(Status Bar Area)의 도입과 앱별 활용 편차",
+     "일부 앱에서는 우측 공간이 비어 가독성이 저하됨"
+    ]
+   },
+   {
+    "seconds": 786,
+    "title": "서드파티 앱",
+    "points": [
+     "노션, 넷플릭스 등 메이저 앱은 최적화가 잘 되어 있음",
+     "치지직이나 쿠팡플레이 등은 아직 최적화가 부족함"
+    ]
+   },
+   {
+    "seconds": 1016,
+    "title": "앱 최적화",
+    "points": [
+     "iOS SDK 버전에 따른 최적화 수준의 차이",
+     "2027년 이후 출시 앱에 대한 애플의 가이드라인 적용 필요성"
+    ]
+   },
+   {
+    "seconds": 1098,
+    "title": "오늘의 결론",
+    "points": [
+     "현재 아이폰 듀오는 얼리어답터용 폰에 가까움",
+     "빠른 소프트웨어 업데이트를 통한 개선이 시급함"
+    ]
+   }
+  ],
+  "tags": [
+   "아이폰",
+   "아이폰듀오",
+   "최적화",
+   "소프트웨어",
+   "잇섭"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 101817,
+   "output_tokens": 1015
+  }
+ },
+ "created_at": "2026-11-03T12:11:59+00:00"
+}
