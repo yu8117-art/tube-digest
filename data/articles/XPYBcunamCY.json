@@ -1,0 +1,64 @@
+{
+ "video": {
+  "video_id": "XPYBcunamCY",
+  "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+  "channel_name": "스마트튜브(스튜TV)",
+  "title": "(11.14 오프라인 세미나)경기도 사야 할 것VS 사면 안되는 것(스마트튜브 경제아카데미)",
+  "published": "2026-11-03T12:00:04+00:00",
+  "description": "(11.14 오프라인 세미나)경기도, 지금 살 곳은 따로 있다!\n🔹https://www.smarttube.kr/web/83?wmod=detail&idx=657",
+  "url": "https://www.youtube.com/watch?v=XPYBcunamCY"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/XPYBcunamCY/maxresdefault.jpg",
+ "source": "video",
+ "duration": 54,
+ "summary": {
+  "headline": "경기도 부동산 투자와 절세 전략 세미나 안내",
+  "thumbnail_text": "경기도 사야 할 것 vs 사면 안되는 것",
+  "thumbnail_answer": "스마트튜브 경제아카데미 오프라인 세미나를 통해 경기도 31개 시·군 분석과 절세 전략을 확인할 수 있다.",
+  "conclusion": "복잡한 경기도 부동산 시장에서 성공하기 위해서는 입지와 절세 전략을 한 번에 파악해야 한다. 스마트튜브 경제아카데미 오프라인 세미나에서 사야 할 곳과 사면 안 되는 곳을 명확하게 확인할 수 있다. 고민은 줄이고 명확한 선택을 내려라.",
+  "key_points": [
+   "경기도 부동산 투자와 절세 전략을 다루는 오프라인 세미나 안내 영상이다.",
+   "제네시스박이 2027년 완벽한 부동산 절세 전략을 제시한다.",
+   "김학렬 소장이 경기도 31개 시·군의 입지를 분석해 사야 할 곳과 사면 안 될 곳을 짚어준다.",
+   "흩어져 있던 부동산 정보와 세금 정보를 한곳에서 한방에 해결한다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "경기도 부동산 고민 해결",
+    "points": [
+     "경기도 투자, 부동산 계획, 대출 등 복잡한 고민을 한 번에 해결한다."
+    ]
+   },
+   {
+    "seconds": 22,
+    "title": "전문가 소개 및 세미나 주제",
+    "points": [
+     "제네시스박의 2027년 부동산 절세 전략을 안내한다.",
+     "김학렬 소장의 경기도 31개 시·군 완전 정복 내용을 다룬다."
+    ]
+   },
+   {
+    "seconds": 48,
+    "title": "세미나 신청 안내",
+    "points": [
+     "스마트튜브 경제아카데미에서 오프라인 세미나 신청이 가능하다."
+    ]
+   }
+  ],
+  "tags": [
+   "부동산",
+   "경기도",
+   "제네시스박",
+   "김학렬",
+   "절세전략",
+   "스마트튜브"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 6674,
+   "output_tokens": 540
+  }
+ },
+ "created_at": "2026-11-03T13:04:33+00:00"
+}

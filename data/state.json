@@ -652,6 +652,21 @@
    "published": "2026-09-29T13:00:41+00:00",
    "status": "baseline"
   },
+  "1BYNkq_mfBk": {
+   "errors": 0,
+   "first_seen": "2026-11-03T13:04:06+00:00",
+   "published": "2026-11-03T13:00:05+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCCQPdv4o4ywVZQkAMOlvFbw",
+    "channel_name": "오목교 전자상가",
+    "description": "요즘 말 많은 아이폰 듀오,\r\n결국 약 700만 원어치 새 제품 두 대를 들고 전문 시험 기관에 갔습니다.\r\n한 대는 먼지 속에 8시간, 다른 한 대는 물속에 90분\r\n그리고 전부 뜯어봤습니다.\r\n\r\n힌지에는 물이 들어찼고, 화면 테두리 안쪽까지 침투 흔적이 남았습니다.\r\n먼지를 맞은 힌지에서는 윤활제가 가루와 엉겨 회색 반죽이 돼 있었습니다.\r\n그런데 메인보드가 있는 양쪽 본체 내부는 깨끗했습니다.\r\n\r\n그렇다면 IP68이 지켜준다는 건, 대체 어디까지일까요?\r\n\r\n매일 접었다 펴야 하는 힌지에 물과 먼지가 들어가는데,\r\n기판이 보호됐다는 이유만으로 소비자가 안심해도 되는 걸까요?\r\n\r\n힌지의 견고함을 자랑하는 설명 바로 옆에는 IP68을 붙여놓고,\r\n정작 보호 범위는 소비자가 직접 뜯어서 알아내야 합니까?\r\n\r\n등급은 사양표에 적혀 있습니다.\r\n하지만 우리가 쓸 건 사양표가 아니라 이 폰입니다.\r\n아이폰 듀오의 IP68,\r\n우리가 기대한 방수·방진과 얼마나 같은지 끝까지 뜯어봤습니다.\r\n\r\n※ 분진 실험은 내부 감압을 생략한 IP5X Category 2에 준하는 조건이며, IP6X 인증 시험은 아닙니다.\r\n※ 침수 실험은 약 1.2m·90분으로 제조사의 6m·30분 조건과 다릅니다. 관찰된 현상만으로 장기 고장을 단정하지 않습니다.",
+    "published": "2026-11-03T13:00:05+00:00",
+    "title": "아이폰 듀오 힌지 논란, 직접 IP68 테스트 돌려봤습니다 #shorts",
+    "video_id": "1BYNkq_mfBk"
+   },
+   "wait_checks": 0
+  },
   "1CQbWvGkcdc": {
    "errors": 0,
    "first_seen": "2026-10-23T10:01:24+00:00",
@@ -697,18 +712,14 @@
    "status": "baseline"
   },
   "1V_XMc8_NLc": {
+   "done_at": "2026-11-03T13:05:38+00:00",
    "errors": 0,
    "first_seen": "2026-11-03T12:08:12+00:00",
+   "last_attempt": "2026-11-03T13:04:33+00:00",
+   "notified": "2026-11-03T13:09:25+00:00",
    "published": "2026-11-03T12:05:35+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#맨유 #프리미어리그 #캐릭",
-    "published": "2026-11-03T12:05:35+00:00",
-    "title": "“맨유 강등권? 거봐라 내가 잘했던 거다” 텐하흐의 열받는 인터뷰.. 캐릭 문제? 선수도 문제다",
-    "video_id": "1V_XMc8_NLc"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "1XB-Rten_y0": {
@@ -4472,6 +4483,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "Gomylx1buYY": {
+   "done_at": "2026-11-03T13:09:01+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-03T13:04:17+00:00",
+   "last_attempt": "2026-11-03T13:06:38+00:00",
+   "notified": "2026-11-03T13:09:27+00:00",
+   "published": "2026-11-03T12:25:29+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "GoqudAsaivk": {
    "errors": 0,
    "first_seen": "2026-10-27T06:14:36+00:00",
@@ -4749,6 +4771,21 @@
     "published": "2026-10-28T07:30:40+00:00",
     "title": "증설 아무리 해도 메모리 값 안 떨어지는 진짜 이유 [강관우 대표]",
     "video_id": "I8UJoPZKROU"
+   },
+   "wait_checks": 0
+  },
+  "IFC3sWCo0C4": {
+   "errors": 0,
+   "first_seen": "2026-11-03T13:04:19+00:00",
+   "published": "2026-11-03T13:00:01+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+    "channel_name": "조코딩 JoCoding",
+    "description": "조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418\nAX 컨설팅 및 교육 문의: https://jocodingax.ai\n조코헌트: https://jocohunt.jocoding.io/\n\nVVIP 멤버십 후원\n그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#IT #아이폰듀오 #맥북",
+    "published": "2026-11-03T13:00:01+00:00",
+    "title": "아이폰 듀오를 맥북으로 만드는 법",
+    "video_id": "IFC3sWCo0C4"
    },
    "wait_checks": 0
   },
@@ -7137,6 +7174,21 @@
    },
    "wait_checks": 0
   },
+  "RWuGe8CJv7c": {
+   "errors": 0,
+   "first_seen": "2026-11-03T13:04:14+00:00",
+   "published": "2026-11-03T12:30:04+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 #세입자 #서울 #수도권\n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-03T12:30:04+00:00",
+    "title": "내년에 집값 떨어진대요!!?",
+    "video_id": "RWuGe8CJv7c"
+   },
+   "wait_checks": 0
+  },
   "RbTL5Y6vNOg": {
    "errors": 0,
    "first_seen": "2026-10-20T23:40:21+00:00",
@@ -8633,18 +8685,14 @@
    "status": "baseline"
   },
   "XPYBcunamCY": {
+   "done_at": "2026-11-03T13:04:33+00:00",
    "errors": 0,
    "first_seen": "2026-11-03T12:08:18+00:00",
+   "last_attempt": "2026-11-03T13:04:20+00:00",
+   "notified": "2026-11-03T13:09:26+00:00",
    "published": "2026-11-03T12:00:04+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
-    "channel_name": "스마트튜브(스튜TV)",
-    "description": "(11.14 오프라인 세미나)경기도, 지금 살 곳은 따로 있다!\n🔹https://www.smarttube.kr/web/83?wmod=detail&idx=657",
-    "published": "2026-11-03T12:00:04+00:00",
-    "title": "(11.14 오프라인 세미나)경기도 사야 할 것VS 사면 안되는 것(스마트튜브 경제아카데미)",
-    "video_id": "XPYBcunamCY"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "XYSVIxGQwmE": {
@@ -10394,7 +10442,8 @@
   "d-ZA6Btv4Pw": {
    "errors": 0,
    "first_seen": "2026-11-03T08:35:04+00:00",
-   "last_attempt": "2026-11-03T08:35:04+00:00",
+   "last_attempt": "2026-11-03T13:09:02+00:00",
+   "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-03T07:55:17+00:00",
    "status": "pending",
    "video": {
@@ -10405,7 +10454,7 @@
     "title": "[박형근의 테슬라 1부] 5대 차량을 공중제비로 뛰어넘는 신형 로드스터. 대체 어떤 로켓 기술 썼길래 (HMG경영연구원 박형근 실장)",
     "video_id": "d-ZA6Btv4Pw"
    },
-   "wait_checks": 0
+   "wait_checks": 1
   },
   "d-lC7ucli8k": {
    "errors": 0,
@@ -12011,18 +12060,14 @@
    "wait_checks": 0
   },
   "j_kV6-mSSvc": {
+   "done_at": "2026-11-03T13:06:37+00:00",
    "errors": 0,
    "first_seen": "2026-11-03T12:08:22+00:00",
+   "last_attempt": "2026-11-03T13:05:38+00:00",
+   "notified": "2026-11-03T13:09:26+00:00",
    "published": "2026-11-03T12:06:06+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
-    "channel_name": "지식인사이드",
-    "description": "오늘은 아주대 소아전문응급의료센터 이지숙 센터장님을 모시고\n\n소아 응급실이 사라지는 진짜 이유와 소아과 의사들이 현장을 떠날 수밖에 없는 실체에 대해 들어봤습니다.\n\n영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요!\n\n#지식인사이드 #이지숙 #소아응급실 #필수의료 #응급실 #아주대\n\n00:00 인트로\n00:22 아주대 소아응급센터장이 본 이번 압수수색의 쟁점\n03:06 25년차 소아응급전문의가 말하는 '응급실 뺑뺑이' 진짜 이유\n06:40 지방 소아응급실이 유독 어려운 '3가지' 이유 \n10:04 대한민국 소아의료 '이걸' 바꾸지 않으면 무너집니다 \n\n* 본 촬영은 10월 30일, 센터장님의 사직서 제출 전에 진행되었습니다 \n\n👇지식인사이드에 출연을 원하신다면 여기를 눌러주세요\nhttps://forms.gle/u4LxVcwFdhvkLH8m6\nknowledgeinside7@gmail.com\n\n👇 다양한 채널에서 지식인사이드의 지식을 얻고 싶다면 여기를 눌러주세요\n인스타그램: https://www.instagram.com/knowledgeins_kr/\n페이스북: https://www.facebook.com/knowledgeIns7?mibextid=LQQJ4d\n네이버 TV: https://tv.naver.com/purejboy2\n틱톡: https://www.tiktok.com/@allstorieskr?lang=ko-KR\n네이버 카페: https://cafe.naver.com/knowledgeins\n\nCopyright Ⓒ 지식인사이드. All rights reserved.\n\n본 콘텐츠(영상, 이미지, 음성, 대본, 편집물, 썸네일 포함)는 저작권 및 관련 권리의 보호를 받습니다.\n\n저작권자의 사전 승인 없이 복제, 배포, 수정, 재가공, 업로드, AI 학습 및 데이터셋 구축, 2차 저작물 제작(쇼츠·릴스 포함) 등 일체의 상업적 이용 및 수익화를 금지합니다.\n\n📧 콘텐츠 사용 및 협의 문의: knowledgeinside7@gmail.com",
-    "published": "2026-11-03T12:06:06+00:00",
-    "title": "\"한국 역사상 처음이에요.\" 아주대 소아응급센터장이 말하는 '압수수색'의 진짜 쟁점 (이지숙 센터장)",
-    "video_id": "j_kV6-mSSvc"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "jc0uSVh-jL8": {
