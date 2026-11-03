@@ -1,0 +1,65 @@
+{
+ "video": {
+  "video_id": "ZGCZd30CGrM",
+  "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+  "channel_name": "채널 제네시스박",
+  "title": "아파트 금액대별 대응 방법!",
+  "published": "2026-11-03T09:48:40+00:00",
+  "description": "📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 (마감/대기접수중) 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (11/28, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=3&lectCd=0685\n\n📌 명동 본점 롯데백화점 세금 특강! + 1:1 현장 질문 (12/12, 토, 오후 2시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0001&yy=2026&lectSmsterCd=4&lectCd=0351\n\n📌 수원 타임빌라스 롯데백화점 세금 특강! + 1:1 현장 질문 (1/16, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0349&yy=2026&lectSmsterCd=4&lectCd=0245\n\n📌 부산 롯데백화점 세금 특강! + 1:1 현장 질문 (1/30, 토, 오후 4시 30분)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0005&yy=2026&lectSmsterCd=4&lectCd=0718\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (2/21, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=4&lectCd=0403\n\n📌 관악 롯데백화점 세금 특강! + 1:1 현장 질문 (2/27, 토, 오후 1시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0006&yy=2026&lectSmsterCd=4&lectCd=0876\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
+  "url": "https://www.youtube.com/watch?v=ZGCZd30CGrM"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/ZGCZd30CGrM/maxresdefault.jpg",
+ "source": "video",
+ "duration": 54,
+ "summary": {
+  "headline": "아파트 금액대별 부동산 대응 전략",
+  "thumbnail_text": "내 조건, 알아두세요 아파트 금액대별 대응 방법",
+  "thumbnail_answer": "시가 50억 초과는 거주와 양도차익을 고려해 다운사이징을 고민해야 하고, 20~40억은 위아래 가격 구간을 주시해야 하며, 28억 이하는 수급과 대출에 따라 자유롭게 움직인다.",
+  "conclusion": "아파트는 금액대별로 시장 상황과 대응 방식이 다르다. 초고가 주택은 다운사이징과 세금 부담을 고려해야 한다. 중저가 단지는 수급과 대출 조건에 맞춰 유연하게 움직여야 한다.",
+  "key_points": [
+   "시가 50억 초과 주택은 거주가 유리하며 양도차익이 크다면 다운사이징을 고민한다.",
+   "시가 20억~40억 구간은 위아래 가격대를 모니터링하며 신규 진입 기회를 노린다.",
+   "시가 28억 이하 구간은 수급과 대출에 따라 자유롭게 움직이는 시장이다.",
+   "인기 단지는 수요가 몰리며 가격 상승세가 가파르다.",
+   "성남 산성역 헤리스톤 옆 포레스티아 등 주요 단지들의 실거래가가 크게 상승했다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "시가 50억 초과 고가 주택 대응",
+    "points": [
+     "거주가 유리하며 양도차익이 크면 다운사이징을 고민한다.",
+     "매도 후 다주택 유지 여부를 판단해야 한다."
+    ]
+   },
+   {
+    "seconds": 16,
+    "title": "시가 20억~40억 및 28억 이하 구간",
+    "points": [
+     "20~40억 구간은 위아래 가격대를 주시하고 신규 진입을 노린다.",
+     "28억 이하는 수급과 대출에 따라 자유롭게 움직이는 구간이다."
+    ]
+   },
+   {
+    "seconds": 31,
+    "title": "주요 지역 실제 거래가 사례",
+    "points": [
+     "성남 포레스티아, 장위 뉴타운, 안양 메가트리아 등의 실제 가격 상승 사례를 분석한다."
+    ]
+   }
+  ],
+  "tags": [
+   "아파트전망",
+   "부동산대응",
+   "초고가주택",
+   "다운사이징",
+   "부동산세금"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 7144,
+   "output_tokens": 630
+  }
+ },
+ "created_at": "2026-11-03T11:19:27+00:00"
+}
