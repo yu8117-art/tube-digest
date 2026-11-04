@@ -4896,6 +4896,21 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "HjG5HHlgU68": {
+   "errors": 0,
+   "first_seen": "2026-11-04T23:09:01+00:00",
+   "published": "2026-11-04T23:00:10+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCFhF5oooL5ugxHKvTxBD75Q",
+    "channel_name": "땅집고",
+    "description": "🏠 잠깐 살아도 단단하게, 단단홈즈\n\n비어 있는 방을 임대하고 싶을 때도,\n출장·이사·인테리어로 잠깐 살 집이 필요할 때도!\n단단홈즈에서 더 안심하고 단기임대를 시작해 보세요.\n\n🔑 [호스트] 내 방 등록하고 단기임대 시작하기\n🔗 https://ader.dandanhomes.com/bsve9r\n\n🏡 [게스트] 필요한 기간만큼 살 집 찾기\n🔗 https://ader.dandanhomes.com/tvt76qo",
+    "published": "2026-11-04T23:00:10+00:00",
+    "title": "\"2구역은 이주, 우리는 또 파토\" '임시조합장 증발' 북아현3구역 #shorts",
+    "video_id": "HjG5HHlgU68"
+   },
+   "wait_checks": 0
+  },
   "HjcpzuItea4": {
    "done_at": "2026-10-12T06:16:40+00:00",
    "errors": 0,
@@ -8854,6 +8869,21 @@
    "published": "2026-10-16T07:55:36+00:00",
    "status": "baseline"
   },
+  "WB4DwAU6BIw": {
+   "errors": 0,
+   "first_seen": "2026-11-04T23:09:05+00:00",
+   "published": "2026-11-04T22:30:09+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n노원 도봉 매물 쌓이고 거래 줄면 중저가 집값 결국 이렇게 됩니다\n\n☞촬영일: 26년 11월 2일",
+    "published": "2026-11-04T22:30:09+00:00",
+    "title": "노원 도봉 매물 쌓이고 거래 줄면 중저가 집값 결국 이렇게 됩니다 [김건우 대표]",
+    "video_id": "WB4DwAU6BIw"
+   },
+   "wait_checks": 0
+  },
   "WCItiwpDR2M": {
    "errors": 0,
    "first_seen": "2026-10-21T10:42:12+00:00",
@@ -10572,6 +10602,21 @@
     "published": "2026-10-10T02:30:12+00:00",
     "title": "서울 집 고집할 필요 없습니다, 집값엔 '강남 접근성'이 더 중요합니다 [빠숑]",
     "video_id": "bzfPor4KzKE"
+   },
+   "wait_checks": 0
+  },
+  "c2XnjPESzc0": {
+   "errors": 0,
+   "first_seen": "2026-11-04T23:09:06+00:00",
+   "published": "2026-11-04T22:57:50+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
+    "channel_name": "소유보다 경험 - 아이언 / 공모주",
+    "description": "영광와이케이엠씨(영광YKMC) 2일차, 옵토닉스 1일차를 실시간 공모주 경쟁률 라이브로 제공합니다.\n자세한 정보는 유튜브 영상과 블로그를 참고해주세요.\nhttps://blog.naver.com/msql/\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다. \n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
+    "published": "2026-11-04T22:57:50+00:00",
+    "title": "[11/5] 영광와이케이엠씨(영광YKMC) 2일차, 옵토닉스 1일차 실시간 공모주 청약경쟁률 LIVE",
+    "video_id": "c2XnjPESzc0"
    },
    "wait_checks": 0
   },
@@ -13555,7 +13600,7 @@
   "mxYsXkqvckI": {
    "errors": 0,
    "first_seen": "2026-11-04T07:54:39+00:00",
-   "last_attempt": "2026-11-04T22:30:34+00:00",
+   "last_attempt": "2026-11-04T23:09:09+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-04T06:40:22+00:00",
    "status": "pending",
@@ -13567,7 +13612,7 @@
     "title": "빠숑님께 질문합니다! 정말 놀라운 정도로 하락할까요?",
     "video_id": "mxYsXkqvckI"
    },
-   "wait_checks": 5
+   "wait_checks": 6
   },
   "n1Kr-uSnvv4": {
    "errors": 0,
@@ -14498,6 +14543,21 @@
    "published": "2026-10-19T22:00:14+00:00",
    "source": "video_notes",
    "status": "done",
+   "wait_checks": 0
+  },
+  "qd4xIiMm8Oc": {
+   "errors": 0,
+   "first_seen": "2026-11-04T23:09:06+00:00",
+   "published": "2026-11-04T23:02:53+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
+    "channel_name": "소유보다 경험 - 아이언 / 공모주",
+    "description": "이 방송은 영광와이케이엠씨(영광YKMC) 공모주 청약의 어니언 5사6입 라이브입니다.\n\n다른 분들과 소통을 원하시면 메인 방송을 이용해주세요.\nhttps://youtube.com/live/c2XnjPESzc0\n\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트(하이브) 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다.\n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
+    "published": "2026-11-04T23:02:53+00:00",
+    "title": "[11/5] 영광와이케이엠씨(영광YKMC) 어니언 5사6입 2일차 실시간 공모주 청약경쟁률 LIVE / 대신증권",
+    "video_id": "qd4xIiMm8Oc"
+   },
    "wait_checks": 0
   },
   "qeUesLzq9gw": {
