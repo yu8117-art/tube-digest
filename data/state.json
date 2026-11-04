@@ -3329,6 +3329,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "AwXpEX3iDHo": {
+   "done_at": "2026-11-04T21:37:54+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-04T21:37:13+00:00",
+   "last_attempt": "2026-11-04T21:37:15+00:00",
+   "notified": "2026-11-04T21:44:34+00:00",
+   "published": "2026-11-04T21:35:16+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "B-S7do2Q5fw": {
    "errors": 0,
    "first_seen": "2026-11-03T22:55:52+00:00",
@@ -6639,19 +6650,14 @@
    "wait_checks": 0
   },
   "OcNUj0S2Fe8": {
+   "done_at": "2026-11-04T21:43:13+00:00",
    "errors": 0,
    "first_seen": "2026-11-04T10:45:58+00:00",
-   "last_attempt": "2026-11-04T19:05:00+00:00",
+   "last_attempt": "2026-11-04T21:40:42+00:00",
+   "notified": "2026-11-04T21:44:31+00:00",
    "published": "2026-11-04T10:18:55+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-    "channel_name": "슈카월드",
-    "description": "0:00 감옥빵 브라질 대선 시작\n9:10 예상을 완전이 뒤엎은 대역전패\n13:05 보우소나르의 자책골\n28:29 감옥빵에 진 보우소나르의 Run\n34:02 네타냐후의 인생이 걸린 이스라엘 선거 결과\n39:12 베네수엘라로 귀환한 마차도  노벨 평화상 수상자\n44:39 미국 중간선거 결과, 상,하원 모두 민주당 탈환 확정",
-    "published": "2026-11-04T10:18:55+00:00",
-    "title": "브라질, 이스라엘, 미국까지 무너지는 트럼프 웨이브",
-    "video_id": "OcNUj0S2Fe8"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "OeBxAZ_R2t8": {
@@ -9613,6 +9619,21 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "Zn3m8zZFxaY": {
+   "errors": 0,
+   "first_seen": "2026-11-04T21:37:10+00:00",
+   "published": "2026-11-04T21:16:30+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "인천 정규강의 오프라인) 3주 만에 끝내는 인천 9개 구 완전정복!\nhttps://www.smarttube.kr/web/82?wmod=detail&idx=648\n\n11월 오프라인 세미나) 경기도 총정리 & 2027년 절세 전략 (빠숑&제네시스박)\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=657\n\n이제부터는 오를 곳만 오른다 \n🔹교보문고 http://app.ac/LqnFfb203\n🔹예스24 http://app.ac/8AGBe3533\n\n부동산 끝판왕, 트루카피의 지금 당장 사야 할 아파트 리스트 200!\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=656\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
+    "published": "2026-11-04T21:16:30+00:00",
+    "title": "매물은 매매시장에 갇혔고, 세입자는 월세로 밀려났다!",
+    "video_id": "Zn3m8zZFxaY"
+   },
+   "wait_checks": 0
+  },
   "ZoNDei6qO98": {
    "first_seen": "2026-10-19T00:15:33+00:00",
    "published": "2026-10-04T01:00:18+00:00",
@@ -9913,19 +9934,14 @@
    "wait_checks": 0
   },
   "_ehSpp4-vcA": {
+   "done_at": "2026-11-04T21:43:58+00:00",
    "errors": 0,
    "first_seen": "2026-11-04T11:42:51+00:00",
-   "last_attempt": "2026-11-04T20:03:39+00:00",
+   "last_attempt": "2026-11-04T21:43:13+00:00",
+   "notified": "2026-11-04T21:44:32+00:00",
    "published": "2026-11-04T11:00:04+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "매주 화요일 저녁 8시 생방송 (촬영일 : 26년 11월 3일)\n\n🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"진짜 집값 떨어뜨리겠다\" 10만호 공급대책 또 발표\n\"정부가 사면초가에 빠졌다\" 앞으로 부동산 시장에 벌어질 일들\n10만호 공급대책 또 발표, 앞으로 집값 큰일난 이유",
-    "published": "2026-11-04T11:00:04+00:00",
-    "title": "\"진짜 집값 떨어뜨리겠다\" 10만호 공급대책 또 발표",
-    "video_id": "_ehSpp4-vcA"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "_gMyqLP0928": {
@@ -13533,7 +13549,7 @@
   "mxYsXkqvckI": {
    "errors": 0,
    "first_seen": "2026-11-04T07:54:39+00:00",
-   "last_attempt": "2026-11-04T20:49:12+00:00",
+   "last_attempt": "2026-11-04T21:43:59+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-04T06:40:22+00:00",
    "status": "pending",
@@ -13545,7 +13561,7 @@
     "title": "빠숑님께 질문합니다! 정말 놀라운 정도로 하락할까요?",
     "video_id": "mxYsXkqvckI"
    },
-   "wait_checks": 3
+   "wait_checks": 4
   },
   "n1Kr-uSnvv4": {
    "errors": 0,
@@ -14419,20 +14435,15 @@
    "status": "baseline"
   },
   "qMo2EYpy680": {
+   "done_at": "2026-11-04T21:40:42+00:00",
    "errors": 0,
    "first_seen": "2026-11-04T10:46:03+00:00",
-   "last_attempt": "2026-11-04T18:14:55+00:00",
+   "last_attempt": "2026-11-04T21:37:54+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (30:00~1:00:00)",
+   "notified": "2026-11-04T21:44:33+00:00",
    "published": "2026-11-04T10:00:16+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCuKKkBSGK4e9fuaquWXorJg",
-    "channel_name": "B tv 이동진의 파이아키아",
-    "description": "✌️ 모든 것은 두번 반복된다. 그렇다면 두번째엔 어떤 선택을 할 것인가?\n\n하마구치 류스케 걸작,\n아사코의 선택, 그리고 성장에 대한 영화,  [아사코]\n10월 21일 재개봉 기념으로 심층 리뷰를 가져왔습니다!\n\n🎬 이동진 평론가가 설명하는 [아사코]에 대한 깊은 이야기가 궁금하다면?\n지금 영상에서 확인하세요!\n\n통신비 얼마나 아낄 수 있을까요?\n👉 호준 매니저가 상세히 알려주는 3사 통신비 할인 총정리 https://www.youtube.com/watch?v=2i0GoFPsS6g\n👉 사은품 대신 할인 받는 바로할인 요금제: https://bit.ly/4zYcrRp\n\n2030만을 위한 1년 약정 인터넷,3년 약정보다 저렴하다고?!\n👉 호준 매니저가 상세히 알려주는 2030다이렉트요금제: https://www.youtube.com/watch?v=qHkDT-zm7mU\n👉 1년 약정 인터넷 더 알아보기: https://bit.ly/3O8H9V3\n\n※ 욕설, 비방, 광고성 댓글은 삭제될 수 있습니다\n※ 이미지 출처 \nⒸ Getty Images / 게티이미지코리아",
-    "published": "2026-11-04T10:00:16+00:00",
-    "title": "모든 것은 두번 반복된다. 그렇다면 두 번째엔 어떤 선택을 할 것인가 [아사코] 심층 리뷰",
-    "video_id": "qMo2EYpy680"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 1
   },
   "qPjSgRR6z8s": {
