@@ -8679,6 +8679,21 @@
    },
    "wait_checks": 0
   },
+  "WbwRLCzvGR4": {
+   "errors": 0,
+   "first_seen": "2026-11-04T01:05:46+00:00",
+   "published": "2026-11-04T00:38:31+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC9JrTOkuLwzpyudwQqavXGg",
+    "channel_name": "두선생의 역사공장",
+    "description": "미국의 중간선거는 국회의원 선거일까요? 지방선거일까요? 📊 미국에서 \"중간선거는 여당의 무덤\"이라고 하던데...😲미국에서 상원과 하원이 나뉜 이유, 상원의원과 하원의원의 임기가 다른 이유🌏 그리고 건국의 아버지들이 설계한 미국의 정치 시스템을 쉽게 풀어드립니다:) 💡",
+    "published": "2026-11-04T00:38:31+00:00",
+    "title": "미국 '중간선거'는 왜 있을까? (1) 기초편 #미국선거 #중간선거 #미국뉴스 #국제뉴스",
+    "video_id": "WbwRLCzvGR4"
+   },
+   "wait_checks": 0
+  },
   "WfEUJ30LHyk": {
    "errors": 0,
    "first_seen": "2026-10-27T02:20:53+00:00",
@@ -10571,7 +10586,7 @@
   "d-ZA6Btv4Pw": {
    "errors": 0,
    "first_seen": "2026-11-03T08:35:04+00:00",
-   "last_attempt": "2026-11-04T00:02:19+00:00",
+   "last_attempt": "2026-11-04T01:06:41+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-03T07:55:17+00:00",
    "status": "pending",
@@ -10583,7 +10598,7 @@
     "title": "[박형근의 테슬라 1부] 5대 차량을 공중제비로 뛰어넘는 신형 로드스터. 대체 어떤 로켓 기술 썼길래 (HMG경영연구원 박형근 실장)",
     "video_id": "d-ZA6Btv4Pw"
    },
-   "wait_checks": 13
+   "wait_checks": 14
   },
   "d-lC7ucli8k": {
    "errors": 0,
@@ -14432,6 +14447,17 @@
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-04T10:09:33+00:00",
    "status": "baseline"
+  },
+  "rlzqFXVOxMI": {
+   "done_at": "2026-11-04T01:06:41+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-04T01:05:48+00:00",
+   "last_attempt": "2026-11-04T01:05:55+00:00",
+   "notified": "2026-11-04T01:06:56+00:00",
+   "published": "2026-11-04T00:35:13+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "rr3LIUi_I1I": {
    "first_seen": "2026-10-09T08:14:39+00:00",
