@@ -541,18 +541,14 @@
    "wait_checks": 0
   },
   "0cPIAo4y-vY": {
+   "done_at": "2026-11-04T13:39:20+00:00",
    "errors": 0,
    "first_seen": "2026-11-04T11:42:47+00:00",
+   "last_attempt": "2026-11-04T13:38:47+00:00",
+   "notified": "2026-11-04T13:40:15+00:00",
    "published": "2026-11-04T10:55:03+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#아시안컵 #축구협회 #모레노",
-    "published": "2026-11-04T10:55:03+00:00",
-    "title": "“아시안컵 1년 연기 확정“ 운없는 모레노 감독, 임시감독 계약 종료되나.. 임시감독이 필요 없어진 한국축구",
-    "video_id": "0cPIAo4y-vY"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "0fZq8JxMiX0": {
@@ -4429,6 +4425,21 @@
    "status": "done",
    "wait_checks": 3
   },
+  "FlZJ-RMGl94": {
+   "errors": 0,
+   "first_seen": "2026-11-04T13:38:40+00:00",
+   "published": "2026-11-04T13:20:07+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#라리가 #축구",
+    "published": "2026-11-04T13:20:07+00:00",
+    "title": "“비극적인 데 미겔의 사망” 라리가 주중 모든 경기 취소, 스페인 현지 반응.. 전국적인 추모행렬",
+    "video_id": "FlZJ-RMGl94"
+   },
+   "wait_checks": 0
+  },
   "FmfjbZaZc4E": {
    "done_at": "2026-10-23T11:11:33+00:00",
    "errors": 0,
@@ -7698,6 +7709,7 @@
   "SCgzgn-BIuM": {
    "errors": 0,
    "first_seen": "2026-11-04T11:42:53+00:00",
+   "last_attempt": "2026-11-04T13:39:20+00:00",
    "published": "2026-11-04T11:00:01+00:00",
    "status": "pending",
    "video": {
