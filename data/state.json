@@ -525,6 +525,21 @@
    },
    "wait_checks": 0
   },
+  "0cPIAo4y-vY": {
+   "errors": 0,
+   "first_seen": "2026-11-04T11:42:47+00:00",
+   "published": "2026-11-04T10:55:03+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#아시안컵 #축구협회 #모레노",
+    "published": "2026-11-04T10:55:03+00:00",
+    "title": "“아시안컵 1년 연기 확정“ 운없는 모레노 감독, 임시감독 계약 종료되나.. 임시감독이 필요 없어진 한국축구",
+    "video_id": "0cPIAo4y-vY"
+   },
+   "wait_checks": 0
+  },
   "0fZq8JxMiX0": {
    "article_url": "https://yu8117-art.github.io/tube-digest/a/0fZq8JxMiX0.html",
    "done_at": "2026-10-09T10:11:28+00:00",
@@ -3648,18 +3663,14 @@
    "status": "baseline"
   },
   "CMDzZTFnO80": {
+   "done_at": "2026-11-04T11:47:58+00:00",
    "errors": 0,
    "first_seen": "2026-11-04T10:46:13+00:00",
+   "last_attempt": "2026-11-04T11:47:23+00:00",
+   "notified": "2026-11-04T11:55:08+00:00",
    "published": "2026-11-04T10:00:00+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘운명을 바꾸는 부동산 투자수업\n👉http://bit.ly/3tML9k0\n\n전월세 점점 씨가 마릅니다, 사람들 결국 ‘이렇게’ 할 겁니다\n전세 없는 세상이 되어갑니다, 앞으로 집값 이렇게 될 겁니다\n이제 전세 줄 사람도 없어요, 점점 더 꼬여가는 부동산 시장\n\n☞촬영일: 26년 11월 2일",
-    "published": "2026-11-04T10:00:00+00:00",
-    "title": "전월세 점점 씨가 마릅니다, 사람들 결국 ‘이렇게’ 할 겁니다 [남혁우 연구원 2부]",
-    "video_id": "CMDzZTFnO80"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "CN5Rld2xeYA": {
@@ -5546,15 +5557,7 @@
    "errors": 0,
    "first_seen": "2026-11-03T23:28:09+00:00",
    "published": "2026-11-03T22:58:16+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
-    "channel_name": "소유보다 경험 - 아이언 / 공모주",
-    "description": "이에스티, 아이엠스팩1호 공모주 상장일의 실시간 동시호가, 주가 현황을 실시간 라이브로 제공합니다.\n특히 이번부터 기존의 상장라이브 시스템을 개편하여, 조금 더 가독성이 높고 양질의 정보를 제공하도록 새롭게 제공되니 참고부탁드립니다.\n-\n상장 전과 직후에는 음성 안내가 진행되고, 이후에는 AI음성안내와 음악이 함께 제공됩니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
-    "published": "2026-11-03T22:58:16+00:00",
-    "title": "[11/4] 이에스티, 아이엠스팩1호 상장일 실시간 동시호가, 주가 현황  LIVE / 대신증권, 아이엠투자증권",
-    "video_id": "KD_cDFjKz7M"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "KE10NsJVx4w": {
@@ -5608,6 +5611,21 @@
    "first_seen": "2026-10-19T00:15:33+00:00",
    "published": "2026-10-11T01:00:18+00:00",
    "status": "baseline"
+  },
+  "Kjp9Dt8X9QY": {
+   "errors": 0,
+   "first_seen": "2026-11-04T11:42:45+00:00",
+   "published": "2026-11-04T11:00:39+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+    "channel_name": "에스오디 SOD",
+    "description": "#메타 #스마트글래스 #ai글래스 #meta",
+    "published": "2026-11-04T11:00:39+00:00",
+    "title": "메타 3세대 AI글래스 찐 후기;;",
+    "video_id": "Kjp9Dt8X9QY"
+   },
+   "wait_checks": 0
   },
   "KlCuJH6nlvU": {
    "errors": 0,
@@ -7652,6 +7670,21 @@
    "published": "2026-10-25T06:00:39+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "SCgzgn-BIuM": {
+   "errors": 0,
+   "first_seen": "2026-11-04T11:42:53+00:00",
+   "published": "2026-11-04T11:00:01+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
+    "channel_name": "지식인사이드",
+    "description": "오늘은 박곰희 작가님을 모시고 평범한 직장인도 실천할 수 있는 현실적인 투자법부터\nS&P 500과 배당 ETF를 활용한 포트폴리오 구성, 돈 관리할 때 필요한 계좌 종류들까지 살펴봤습니다.\n\n영상이 유익했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요!\n\n#지식인클래스 #ETF #미국주식 #S&P500 #배당ETF #월배당 #재테크 #노후준비 #자산관리 #연금저축 #ISA #포트폴리오 #박곰희\n\n00:00 구독자 인사\n01:03 평범한 사람이 돈 버는 가장 '이상적인 투자법'\n02:41 노후 준비할 때 'S&P 500'부터 담아야 하는 이유\n04:30 은퇴 후 연 6% 배당 만들어주는 자산 4가지\n06:40 매달 200만 원 배당받으려면 통장에 '이걸' 모으세요\n09:23 자동으로 수익이 들어오는 포트폴리오 공식\n14:16 국내 ETF VS 미국 ETF, 저라면 '이걸' 삽니다\n16:40 배당 ETF 고를 때 반드시 따져봐야 할 '3가지'\n19:19 은퇴 전 목돈 2억 만들어주는 '5개년 플랜'\n23:58 부동산, 코인, 주식하며 결국 '돈 버는' 3040 특징\n26:21 1억부터 모으고 투자하라는 말 믿으면 안 되는 이유\n28:26 단거리 경주가 아닌 '마라톤'처럼 투자하세요\n30:52 월급 받자마자 사라진다면 가장 먼저 해야 할 것 '이것'\n33:00 월급 300만 원으로 ‘1억’ 만드는 가장 현실적인 방법\n37:29 직장인이 돈 관리할 때 필요한 딱 ‘3가지 계좌’\n40:19 ISA·연금저축 한도 채운 뒤 해야 할 투자는?\n43:01 액티브 VS 패시브, 투자 비율 정하는 방법\n45:27 CMA 종류 많아도 ‘이것’만 알면 됩니다\n48:08 비상금을 따로 모아두지 않아도 되는 이유\n53:51 내일 월급날이라면 '이것'부터 하세요\n\n*본 영상에서의 정보는 참고용으로만 사용하시기 바랍니다.\n투자에 대한 책임은 투자자 본인에게 있습니다.\n*이 영상은 26년 9월 21일 촬영되었습니다.\n\n👇지식인사이드에 출연을 원하신다면 여기를 눌러주세요\nhttps://forms.gle/u4LxVcwFdhvkLH8m6\nknowledgeinside7@gmail.com\n\n👇 다양한 채널에서 지식인사이드의 지식을 얻고 싶다면 여기를 눌러주세요\n인스타그램: https://www.instagram.com/knowledgeins_kr/\n페이스북: https://www.facebook.com/knowledgeIns7?mibextid=LQQJ4d\n네이버 TV: https://tv.naver.com/purejboy2\n틱톡: https://www.tiktok.com/@allstorieskr?lang=ko-KR\n네이버 카페: https://cafe.naver.com/knowledgeins\n\nCopyright Ⓒ 지식인사이드. All rights reserved.\n\n본 콘텐츠(영상, 이미지, 음성, 대본, 편집물, 썸네일 포함)는 저작권 및 관련 권리의 보호를 받습니다.\n\n저작권자의 사전 승인 없이 복제, 배포, 수정, 재가공, 업로드, AI 학습 및 데이터셋 구축, 2차 저작물 제작(쇼츠·릴스 포함) 등 일체의 상업적 이용 및 수익화를 금지합니다.\n\n📧 콘텐츠 사용 및 협의 문의: knowledgeinside7@gmail.com",
+    "published": "2026-11-04T11:00:01+00:00",
+    "title": "\"올해 안에 담으세요\" 은퇴 후 연 6% 배당 만들어주는 자산 4가지ㅣ지식인 클래스 (박곰희 작가 풀버전)",
+    "video_id": "SCgzgn-BIuM"
+   },
    "wait_checks": 0
   },
   "SCr2l-0qEMM": {
@@ -9867,6 +9900,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "_ehSpp4-vcA": {
+   "errors": 0,
+   "first_seen": "2026-11-04T11:42:51+00:00",
+   "published": "2026-11-04T11:00:04+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "매주 화요일 저녁 8시 생방송 (촬영일 : 26년 11월 3일)\n\n🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"진짜 집값 떨어뜨리겠다\" 10만호 공급대책 또 발표\n\"정부가 사면초가에 빠졌다\" 앞으로 부동산 시장에 벌어질 일들\n10만호 공급대책 또 발표, 앞으로 집값 큰일난 이유",
+    "published": "2026-11-04T11:00:04+00:00",
+    "title": "\"진짜 집값 떨어뜨리겠다\" 10만호 공급대책 또 발표",
+    "video_id": "_ehSpp4-vcA"
+   },
+   "wait_checks": 0
+  },
   "_gMyqLP0928": {
    "done_at": "2026-10-28T12:08:53+00:00",
    "errors": 0,
@@ -11708,18 +11756,14 @@
    "status": "baseline"
   },
   "gbUdfXFkNZc": {
+   "done_at": "2026-11-04T11:55:07+00:00",
    "errors": 0,
    "first_seen": "2026-11-04T10:45:59+00:00",
+   "last_attempt": "2026-11-04T11:54:20+00:00",
+   "notified": "2026-11-04T11:55:09+00:00",
    "published": "2026-11-04T10:15:02+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
-    "channel_name": "안될공학 - IT 테크 신기술",
-    "description": "AI 칩을 더 만들고 싶어도 그 밑에 붙일 기판이 부족하면 제품을 제때 출하하기 어렵습니다. 인텔은 첨단 유기기판의 공급 부족을 생산 확대의 제약으로 언급했고, 브로드컴은 기판 업체 토판과 합작공장을 준비하고 있습니다. 엔비디아 역시 공급업체들과 생산능력 확보에 나섰습니다.\n\n패키지 기판은 칩과 서버 보드 사이에서 신호와 전원을 연결하는 역할을 합니다. 칩이 커지고 연결해야 할 부분이 많아지면서 기판도 커지고 배선을 담을 층도 늘어납니다. 같은 개수를 주문하더라도 공장에서 처리해야 할 면적과 작업량이 달라지는 겁니다. 여기에 제조 과정에서 생기는 휨과 불량, 고객사의 제품 검증까지 실제 공급량에 영향을 줍니다.\n\n그렇다면 유리기판이 나오면 지금의 부족도 해결될까요? 유리는 더 큰 패키지를 만드는 데 도움이 될 수 있지만, 가공 과정의 깨짐부터 금속 접착, 수율과 신뢰성까지 해결해야 할 과제가 남아 있습니다. 유리기판의 가능성과 함께, 기업들이 당장 필요한 유기기판에도 계속 투자하는 이유를 살펴봤습니다.\n\nWritten by 패치\nEdited by 이진이\n\nunrealtech2021@gmail.com",
-    "published": "2026-11-04T10:15:02+00:00",
-    "title": "AI 칩은 만들어도 기판이 없다? 반도체 공급을 막는 새로운 병목 | 유리기판이 나온다는데 왜 기존 기판은 더 부족해질까? 브로드컴 기판 공장",
-    "video_id": "gbUdfXFkNZc"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "gd_0FkCnAFg": {
@@ -11942,6 +11986,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "hf2xfgDDqKY": {
+   "errors": 0,
+   "first_seen": "2026-11-04T11:42:55+00:00",
+   "published": "2026-11-04T11:00:01+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+    "channel_name": "조코딩 JoCoding",
+    "description": "조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418\nAX 컨설팅 및 교육 문의: https://jocodingax.ai\n조코헌트: https://jocohunt.jocoding.io/\n\nVVIP 멤버십 후원\n그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#ai #gpt #크레딧",
+    "published": "2026-11-04T11:00:01+00:00",
+    "title": "크레딧까지 뿌리기 시작하는 챗GPT ㄷㄷ (+ 활용법)",
+    "video_id": "hf2xfgDDqKY"
+   },
+   "wait_checks": 0
+  },
   "hjcP8elcNNk": {
    "errors": 0,
    "first_seen": "2026-11-04T10:46:13+00:00",
@@ -12028,6 +12087,21 @@
    "first_seen": "2026-10-22T04:00:19+00:00",
    "published": "2026-10-21T08:00:14+00:00",
    "status": "baseline"
+  },
+  "i-uFjcLp0tg": {
+   "errors": 0,
+   "first_seen": "2026-11-04T11:42:53+00:00",
+   "published": "2026-11-04T11:33:36+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+    "channel_name": "채널 제네시스박",
+    "description": "11/4(수) 라이브 입니다. \n\n\n📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 (마감/대기접수중) 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (11/28, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=3&lectCd=0685\n\n📌 명동 본점 롯데백화점 세금 특강! + 1:1 현장 질문 (12/12, 토, 오후 2시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0001&yy=2026&lectSmsterCd=4&lectCd=0351\n\n📌 수원 타임빌라스 롯데백화점 세금 특강! + 1:1 현장 질문 (1/16, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0349&yy=2026&lectSmsterCd=4&lectCd=0245\n\n📌 부산 롯데백화점 세금 특강! + 1:1 현장 질문 (1/30, 토, 오후 4시 30분)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0005&yy=2026&lectSmsterCd=4&lectCd=0718\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (2/21, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=4&lectCd=0403\n\n📌 관악 롯데백화점 세금 특강! + 1:1 현장 질문 (2/27, 토, 오후 1시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0006&yy=2026&lectSmsterCd=4&lectCd=0876\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
+    "published": "2026-11-04T11:33:36+00:00",
+    "title": "세제개편안, 수정될 수 있을까? (보유세 공방 등) / 서울 아파트 15억 이하 거래 비중 80% 육박",
+    "video_id": "i-uFjcLp0tg"
+   },
+   "wait_checks": 0
   },
   "i4mb5xpNJjg": {
    "errors": 0,
@@ -12761,18 +12835,14 @@
    "wait_checks": 0
   },
   "keAA1CJdpC0": {
+   "done_at": "2026-11-04T11:47:23+00:00",
    "errors": 0,
    "first_seen": "2026-11-04T10:46:10+00:00",
+   "last_attempt": "2026-11-04T11:45:19+00:00",
+   "notified": "2026-11-04T11:55:09+00:00",
    "published": "2026-11-04T09:41:34+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
-    "channel_name": "집코노미",
-    "description": "집코노미에 올라온 서울 문정동 임장 영상을 보고 '문정건영'을 매수했다는 신혼부부 집을 방문했습니다. 이 단지는 최근 리모델링 건축심의를 통과했습니다. 인근에서 마찬가지로 리모델링을 추진 중인 '문정시영'도 다녀왔습니다.\n\n#리모델링 #인테리어 #임장 #문정건영 #신혼부부 #내집마련 \n\n한국경제신문 구독하기\n📰https://members.hankyung.com/#rep-products\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다\n\n영상의 맥락과 상관없는 비방이나 악의적인 댓글은 예고 없이 삭제됩니다",
-    "published": "2026-11-04T09:41:34+00:00",
-    "title": "31년차 리모델링 단지 매수하며 고민한 것 | 연두부",
-    "video_id": "keAA1CJdpC0"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "kfQ2p77GJi4": {
@@ -14341,6 +14411,8 @@
   "qMo2EYpy680": {
    "errors": 0,
    "first_seen": "2026-11-04T10:46:03+00:00",
+   "last_attempt": "2026-11-04T11:47:58+00:00",
+   "last_error": "GeminiError: 구간 노트가 비어 있음 (30:00~1:00:00)",
    "published": "2026-11-04T10:00:16+00:00",
    "status": "pending",
    "video": {
@@ -14351,7 +14423,7 @@
     "title": "모든 것은 두번 반복된다. 그렇다면 두 번째엔 어떤 선택을 할 것인가 [아사코] 심층 리뷰",
     "video_id": "qMo2EYpy680"
    },
-   "wait_checks": 0
+   "wait_checks": 1
   },
   "qPjSgRR6z8s": {
    "done_at": "2026-10-28T07:46:06+00:00",
@@ -15029,6 +15101,21 @@
    },
    "wait_checks": 0
   },
+  "t5rVJ0d-1tI": {
+   "errors": 0,
+   "first_seen": "2026-11-04T11:42:51+00:00",
+   "published": "2026-11-04T11:30:22+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 #세입자 #서울 #수도권\n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-04T11:30:22+00:00",
+    "title": "보유세를 세입자에게 전가?",
+    "video_id": "t5rVJ0d-1tI"
+   },
+   "wait_checks": 0
+  },
   "t9wZa1y2AbA": {
    "errors": 0,
    "first_seen": "2026-11-01T00:11:17+00:00",
@@ -15161,15 +15248,7 @@
    "errors": 0,
    "first_seen": "2026-11-04T10:46:15+00:00",
    "published": "2026-11-04T07:59:20+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-    "channel_name": "언더스탠딩 : 세상의 모든 지식",
-    "description": "제작 지원\n(주) 고래사 / 듀오 주식회사 / 어슈런스(주) / 한화자산운용(주) \n\n▶ https://www.musinsa.com/curator/shop/GyVEuRcF\n*본 링크는 무신사 큐레이터 활동의 일환으로 링크를 통해 구매가 발생할 경우 일정 수수료를 제공 받습니다",
-    "published": "2026-11-04T07:59:20+00:00",
-    "title": "Live on 11/4(수) 해커도 필요 없다, AI가 알아서 뚫는다 (김승주 교수 / 고려대학교 정보보호대학원)",
-    "video_id": "tVZgAWT02UM"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "tXWs9zUqR-g": {
@@ -15926,18 +16005,14 @@
    "status": "baseline"
   },
   "wMWCXt7q2lU": {
+   "done_at": "2026-11-04T11:45:19+00:00",
    "errors": 0,
    "first_seen": "2026-11-04T10:46:01+00:00",
+   "last_attempt": "2026-11-04T11:42:55+00:00",
+   "notified": "2026-11-04T11:55:10+00:00",
    "published": "2026-11-04T09:15:15+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCstI8HwGQsHdqLDgyH0PImw",
-    "channel_name": "최준영 박사의 지구본 연구소",
-    "description": "🌏지구본 연구소 멤버십에 가입하여 혜택을 누려보세요!\nhttps://www.youtube.com/channel/UCstI8HwGQsHdqLDgyH0PImw/join\n\n놀라운 라인업으로 다시 돌아온 위즈덤 칼리지 2026!\n최준영 박사님과 함께 새로운 지혜의 여정이 시작됩니다.\n🎁 최대 할인 + 30만 원 상당의 혜택 전원 증정\n🎓 지금 바로 입학 등록하기 👉 https://bit.ly/3IRcyte\n\n👉https://3protv.page.link/dvgJ\n⏰바빠서 방송 볼 시간이 없다면? 핵심만 콕 짚은 요약본으로 빠르게!\n삼프로 오리지널 뉴스 콘텐츠로 만나보세요.\n👉https://3protv.page.link/dvgJ\n\n#지구본연구소 #최준영박사 #최준영\n\n🌎타임코드🌎\n00:00 국제부 기자는 어떻게 취재할까\n09:20 SNS 외교의 명암\n14:23 한·우크라 외교 갈등\n17:51 트럼프의 평화 합의\n24:37 전쟁·재난 현장 취재\n30:48 전쟁과 빅테크 권력\n36:05 세계 속 대한민국\n37:44 국제뉴스 읽는 법",
-    "published": "2026-11-04T09:15:15+00:00",
-    "title": "세상은 요지경, 국제부 기자들은 어디서부터 취재할까? f. 한국일보 문재연 기자 [지구본 초대석]",
-    "video_id": "wMWCXt7q2lU"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "wRozoBC4AIc": {
@@ -16461,6 +16536,21 @@
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-07-05T02:00:17+00:00",
    "status": "baseline"
+  },
+  "yVhWKAC_g04": {
+   "errors": 0,
+   "first_seen": "2026-11-04T11:42:43+00:00",
+   "published": "2026-11-04T11:00:34+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "'나의 유죄인간'에 출연한 설인아와 함께하는 궤도의 과학속으로!\n\n무쇠소녀단으로 다져진 복싱과 쇼트트랙의 물리학부터 \nAI시대에 필요한 능력이 뭔지 심도깊은 대화까지.\n\n숏컷으로 더욱 더 유죄인간이 된 배우 설인아와 함께 하시죠!\n\n◆ Thanks to \nEditor : 박수빈\nStudio : 서울스트리밍스테이션\nGuest : 설인아\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science \n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience\n\n◆ 안될과학 문의\nE-MAIL : MoreScience2018@gmail.com",
+    "published": "2026-11-04T11:00:34+00:00",
+    "title": "남장이 너무 잘 어울려 진짜 유죄인간이 되어버린 설인아",
+    "video_id": "yVhWKAC_g04"
+   },
+   "wait_checks": 0
   },
   "yeWkK-Cljbk": {
    "first_seen": "2026-10-09T08:14:38+00:00",
