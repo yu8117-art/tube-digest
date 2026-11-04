@@ -1,0 +1,41 @@
+{
+ "video": {
+  "video_id": "XJLwU5YshXo",
+  "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+  "channel_name": "부읽남TV_내집마련부터건물주까지",
+  "title": "내일 당장 북한과 전쟁을 하게 된다면? [유광종 소장 4부]",
+  "published": "2026-11-04T08:00:10+00:00",
+  "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n내일 당장 북한과 전쟁을 하게 된다면?\n\"진짜 전쟁나는 거 아냐?\" 소름 돋는 북한 상황\n한반도 수상한 움직임 포착? 전쟁나면 북한에 벌어질 일\n\n☞촬영일: 26년 10월 29일",
+  "url": "https://www.youtube.com/watch?v=XJLwU5YshXo"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/XJLwU5YshXo/maxresdefault.jpg",
+ "source": "video",
+ "duration": 900,
+ "summary": {
+  "headline": "내일 당장 북한과 전쟁이 나면 벌어질 일과 한미동맹의 현실",
+  "thumbnail_text": "내일 당장 북한이랑 전쟁을 하게 된다면?",
+  "thumbnail_answer": "북한이 도발하면 북한은 박살 난다. 하지만 틈이 생기면 한반도 전역과 동북아 전체가 심각한 혼란에 빠진다.",
+  "conclusion": "북한의 도발은 중국의 견제로 실현 가능성이 낮고 전면전은 어렵다. 한미동맹은 강력한 국방력과 체계로 유지되고 있다. 따라서 자산 시장의 공포감에 흔들리지 말고 냉정하게 현실을 바라봐야 한다.",
+  "key_points": [
+   "북한이 도발하면 북한은 박살 나지만 틈이 생기면 동북아 전체가 흔들린다.",
+   "중국은 대국으로 성장하는 과정에서 한반도 안정을 원하며 대전쟁을 반대한다.",
+   "한미동맹은 자동 개입 시스템이며 한국은 강력한 국방력과 대응 체계를 갖추고 있다.",
+   "중국은 대만을 무력 침공할 경우 국가적 성장을 모두 포기해야 하므로 쉽지 않다.",
+   "동북아의 평화는 강력한 한미동맹과 대한민국의 국방력을 바탕으로 유지된다."
+  ],
+  "timeline": [],
+  "tags": [
+   "북한도발",
+   "한미동맹",
+   "전쟁위기",
+   "중국대만",
+   "부동산시장"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 83693,
+   "output_tokens": 382
+  }
+ },
+ "created_at": "2026-11-04T10:46:37+00:00"
+}
