@@ -4775,6 +4775,22 @@
    "published": "2026-10-08T08:01:39+00:00",
    "status": "baseline"
   },
+  "HvaeAlHv22A": {
+   "errors": 0,
+   "first_seen": "2026-11-04T06:38:01+00:00",
+   "last_attempt": "2026-11-04T06:38:04+00:00",
+   "published": "2026-11-04T05:35:27+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n돈의 역류 2027년 경제전망\n예스24 http://app.ac/Gjpb0Ca33\n교보문고 http://app.ac/K3CEOMJ33\n\n#미국 #선거 #주식 #경제 #트럼프 #중간선거\n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-04T05:35:27+00:00",
+    "title": "블루 쓰나미가 온다? 미국 중간선거 민주당이 승리하면 경제,주식은 '이렇게' 됩니다!(경제 읽어주는 남자 김광석)",
+    "video_id": "HvaeAlHv22A"
+   },
+   "wait_checks": 0
+  },
   "HxtN1fH_XaU": {
    "done_at": "2026-10-13T10:31:44+00:00",
    "errors": 0,
@@ -6277,6 +6293,21 @@
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-09-27T08:30:03+00:00",
    "status": "baseline"
+  },
+  "NpGCohXO3fQ": {
+   "errors": 0,
+   "first_seen": "2026-11-04T06:37:57+00:00",
+   "published": "2026-11-04T06:05:29+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "최근 한 달 사이, 개인정보 유출 안내 문자를 받아 보신 적 있으신가요?\n\n9월 말 신한은행을 시작으로 KB국민, 하나, 부산은행과 저축은행·캐피탈·보험사까지 금융권이 줄줄이 뚫렸습니다. 같은 시기 일본에서도 증권사와 차량 공유업체, 식당 체인, 언론사가 잇따라 해킹을 당했고, 두 나라 모두에서 AI 해킹 도구의 흔적이 발견됐는데요.\n\n이번 영상에서는 화이트해커 노말틱 님과 함께 이번 금융권 해킹의 경로부터, 북한이 지목된 바이낸스 해킹과 4,000억 원을 털기 위해 가짜 회사까지 차린 드리프트 사건, 털리지도 않은 사이트의 개인정보가 다크웹에 올라온 이유, 그리고 AI가 바꿔 놓은 '해킹의 3차 웨이브'까지 이야기 나눠 봅니다.\n\n◆ Thanks to \nEditor : 이재현\nGuest : 노말틱\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science \n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience\n\n◆ 안될과학 문의\nE-MAIL : MoreScience2018@gmail.com",
+    "published": "2026-11-04T06:05:29+00:00",
+    "title": "은행까지 줄줄이 뚫렸다… 한국은 왜 자꾸 털릴까? (feat.노말틱)",
+    "video_id": "NpGCohXO3fQ"
+   },
+   "wait_checks": 0
   },
   "NrwmfTYar_8": {
    "first_seen": "2026-10-09T08:14:38+00:00",
