@@ -523,7 +523,7 @@
   "0byWlKiYscc": {
    "errors": 0,
    "first_seen": "2026-11-04T08:44:12+00:00",
-   "last_attempt": "2026-11-04T08:45:27+00:00",
+   "last_attempt": "2026-11-04T17:18:36+00:00",
    "published": "2026-11-04T07:55:08+00:00",
    "status": "pending",
    "video": {
@@ -13553,7 +13553,7 @@
   "mxYsXkqvckI": {
    "errors": 0,
    "first_seen": "2026-11-04T07:54:39+00:00",
-   "last_attempt": "2026-11-04T08:44:12+00:00",
+   "last_attempt": "2026-11-04T17:18:35+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-04T06:40:22+00:00",
    "status": "pending",
@@ -13565,7 +13565,7 @@
     "title": "빠숑님께 질문합니다! 정말 놀라운 정도로 하락할까요?",
     "video_id": "mxYsXkqvckI"
    },
-   "wait_checks": 1
+   "wait_checks": 2
   },
   "n1Kr-uSnvv4": {
    "errors": 0,
