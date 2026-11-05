@@ -1208,6 +1208,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "2zY1W5Xpw0g": {
+   "errors": 0,
+   "first_seen": "2026-11-05T08:46:00+00:00",
+   "published": "2026-11-05T08:30:06+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCYgVl2XoMfkvg1BzTFiyOiw",
+    "channel_name": "홈즈 부동산",
+    "description": "홈즈 부동산 밴드(급매 정보, 성남 투자시 필수)\n: https://band.us/band/91293447\n\n홈즈부동산 전화번호*  : 031-752-4984, 010-2082-0826\n(상담 및 매물 접수)\n\n네이버 블로그: https://blog.naver.com/11jhlee1199\n카카오톡 상담 채널: http://pf.kakao.com/_ciEcK\n\n홈즈 부동산 종합 링크 \nhttps://link.inpock.co.kr/homesrealestate\n\n주소: 경기도 성남시 수정구 산성대로 207, 109호(수진역 4번출구)",
+    "published": "2026-11-05T08:30:06+00:00",
+    "title": "부동산 시장이 갑자기 멈췄습니다… 심상치 않은 변화가 나타나고 있습니다",
+    "video_id": "2zY1W5Xpw0g"
+   },
+   "wait_checks": 0
+  },
   "3-BDFmTwa0A": {
    "errors": 0,
    "first_seen": "2026-10-28T10:13:08+00:00",
@@ -1947,6 +1962,21 @@
     "published": "2026-11-02T12:00:12+00:00",
     "title": "마용성 거래가 정지인 이유",
     "video_id": "649w_gP0DR0"
+   },
+   "wait_checks": 0
+  },
+  "66_93gojD_s": {
+   "errors": 0,
+   "first_seen": "2026-11-05T08:46:00+00:00",
+   "published": "2026-11-05T08:00:36+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
+    "channel_name": "집코노미",
+    "description": "2기 신도시의 화려한 변신😎\n\n자료: 네이버지도, LH 동탄신도시개발사\n\n#광교 #판교 #위례 #동탄 #2기신도시\n\n한국경제신문 구독하기\n📰https://members.hankyung.com/#rep-products\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다\n\n영상의 맥락과 상관없는 비방이나 악의적인 댓글은 예고 없이 삭제됩니다",
+    "published": "2026-11-05T08:00:36+00:00",
+    "title": "여기가 어딘지 아시겠어요?",
+    "video_id": "66_93gojD_s"
    },
    "wait_checks": 0
   },
@@ -3222,6 +3252,21 @@
    },
    "wait_checks": 0
   },
+  "AfZMT81M2Ck": {
+   "errors": 0,
+   "first_seen": "2026-11-05T08:46:02+00:00",
+   "published": "2026-11-05T08:30:15+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n주식 떨어지니 강남 집값까지 같이 빠지는 진짜 이유\n\n☞촬영일: 26년 11월 2일",
+    "published": "2026-11-05T08:30:15+00:00",
+    "title": "주식 떨어지니 강남 집값까지 같이 빠지는 진짜 이유 [김건우 대표]",
+    "video_id": "AfZMT81M2Ck"
+   },
+   "wait_checks": 0
+  },
   "Aga9u0FBH_I": {
    "done_at": "2026-11-01T08:36:05+00:00",
    "errors": 0,
@@ -4114,6 +4159,22 @@
    "first_seen": "2026-10-22T04:00:19+00:00",
    "published": "2026-08-04T09:04:04+00:00",
    "status": "baseline"
+  },
+  "DfhLUqZfGTo": {
+   "errors": 0,
+   "first_seen": "2026-11-05T08:46:05+00:00",
+   "last_attempt": "2026-11-05T08:46:05+00:00",
+   "published": "2026-11-05T07:55:02+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+    "channel_name": "언더스탠딩 : 세상의 모든 지식",
+    "description": "💡내용 요약\n최근 PHP 취약점이 알려지면서 국내 웹사이트의 보안 문제가 부각됐다. PHP는 웹사이트 구축에 널리 쓰이는 프로그래밍 언어로, 이 결함을 악용하면 서버를 장악해 저장된 정보를 가져가거나 해킹 프로그램을 설치할 수 있다. 출연자는 오래전부터 알려진 결함이 AI의 취약점 탐지와 공격 도구 개발로 현실적인 위협이 됐다고 설명한다.\n\n문제는 서비스 지원이 끝난 구버전으로 만든 웹사이트가 국내에 많다는 점이다. 업데이트하려면 엔진을 먼저 최신 버전으로 올려야 하는데, 사이트 중단과 오작동 우려 때문에 결정을 미루는 경우가 많다. 영세 쇼핑몰이나 방치된 사이트는 관리자조차 없고, 카드사 사고처럼 서버의 존재를 몰라 패치하지 못한 사례도 있다. AI로 공격 비용이 낮아지면서 중요한 곳 위주로 지키던 선택과 집중식 보안은 더 이상 통하기 어렵다.\n\n출연자는 미국이 자산 파악을 자동화하고 정책을 꾸준히 이어 가는 반면, 국내는 공문 기반 전수조사와 처벌 위주의 메시지에 머물러 있다고 지적한다. 부처별 정책을 조율할 기능이 없고, 바이러스토탈에 내부 파일을 올려 정보가 노출되는 사고가 되풀이되는 점도 같은 맥락으로 언급된다. 기초를 다지는 장기 대책이 없으면 유사한 사고가 반복될 것이라는 진단이다. 사이버 보안의 기초를 다지기 위해 가장 먼저 필요한 일은 무엇일까? \n\n📌핵심 주제\n• PHP 취약점과 서버 장악 위험\n• 지원 종료 버전의 업데이트 한계\n• AI가 낮춘 공격 진입 비용\n• 자산 파악 부재와 전수조사 한계\n• 부처 간 정책 조율 부재\n\n[AI로 영상을 요약한 내용입니다]\n\n👉언더스탠딩 문의: understanding.officialmail@gmail.com\n👉글로 읽는 \"언더스탠딩 텍스트\".  \nhttps://contents.premium.naver.com/backbriefing/news\n👉언더스탠딩 멤버십 가입\nhttps://www.youtube.com/channel/UCIUni4ScRp4mqPXsxy62L5w/join",
+    "published": "2026-11-05T07:55:02+00:00",
+    "title": "해킹 사고 나면 아직도 공문 보내 엑셀로 조사하는 한국. 홈페이지 50만개 무방비 위기(고려대 정보보호대학원 김승주 교수)",
+    "video_id": "DfhLUqZfGTo"
+   },
+   "wait_checks": 0
   },
   "DiIfIWjTPWA": {
    "first_seen": "2026-10-09T08:14:35+00:00",
@@ -6155,6 +6216,21 @@
    "published": "2026-10-29T10:40:19+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "MYUx95locRg": {
+   "errors": 0,
+   "first_seen": "2026-11-05T08:46:02+00:00",
+   "published": "2026-11-05T08:00:33+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/vwxsnlk3\n\n📺사연 상담 풀버전 확인하기\n👉https://fanding.me/buyzipsd9_yt\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n갈아타기 지금 해도 될까요? 상급지 고민되면 이렇게 판단하세요\n동탄 vs 수지 고민입니다, 어디가 더 좋은 선택일까요\n돈 벌고 싶어서 집 찾다가 애매한 집만 사게 되는 이유",
+    "published": "2026-11-05T08:00:33+00:00",
+    "title": "갈아타기 지금 해도 될까요? 상급지 고민되면 이렇게 판단하세요 [바이집 상담소]",
+    "video_id": "MYUx95locRg"
+   },
    "wait_checks": 0
   },
   "M_Y0jE9P8wE": {
