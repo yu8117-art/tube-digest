@@ -4479,18 +4479,14 @@
    "status": "baseline"
   },
   "FRTt5NNe0Kw": {
+   "done_at": "2026-11-05T17:39:23+00:00",
    "errors": 0,
    "first_seen": "2026-11-05T11:33:44+00:00",
+   "last_attempt": "2026-11-05T17:37:48+00:00",
+   "notified": "2026-11-05T17:39:53+00:00",
    "published": "2026-11-05T11:00:17+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
-    "channel_name": "안될과학 Unrealscience",
-    "description": "코로나19 백신을 맞으면 정말 1년 안에 암에 걸릴 위험이 높아질까요?\n\n작년 9월, 코로나19 백신 접종자가 1년 안에 암에 걸릴 확률이 더 높다는 짧은 서신이 국제 학술지 Biomarker Research에 실렸습니다. 이 글은 1년 동안 47만 번 읽히며 SNS와 언론을 타고 전 세계로 퍼졌는데요.\n그로부터 1년, 전 국민 3,600만 명의 건강보험 데이터로 암 발생 추세를 분석한 새로운 연구가 같은 학술지에 실렸습니다.\n결론은 '위험이 없다는 증명'이 아니라, '현재 근거로는 백신이 암 위험을 높인다고 결론 내릴 수 없다'입니다.\n\n이번 영상에서는 접종자와 비접종자를 바로 비교하면 안 되는 이유, 암이 '생기는 것'과 '발견되는 것'의 차이, 케플러 우주망원경처럼 전 국민의 암 발생을 지켜본 연구 방법, 그리고 아스트라제네카와 mRNA 백신 접종자를 비교한 결과까지 고려대학교 의과대학 예방의학교실 정재훈 교수님과 함께 살펴봅니다.\n\n#코로나백신 #코로나19 #백신 #암 #암논문 #mRNA백신 #건강보험 #역학 #정재훈 #안될과학 #항성\n\n◆ Thanks to \nEditor : 박수빈\nGuest : 고려대학교 예방의학과 정재훈 교수\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science \n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience\n\n◆ 안될과학 문의\nE-MAIL : MoreScience2018@gmail.com",
-    "published": "2026-11-05T11:00:17+00:00",
-    "title": "코로나 백신 맞으면 암 걸린다?! 4년간 3600만명 추적한 결과로 나온 반박 연구!  (고려대 정재훈 교수)",
-    "video_id": "FRTt5NNe0Kw"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "FaBTbFKcGL4": {
@@ -8495,6 +8491,7 @@
   "ThuBAgNRWeI": {
    "errors": 0,
    "first_seen": "2026-11-05T11:33:43+00:00",
+   "last_attempt": "2026-11-05T17:39:23+00:00",
    "published": "2026-11-05T11:00:36+00:00",
    "status": "pending",
    "video": {
