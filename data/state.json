@@ -3865,6 +3865,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "CXIgOFlDOUs": {
+   "errors": 0,
+   "first_seen": "2026-11-05T12:34:52+00:00",
+   "published": "2026-11-05T12:00:08+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/",
+    "published": "2026-11-05T12:00:08+00:00",
+    "title": "“아시안컵 1년 연기 확정“ 운없는 모레노 감독, 임시감독 계약 종료되나..",
+    "video_id": "CXIgOFlDOUs"
+   },
+   "wait_checks": 0
+  },
   "CYS2LJWiQCQ": {
    "first_seen": "2026-10-22T04:00:19+00:00",
    "published": "2026-10-20T12:30:35+00:00",
@@ -7644,6 +7659,21 @@
    "source": "video_notes",
    "status": "done",
    "wait_checks": 1
+  },
+  "R0SlG0BryIg": {
+   "errors": 0,
+   "first_seen": "2026-11-05T12:34:56+00:00",
+   "published": "2026-11-05T11:51:00+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+    "channel_name": "채널 제네시스박",
+    "description": "국토부가 부동산 위법이 의심되는\n직거래 수 백 건을 적발하였습니다. \n\n지난 2022년부터 \n계속해서 모니터링을 하고 있는데요, \n이번에도 불법, 편법 증여 이슈가\n가장 많습니다. \n\n부모, 친척 등 특수관계자로부터\n거액의 자금을 차용하거나\n특수관계가 있는 법인으로부터\n자금을 빼온 경우도 적발되었습니다. \n\n주로 어떤 사례인지, \n그리고 이런 거래를 할 때\n어떤 부분을 하면 안 되는지를\n함께 살펴봅니다!  \n\n📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 첫 오픈! '매도의 기술 - 잘 팔고, 잘 사는 법' (11/21, 토, 강남역 인근) + 1:1 코칭권 (조기 마감 예상)\nhttps://genesispark.co.kr/classes/323773\n\n📌 명동 본점 롯데백화점 세금 특강! + 1:1 현장 질문 (12/12, 토, 오후 2시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0001&yy=2026&lectSmsterCd=4&lectCd=0351\n\n📌 수원 타임빌라스 롯데백화점 세금 특강! + 1:1 현장 질문 (1/16, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0349&yy=2026&lectSmsterCd=4&lectCd=0245\n\n📌 부산 롯데백화점 세금 특강! + 1:1 현장 질문 (1/30, 토, 오후 4시 30분)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0005&yy=2026&lectSmsterCd=4&lectCd=0718\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (2/21, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=4&lectCd=0403\n\n📌 관악 롯데백화점 세금 특강! + 1:1 현장 질문 (2/27, 토, 오후 1시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0006&yy=2026&lectSmsterCd=4&lectCd=0876\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
+    "published": "2026-11-05T11:51:00+00:00",
+    "title": "국토부, 칼 빼들었다! 부동산 위법의심거래 수 백 건 적발! (제발 이런 거래는 하지 마세요) [데일리뉴스 799]",
+    "video_id": "R0SlG0BryIg"
+   },
+   "wait_checks": 0
   },
   "R0pLWe2pczM": {
    "first_seen": "2026-10-09T08:14:32+00:00",
@@ -11943,6 +11973,7 @@
   "fNvT8irUWVc": {
    "errors": 0,
    "first_seen": "2026-11-05T09:45:09+00:00",
+   "last_attempt": "2026-11-05T12:34:58+00:00",
    "published": "2026-11-05T09:00:30+00:00",
    "status": "pending",
    "video": {
@@ -15544,6 +15575,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "smHddg3YZVw": {
+   "errors": 0,
+   "first_seen": "2026-11-05T12:34:51+00:00",
+   "published": "2026-11-05T12:30:26+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#챔피언스리그 #코모 #파브레가스",
+    "published": "2026-11-05T12:30:26+00:00",
+    "title": "“챔스에서 9:1 승리” 코모의 미친 돌풍! 유럽을 놀라게 만든 파브레가스, 어떤 전술을 쓸까?",
+    "video_id": "smHddg3YZVw"
+   },
+   "wait_checks": 0
+  },
   "snB34iPym3s": {
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-09-29T02:54:14+00:00",
@@ -17362,6 +17408,21 @@
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-09-29T12:30:20+00:00",
    "status": "baseline"
+  },
+  "zg7nrRTcFLs": {
+   "errors": 0,
+   "first_seen": "2026-11-05T12:34:58+00:00",
+   "published": "2026-11-05T12:25:06+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+    "channel_name": "언더스탠딩 : 세상의 모든 지식",
+    "description": "💡내용 요약\n다가구·다세대 주택 사업성은 건축 가능 면적보다 주차 대수가 좌우한다. 50~100평 남짓한 필지에서는 용적률이 남아도 주차장을 확보하지 못하면 세대를 더 넣을 수 없다. 같은 100평이라도 도로 접면과 땅 모양에 따라 주차 대수가 여섯 대에서 아홉 대까지 달라지고, 사업성도 20% 안팎 차이가 난다. 이 때문에 주택 공급을 늘리려면 주차 규제부터 풀어야 한다는 주장이 나온다.\n\n미국 시애틀은 2012년부터 주차장 최소 설치 기준을 완화했고, 건설산업연구원 보고서에 따르면 주차 면수가 이전보다 약 40% 줄었다. 세대당 건설비 절감 효과도 확인됐다. 일본은 차고지 증명제와 별도 주차 요금 체계를 갖추고 있어 주차장 없는 아파트가 늘고 있다. 다만 시애틀은 주차 여유가 있던 도시인 반면, 한국은 노후 주택가의 주차난이 심해 같은 방식을 적용하기 어렵다는 반론이 있다.\n\n규제를 풀면 신축 건물의 부담이 골목길로 넘어가 기존 주민이 피해를 본다는 우려도 크다. 단속 강화와 구청 간 교차 단속, 공용주차장 확보, 역세권 등 지역별 탄력 적용이 대안으로 거론됐다. 지자체장에게 완화 권한이 있어도 민원 부담 때문에 쓰기 어렵다는 점도 짚었다. 주차난과 월세 상승 가운데 어느 쪽 부담을 감수해야 할까? \n\n📌핵심 주제\n주차 대수가 좌우하는 사업성\n시애틀·일본의 규제 완화 사례\n한국 주택가 주차난과의 차이\n신축 완화와 기존 주민 피해\n단속 강화·지역별 탄력 적용\n\n[AI로 영상을 요약한 내용입니다]\n\n👉언더스탠딩 문의: understanding.officialmail@gmail.com\n👉글로 읽는 \"언더스탠딩 텍스트\".  \nhttps://contents.premium.naver.com/backbriefing/news\n👉언더스탠딩 멤버십 가입\nhttps://www.youtube.com/channel/UCIUni4ScRp4mqPXsxy62L5w/join",
+    "published": "2026-11-05T12:25:06+00:00",
+    "title": "\"주차 지옥이냐, 월세 지옥이냐. 둘 중 하나는 터집니다\" 여전한 1층 주차장 규제 때문에 빌라 못 짓는 현실 (언더스탠딩 장순원 기자)",
+    "video_id": "zg7nrRTcFLs"
+   },
+   "wait_checks": 0
   },
   "zgBjeqaR8uk": {
    "errors": 0,
