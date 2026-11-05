@@ -5288,6 +5288,7 @@
   "Iaxha5t8Vtg": {
    "errors": 0,
    "first_seen": "2026-11-05T13:53:33+00:00",
+   "last_attempt": "2026-11-05T20:14:01+00:00",
    "published": "2026-11-05T13:34:37+00:00",
    "status": "pending",
    "video": {
@@ -5730,18 +5731,14 @@
    "wait_checks": 0
   },
   "K0hJd_zg-mc": {
+   "done_at": "2026-11-05T20:14:01+00:00",
    "errors": 0,
    "first_seen": "2026-11-05T13:53:39+00:00",
+   "last_attempt": "2026-11-05T20:13:27+00:00",
+   "notified": "2026-11-05T20:15:09+00:00",
    "published": "2026-11-05T13:00:32+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
-    "channel_name": "지식인사이드",
-    "description": "오늘은 65년 경력의 전설적인 투자자 래리 윌리엄스님을 모시고\n한국 증시와 반도체 시장의 향후 전망부터 폭락장을 예측하는 신호, 오랜 투자 경험으로 깨달은 주식 투자 노하우까지 들어봤습니다.\n\n영상이 유익했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요!\n\n#지식인사이드 #글로벌초대석 #래리윌리엄스 #주식투자 #코스피 #반도체 #미국주식 #주식\n\n00:00 인트로\n00:35 구독자 인사\n01:07 11,376% 수익 낸 84세 투자자가 주식 뉴스 안 보는 이유\n03:35 코스피 폭락 전엔 항상 '이 신호'가 먼저 나타납니다\n05:10 주식에 물려있다면, 12월 첫째 주를 주목하세요\n08:02 한국 반도체 주 2028년까지 끄떡없는 이유\n10:10 AI 주식 시즌 종료? 폭락장 8번 겪은 투자자의 답\n15:10 주식 잘 고르는 사람은 '이 지표' 봅니다\n19:10 돈 버는 사람들은 필수로 알고있는 차트 패턴\n23:07 폭락장에서 고수들이 기다리는 단 하나의 신호\n26:32 100억 잃고 깨달은 '물타기'의 함정\n\n*본 영상에서의 정보는 참고용으로만 사용하시기 바랍니다.\n투자에 대한 책임은 투자자 본인에게 있습니다.\n\n*이 영상은 26년 11월 2일 촬영되었습니다.\n\n\n👇지식인사이드에 출연을 원하신다면 여기를 눌러주세요\nhttps://forms.gle/u4LxVcwFdhvkLH8m6\nknowledgeinside7@gmail.com\n\n👇 다양한 채널에서 지식인사이드의 지식을 얻고 싶다면 여기를 눌러주세요\n인스타그램: https://www.instagram.com/knowledgeins_kr/\n페이스북: https://www.facebook.com/knowledgeIns7?mibextid=LQQJ4d\n네이버 TV: https://tv.naver.com/purejboy2\n틱톡: https://www.tiktok.com/@allstorieskr?lang=ko-KR\n네이버 카페: https://cafe.naver.com/knowledgeins\n\nCopyright Ⓒ 지식인사이드. All rights reserved.\n\n본 콘텐츠(영상, 이미지, 음성, 대본, 편집물, 썸네일 포함)는 저작권 및 관련 권리의 보호를 받습니다.\n\n저작권자의 사전 승인 없이 복제, 배포, 수정, 재가공, 업로드, AI 학습 및 데이터셋 구축, 2차 저작물 제작(쇼츠·릴스 포함) 등 일체의 상업적 이용 및 수익화를 금지합니다.\n\n📧 콘텐츠 사용 및 협의 문의: knowledgeinside7@gmail.com",
-    "published": "2026-11-05T13:00:32+00:00",
-    "title": "65년차 투자 거장, 래리 윌리엄스가 포착한 코스피의 숨은 기회 | 글로벌초대석 EP.12",
-    "video_id": "K0hJd_zg-mc"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "K4GxJwCwNeY": {
