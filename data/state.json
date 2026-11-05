@@ -1211,6 +1211,7 @@
   "2zY1W5Xpw0g": {
    "errors": 0,
    "first_seen": "2026-11-05T08:46:00+00:00",
+   "last_attempt": "2026-11-05T10:42:25+00:00",
    "published": "2026-11-05T08:30:06+00:00",
    "status": "pending",
    "video": {
@@ -9896,6 +9897,21 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "Zt9_SAgsaaw": {
+   "errors": 0,
+   "first_seen": "2026-11-05T10:42:24+00:00",
+   "published": "2026-11-05T10:00:37+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+    "channel_name": "조코딩 JoCoding",
+    "description": "Google AdMob의 새로운 광고·수익화 자료를 확인해 보세요!\nhttps://forms.gle/mFaTyxASboq32BHE6\n\n바이브 코딩으로 앱을 만들었다면, 이제 수익화를 고민할 차례입니다.\n스페인 바르셀로나 구글 글로벌 앱 서밋 2026 현장에서 구글 코리아 앱 수익화 전문가 두 분께 직접 물어봤습니다.\n\n구글이 처음으로 하나의 글로벌 행사로 연 Google Global App Summit 2026(바르셀로나)에 다녀왔습니다. 행사장 팟캐스트 스튜디오에서 구글 코리아의 김은영 님(광고 수익화 사업 총괄), 오세준 님(모바일 앱 광고 수익화)과 1인 개발자를 위한 앱 광고 수익화를 이야기했습니다.\n\n이 영상에서 다루는 것\n✔ 광고와 결제를 섞는 하이브리드 수익화\n✔ 광고 단가는 어떻게 정해질까? (마트 시식 비유)\n✔ A/B 테스트로 광고 최적화하는 법\n✔ AI 앱의 API 비용, 광고 수익으로 감당할 수 있을까\n✔ 필요한 건 SDK 두 개: 애드몹 + 파이어베이스\n✔ 사용자 경험을 고려한 새 광고 포맷 PiP·스퀴즈백\n✔ 해외 법인 없이 글로벌 광고, 국가별 전략\n✔ AI 에이전트 시대의 수익화 자동화\n\n📌 타임라인\n00:00 구글 글로벌 앱 서밋 현장\n00:15 인트로 · 출연자 소개\n01:12 광고와 결제를 함께 쓰는 하이브리드 수익화\n04:24 광고 노출과 단가의 관계: 마트 시식 비유\n07:05 A/B 테스트로 최적화하는 법\n10:10 AI 앱의 API 비용, 광고로 감당할 수 있을까\n12:29 애드몹 + 파이어베이스 SDK와 리모트 컨피그\n13:44 광고와 리텐션의 균형, 새로운 광고 포맷\n16:06 해외 법인 없이도 글로벌 광고가 될까\n17:26 광고 빈도와 사용자 반응을 테스트하는 법\n19:35 광고 빈도를 조정하는 실전 팁\n20:40 비결제 사용자의 광고 수익화\n21:14 AI 에이전트 시대의 수익화 최적화\n22:35 1인 개발자를 위한 마무리 팁\n24:10 마무리\n\n📚 영상 내 수치의 출처 및 적용 범위\n01:49 한국 스마트폰 평균 설치 앱 수\n앱에이프(App Ape)·모비데이즈: 2018년 10월 국내 안드로이드 스마트폰 기준 평균 102개 설치\nhttps://www.mobiinside.co.kr/2018/12/05/press-mobidays-3/\n\n02:11 유료 전환율 및 한국 시장 관련 참고 자료\n‘5% 미만’은 글로벌 무료 기반(Freemium) 앱의 개별 앱 내 유료 전환율 기준입니다. 설치 후 35일 중앙값은 2.1%입니다(RevenueCat, State of Subscription Apps 2026).\nhttps://www.revenuecat.com/state-of-subscription-apps-2026/\n한국은 다운로드당 인앱결제 수익(RPD) 상위권 시장입니다(Sensor Tower, State of Mobile 2026).\nhttps://sensortower.com/blog/state-of-mobile-2026\n\n※ 영상 속 기능의 출시 상태와 수치는 촬영 시점(2026년 10월) 발언·Google 발표 기준이며, 이후 달라질 수 있습니다.\n\nVVIP 멤버십 후원\n그림자그림자님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, 그래머피티님, GomnaStudio님, 천사슥님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#앱수익화 #바이브코딩 #GoogleAdMob #GlobalAppSummit2026 #giftfromgoogle",
+    "published": "2026-11-05T10:00:37+00:00",
+    "title": "앱 만들기는 쉬워졌다, 이제 돈 버는 방법 | Google AdMob | Global App Summit 2026",
+    "video_id": "Zt9_SAgsaaw"
+   },
+   "wait_checks": 0
+  },
   "ZuK56wUkXAc": {
    "errors": 0,
    "first_seen": "2026-10-27T11:41:28+00:00",
@@ -10417,6 +10433,21 @@
    "first_seen": "2026-10-22T04:00:19+00:00",
    "published": "2026-10-21T09:00:38+00:00",
    "status": "baseline"
+  },
+  "agWROFbeIWg": {
+   "errors": 0,
+   "first_seen": "2026-11-05T10:42:13+00:00",
+   "published": "2026-11-05T10:12:23+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "0:00 역대 최대 821조원 2027 예산안\n2:46 결혼, 출산 지원금 대폭 증가\n6:14 20대, 30대, 40대, 50대 모두 각각 맞는 복지\n11:02 딸깍으로 떠먹여주는 복지\n17:04 한곳에 모아놓은 곳\n\n내가 받을 수 있는 복지 혜택, 얼마나 알고 계신가요?\n\n‘복지로’에서는 다양한 복지서비스를 한곳에서 확인하고,\n온라인 신청이 가능한 서비스는 신청까지 할 수 있습니다.\n\n‘복지멤버십’에 가입하면 나와 가족의 상황에 따라\n받을 가능성이 있는 복지서비스를 맞춤형으로 안내받을 수 있습니다.\n\n앞으로는 ‘신청주의 개선’으로\n일부 복지급여는 별도 신청 없이 받을 수 있게 되고,\n국가가 도움이 필요한 분을 먼저 찾아 지원하는 제도가 확대됩니다.\n\n나에게 필요한 복지 혜택을 놓치지 않도록,\n지금 복지로에서 확인하고 복지멤버십에도 가입해 보세요!\n\n#복지로 #복지포털 #복지멤버십 #맞춤형급여안내 #복지서비스 #복지 #신청주의개선 #보건복지부 #한국사회보장정보원",
+    "published": "2026-11-05T10:12:23+00:00",
+    "title": "내가 신청하지 않으면, 다른 사람이 받습니다.",
+    "video_id": "agWROFbeIWg"
+   },
+   "wait_checks": 0
   },
   "aivOcLG9-6o": {
    "first_seen": "2026-10-09T08:14:30+00:00",
@@ -14216,6 +14247,21 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "oH9iklaD__M": {
+   "errors": 0,
+   "first_seen": "2026-11-05T10:42:21+00:00",
+   "published": "2026-11-05T10:00:27+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n삼성전자 지금 안 팔고 버티면 미국 선거 이후 ‘이렇게’ 됩니다\n삼성전자 하이닉스 주가 폭락, 공포에 속지 말아야 할 이유 \n삼전 하닉 2조 투매한 외인, 왜 팔지? 이렇게 싼데? \n\n☞촬영일: 26년 11월 4일",
+    "published": "2026-11-05T10:00:27+00:00",
+    "title": "삼성전자 지금 안 팔고 버티면 미국 선거 이후 ‘이렇게’ 됩니다 [김동엽 대표 1부]",
+    "video_id": "oH9iklaD__M"
+   },
+   "wait_checks": 0
+  },
   "oLdLro9TKRM": {
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-09-21T08:30:07+00:00",
@@ -16898,6 +16944,21 @@
    "published": "2026-10-15T08:30:15+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "yBHCngpG5gg": {
+   "errors": 0,
+   "first_seen": "2026-11-05T10:42:17+00:00",
+   "published": "2026-11-05T10:05:14+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#옌스 #국가대표 #홍명보 #월드컵",
+    "published": "2026-11-05T10:05:14+00:00",
+    "title": "“양말 안 신어서 징계? 거짓말이다“ 월드컵 루머 해명한 옌스.. 대표팀 흔드는 루머들, 왜 계속 나올까",
+    "video_id": "yBHCngpG5gg"
+   },
    "wait_checks": 0
   },
   "yBscYompvW4": {
