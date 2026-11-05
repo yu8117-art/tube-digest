@@ -7702,18 +7702,14 @@
    "wait_checks": 1
   },
   "R0SlG0BryIg": {
+   "done_at": "2026-11-05T18:20:27+00:00",
    "errors": 0,
    "first_seen": "2026-11-05T12:34:56+00:00",
+   "last_attempt": "2026-11-05T18:20:08+00:00",
+   "notified": "2026-11-05T18:22:46+00:00",
    "published": "2026-11-05T11:51:00+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
-    "channel_name": "채널 제네시스박",
-    "description": "국토부가 부동산 위법이 의심되는\n직거래 수 백 건을 적발하였습니다. \n\n지난 2022년부터 \n계속해서 모니터링을 하고 있는데요, \n이번에도 불법, 편법 증여 이슈가\n가장 많습니다. \n\n부모, 친척 등 특수관계자로부터\n거액의 자금을 차용하거나\n특수관계가 있는 법인으로부터\n자금을 빼온 경우도 적발되었습니다. \n\n주로 어떤 사례인지, \n그리고 이런 거래를 할 때\n어떤 부분을 하면 안 되는지를\n함께 살펴봅니다!  \n\n📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 첫 오픈! '매도의 기술 - 잘 팔고, 잘 사는 법' (11/21, 토, 강남역 인근) + 1:1 코칭권 (조기 마감 예상)\nhttps://genesispark.co.kr/classes/323773\n\n📌 명동 본점 롯데백화점 세금 특강! + 1:1 현장 질문 (12/12, 토, 오후 2시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0001&yy=2026&lectSmsterCd=4&lectCd=0351\n\n📌 수원 타임빌라스 롯데백화점 세금 특강! + 1:1 현장 질문 (1/16, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0349&yy=2026&lectSmsterCd=4&lectCd=0245\n\n📌 부산 롯데백화점 세금 특강! + 1:1 현장 질문 (1/30, 토, 오후 4시 30분)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0005&yy=2026&lectSmsterCd=4&lectCd=0718\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (2/21, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=4&lectCd=0403\n\n📌 관악 롯데백화점 세금 특강! + 1:1 현장 질문 (2/27, 토, 오후 1시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0006&yy=2026&lectSmsterCd=4&lectCd=0876\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
-    "published": "2026-11-05T11:51:00+00:00",
-    "title": "국토부, 칼 빼들었다! 부동산 위법의심거래 수 백 건 적발! (제발 이런 거래는 하지 마세요) [데일리뉴스 799]",
-    "video_id": "R0SlG0BryIg"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "R0pLWe2pczM": {
@@ -17461,6 +17457,7 @@
   "zg7nrRTcFLs": {
    "errors": 0,
    "first_seen": "2026-11-05T12:34:58+00:00",
+   "last_attempt": "2026-11-05T18:20:27+00:00",
    "published": "2026-11-05T12:25:06+00:00",
    "status": "pending",
    "video": {
