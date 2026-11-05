@@ -7568,6 +7568,22 @@
    "status": "done",
    "wait_checks": 0
   },
+  "Q_pIoNNj9k4": {
+   "errors": 0,
+   "first_seen": "2026-11-05T22:26:26+00:00",
+   "last_attempt": "2026-11-05T22:26:28+00:00",
+   "published": "2026-11-05T22:00:04+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCDSj40X9FFUAnx1nv7gQhcA",
+    "channel_name": "월급쟁이부자들TV",
+    "description": "📍 11월 1주차 주간머니이슈_경제\n00:00 오늘 나눌 경제 이야기\n01:01 美민주 압승, 종전 기대에 유가 8% 폭락, 반도체는 규제 우려에 3% 하락\n32:44 미국 중간선거의 70년 패턴, 이것만 아시면 됩니다\n\n📌 미국 중간선거의 70년 패턴, 이것만 아시면 됩니다\n👉 [주우이 무료 칼럼 보러가기] https://link.weolbu.com/4kzm0l5\n\n📌 (7분 만에 마감된) 나에게 딱 맞는 재테크 찾는 법!\n👉🏻 너나위의 [재테크 입문반] https://link.weolbu.com/4iZcfeM\n\n#미국중간선거 #경제 #금리 #미국증시 #직장인재테크 #주간머니이슈 #월부강의 #월부후기",
+    "published": "2026-11-05T22:00:04+00:00",
+    "title": "\"충격적인 반전의 연속\" 미국 중간선거 결과가 불러올 미래, 모든 시장이 하루 만에 뒤집힌 이유 (주간머니이슈_경제편)",
+    "video_id": "Q_pIoNNj9k4"
+   },
+   "wait_checks": 0
+  },
   "Qbh9NZNWtMg": {
    "done_at": "2026-11-03T14:19:24+00:00",
    "errors": 0,
