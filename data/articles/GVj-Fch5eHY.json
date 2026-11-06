@@ -1,0 +1,79 @@
+{
+ "video": {
+  "video_id": "GVj-Fch5eHY",
+  "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+  "channel_name": "에스오디 SOD",
+  "title": "초지능의 시대가 도래했다... 의사들 완패시킨 마이크로소프트 AI 등장 ㄷㄷ",
+  "published": "2026-11-05T09:00:30+00:00",
+  "description": "AI가 의사를 대체할 수 있을까요?\n마이크로소프트에서 의사보다 정확한 판단을 하는 인공지능에 대한 연구를 발표했습니다!\n\n- 하이젠버그에서 더 자세한 정보를 얻어가세요: https://heisenberg.kr\n\n- 인스타그램: https://www.instagram.com/softdragon__/\n\n- Chapter\n0:00 인트로\n1:08 MS 연구 결과\n5:09 의사의 미래\n8:02 나의 생각\n\n- 내용 출처\n1. MAI Health Team, \"Building Medical Superintelligence\", Microsoft AI, 2026\n2. Harsha Nori, Mayank Daswani 외, \"Sequential diagnosis with language models\", Science, 2026\n3. Harsha Nori, Mayank Daswani 외, \"Sequential Diagnosis with Language Models\"(사전 공개본), arXiv, 2025\n4. jryoungw, \"의사의 시선으로 본 의료AI 상장사들, 돈이 든 성배인가\", 하이젠버그, 2026\n5. 강상엽, \"\\\"세무·회계업계, 안전지대 아니다\\\"…AI에 흔들리는 일자리\", 택스워치, 2026\n6. 김현동, \"9월 취업자 11만3천명↑ 8월보다 둔화…청년 취업자 47개월째 감소\", 아이뉴스24, 2026\n7. 법제처, \"의료법 제27조(무면허 의료행위 등 금지)\", 국가법령정보센터, 2026\n\n- BGM\n1. Sinking Island - Creative Cut - Alternative by Tristan Barton\n2. Beyond the Frame by lumine wave\n3. rutal Force by Randy Sharp\n4. Fortitude by Lance Conrad\n5. Albatross - Creative Cut - Minimal by Roie Shpigler\n6. Breaking Sweat by BalloonPlanet\n7. Pure Intentions by ZISO",
+  "url": "https://www.youtube.com/watch?v=GVj-Fch5eHY"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/GVj-Fch5eHY/maxresdefault.jpg",
+ "source": "video",
+ "duration": 797,
+ "summary": {
+  "headline": "마이크로소프트 의료 AI, 의사 진단 정확도 압도",
+  "thumbnail_text": "존재한 적 없던 AI 등장 두손 든 의사들 패닉",
+  "thumbnail_answer": "마이크로소프트의 의료 AI가 의사들과의 시합에서 진단 정확도 73.2%를 기록하며 의사들을 압도했다.",
+  "conclusion": "마이크로소프트가 개발한 의료 AI는 방대한 의학 지식을 바탕으로 의사보다 높은 진단 정확도와 낮은 검사비를 기록했다. 의사라는 직업 자체가 사라지지는 않겠지만 병원 인력 구성과 역할에 큰 변화가 생길 것이다. AI 시대에서 살아남기 위해서는 자신의 생각을 끊임없이 검증하고 피드백을 수용하는 능력이 중요하다.",
+  "key_points": [
+   "마이크로소프트가 범용 AI를 활용해 의사와 진단 시합을 진행한 연구 결과가 사이언스지에 실렸다.",
+   "AI의 진단 정확도는 73.2%인 반면 의사들의 평균 정답률은 46.8%였다.",
+   "AI는 의사보다 검사비를 약 23% 적게 사용하면서도 더 높은 정확도를 보여주었다.",
+   "의료용으로 따로 개발된 AI가 아니라 범용 AI를 협업 모델로 활용해 거둔 성과다.",
+   "유럽의 유방암 검진처럼 의사 한 명과 AI가 협업하는 구조로 병원 인력 구성이 바뀔 수 있다.",
+   "수술은 여전히 인간이 훨씬 잘하므로 AI의 진단을 검토하고 치료를 책임지는 인간 의사의 역할은 유지된다.",
+   "AI 시대에는 자기 생각을 끊임없이 검증하고 반박하는 능력을 기르는 것이 필수적이다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "인트로",
+    "points": [
+     "마이크로소프트가 의사와 AI의 진단 시합 결과를 발표했다.",
+     "의사의 정답률은 약 50%인 반면 AI는 80%를 기록했다."
+    ]
+   },
+   {
+    "seconds": 68,
+    "title": "MS 연구 결과",
+    "points": [
+     "AI는 의사보다 질문을 네 배 더 많이 하며 꼼꼼하게 문진을 진행했다.",
+     "마이크로소프트의 AI 시스템은 모든 의사들의 평균 진단 정확도와 검사비를 압도했다.",
+     "범용 AI를 의료용으로 활용했을 때의 놀라운 성능 차이가 입증됐다."
+    ]
+   },
+   {
+    "seconds": 309,
+    "title": "의사의 미래",
+    "points": [
+     "AI가 진단과 문진을 대신하고 인간 의사는 최종 판단과 책임을 맡는 구조로 바뀐다.",
+     "수술 영역은 아직 인간이 훨씬 뛰어나며 5년에서 10년 이상 격차가 존재한다.",
+     "의사라는 직업은 유지되겠지만 병원 내 필요한 의사 수와 인력 구성에는 변화가 생긴다."
+    ]
+   },
+   {
+    "seconds": 482,
+    "title": "나의 생각",
+    "points": [
+     "정보가 넘쳐나는 시대일수록 AI의 답변을 맹신하지 않고 비판적으로 사고해야 한다.",
+     "우물 안 개구리에서 벗어나 자신보다 뛰어난 사람들과 부딪히며 피드백을 받아야 한다.",
+     "자기 머리로 생각하고 반박하는 연습을 거듭하는 과정이 중요하다."
+    ]
+   }
+  ],
+  "tags": [
+   "인공지능",
+   "마이크로소프트",
+   "의료AI",
+   "챗GPT",
+   "미래직업"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 74681,
+   "output_tokens": 900
+  }
+ },
+ "created_at": "2026-11-06T03:31:44+00:00"
+}

@@ -4788,19 +4788,14 @@
    "wait_checks": 0
   },
   "GVj-Fch5eHY": {
+   "done_at": "2026-11-06T03:31:44+00:00",
    "errors": 0,
    "first_seen": "2026-11-05T09:45:06+00:00",
-   "last_attempt": "2026-11-05T23:48:35+00:00",
+   "last_attempt": "2026-11-06T03:30:43+00:00",
+   "notified": "2026-11-06T03:40:57+00:00",
    "published": "2026-11-05T09:00:30+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
-    "channel_name": "에스오디 SOD",
-    "description": "AI가 의사를 대체할 수 있을까요?\n마이크로소프트에서 의사보다 정확한 판단을 하는 인공지능에 대한 연구를 발표했습니다!\n\n- 하이젠버그에서 더 자세한 정보를 얻어가세요: https://heisenberg.kr\n\n- 인스타그램: https://www.instagram.com/softdragon__/\n\n- Chapter\n0:00 인트로\n1:08 MS 연구 결과\n5:09 의사의 미래\n8:02 나의 생각\n\n- 내용 출처\n1. MAI Health Team, \"Building Medical Superintelligence\", Microsoft AI, 2026\n2. Harsha Nori, Mayank Daswani 외, \"Sequential diagnosis with language models\", Science, 2026\n3. Harsha Nori, Mayank Daswani 외, \"Sequential Diagnosis with Language Models\"(사전 공개본), arXiv, 2025\n4. jryoungw, \"의사의 시선으로 본 의료AI 상장사들, 돈이 든 성배인가\", 하이젠버그, 2026\n5. 강상엽, \"\\\"세무·회계업계, 안전지대 아니다\\\"…AI에 흔들리는 일자리\", 택스워치, 2026\n6. 김현동, \"9월 취업자 11만3천명↑ 8월보다 둔화…청년 취업자 47개월째 감소\", 아이뉴스24, 2026\n7. 법제처, \"의료법 제27조(무면허 의료행위 등 금지)\", 국가법령정보센터, 2026\n\n- BGM\n1. Sinking Island - Creative Cut - Alternative by Tristan Barton\n2. Beyond the Frame by lumine wave\n3. rutal Force by Randy Sharp\n4. Fortitude by Lance Conrad\n5. Albatross - Creative Cut - Minimal by Roie Shpigler\n6. Breaking Sweat by BalloonPlanet\n7. Pure Intentions by ZISO",
-    "published": "2026-11-05T09:00:30+00:00",
-    "title": "초지능의 시대가 도래했다... 의사들 완패시킨 마이크로소프트 AI 등장 ㄷㄷ",
-    "video_id": "GVj-Fch5eHY"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "GWTPZJ7czFM": {
@@ -6378,19 +6373,14 @@
    "wait_checks": 0
   },
   "MYUx95locRg": {
+   "done_at": "2026-11-06T03:30:43+00:00",
    "errors": 0,
    "first_seen": "2026-11-05T08:46:02+00:00",
-   "last_attempt": "2026-11-05T23:09:18+00:00",
+   "last_attempt": "2026-11-06T03:30:25+00:00",
+   "notified": "2026-11-06T03:40:57+00:00",
    "published": "2026-11-05T08:00:33+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/vwxsnlk3\n\n📺사연 상담 풀버전 확인하기\n👉https://fanding.me/buyzipsd9_yt\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n갈아타기 지금 해도 될까요? 상급지 고민되면 이렇게 판단하세요\n동탄 vs 수지 고민입니다, 어디가 더 좋은 선택일까요\n돈 벌고 싶어서 집 찾다가 애매한 집만 사게 되는 이유",
-    "published": "2026-11-05T08:00:33+00:00",
-    "title": "갈아타기 지금 해도 될까요? 상급지 고민되면 이렇게 판단하세요 [바이집 상담소]",
-    "video_id": "MYUx95locRg"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "M_Y0jE9P8wE": {
@@ -15790,19 +15780,14 @@
    "status": "baseline"
   },
   "svjOCbkvi84": {
+   "done_at": "2026-11-06T03:40:35+00:00",
    "errors": 0,
    "first_seen": "2026-11-05T09:45:11+00:00",
-   "last_attempt": "2026-11-06T00:32:04+00:00",
+   "last_attempt": "2026-11-06T03:31:44+00:00",
+   "notified": "2026-11-06T03:40:58+00:00",
    "published": "2026-11-05T09:00:34+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"진짜 전쟁나는 거 아냐?\" 소름 돋는 북한 상황\n한반도 수상한 움직임 포착? 전쟁 나면 북한에 벌어질 일 \n북한 자주포 김포 앞까지? 심각한 남북 현재 상황\n\n☞촬영일: 26년 10월 29일",
-    "published": "2026-11-05T09:00:34+00:00",
-    "title": "\"진짜 전쟁나는 거 아냐?\" 소름 돋는 북한 상황 [유광종 소장 풀버전]",
-    "video_id": "svjOCbkvi84"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "sw7IDsKbGFI": {
@@ -17603,7 +17588,7 @@
   "zg7nrRTcFLs": {
    "errors": 0,
    "first_seen": "2026-11-05T12:34:58+00:00",
-   "last_attempt": "2026-11-06T01:55:45+00:00",
+   "last_attempt": "2026-11-06T03:40:35+00:00",
    "published": "2026-11-05T12:25:06+00:00",
    "status": "pending",
    "video": {

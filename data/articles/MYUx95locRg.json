@@ -1,0 +1,41 @@
+{
+ "video": {
+  "video_id": "MYUx95locRg",
+  "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+  "channel_name": "부읽남TV_내집마련부터건물주까지",
+  "title": "갈아타기 지금 해도 될까요? 상급지 고민되면 이렇게 판단하세요 [바이집 상담소]",
+  "published": "2026-11-05T08:00:33+00:00",
+  "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/vwxsnlk3\n\n📺사연 상담 풀버전 확인하기\n👉https://fanding.me/buyzipsd9_yt\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n갈아타기 지금 해도 될까요? 상급지 고민되면 이렇게 판단하세요\n동탄 vs 수지 고민입니다, 어디가 더 좋은 선택일까요\n돈 벌고 싶어서 집 찾다가 애매한 집만 사게 되는 이유",
+  "url": "https://www.youtube.com/watch?v=MYUx95locRg"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/MYUx95locRg/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1143,
+ "summary": {
+  "headline": "노원 재건축 갈아타기, 지금 팔아야 할까 보유해야 할까",
+  "thumbnail_text": "갈아타기 지금 해도 될까요? 상급지 고민되면 이렇게 판단하세요",
+  "thumbnail_answer": "상급지 갈아타기는 자금 계획과 대출 한도를 꼼꼼히 따져보고 결정해야 하며, 저평가된 현재 집을 보유하는 것이 유리할 수 있다.",
+  "conclusion": "노원구 구축 아파트는 역세권 복합정비구역 인센티브로 재건축 호재가 있다. 조합설립인가 이후 규제와 자금 부담을 고려할 때 신중한 접근이 필요하다. 오피스텔을 먼저 정리하고 아파트를 보유하는 전략이 합리적이다.",
+  "key_points": [
+   "노원구 하계역 인근 구축 아파트는 최고 49층 대단지로 재건축 추진 중이다.",
+   "조합설립인가 이후 규제지역 1주택자 예외 조건은 10년 보유 5년 거주를 채워야 한다.",
+   "예비 신부가 보유한 별내 오피스텔은 대출과 세금 측면에서 먼저 정리하는 것이 유리하다.",
+   "상급지 점프를 위해서는 대출 규제와 추가 분담금 리스크를 철저히 계산해야 한다.",
+   "재건축 진행률은 단지마다 다르므로 장기적인 관점에서 신중하게 판단해야 한다."
+  ],
+  "timeline": [],
+  "tags": [
+   "재건축",
+   "노원구",
+   "갈아타기",
+   "부동산전망",
+   "바이집상담소"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 105888,
+   "output_tokens": 399
+  }
+ },
+ "created_at": "2026-11-06T03:30:43+00:00"
+}
