@@ -1,0 +1,69 @@
+{
+ "video": {
+  "video_id": "vG3GK2EoONk",
+  "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
+  "channel_name": "지식보관소",
+  "title": "우주에 기술문명이 아무리 많아도 서로 발견할 가능성이 낮은 이유를 게임이론 관점으로 설명한 논문",
+  "published": "2026-11-06T14:29:22+00:00",
+  "description": "Ares Program : https://store.steampowered.com/app/5440610\n\n#외계문명 #SETI #게임이론 #AllenTelescope\n\n얼마전 11월 3일 미국 SETI 연구소의 소피아 셰이크와 동료 연구진은 우리가 외계문명을 발견 못하는 이유를 우리보다 발달한 문명도 게임이론을 알고 그에 맞게 행동하기 때문일 수 있다고 주장했으며 이 내용은 국제 학술지 The Astronomical Journal 에 발표가 되었습니다.\nhttps://iopscience.iop.org/article/10.3847/1538-3881/aeaa59/pdf\n\n--------------------------------------\n제보 및 비지니스 문의\nE-Mail : asdfg3663@gmail.com\nBlog : http://blog.naver.com/asdfg3663\nInstagram : https://www.instagram.com/archiveyoutube/\n--------------------------------------\n게임 개발 관련\nHomepage : https://asdfg3663-alt.github.io/\n--------------------------------------\n\n\nBGM 정보\nSavfk - Ultra : https://youtu.be/8A4Jak73Lao\n웅장한 느낌의 곡 - TTRM\nDestination Unknown - Ugonna Onyekwe",
+  "url": "https://www.youtube.com/watch?v=vG3GK2EoONk"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/vG3GK2EoONk/maxresdefault.jpg",
+ "source": "video",
+ "duration": 514,
+ "summary": {
+  "headline": "외계문명을 발견할 수 없는 이유는 게임이론과 침묵 전략 때문이다",
+  "thumbnail_text": "게임이론 관점에서 보면 당연히 외계문명을 찾을 수 없다",
+  "thumbnail_answer": "외계문명들도 게임이론에 따라 자신들의 위치를 숨기고 신중하게 행동하기 때문이다.",
+  "conclusion": "외계문명은 자신들의 위치를 노출하지 않고 상대방의 정보를 얻기 위해 게임이론에 따른 신중한 전략을 취한다. 따라서 우리가 외계문명을 발견하지 못하는 것은 당연한 결과다. 우호적인 외계문명을 찾기 위해서는 반태양점 방향의 전파 탐색이 훨씬 더 효율적이다.",
+  "key_points": [
+   "미국 SETI 연구소는 외계문명을 발견하지 못한 이유를 게임이론으로 설명하는 논문을 발표했다.",
+   "페르미 역설에 따르면 우주에 수많은 별과 행성이 있음에도 외계문명의 확실한 증거는 아직 없다.",
+   "암흑의 숲 이론은 우주에서 자신의 위치를 알리는 것이 자살행위와 같다고 설명한다.",
+   "게임 이론에서 티팟탯 전략이 승률이 가장 높듯, 외계문명도 협력적인 통신을 시도할 때 신중하게 행동한다.",
+   "연구팀은 외계문명과의 효율적인 통신을 위해 태양의 반대편 하늘인 반태양점 방향 탐색을 제안한다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "페르미 역설과 암흑의 숲 이론",
+    "points": [
+     "미국 SETI 연구소의 소피아 셰이크 연구진이 외계문명 발견 실패 이유를 논문으로 발표했다.",
+     "우주에 수많은 행성이 있음에도 외계문명을 찾지 못한 것이 페르미 역설이다.",
+     "암흑의 숲 이론은 우주 문명들이 서로를 경계하며 침묵한다고 설명한다."
+    ]
+   },
+   {
+    "seconds": 244,
+    "title": "게임이론과 외계문명의 선택",
+    "points": [
+     "게임이론은 상호작용 속에서 최선의 선택을 찾는 수학적 분석 방법이다.",
+     "외계문명들은 자신의 위치를 노출하는 것이 위험하므로 침묵을 선택한다.",
+     "기술이 발달해도 물리학적 한계가 존재하기 때문에 무한한 능력을 가질 수는 없다."
+    ]
+   },
+   {
+    "seconds": 401,
+    "title": "셀링 포인트와 반태양점 통신",
+    "points": [
+     "게임이론의 셀링 포인트를 적용하면 사전 연락이 없어도 균형점을 찾을 수 있다.",
+     "연구팀은 항성, 지구, 외계 행성이 정렬되는 반태양점 방향이 통신에 가장 유리하다고 주장한다.",
+     "반태양점 방향의 전파 탐색이 우호적인 외계문명을 찾는 가장 효율적인 방법이다."
+    ]
+   }
+  ],
+  "tags": [
+   "외계문명",
+   "SETI",
+   "게임이론",
+   "페르미역설",
+   "암흑의숲이론"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 48774,
+   "output_tokens": 907
+  }
+ },
+ "created_at": "2026-11-06T14:35:02+00:00"
+}
