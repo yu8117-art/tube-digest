@@ -4768,18 +4768,14 @@
    "wait_checks": 0
   },
   "G7nx5qjBT7A": {
+   "done_at": "2026-11-06T12:21:22+00:00",
    "errors": 0,
    "first_seen": "2026-11-06T11:30:16+00:00",
+   "last_attempt": "2026-11-06T12:20:26+00:00",
+   "notified": "2026-11-06T12:25:04+00:00",
    "published": "2026-11-06T11:06:29+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCXql5C57vS4ogUt6CPEWWHA",
-    "channel_name": "김지윤의 지식Play",
-    "description": "#중간선거 #미국 #민주당 #공화당 \n\n민주당의 대승! 2026 미국 중간선거 리뷰\n\n즐거움과 유익함이 가득가득, 김지윤의 지식Play!\nkimjyTV@gmail.com",
-    "published": "2026-11-06T11:06:29+00:00",
-    "title": "민주당의 대승! 2026 미국 중간선거 리뷰",
-    "video_id": "G7nx5qjBT7A"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "G8iYbWStlDc": {
@@ -5991,18 +5987,14 @@
    "status": "baseline"
   },
   "KgBGifNxn4o": {
+   "done_at": "2026-11-06T12:20:26+00:00",
    "errors": 0,
    "first_seen": "2026-11-06T11:30:18+00:00",
+   "last_attempt": "2026-11-06T12:19:41+00:00",
+   "notified": "2026-11-06T12:25:05+00:00",
    "published": "2026-11-06T11:00:29+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
-    "channel_name": "집코노미",
-    "description": "정부가 새로운 주택공급 후보지로 경기 하남 K컬처지구와 감일2지구를 선정했습니다. 모두 10여년 전 보금자리지구로 검토됐다가 해제됐거나 일부 제척된 지역들이죠. 그린벨트로 묶인 이 지역들을 풀어 총 1만8500가구를 공급하겠다는 계획입니다. 함께 발표된 후보지들 가운데는 선호도가 가장 높은 지역들로 분류되는데요. 어떤 지역들이고 어떤 사연을 품고 있는지 총총 다녀왔습니다.\n\n#하남 #미사 #감일 #보금자리지구 #주택공급\n\n한국경제신문 구독하기\n📰https://members.hankyung.com/#rep-products\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다\n\n영상의 맥락과 상관없는 비방이나 악의적인 댓글은 예고 없이 삭제됩니다",
-    "published": "2026-11-06T11:00:29+00:00",
-    "title": "돌고 돌아 미사·감일 | 총총견문록 [4K]",
-    "video_id": "KgBGifNxn4o"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "Kjp9Dt8X9QY": {
@@ -6665,6 +6657,17 @@
    "last_attempt": "2026-10-20T07:47:28+00:00",
    "notified": "2026-10-20T07:48:55+00:00",
    "published": "2026-10-20T07:20:10+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "N1MCjy3ZH0g": {
+   "done_at": "2026-11-06T12:22:42+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-06T12:19:31+00:00",
+   "last_attempt": "2026-11-06T12:21:22+00:00",
+   "notified": "2026-11-06T12:25:06+00:00",
+   "published": "2026-11-06T12:00:08+00:00",
    "source": "video",
    "status": "done",
    "wait_checks": 0
@@ -12092,19 +12095,14 @@
    "wait_checks": 0
   },
   "eW_-2gDlUAk": {
+   "done_at": "2026-11-06T12:25:03+00:00",
    "errors": 0,
    "first_seen": "2026-11-06T10:39:49+00:00",
-   "last_attempt": "2026-11-06T10:40:00+00:00",
+   "last_attempt": "2026-11-06T12:22:42+00:00",
+   "notified": "2026-11-06T12:25:05+00:00",
    "published": "2026-11-06T10:00:09+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCoCvTlU0KpNYwnMIgs7MPrA",
-    "channel_name": "보다 BODA",
-    "description": "*본 영상은 초국가범죄특별대응 TF와 문화체육관광부의 지원을 받아 제작되었습니다.\n\n 오늘은 MC 허준님과 군사 전문 이세환 기자님, 그리고 곽대경 교수님과 정수온 경정님을 모시고, 최근 대한민국을 충격에 빠뜨린 캄보디아 한국인 납치·감금 사건과 동남아시아를 중심으로 확산되고 있는 초국가 범죄조직의 실태에 대해 이야기 나눠봤습니다.\n\n00:00 오프닝\n02:26 [D-76] 캄보디아에서 발견된 한국인 대학생의 시신\n09:32 [D-day] 초국가범죄와의 전쟁을 선포한 대한민국\n18:01 [D+92] 체포보다도 어려웠던 역대 최대 규모 단체송환\n25:46 [D+153~NOW] 국경을 넘어 도망친 범죄자들의 최후\n\n📘〈그날을 보다〉가 한 권의 책으로 다시 태어났습니다! 🥳🎉\n출간 기념 초판 한정으로 이세환·윤영휘·허준·짱재 저자 4인의 친필 사인 인쇄본을 만나보실 수 있습니다!🖋️\n\n📗교보문고: https://linkly.link/2xjUm\n📕예스24: https://linkly.link/2xjVA\n📙알라딘: https://linkly.link/2xjVT\n\n궁금하신 부분들을 댓글에 달아주세요! 저희가 확인하겠습니다! 감사합니다!\n출연 및 제휴 문의 : boooda.kr@gmail.com\n\nBODA 인스타 : / boda_channel\n#보다 #캄보디아 #범죄 #납치 #감금 #보이스피싱 #스캠범죄 #한국인 #국제범죄",
-    "published": "2026-11-06T10:00:09+00:00",
-    "title": "대한민국 최정예 멤버들이 작정하고 범죄자들을 쫓으면 벌어지는 일(술렁이는 동남아…)ㅣ그날을 보다 EP.51",
-    "video_id": "eW_-2gDlUAk"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "eXeebnhGRsg": {
@@ -13996,6 +13994,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "lU9jvXCqfSs": {
+   "errors": 0,
+   "first_seen": "2026-11-06T12:19:36+00:00",
+   "published": "2026-11-06T11:30:21+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 #상승 #서울 #수도권\n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-06T11:30:21+00:00",
+    "title": "땅 안주고 건물만 임대 해주는데 사람들이 몰린 이유",
+    "video_id": "lU9jvXCqfSs"
+   },
+   "wait_checks": 0
+  },
   "lUi7OVENQHs": {
    "errors": 0,
    "first_seen": "2026-10-30T10:17:40+00:00",
@@ -15538,6 +15551,21 @@
     "published": "2026-10-17T11:28:58+00:00",
     "title": "왜 시간은 거꾸로 흐를 수 없을까?",
     "video_id": "qq13EcUjOHE"
+   },
+   "wait_checks": 0
+  },
+  "qrRGMAZlaQA": {
+   "errors": 0,
+   "first_seen": "2026-11-06T12:19:31+00:00",
+   "published": "2026-11-06T12:15:17+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/",
+    "published": "2026-11-06T12:15:17+00:00",
+    "title": "“챔스에서 9:1 승리” 코모의 미친 돌풍!",
+    "video_id": "qrRGMAZlaQA"
    },
    "wait_checks": 0
   },
