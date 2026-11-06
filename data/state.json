@@ -1534,6 +1534,17 @@
    },
    "wait_checks": 0
   },
+  "4PlRY-DUGZg": {
+   "done_at": "2026-11-06T09:35:36+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-06T09:33:57+00:00",
+   "last_attempt": "2026-11-06T09:34:25+00:00",
+   "notified": "2026-11-06T09:40:13+00:00",
+   "published": "2026-11-06T09:00:22+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "4QGwCQ0ua4g": {
    "errors": 0,
    "first_seen": "2026-10-15T09:11:37+00:00",
@@ -6097,6 +6108,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "LNGJJz-w5VA": {
+   "done_at": "2026-11-06T09:34:25+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-06T09:34:05+00:00",
+   "last_attempt": "2026-11-06T09:34:09+00:00",
+   "notified": "2026-11-06T09:40:15+00:00",
+   "published": "2026-11-06T09:00:19+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "LQo7tih-T_4": {
    "errors": 0,
    "first_seen": "2026-10-21T04:58:27+00:00",
@@ -6861,6 +6883,17 @@
    "published": "2026-10-03T00:00:12+00:00",
    "status": "baseline"
   },
+  "OJV20cIhGfk": {
+   "done_at": "2026-11-06T09:37:23+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-06T09:34:01+00:00",
+   "last_attempt": "2026-11-06T09:36:28+00:00",
+   "notified": "2026-11-06T09:40:14+00:00",
+   "published": "2026-11-06T09:30:17+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "OJsdJ3lUNLk": {
    "done_at": "2026-10-16T10:57:14+00:00",
    "errors": 0,
@@ -7148,6 +7181,21 @@
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-10-01T12:18:08+00:00",
    "status": "baseline"
+  },
+  "P4DbNYCPRe0": {
+   "errors": 0,
+   "first_seen": "2026-11-06T09:34:05+00:00",
+   "published": "2026-11-06T09:33:19+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 #세입자 #서울 #수도권\n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-06T09:33:19+00:00",
+    "title": "2027년도 집값 전망",
+    "video_id": "P4DbNYCPRe0"
+   },
+   "wait_checks": 0
   },
   "P4HKEJi2lbA": {
    "first_seen": "2026-10-09T08:14:37+00:00",
@@ -9474,20 +9522,15 @@
    "wait_checks": 0
   },
   "WjKTlXCQNpU": {
+   "done_at": "2026-11-06T09:40:12+00:00",
    "errors": 0,
    "first_seen": "2026-11-06T02:41:43+00:00",
-   "last_attempt": "2026-11-06T08:36:06+00:00",
+   "last_attempt": "2026-11-06T09:37:23+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
+   "notified": "2026-11-06T09:40:13+00:00",
    "published": "2026-11-05T14:32:20+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC9JrTOkuLwzpyudwQqavXGg",
-    "channel_name": "두선생의 역사공장",
-    "description": "컨트롤과 책략으로 승부하는 삼국 SLG\n[삼국지: 구주제패] 11월 12일 정식 출시 확정!\n지금 사전예약: https://pse.is/9s3l2f\n스토어 사전등록: https://nkdkr.onelink.me/DKWB/e5n0q6ry\n전용 쿠폰 코드 : HistoryDu\n\n공식 커뮤니티에서 더 많은 보상과 정보를 확인하세요! \n공식 라운지: https://nkdkr.onelink.me/EXo2/a394p53c\n공식 Discord: https://nkdkr.onelink.me/r4eM/n8g81x28\n \n🔥 80명 연맹원 모이면 서버 선점 가능! 연맹 집결하고 [무장·황월영] & [구글 기프트 카드 15만 원] 획득 기회!\n사전 연맹 집결: https://pse.is/9s3lrm\n\n실시간 지휘, 전략으로 지배하라! 지금 바로 사전예약!\nㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ\n⚔️ 여포와 관우, 실제 역사에선 어떤 모습일까요? 📜 여포는 유리 멘탈, 관우는 오만과 고집스러웠다?!\n😲 일기토하는 여포, 참수작전을 벌인 관우부터 하비와 번성에서의 몰락까지 🐎 뻔한 최강 논쟁을 넘어, 두 인물의 1인치 깊게 살펴보시죠!\n\n🛫[지도로 읽는 삼국지] 다른 편을 안 보셨다면?!🛬\n삼국지의 지도(후한 13주) https://youtu.be/P9rjV-tnttE\n삼국지의 기후(황건적의 난) https://youtu.be/2HT_jERjn5U\n삼국지의 배경(십상시의 난) https://youtu.be/iCPyjmLrf8Y\nㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ\n『두선생의 지도로 읽는 세계사: 동양 편』 구매링크\n- 교보문고  https://bit.ly/3T6Aj1D\n- 예스24 https://bit.ly/45d9a4F\n- 알라딘 https://bit.ly/3T4R7pI\nㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ\n00:00 삼국지 : 구주제패\n11:51 역사가 기록한 여포\n14:59 역사가 기록한 관우\n17:57 지휘관 여포\n22:14 지휘관 관우\n26:06 닮은 꼴 여포 vs 관우\n30:36 삼성가노 vs 신이 된 남자(후대의 이미지)\n\n#삼국지구주제패  #삼국지 #사전예약 #추천게임 #SLG",
-    "published": "2026-11-05T14:32:20+00:00",
-    "title": "'관우와 여포'의 진짜 성격은 닮았다?｜역사 삼국지로 아는 척하는 '여포와 관우'의 실제 모습 [지도로 보는 삼국지 외전. 관우 vs 여포]",
-    "video_id": "WjKTlXCQNpU"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 1
   },
   "WkRqgIGXBlI": {
@@ -13027,6 +13070,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "ilOe_47Q8nk": {
+   "done_at": "2026-11-06T09:36:28+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-06T09:34:01+00:00",
+   "last_attempt": "2026-11-06T09:35:36+00:00",
+   "notified": "2026-11-06T09:40:14+00:00",
+   "published": "2026-11-06T09:00:23+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "inWKqwZay-U": {
    "errors": 0,
    "first_seen": "2026-10-24T03:36:47+00:00",
@@ -15801,6 +15855,21 @@
     "published": "2026-10-14T10:30:09+00:00",
     "title": "\"은행과 대기업 절반이 무너졌습니다\" 97년 외환위기 때 실제 상황입니다 [김대종 교수]",
     "video_id": "sTFD7HidLDQ"
+   },
+   "wait_checks": 0
+  },
+  "sbZTBNR_TYE": {
+   "errors": 0,
+   "first_seen": "2026-11-06T09:34:09+00:00",
+   "published": "2026-11-06T09:00:10+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+    "channel_name": "조코딩 JoCoding",
+    "description": "조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418\nAX 컨설팅 및 교육 문의: https://jocodingax.ai\n조코헌트: https://jocohunt.jocoding.io/\n\nVVIP 멤버십 후원\n그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송님, 그래머피티님, GomnaStudio님, 천사슥님, 예스타님, shintony667님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#ai #엔비디아 #게임 #모션캡쳐",
+    "published": "2026-11-06T09:00:10+00:00",
+    "title": "게임 제작에 모션캡쳐가 없어질 수 있다??",
+    "video_id": "sbZTBNR_TYE"
    },
    "wait_checks": 0
   },
