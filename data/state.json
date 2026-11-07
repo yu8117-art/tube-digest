@@ -8535,19 +8535,14 @@
    "wait_checks": 0
   },
   "SfunK8bPAmM": {
+   "done_at": "2026-11-07T04:52:15+00:00",
    "errors": 0,
    "first_seen": "2026-11-07T01:41:02+00:00",
-   "last_attempt": "2026-11-07T04:05:05+00:00",
+   "last_attempt": "2026-11-07T04:48:26+00:00",
+   "notified": "2026-11-07T04:52:16+00:00",
    "published": "2026-11-07T01:30:23+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n상위 1%는 벌써 눈치챘어요, 앞으로 '이 시장' 미친듯이 뜬다\n요즘 5060 사이에서 벌어지는 이상현상\n100억대 부자들의 진짜 특이한 소비습관\n\n☞촬영일: 26년 10월 28일",
-    "published": "2026-11-07T01:30:23+00:00",
-    "title": "상위 1%는 벌써 눈치챘어요, 앞으로 '이 시장' 미친듯이 뜬다 [김용섭 소장 풀버전]",
-    "video_id": "SfunK8bPAmM"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "Sh14nUq0mWE": {
@@ -11350,7 +11345,7 @@
   "blV5yE97wk8": {
    "errors": 0,
    "first_seen": "2026-11-06T23:57:13+00:00",
-   "last_attempt": "2026-11-07T03:59:45+00:00",
+   "last_attempt": "2026-11-07T04:40:35+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (2:30:00~2:38:35)",
    "published": "2026-11-06T23:30:12+00:00",
    "status": "pending",
@@ -11362,7 +11357,7 @@
     "title": "[합본] 미국이 원하는 배, 정작 한국은 만들 준비가 돼 있을까? f. 권효재 대표",
     "video_id": "blV5yE97wk8"
    },
-   "wait_checks": 5
+   "wait_checks": 6
   },
   "buQP5h_oT44": {
    "done_at": "2026-10-30T21:46:40+00:00",
@@ -14281,6 +14276,21 @@
     "published": "2026-10-26T08:30:44+00:00",
     "title": "신혼부부 대출 4억으로 줄면 결국 '이렇게' 됩니다 [김인만 소장]",
     "video_id": "lwlPiAlecWw"
+   },
+   "wait_checks": 0
+  },
+  "lwt2FcXfa3U": {
+   "errors": 0,
+   "first_seen": "2026-11-07T04:40:30+00:00",
+   "published": "2026-11-07T04:00:16+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 #세입자 #서울 #수도권\n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-07T04:00:16+00:00",
+    "title": "현재 부동산 시장의 상황",
+    "video_id": "lwt2FcXfa3U"
    },
    "wait_checks": 0
   },
