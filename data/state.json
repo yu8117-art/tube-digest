@@ -800,6 +800,21 @@
    "published": "2026-10-05T06:00:25+00:00",
    "status": "baseline"
   },
+  "1VXn6aJxVxw": {
+   "errors": 0,
+   "first_seen": "2026-11-07T09:26:18+00:00",
+   "published": "2026-11-07T09:00:15+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n11월 오프라인 세미나) 경기도 총정리 & 2027년 절세 전략 (빠숑&제네시스박)\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=657\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 \n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-07T09:00:15+00:00",
+    "title": "경기도 투자의 결론을 내릴 시간",
+    "video_id": "1VXn6aJxVxw"
+   },
+   "wait_checks": 0
+  },
   "1V_XMc8_NLc": {
    "done_at": "2026-11-03T13:05:38+00:00",
    "errors": 0,
@@ -13283,6 +13298,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "i9NcpSesZXA": {
+   "done_at": "2026-11-07T09:26:50+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-07T09:26:12+00:00",
+   "last_attempt": "2026-11-07T09:26:21+00:00",
+   "notified": "2026-11-07T09:28:15+00:00",
+   "published": "2026-11-07T09:00:13+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "iAcJFrCUAdg": {
    "done_at": "2026-10-16T22:36:55+00:00",
    "errors": 0,
@@ -13759,6 +13785,17 @@
    "first_seen": "2026-11-03T02:28:18+00:00",
    "published": "2026-11-03T02:01:44+00:00",
    "status": "skipped_live",
+   "wait_checks": 0
+  },
+  "jeFVFk58K7k": {
+   "done_at": "2026-11-07T09:28:15+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-07T09:26:17+00:00",
+   "last_attempt": "2026-11-07T09:26:50+00:00",
+   "notified": "2026-11-07T09:28:16+00:00",
+   "published": "2026-11-07T09:00:30+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "jh4tLSBci2I": {
