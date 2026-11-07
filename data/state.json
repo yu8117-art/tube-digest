@@ -5344,6 +5344,17 @@
    },
    "wait_checks": 0
   },
+  "I7aC7RHs4kA": {
+   "done_at": "2026-11-07T02:28:44+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-07T02:25:56+00:00",
+   "last_attempt": "2026-11-07T02:26:02+00:00",
+   "notified": "2026-11-07T02:46:54+00:00",
+   "published": "2026-11-07T01:41:23+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "I8STxHUkLhM": {
    "done_at": "2026-10-23T21:42:09+00:00",
    "errors": 0,
@@ -8496,7 +8507,7 @@
   "SfunK8bPAmM": {
    "errors": 0,
    "first_seen": "2026-11-07T01:41:02+00:00",
-   "last_attempt": "2026-11-07T01:47:26+00:00",
+   "last_attempt": "2026-11-07T02:43:22+00:00",
    "published": "2026-11-07T01:30:23+00:00",
    "status": "pending",
    "video": {
@@ -11309,7 +11320,7 @@
   "blV5yE97wk8": {
    "errors": 0,
    "first_seen": "2026-11-06T23:57:13+00:00",
-   "last_attempt": "2026-11-07T00:38:24+00:00",
+   "last_attempt": "2026-11-07T02:30:44+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (2:30:00~2:38:35)",
    "published": "2026-11-06T23:30:12+00:00",
    "status": "pending",
@@ -11321,7 +11332,7 @@
     "title": "[합본] 미국이 원하는 배, 정작 한국은 만들 준비가 돼 있을까? f. 권효재 대표",
     "video_id": "blV5yE97wk8"
    },
-   "wait_checks": 2
+   "wait_checks": 3
   },
   "buQP5h_oT44": {
    "done_at": "2026-10-30T21:46:40+00:00",
@@ -17691,6 +17702,23 @@
    "source": "video_notes",
    "status": "done",
    "wait_checks": 0
+  },
+  "xqRCDYCy04I": {
+   "errors": 0,
+   "first_seen": "2026-11-07T02:25:56+00:00",
+   "last_attempt": "2026-11-07T02:28:44+00:00",
+   "last_error": "GeminiError: 구간 노트가 비어 있음 (30:00~58:44)",
+   "published": "2026-11-07T02:01:44+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCoCvTlU0KpNYwnMIgs7MPrA",
+    "channel_name": "보다 BODA",
+    "description": "🚨11월 21일 토요일 ‘오후 1시’ & ‘오후 6시’에 대전에서 ‘과학을 보다 토크콘서트’를 개최합니다!!!🚨\n\n✅오늘의 주제: 우주 vs 심해\n\n✅오늘의 출연자\n1. MC 정영진🎙️\n2. 물리학자 김범준 교수🍞\n3. 천문학자 지웅배 교수🚀\n4. 천문학자 이명현 박사🛰️\n5. 해양생물학자 김동성 박사🐟\n\n✅타임라인\n00:00 오프닝\n01:38 우주와 심해 중 어디가 더 가기 힘들까?\n21:04 우주복 vs 심해 잠수복, 뭐가 더 만들기 어려울까?\n24:18 인류가 우주탐사에 목숨을 걸고 있는 이유\n30:27 노벨상 수상 이론을 반박한 한국의 천문학자들\n\n\n👀BODA 티셔츠 구경하기\nhttps://bodamall.store/ \n\n🚀 ‘과학을 보다’ 질문 게시판  \nhttps://cafe.naver.com/boda100\n\n📘어른을 위한 ‘과학을 보다’ 만화책!📚\n-교보문고: \nhttps://product.kyobobook.co.kr/detai...\n-알라딘: \nhttps://www.aladin.co.kr/shop/wproduc...\n-예스24: \nhttps://www.yes24.com/product/goods/1...\n\n\n✔ 출연 및 제휴 문의: \nboooda.kr@gmail.com \n\n\n✔ BODA 인스타: \n/ boda_channel\n\n\n#보다 #과학 #심해 #생물\n\n\n광고 및 비즈니스 문의:  boooda.kr@gmail.com",
+    "published": "2026-11-07T02:01:44+00:00",
+    "title": "인류의 접근을 거부하는 극한의 공간들ㅣ과학을 보다 EP.227",
+    "video_id": "xqRCDYCy04I"
+   },
+   "wait_checks": 1
   },
   "xwoqgBb8NZY": {
    "done_at": "2026-10-31T11:46:18+00:00",
