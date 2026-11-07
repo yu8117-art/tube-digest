@@ -7551,6 +7551,21 @@
    },
    "wait_checks": 0
   },
+  "PKyGTmUtznA": {
+   "errors": 0,
+   "first_seen": "2026-11-07T11:23:31+00:00",
+   "published": "2026-11-07T11:00:09+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+    "channel_name": "에스오디 SOD",
+    "description": "#에스오디 #인공지능 #의대 #의사 #레제",
+    "published": "2026-11-07T11:00:09+00:00",
+    "title": "AI 때문에 의사는 망할까?",
+    "video_id": "PKyGTmUtznA"
+   },
+   "wait_checks": 0
+  },
   "POnIuGc4LeM": {
    "errors": 0,
    "first_seen": "2026-10-30T08:38:32+00:00",
@@ -7749,6 +7764,21 @@
    "published": "2026-10-28T12:19:10+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "PyfxAZcRnnI": {
+   "errors": 0,
+   "first_seen": "2026-11-07T11:23:28+00:00",
+   "published": "2026-11-07T11:00:12+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "스타링크가 미국의 기존 이동통신사들과 직접 경쟁하게 될까요? 최근 스페이스X는 약 1만 5천 기의 차세대 스타링크 모바일 위성 배치 승인을 받았고, 800MHz 저주파 대역의 주파수 이용권을 확보하기 위한 계약도 체결했습니다. 특히 저주파 대역은 전파가 멀리 도달하고 건물 내부까지 전달되기 유리해 이동통신 서비스에서 중요한데요. 이 소식에 미국 주요 통신사들의 주가가 하락하며 시장도 민감하게 반응했습니다. 위성통신을 넘어 이동통신 시장까지 확대하려는 스페이스X의 전략은 어떤 변화를 가져올까요? 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#스타링크 #스페이스X #위성통신 #이동통신 #주파수 #800MHz #일론머스크 #안될과학 #과학유튜브",
+    "published": "2026-11-07T11:00:12+00:00",
+    "title": "스타링크가 미국 통신 3사를 위협하는 이유?!",
+    "video_id": "PyfxAZcRnnI"
+   },
    "wait_checks": 0
   },
   "Q-U_4zV407U": {
@@ -9548,6 +9578,17 @@
    "first_seen": "2026-10-29T03:51:01+00:00",
    "published": "2026-10-29T03:41:29+00:00",
    "status": "skipped_live",
+   "wait_checks": 0
+  },
+  "VUhI663a0Ss": {
+   "done_at": "2026-11-07T11:27:10+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-07T11:23:25+00:00",
+   "last_attempt": "2026-11-07T11:25:15+00:00",
+   "notified": "2026-11-07T11:28:17+00:00",
+   "published": "2026-11-07T11:12:03+00:00",
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "VV_lhK8lS8U": {
@@ -11560,6 +11601,17 @@
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-09-28T22:00:26+00:00",
    "status": "baseline"
+  },
+  "c7PYqnDCbqk": {
+   "done_at": "2026-11-07T11:28:16+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-07T11:23:33+00:00",
+   "last_attempt": "2026-11-07T11:27:10+00:00",
+   "notified": "2026-11-07T11:28:18+00:00",
+   "published": "2026-11-07T11:15:01+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "c7eoynzRGME": {
    "done_at": "2026-10-26T09:51:47+00:00",
@@ -14940,6 +14992,17 @@
    },
    "wait_checks": 0
   },
+  "njuFn0EaWwY": {
+   "done_at": "2026-11-07T11:24:05+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-07T11:23:26+00:00",
+   "last_attempt": "2026-11-07T11:23:38+00:00",
+   "notified": "2026-11-07T11:28:17+00:00",
+   "published": "2026-11-07T11:00:08+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "nkkPAjj6KYA": {
    "done_at": "2026-10-26T09:10:17+00:00",
    "errors": 0,
@@ -15404,6 +15467,17 @@
     "title": "매물은 많은데 왜? 91주째 상승 중?!",
     "video_id": "pCepuehwo50"
    },
+   "wait_checks": 0
+  },
+  "pCykCuPpVns": {
+   "done_at": "2026-11-07T11:25:15+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-07T11:23:35+00:00",
+   "last_attempt": "2026-11-07T11:24:05+00:00",
+   "notified": "2026-11-07T11:28:19+00:00",
+   "published": "2026-11-07T11:00:17+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "pDZOXrLj6fE": {
