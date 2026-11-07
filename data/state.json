@@ -7683,6 +7683,21 @@
    "published": "2026-10-02T07:54:19+00:00",
    "status": "baseline"
   },
+  "PoAkir0i8rY": {
+   "errors": 0,
+   "first_seen": "2026-11-07T06:10:50+00:00",
+   "published": "2026-11-07T06:00:00+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
+    "channel_name": "집코노미",
+    "description": "서울 한복판의 충격적인 용적률의 건물😯 재건축 가능?\n\n#세운상가 #진양상가 #용적률 #재개발 #집코노미\n\n한국경제신문 구독하기\n📰https://members.hankyung.com/#rep-products\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다\n\n영상의 맥락과 상관없는 비방이나 악의적인 댓글은 예고 없이 삭제됩니다",
+    "published": "2026-11-07T06:00:00+00:00",
+    "title": "이 건물 허물기 쉽지 않다 🏢",
+    "video_id": "PoAkir0i8rY"
+   },
+   "wait_checks": 0
+  },
   "PqxhEdh3mMs": {
    "first_seen": "2026-10-09T08:14:30+00:00",
    "published": "2026-09-29T10:02:12+00:00",
@@ -11369,20 +11384,15 @@
    "wait_checks": 0
   },
   "blV5yE97wk8": {
+   "done_at": "2026-11-07T06:21:33+00:00",
    "errors": 0,
    "first_seen": "2026-11-06T23:57:13+00:00",
-   "last_attempt": "2026-11-07T05:27:36+00:00",
+   "last_attempt": "2026-11-07T06:13:17+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (2:30:00~2:38:35)",
+   "notified": "2026-11-07T06:21:33+00:00",
    "published": "2026-11-06T23:30:12+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCstI8HwGQsHdqLDgyH0PImw",
-    "channel_name": "최준영 박사의 지구본 연구소",
-    "description": "🌏지구본 연구소 멤버십에 가입하여 혜택을 누려보세요!\nhttps://www.youtube.com/channel/UCstI8HwGQsHdqLDgyH0PImw/join\n\n놀라운 라인업으로 다시 돌아온 위즈덤 칼리지 2026!\n최준영 박사님과 함께 새로운 지혜의 여정이 시작됩니다.\n🎁 최대 할인 + 30만 원 상당의 혜택 전원 증정\n🎓 지금 바로 입학 등록하기 👉 https://bit.ly/3IRcyte\n\n👉https://3protv.page.link/dvgJ\n⏰바빠서 방송 볼 시간이 없다면? 핵심만 콕 짚은 요약본으로 빠르게!\n삼프로 오리지널 뉴스 콘텐츠로 만나보세요.\n👉https://3protv.page.link/dvgJ\n\n#지구본연구소 #최준영박사 #최준영\n\n🌎타임코드🌎\n00:00 곪았던 미 해군의 문제, 결국 터져버렸습니다 f.권효재 대표 [지구본 초대석]\n52:40 K-조선 대호황, 마냥 웃을 일만은 아닙니다 f. 권효재 대표 [지구본 초대석]\n01:40:31 알래스카 앞에 나타난 중국 쇄빙선, 미국이 급해진 이유 f. 권효재 대표 [지구본 초대석]",
-    "published": "2026-11-06T23:30:12+00:00",
-    "title": "[합본] 미국이 원하는 배, 정작 한국은 만들 준비가 돼 있을까? f. 권효재 대표",
-    "video_id": "blV5yE97wk8"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 7
   },
   "buQP5h_oT44": {
@@ -11404,6 +11414,17 @@
    "last_attempt": "2026-10-23T07:34:04+00:00",
    "notified": "2026-10-23T07:36:16+00:00",
    "published": "2026-10-23T07:11:34+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "bxeuy-XcSos": {
+   "done_at": "2026-11-07T06:12:22+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-07T06:10:54+00:00",
+   "last_attempt": "2026-11-07T06:11:16+00:00",
+   "notified": "2026-11-07T06:21:35+00:00",
+   "published": "2026-11-07T05:55:20+00:00",
    "source": "video",
    "status": "done",
    "wait_checks": 0
@@ -11542,6 +11563,17 @@
     "title": "구글이 단백질에 몰래 새겨 넣은 것",
     "video_id": "cBtB1Qr4vVA"
    },
+   "wait_checks": 0
+  },
+  "cC2b3UHNFjk": {
+   "done_at": "2026-11-07T06:13:17+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-07T06:10:45+00:00",
+   "last_attempt": "2026-11-07T06:12:22+00:00",
+   "notified": "2026-11-07T06:21:34+00:00",
+   "published": "2026-11-07T06:00:35+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "cFbvVSxAEBY": {
@@ -15548,6 +15580,17 @@
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-05-23T11:36:33+00:00",
    "status": "baseline"
+  },
+  "qBfge4bK1eY": {
+   "done_at": "2026-11-07T06:11:16+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-07T06:10:47+00:00",
+   "last_attempt": "2026-11-07T06:10:55+00:00",
+   "notified": "2026-11-07T06:21:34+00:00",
+   "published": "2026-11-07T05:36:00+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "qCPnWHT7_V8": {
    "first_seen": "2026-10-09T08:14:35+00:00",
