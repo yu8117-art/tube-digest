@@ -4844,6 +4844,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "GHiZJBH6WHo": {
+   "errors": 0,
+   "first_seen": "2026-11-07T03:13:49+00:00",
+   "published": "2026-11-07T03:00:33+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCFhF5oooL5ugxHKvTxBD75Q",
+    "channel_name": "땅집고",
+    "description": "🏠 잠깐 살아도 단단하게, 단단홈즈\n\n비어 있는 방을 임대하고 싶을 때도,\n출장·이사·인테리어로 잠깐 살 집이 필요할 때도!\n단단홈즈에서 더 안심하고 단기임대를 시작해 보세요.\n\n🔑 [호스트] 내 방 등록하고 단기임대 시작하기\n🔗 https://ader.dandanhomes.com/bsve9r\n\n🏡 [게스트] 필요한 기간만큼 살 집 찾기\n🔗 https://ader.dandanhomes.com/tvt76qo\n\n🏢 “내 개발사업에 AI를 어디까지 활용할 수 있을까?”\n개발계획·사업성 검토·인허가부터\n에너지·보안·주차 운영까지\n현업 사례로 배우는 AI 부동산 실전교육\n👉 신청하기 ▼ https://zipgobiz.com/\n\n📌 땅집고TV 구독하고 남들보다 빠른 부동산 안목을 키우세요\n​👉 지금 바로 구독·좋아요·알림설정까지! http://bit.ly/3RmNLky\n오늘 영상에 대한 여러분의 의견도 댓글로 자유롭게 남겨주세요💬",
+    "published": "2026-11-07T03:00:33+00:00",
+    "title": "\"상가 1칸이 강남 아파트 38채로\" 충격의 개포 재건축 #shorts",
+    "video_id": "GHiZJBH6WHo"
+   },
+   "wait_checks": 0
+  },
   "GKPDJEHVJf4": {
    "errors": 0,
    "first_seen": "2026-10-29T11:08:51+00:00",
@@ -8507,7 +8522,7 @@
   "SfunK8bPAmM": {
    "errors": 0,
    "first_seen": "2026-11-07T01:41:02+00:00",
-   "last_attempt": "2026-11-07T02:43:22+00:00",
+   "last_attempt": "2026-11-07T03:22:27+00:00",
    "published": "2026-11-07T01:30:23+00:00",
    "status": "pending",
    "video": {
@@ -11320,8 +11335,8 @@
   "blV5yE97wk8": {
    "errors": 0,
    "first_seen": "2026-11-06T23:57:13+00:00",
-   "last_attempt": "2026-11-07T02:30:44+00:00",
-   "last_error": "GeminiError: 구간 노트가 비어 있음 (2:30:00~2:38:35)",
+   "last_attempt": "2026-11-07T03:17:07+00:00",
+   "last_error": "GeminiError: 구간 노트가 비어 있음 (2:00:00~2:30:00)",
    "published": "2026-11-06T23:30:12+00:00",
    "status": "pending",
    "video": {
@@ -11332,7 +11347,7 @@
     "title": "[합본] 미국이 원하는 배, 정작 한국은 만들 준비가 돼 있을까? f. 권효재 대표",
     "video_id": "blV5yE97wk8"
    },
-   "wait_checks": 3
+   "wait_checks": 4
   },
   "buQP5h_oT44": {
    "done_at": "2026-10-30T21:46:40+00:00",
@@ -17479,6 +17494,17 @@
    },
    "wait_checks": 0
   },
+  "wykYDhK8P6k": {
+   "done_at": "2026-11-07T03:14:40+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-07T03:13:51+00:00",
+   "last_attempt": "2026-11-07T03:13:55+00:00",
+   "notified": "2026-11-07T03:25:54+00:00",
+   "published": "2026-11-07T03:00:21+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "x4nCIjbauVg": {
    "done_at": "2026-10-27T10:25:53+00:00",
    "errors": 0,
@@ -17706,7 +17732,7 @@
   "xqRCDYCy04I": {
    "errors": 0,
    "first_seen": "2026-11-07T02:25:56+00:00",
-   "last_attempt": "2026-11-07T02:28:44+00:00",
+   "last_attempt": "2026-11-07T03:14:40+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (30:00~58:44)",
    "published": "2026-11-07T02:01:44+00:00",
    "status": "pending",
@@ -17718,7 +17744,7 @@
     "title": "인류의 접근을 거부하는 극한의 공간들ㅣ과학을 보다 EP.227",
     "video_id": "xqRCDYCy04I"
    },
-   "wait_checks": 1
+   "wait_checks": 2
   },
   "xwoqgBb8NZY": {
    "done_at": "2026-10-31T11:46:18+00:00",
