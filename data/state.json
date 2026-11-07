@@ -3093,6 +3093,17 @@
    "transcript_status": "blocked:RequestBlocked+gemini",
    "wait_checks": 0
   },
+  "9VPI8oLFrWM": {
+   "done_at": "2026-11-07T22:16:38+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-07T22:15:13+00:00",
+   "last_attempt": "2026-11-07T22:15:14+00:00",
+   "notified": "2026-11-07T22:16:38+00:00",
+   "published": "2026-11-07T21:55:23+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "9VrDqRayNDs": {
    "errors": 0,
    "first_seen": "2026-11-04T05:35:24+00:00",
