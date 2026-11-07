@@ -9172,6 +9172,17 @@
    },
    "wait_checks": 0
   },
+  "UGjWBIdX4hc": {
+   "done_at": "2026-11-07T23:24:27+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-07T23:22:12+00:00",
+   "last_attempt": "2026-11-07T23:22:21+00:00",
+   "notified": "2026-11-07T23:24:28+00:00",
+   "published": "2026-11-07T23:00:02+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "UHUsRc2kcOQ": {
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-06-19T08:00:24+00:00",
