@@ -1268,6 +1268,21 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "39gbhH3sKlQ": {
+   "errors": 0,
+   "first_seen": "2026-11-07T03:57:29+00:00",
+   "published": "2026-11-07T03:30:35+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n부자들이 돈 주고 사는 건 결국 시간하고 '이것'입니다\n\n☞촬영일: 26년 10월 28일",
+    "published": "2026-11-07T03:30:35+00:00",
+    "title": "부자들이 돈 주고 사는 건 결국 시간하고 '이것'입니다 [김용섭 소장]",
+    "video_id": "39gbhH3sKlQ"
+   },
+   "wait_checks": 0
+  },
   "3BPnVnWQ5WY": {
    "errors": 0,
    "first_seen": "2026-10-27T08:21:14+00:00",
@@ -8522,7 +8537,7 @@
   "SfunK8bPAmM": {
    "errors": 0,
    "first_seen": "2026-11-07T01:41:02+00:00",
-   "last_attempt": "2026-11-07T03:22:27+00:00",
+   "last_attempt": "2026-11-07T04:05:05+00:00",
    "published": "2026-11-07T01:30:23+00:00",
    "status": "pending",
    "video": {
@@ -11335,8 +11350,8 @@
   "blV5yE97wk8": {
    "errors": 0,
    "first_seen": "2026-11-06T23:57:13+00:00",
-   "last_attempt": "2026-11-07T03:17:07+00:00",
-   "last_error": "GeminiError: 구간 노트가 비어 있음 (2:00:00~2:30:00)",
+   "last_attempt": "2026-11-07T03:59:45+00:00",
+   "last_error": "GeminiError: 구간 노트가 비어 있음 (2:30:00~2:38:35)",
    "published": "2026-11-06T23:30:12+00:00",
    "status": "pending",
    "video": {
@@ -11347,7 +11362,7 @@
     "title": "[합본] 미국이 원하는 배, 정작 한국은 만들 준비가 돼 있을까? f. 권효재 대표",
     "video_id": "blV5yE97wk8"
    },
-   "wait_checks": 4
+   "wait_checks": 5
   },
   "buQP5h_oT44": {
    "done_at": "2026-10-30T21:46:40+00:00",
@@ -17730,20 +17745,15 @@
    "wait_checks": 0
   },
   "xqRCDYCy04I": {
+   "done_at": "2026-11-07T03:59:45+00:00",
    "errors": 0,
    "first_seen": "2026-11-07T02:25:56+00:00",
-   "last_attempt": "2026-11-07T03:14:40+00:00",
+   "last_attempt": "2026-11-07T03:57:32+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (30:00~58:44)",
+   "notified": "2026-11-07T04:08:22+00:00",
    "published": "2026-11-07T02:01:44+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCoCvTlU0KpNYwnMIgs7MPrA",
-    "channel_name": "보다 BODA",
-    "description": "🚨11월 21일 토요일 ‘오후 1시’ & ‘오후 6시’에 대전에서 ‘과학을 보다 토크콘서트’를 개최합니다!!!🚨\n\n✅오늘의 주제: 우주 vs 심해\n\n✅오늘의 출연자\n1. MC 정영진🎙️\n2. 물리학자 김범준 교수🍞\n3. 천문학자 지웅배 교수🚀\n4. 천문학자 이명현 박사🛰️\n5. 해양생물학자 김동성 박사🐟\n\n✅타임라인\n00:00 오프닝\n01:38 우주와 심해 중 어디가 더 가기 힘들까?\n21:04 우주복 vs 심해 잠수복, 뭐가 더 만들기 어려울까?\n24:18 인류가 우주탐사에 목숨을 걸고 있는 이유\n30:27 노벨상 수상 이론을 반박한 한국의 천문학자들\n\n\n👀BODA 티셔츠 구경하기\nhttps://bodamall.store/ \n\n🚀 ‘과학을 보다’ 질문 게시판  \nhttps://cafe.naver.com/boda100\n\n📘어른을 위한 ‘과학을 보다’ 만화책!📚\n-교보문고: \nhttps://product.kyobobook.co.kr/detai...\n-알라딘: \nhttps://www.aladin.co.kr/shop/wproduc...\n-예스24: \nhttps://www.yes24.com/product/goods/1...\n\n\n✔ 출연 및 제휴 문의: \nboooda.kr@gmail.com \n\n\n✔ BODA 인스타: \n/ boda_channel\n\n\n#보다 #과학 #심해 #생물\n\n\n광고 및 비즈니스 문의:  boooda.kr@gmail.com",
-    "published": "2026-11-07T02:01:44+00:00",
-    "title": "인류의 접근을 거부하는 극한의 공간들ㅣ과학을 보다 EP.227",
-    "video_id": "xqRCDYCy04I"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 2
   },
   "xwoqgBb8NZY": {
