@@ -11293,7 +11293,7 @@
   "blV5yE97wk8": {
    "errors": 0,
    "first_seen": "2026-11-06T23:57:13+00:00",
-   "last_attempt": "2026-11-06T23:57:18+00:00",
+   "last_attempt": "2026-11-07T00:38:24+00:00",
    "last_error": "GeminiError: 구간 노트가 비어 있음 (2:30:00~2:38:35)",
    "published": "2026-11-06T23:30:12+00:00",
    "status": "pending",
@@ -11305,7 +11305,7 @@
     "title": "[합본] 미국이 원하는 배, 정작 한국은 만들 준비가 돼 있을까? f. 권효재 대표",
     "video_id": "blV5yE97wk8"
    },
-   "wait_checks": 1
+   "wait_checks": 2
   },
   "buQP5h_oT44": {
    "done_at": "2026-10-30T21:46:40+00:00",
@@ -16370,6 +16370,17 @@
    "last_attempt": "2026-10-28T08:39:04+00:00",
    "notified": "2026-10-28T08:47:30+00:00",
    "published": "2026-10-28T08:00:11+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "tSRRRgAjxsE": {
+   "done_at": "2026-11-07T00:38:24+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-07T00:35:22+00:00",
+   "last_attempt": "2026-11-07T00:35:30+00:00",
+   "notified": "2026-11-07T00:44:25+00:00",
+   "published": "2026-11-07T00:00:26+00:00",
    "source": "video_notes",
    "status": "done",
    "wait_checks": 0
