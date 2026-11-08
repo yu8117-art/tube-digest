@@ -15868,6 +15868,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "pPcsbNzfQMk": {
+   "errors": 0,
+   "first_seen": "2026-11-08T10:09:57+00:00",
+   "published": "2026-11-08T09:43:07+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+    "channel_name": "소수몽키",
+    "description": "🌟[NEW]올해 마지막 마무리 함께해요! 소수의견 4분기 구독자 모집 시작!\nhttps://bit.ly/4y7RZNr\n\n🏆소몽 입문반 강의★\n🌟미국 주식 시작할 때 반드시 알아야 할 핵심 정보부터, \n실전 매매에 필요한 알짜 노하우까지 아낌없이 담았습니다!\n📌[소몽의 미국주식 베이직클래스] 신청하러가기\nhttps://us-campus.co.kr/products/academy237",
+    "published": "2026-11-08T09:43:07+00:00",
+    "title": "민주당 싹쓸이에 무너진 증시, 지금부터 봐야할 것들/민주당 총공세 시작? 조심할 주식들/트럼프의 더 센 반격 시작? 2006 데자뷰일까",
+    "video_id": "pPcsbNzfQMk"
+   },
+   "wait_checks": 0
+  },
   "pRJuQtkqPdE": {
    "errors": 0,
    "first_seen": "2026-10-30T02:41:13+00:00",
@@ -18564,6 +18579,17 @@
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-09-17T05:45:37+00:00",
    "status": "baseline"
+  },
+  "z0Iiy44eaIw": {
+   "done_at": "2026-11-08T10:11:05+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-08T10:09:54+00:00",
+   "last_attempt": "2026-11-08T10:10:02+00:00",
+   "notified": "2026-11-08T10:11:06+00:00",
+   "published": "2026-11-08T09:16:26+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "z0bFAx92ATE": {
    "errors": 0,
