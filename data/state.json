@@ -11713,6 +11713,17 @@
    },
    "wait_checks": 0
   },
+  "c1TJvkH41lU": {
+   "done_at": "2026-11-08T06:03:08+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-08T05:58:01+00:00",
+   "last_attempt": "2026-11-08T05:58:02+00:00",
+   "notified": "2026-11-08T06:03:08+00:00",
+   "published": "2026-11-08T05:55:31+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "c2XnjPESzc0": {
    "errors": 0,
    "first_seen": "2026-11-04T23:09:06+00:00",
