@@ -900,6 +900,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "1id-hs83Ntg": {
+   "errors": 0,
+   "first_seen": "2026-11-08T11:23:33+00:00",
+   "published": "2026-11-08T11:00:27+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "외계행성에서 날아온 전파, 과연 그 정체는 무엇일까요? 연구진은 화가자리 베타별(베타 픽토리스) 주위를 도는 거대 행성 '베타 픽토리스 b'의 위치와 일치하는 전파 신호를 관측했습니다. 전파가 포착됐다고 해서 누군가 보낸 신호라는 뜻은 아닌데요. 지구와 목성에서도 자기장 속 전자들의 움직임으로 강한 전파가 자연적으로 발생합니다. 특히 전자가 자기장 속에서 운동하며 전파를 증폭하는 '전자 사이클로트론 메이저'라는 현상은 오로라와 관련된 전파를 만들어내죠. 연구진은 이번에 관측한 폭발적인 전파 신호 역시 외계행성의 오로라 활동에서 비롯됐을 가능성을 제시했습니다. 외계행성의 보이지 않는 자기장까지 전파로 알아낼 수 있을까요? 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#외계행성 #베타픽토리스 #오로라 #전파 #자기장 #천문학 #우주과학 #안될과학 #과학유튜브",
+    "published": "2026-11-08T11:00:27+00:00",
+    "title": "외계행성에서 날아온 전파의 정체는?!",
+    "video_id": "1id-hs83Ntg"
+   },
+   "wait_checks": 0
+  },
   "1kSnlBrByww": {
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-08T23:00:22+00:00",
@@ -12744,15 +12759,7 @@
    "errors": 0,
    "first_seen": "2026-11-08T09:15:30+00:00",
    "published": "2026-11-08T09:01:03+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
-    "channel_name": "조코딩 JoCoding",
-    "description": "IT뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 신경망 가중치 업데이트 가능, GPT 6.2 Astra, Fable 5.5 곧 출시 등\n\nAX인재전쟁 온라인: https://axacademy.ai/axwar",
-    "published": "2026-11-08T09:01:03+00:00",
-    "title": "IT뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 신경망 가중치 업데이트 가능, GPT 6.2 Astra, Fable 5.5 곧 출시 등",
-    "video_id": "ekZIKu2rFOQ"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "elRXhqvR8cs": {
@@ -14169,6 +14176,21 @@
    "published": "2026-10-07T09:30:11+00:00",
    "status": "baseline"
   },
+  "jpgAuEs1uzI": {
+   "errors": 0,
+   "first_seen": "2026-11-08T11:23:30+00:00",
+   "published": "2026-11-08T11:22:00+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+    "published": "2026-11-08T11:22:00+00:00",
+    "title": "[슈카월드]  20만원이 깨진 삼성전자 / 젠슨황은 중국 스파이의 표적이 됐는가/ 미국 공화당은 왜 대패했나 / 일본 의료 보험 개혁 선언 / 명문대도 소용없다. 취업 빙하기",
+    "video_id": "jpgAuEs1uzI"
+   },
+   "wait_checks": 0
+  },
   "jq0SBYfie4I": {
    "errors": 0,
    "first_seen": "2026-10-11T07:31:27+00:00",
@@ -15492,6 +15514,17 @@
    "last_attempt": "2026-11-05T14:45:47+00:00",
    "notified": "2026-11-05T14:48:55+00:00",
    "published": "2026-11-05T10:00:27+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "oKGNXCdXj6s": {
+   "done_at": "2026-11-08T11:24:10+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-08T11:23:38+00:00",
+   "last_attempt": "2026-11-08T11:23:40+00:00",
+   "notified": "2026-11-08T11:24:11+00:00",
+   "published": "2026-11-08T11:00:30+00:00",
    "source": "video",
    "status": "done",
    "wait_checks": 0
