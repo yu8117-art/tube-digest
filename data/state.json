@@ -6977,15 +6977,7 @@
    "errors": 0,
    "first_seen": "2026-11-08T05:15:08+00:00",
    "published": "2026-11-08T05:06:38+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-11-08T05:06:38+00:00",
-    "title": "수원 오늘 승격한다!! 승점 1점만 따도 승격!!! 수원 vs 용인",
-    "video_id": "NSK_NYybcQk"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "NSk4HSpWv2g": {
@@ -9831,6 +9823,21 @@
    "published": "2026-09-16T10:00:27+00:00",
    "status": "baseline"
   },
+  "W5llORXZgbc": {
+   "errors": 0,
+   "first_seen": "2026-11-08T08:27:36+00:00",
+   "published": "2026-11-08T08:00:31+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 #세입자 #서울 #수도권\n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-08T08:00:31+00:00",
+    "title": "재건축 재개발이 더 힘들어지는 이유",
+    "video_id": "W5llORXZgbc"
+   },
+   "wait_checks": 0
+  },
   "W6FJlp8HHM4": {
    "done_at": "2026-10-24T12:42:58+00:00",
    "errors": 0,
@@ -11489,6 +11496,17 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "bKqivE6s9dQ": {
+   "done_at": "2026-11-08T08:29:44+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-08T08:27:34+00:00",
+   "last_attempt": "2026-11-08T08:28:07+00:00",
+   "notified": "2026-11-08T08:29:45+00:00",
+   "published": "2026-11-08T08:00:15+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "bL2q1ZfwdJA": {
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-10-07T12:05:04+00:00",
@@ -13131,6 +13149,17 @@
     "title": "엔비디아 지금 안 팔고 버티면 장기적으로 '이렇게' 될 겁니다 [정주용 의장]",
     "video_id": "gd_0FkCnAFg"
    },
+   "wait_checks": 0
+  },
+  "geegAlP2mCI": {
+   "done_at": "2026-11-08T08:28:07+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-08T08:27:37+00:00",
+   "last_attempt": "2026-11-08T08:27:39+00:00",
+   "notified": "2026-11-08T08:29:45+00:00",
+   "published": "2026-11-08T08:00:08+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "giCOr_f_buY": {
