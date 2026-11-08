@@ -4277,6 +4277,17 @@
    },
    "wait_checks": 0
   },
+  "DFGTEMxUhgI": {
+   "done_at": "2026-11-08T12:02:09+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-08T12:00:08+00:00",
+   "last_attempt": "2026-11-08T12:00:09+00:00",
+   "notified": "2026-11-08T12:02:09+00:00",
+   "published": "2026-11-08T11:55:16+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "DHd-lSRfnIM": {
    "errors": 0,
    "first_seen": "2026-10-26T22:59:07+00:00",
@@ -4822,6 +4833,21 @@
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-06-04T12:20:28+00:00",
    "status": "baseline"
+  },
+  "Fv_mGVsqzCk": {
+   "errors": 0,
+   "first_seen": "2026-11-08T12:00:03+00:00",
+   "published": "2026-11-08T11:54:42+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
+    "channel_name": "지식보관소",
+    "description": "Instagram ID @archiveyoutube\n#리만가설 #제타함수 #소수 #양자역학 #지식보관소 #Shorts\n\n숫자의 원자라고 불리는 소수. 그 분포를 연구하던 수학은 어떻게 양자역학과 연결되었을까요?\n소수와 제타함수에서 출발해, 수학과 물리학 사이의 놀라운 연결을 풀영상의 핵심 대사로 살펴봅니다.\n\n※ 제목의 ‘우주를 만든 함수’는 비유적 질문입니다. 리만 가설은 아직 미해결이며, 알려진 연결은 제타함수 영점과 무작위 행렬의 고유값 통계 등에서 나타나는 관계입니다. 우주의 창조 원리나 모든 원자의 에너지 준위가 제타함수로 증명되었다는 뜻은 아닙니다.\n\n관련 자료\nInstitute for Advanced Study: Primes, Quantum Chaos, and a New Perspective on Riemann’s Zeta Function\nhttps://www.ias.edu/ideas/2013/primes-random-matrices\n\n원본영상\nhttps://youtu.be/JdtWRVaNi9c?si=gappXYaERIlw02dj\n\n------- 본계정(지식보관소) -------\nhttps://www.youtube.com/@지식보관소\n-----------게임 개발 관련-----------\nhttps://asdfg3663-alt.github.io/\n------- 비지니스 문의 -------\nE-Mail : asdfg3663@gmail.com",
+    "published": "2026-11-08T11:54:42+00:00",
+    "title": "물질 간 상호작용 규칙은 리만 제타함수로 코딩되어 있는 것처럼 보인다",
+    "video_id": "Fv_mGVsqzCk"
+   },
+   "wait_checks": 0
   },
   "Fy9NsZDeXn4": {
    "done_at": "2026-11-01T01:11:23+00:00",
