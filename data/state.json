@@ -2564,15 +2564,7 @@
    "errors": 0,
    "first_seen": "2026-11-09T01:03:24+00:00",
    "published": "2026-11-08T22:54:27+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
-    "channel_name": "소유보다 경험 - 아이언 / 공모주",
-    "description": "에이엘로봇 2일차를 실시간 공모주 경쟁률 라이브로 제공합니다.\n자세한 정보는 유튜브 영상과 블로그를 참고해주세요.\nhttps://blog.naver.com/msql/\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다. \n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
-    "published": "2026-11-08T22:54:27+00:00",
-    "title": "[11/9] 에이엘로봇 2일차 실시간 공모주 청약경쟁률 LIVE",
-    "video_id": "7V6VTWunN24"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "7WTDFfBWisw": {
@@ -2614,6 +2606,21 @@
     "published": "2026-10-22T06:00:27+00:00",
     "title": "담배 끊고 20분 만에 몸에서 시작되는 변화",
     "video_id": "7Zv4DWCbb1w"
+   },
+   "wait_checks": 0
+  },
+  "7dP7BBBzFdQ": {
+   "errors": 0,
+   "first_seen": "2026-11-09T07:54:10+00:00",
+   "published": "2026-11-09T07:00:08+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 #세입자 #서울 #수도권\n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-09T07:00:08+00:00",
+    "title": "규제가 절대 막지 못하는 것!",
+    "video_id": "7dP7BBBzFdQ"
    },
    "wait_checks": 0
   },
@@ -5470,6 +5477,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "Hpde6GI7Vpg": {
+   "errors": 0,
+   "first_seen": "2026-11-09T07:54:05+00:00",
+   "published": "2026-11-09T05:15:11+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC9JrTOkuLwzpyudwQqavXGg",
+    "channel_name": "두선생의 역사공장",
+    "description": "대서양은 '대'로 시작하는데, 왜 태평양은 '태'로 시작할까? 🌏미크로네시아·멜라네시아·폴리네시아 구분부터 인류가 이스터섬까지 건너간 이야기, 🦘 호주가 정말 죄수의 후손인지, 🌵 자원 대국 호주에 물이 부족한 이유까지! 🗺️오스트레일리아(호주)와 오세아니아를 한 번에 몰아봅니다 !\n\n#오세아니아 #호주 #호주역사 #뉴질랜드 #태평양 #어원 #두선생",
+    "published": "2026-11-09T05:15:11+00:00",
+    "title": "뭐가 다를까 - 미크로네시아 vs 멜라네시아 vs 폴리네시아  #세계여행 #세계지지 #세계지도 #국제뉴스",
+    "video_id": "Hpde6GI7Vpg"
+   },
+   "wait_checks": 0
+  },
   "HqV7T-AmCCY": {
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-08T08:01:39+00:00",
@@ -7548,15 +7570,7 @@
    "errors": 0,
    "first_seen": "2026-11-09T01:03:24+00:00",
    "published": "2026-11-08T23:09:03+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
-    "channel_name": "소유보다 경험 - 아이언 / 공모주",
-    "description": "이 방송은 에이엘로봇(AL로봇) 공모주 청약의 어니언 5사6입 라이브입니다.\n\n다른 분들과 소통을 원하시면 메인 방송을 이용해주세요.\nhttps://youtube.com/live/7V6VTWunN24\n\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트(하이브) 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다.\n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
-    "published": "2026-11-08T23:09:03+00:00",
-    "title": "[11/9] 에이엘로봇(AL로봇) 어니언 5사6입 2일차 실시간 공모주 청약경쟁률 LIVE / 대신증권",
-    "video_id": "OuMiMgjVxik"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "Ov1jBaoHxgs": {
@@ -8739,6 +8753,21 @@
    },
    "wait_checks": 0
   },
+  "SDxLfwYOf6c": {
+   "errors": 0,
+   "first_seen": "2026-11-09T07:54:13+00:00",
+   "published": "2026-11-09T03:30:18+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n내년 서울 입주 2만 2천 가구뿐 전월세난 못 푸는 진짜 이유\n\n☞촬영일: 26년 11월 2일",
+    "published": "2026-11-09T03:30:18+00:00",
+    "title": "내년 서울 입주 2만 2천 가구뿐 전월세난 못 푸는 진짜 이유 [남혁우 연구원]",
+    "video_id": "SDxLfwYOf6c"
+   },
+   "wait_checks": 0
+  },
   "SG5RyRWFmJU": {
    "errors": 0,
    "first_seen": "2026-10-12T08:45:58+00:00",
@@ -8971,6 +9000,17 @@
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-09-18T11:32:24+00:00",
    "status": "baseline"
+  },
+  "Sugtg1bO740": {
+   "done_at": "2026-11-09T07:56:44+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-09T07:54:17+00:00",
+   "last_attempt": "2026-11-09T07:56:11+00:00",
+   "notified": "2026-11-09T07:56:47+00:00",
+   "published": "2026-11-09T07:12:32+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "SvvIZ4ASpeA": {
    "done_at": "2026-10-28T13:50:15+00:00",
@@ -10221,15 +10261,7 @@
    "errors": 0,
    "first_seen": "2026-11-09T01:03:23+00:00",
    "published": "2026-11-08T23:09:59+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
-    "channel_name": "소유보다 경험 - 아이언 / 공모주",
-    "description": "아이언의 공모주청약 대시보드 실시간청약경쟁률 LIVE 입니다.\n\n다른 분들과 소통을 원하시면 메인 방송을 이용해주세요.\nhttps://youtube.com/live/7V6VTWunN24 \n\n어니언 자동계산은 어니언 방송을 이용해주세요. \nhttps://youtube.com/live/OuMiMgjVxik \n\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트(하이브) 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다.\n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
-    "published": "2026-11-08T23:09:59+00:00",
-    "title": "[11/9] 아이언의 공모주청약 대시보드 실시간청약경쟁률 LIVE / 에이엘로봇",
-    "video_id": "WvYHNuJoHXo"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "Ww2N3rZR0_Q": {
@@ -10653,6 +10685,21 @@
    "published": "2026-06-28T02:00:09+00:00",
    "status": "baseline"
   },
+  "YltXcZiN7YM": {
+   "errors": 0,
+   "first_seen": "2026-11-09T07:54:15+00:00",
+   "published": "2026-11-09T02:36:39+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
+    "channel_name": "채널 제네시스박",
+    "description": "종부세 14억 공제, 진짜 될까요? 🤔\n지금 정부·여당·야당 생각이 다 달라요 👀\n\n📌 지금까지 상황\n8.3 세제개편 이후 종부세 공제금액이 핫이슈예요 🔥\n정부는 9.1 최종안에서\n1주택 공동명의 비거주자 공제를 4억에서 6억으로 올렸어요.\n\n📌 그런데 여당은?\n단독명의 비거주 1주택이라도\n거주 여부와 상관없이 14억 공제를 하자고 주장해요 📢\n\n📌 청와대는?\n정책 일관성을 이유로 난색을 보이고 있어요 😥\n게다가 종부세법을 바꿔야 하는 일이라\n국회 통과까지 지켜봐야 하고,\n야당도 수정을 요구하고 있어서\n한 치 앞도 알 수 없는 상황이에요 🌫️\n\n솔직히 씁쓸하네요.\n도대체 무엇을 기준으로 정하는 걸까요? 🤷\n\n❗ 사실 더 중요한 건 따로 있어요\n👉 양도세 장특공(장기보유특별공제) 공제한도\n취득일이 아니라 '양도일' 기준이라\n생각보다 피해 보는 분이 꽤 많을 거예요 😢\n주택임대사업자는 말할 것도 없고요.\n그런데 이 부분은 논의가 전혀 없다는 점, 꼭 기억해 두세요!\n\n✅ 정리하면\n연말 최종 개정까지 꼼꼼히 체크하세요!\n그때까지 서울 부동산 거래량은\n계속 낮게 유지되지 않을까 싶어요 📉\n\n새로운 소식이 나오면 바로 전해드릴게요 📮\n👉 팔로우하고 절세 꿀팁 받아가세요 🔔\n\n여러분은 14억 공제, 어떻게 생각하세요?\n댓글로 의견 남겨주세요 💬\n\n#종부세 #종부세공제 #종부세14억 #세제개편 #제네시스박",
+    "published": "2026-11-09T02:36:39+00:00",
+    "title": "종부세 14억 공제, 수정될까? #제네시스박 #부동산",
+    "video_id": "YltXcZiN7YM"
+   },
+   "wait_checks": 0
+  },
   "YmuS11v_2vs": {
    "done_at": "2026-11-06T08:40:46+00:00",
    "errors": 0,
@@ -10695,6 +10742,13 @@
    "status": "done",
    "wait_checks": 0
   },
+  "YrIk3oL9I8s": {
+   "errors": 0,
+   "first_seen": "2026-11-09T07:54:14+00:00",
+   "published": "2026-11-09T06:15:02+00:00",
+   "status": "skipped_live",
+   "wait_checks": 0
+  },
   "YrOtTFLy5nM": {
    "errors": 0,
    "first_seen": "2026-10-30T04:11:59+00:00",
@@ -10724,6 +10778,17 @@
    "first_seen": "2026-10-09T08:14:39+00:00",
    "published": "2026-10-08T08:30:17+00:00",
    "status": "baseline"
+  },
+  "Yw-2DTNr_uo": {
+   "done_at": "2026-11-09T07:55:09+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-09T07:53:59+00:00",
+   "last_attempt": "2026-11-09T07:54:18+00:00",
+   "notified": "2026-11-09T07:56:46+00:00",
+   "published": "2026-11-09T05:55:28+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "YwtUidvUjkk": {
    "first_seen": "2026-10-09T08:14:31+00:00",
@@ -12969,6 +13034,21 @@
    "published": "2026-10-04T23:00:27+00:00",
    "status": "baseline"
   },
+  "ezkxYJYrW5Q": {
+   "errors": 0,
+   "first_seen": "2026-11-09T07:54:03+00:00",
+   "published": "2026-11-09T02:00:10+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "지구와 비슷한 외계행성의 자기장을 알아내려면 왜 달 뒷면이 필요할까요? 행성의 자기장은 내부 구조와 대기 환경을 이해하는 중요한 단서인데요. 지구와 비슷한 자기장을 가진 행성의 오로라 전파는 대체로 10MHz보다 낮은 주파수에서 발생할 것으로 예상됩니다. 하지만 이런 저주파 전파는 지구의 전리층을 통과하기 어려워 지상에서 관측하기가 쉽지 않죠. 반면 달 뒷면은 지구 전리층의 영향을 피할 수 있고, 달 자체가 지구에서 발생하는 전파 잡음도 차단해 줍니다. NASA 등이 추진하는 달 뒷면 저주파 전파 관측 실험도 이러한 환경을 활용하려는 시도입니다. 언젠가 달에서 지구를 닮은 외계행성의 자기장을 찾아낼 수 있을까요? 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#달뒷면 #전파망원경 #외계행성 #자기장 #오로라 #우주탐사 #천문학 #안될과학 #과학유튜브",
+    "published": "2026-11-09T02:00:10+00:00",
+    "title": "달 뒷면에 전파망원경을 설치하려는 이유?!",
+    "video_id": "ezkxYJYrW5Q"
+   },
+   "wait_checks": 0
+  },
   "f-NSG8xTjdQ": {
    "errors": 0,
    "first_seen": "2026-11-02T23:26:35+00:00",
@@ -13464,6 +13544,21 @@
    },
    "wait_checks": 0
   },
+  "h1IeBXPoQvg": {
+   "errors": 0,
+   "first_seen": "2026-11-09T07:54:02+00:00",
+   "published": "2026-11-09T07:00:22+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "다른 개미집에 침입해 여왕을 죽이고 그 자리를 차지하는 개미가 있습니다. 바로 가시개미인데요. 가시개미 여왕은 다른 개미 군체에 침입해 기존 여왕을 제거하고, 페로몬 등 화학적 신호를 이용해 일개미들에게 자신을 여왕처럼 받아들이게 만듭니다. 일개미들은 새로운 여왕의 알과 애벌레를 돌보고, 시간이 지나면서 가시개미 일개미들이 점점 늘어나게 되죠. 결국 기존 군체가 가시개미 중심으로 바뀌는 놀라운 일이 벌어집니다. 다른 개미들의 노동력을 이용해 자신의 군체를 만드는 가시개미의 독특한 생존 전략! 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#가시개미 #개미 #여왕개미 #사회기생 #곤충 #페로몬 #생태계 #안될과학 #과학유튜브",
+    "published": "2026-11-09T07:00:22+00:00",
+    "title": "여왕개미를 죽이고 여왕 행세를 하는 개미?!",
+    "video_id": "h1IeBXPoQvg"
+   },
+   "wait_checks": 0
+  },
   "h43Y_hlUOGk": {
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-05-15T09:00:57+00:00",
@@ -13543,6 +13638,17 @@
     "title": "QR코드에 게임을 눌러담은 개발자",
     "video_id": "hVuX02Ltkw0"
    },
+   "wait_checks": 0
+  },
+  "hWds2i3oQ3Y": {
+   "done_at": "2026-11-09T07:56:11+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-09T07:54:06+00:00",
+   "last_attempt": "2026-11-09T07:55:09+00:00",
+   "notified": "2026-11-09T07:56:46+00:00",
+   "published": "2026-11-09T07:00:13+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "hYGXy_qGEPw": {
