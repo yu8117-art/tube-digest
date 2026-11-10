@@ -1,0 +1,98 @@
+{
+ "video": {
+  "video_id": "acyN2z8Xvw0",
+  "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+  "channel_name": "에스오디 SOD",
+  "title": "\"와 이건 진짜 무섭네\" 전쟁용 AI 끝판왕 등장... 사람이 이길 수 있나?",
+  "published": "2026-11-09T09:00:23+00:00",
+  "description": "AI 에이전트가 탑재된 전쟁로봇, 한국판 팔란티어를 노리는 페르소나AI를 직접 보고 왔습니다. 말 한마디로 로봇 20대를 지휘하고, 적군 목소리는 무시하고, 소리만 듣고 탱크 종류까지 알아내는 AI 에이전트의 정체를 공개합니다.\n\n- 하이젠버그에서 더 자세한 정보를 얻어가세요: https://heisenberg.kr\n\n- 인스타그램: https://www.instagram.com/softdragon__/\n\n- Chapter\n0:00 LIG 로봇\n1:42 VLA 로봇\n2:13 로보틱스 산업 구조\n4:30 세계 휴머노이드 최강은?\n5:20 페르소나AI의 강점\n8:07 소버린AI\n10:02 한국판 팔란티어\n\n- 내용 출처\n1. Boston Dynamics, \"Boston Dynamics & Google DeepMind Form New AI Partnership to Bring Foundational Intelligence to Humanoid Robots\", Boston Dynamics, 2026\n2. Hyundai Motor Group, \"CES 2026: Hyundai Motor Group leverages Group capabilities to lead AI Robotics\", Hyundai Motor Group, 2026\n3. SoftBank Group, \"SOFTBANK ANNOUNCES AGREEMENT TO ACQUIRE BOSTON DYNAMICS\", SoftBank Group, 2017\n4. Carolina Parada, \"Gemini Robotics brings AI into the physical world\", Google DeepMind, 2025\n5. Open X-Embodiment Collaboration, \"Open X-Embodiment: Robotic Learning Datasets and RT-X Models\", Open X-Embodiment, 2023\n6. Boston Dynamics, \"Boston Dynamics Expands Collaboration with NVIDIA to Accelerate AI Capabilities in Humanoid Robots\", Boston Dynamics, 2025\n7. 페르소나AI, \"페르소나AI, 세계대회 수상 기술 기반 피지컬AI 로봇 공략\", 페르소나AI, 2026\n9. 페르소나AI, \"페르소나AI, ‘AI 엑스포’서 피지컬AI 로봇 기술 선보여\", 페르소나AI, 2026\n\n- BGM\n1. Cosmic Pulse by Damon Power\n2. Breaking Sweat by BalloonPlanet\n3. CHONKLAP by Out of Flux\n4. March of the Bold by BalloonPlanet\n5. Above the Clouds by Jamie Wright",
+  "url": "https://www.youtube.com/watch?v=acyN2z8Xvw0"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/acyN2z8Xvw0/maxresdefault.jpg",
+ "source": "video",
+ "duration": 666,
+ "summary": {
+  "headline": "음성 AI로 전투 로봇을 제어하는 한국판 팔란티어 기술 등장",
+  "thumbnail_text": "실제로 보고 왔습니다! \"한국판 팔란티어\" 역대급 전쟁 무기 등장",
+  "thumbnail_answer": "페르소나AI는 온디바이스 음성 AI 엔진을 전투용 사족보행 로봇에 탑재하여, 말 한마디로 수십 대의 로봇을 동시 제어하고 소리만으로 적 장비를 식별하는 기술을 선보이며 '한국판 팔란티어'를 목표로 하고 있다.",
+  "conclusion": "페르소나AI는 5억 원대의 전투용 사족보행 로봇(Vision60) 및 휴머노이드에 온디바이스 음성 AI 엔진을 탑재해 음성으로 다수의 로봇을 동시 제어하는 기술을 개발했다. 인터넷이 터지지 않는 전장 환경에서도 소음 분리, 성문 인식, 사운드 기반 정황 판단이 가능하도록 최적화했다. 독자적인 피지컬 AI 및 sSLM 기술을 바탕으로 국방과 산업 전반을 아우르는 '한국판 팔란티어'로의 도약을 추진하고 있다.",
+  "key_points": [
+   "LIG넥스원이 인수한 전투용 사족보행 로봇(Vision60)에 페르소나AI의 음성 AI OS를 탑재해 실전 시연을 진행했다.",
+   "인터넷 연결이 필요 없는 온디바이스 AI 기반으로 작동해 1명의 조종사가 음성으로 약 20대의 로봇을 동시 제어할 수 있다.",
+   "전장의 극심한 소음 속에서도 명령 권한을 가진 사용자의 목소리만 구분해 인식하는 성문 인식 및 음성 분리 기술을 적용했다.",
+   "사람 귀로 구분하기 힘든 폭발음, 기관총, 탱크의 구체적인 종까지 소리 분석만으로 정밀 식별하는 음성 분석 모델을 보유했다.",
+   "중국 로봇의 퍼포먼스 중심 개발과 달리, 한국과 미국은 실제 공장과 전장에서 중량물을 들거나 전투를 수행하는 실용적 로봇에 집중한다.",
+   "역사 왜곡 문제가 없는 독자적 sSLM 및 온톨로지 기반 AI 기술을 통해 소버린 AI와 국방 방산 분야 진출을 가속화하고 있다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "LIG 사족보행 전투 로봇 시연",
+    "points": [
+     "5억 원대 전투용 사족보행 로봇 Vision60에 페르소나AI OS 탑재 시연",
+     "음성 명령을 통해 1명이 수십 대의 전투 로봇을 동시 제어하는 기술 소개"
+    ]
+   },
+   {
+    "seconds": 102,
+    "title": "휴머노이드 로봇 및 대화형 AI",
+    "points": [
+     "음성으로 전달된 명령을 이해하고 업무를 수행하는 휴머노이드 로봇 작동 시연"
+    ]
+   },
+   {
+    "seconds": 133,
+    "title": "피지컬 AI 및 국가 정책",
+    "points": [
+     "로봇을 AI 에이전트로 활용하는 피지컬 AI 개념 설명",
+     "한국 정부의 피지컬 AI 분야 대규모 투자 및 육성 계획 언급"
+    ]
+   },
+   {
+    "seconds": 270,
+    "title": "글로벌 로봇 시장 비교",
+    "points": [
+     "중국 로봇의 퍼포먼스 위주 개발과 미국·한국의 실전 업무용 로봇 개발 차이점 비교",
+     "고하중을 버티며 실전에 투입되는 보스턴 다이내믹스 아틀라스 등의 기술적 강점 강조"
+    ]
+   },
+   {
+    "seconds": 320,
+    "title": "음성 인식 및 전장 제어 기술",
+    "points": [
+     "전장 소음 속에서 아군 명령자의 목소리만 추출하는 성문 인식 기술",
+     "소리만으로 탱크 및 기관총의 세부 종까지 판별하는 아쿠스틱 AI 기술 공개"
+    ]
+   },
+   {
+    "seconds": 487,
+    "title": "자가진화 모델 및 소버린 AI",
+    "points": [
+     "역사 왜곡 문제를 해결한 한국형 소형 언어 모델(sSLM) 자체 개발",
+     "국내 데이터 보안과 주권을 지키는 소버린 AI 구축 필요성 설명"
+    ]
+   },
+   {
+    "seconds": 602,
+    "title": "한국판 팔란티어 목표",
+    "points": [
+     "온톨로지 및 피지컬 AI 에이전트를 결합해 기업·국방 데이터 통합을 수행하는 한국판 팔란티어 비전 제시"
+    ]
+   }
+  ],
+  "tags": [
+   "페르소나AI",
+   "피지컬AI",
+   "사족보행로봇",
+   "전투로봇",
+   "팔란티어",
+   "국방AI"
+  ],
+  "_usage": {
+   "model": "gemini-3.6-flash",
+   "input_tokens": 62772,
+   "output_tokens": 1221
+  }
+ },
+ "created_at": "2026-11-10T01:03:36+00:00"
+}

@@ -1,0 +1,82 @@
+{
+ "video": {
+  "video_id": "8dPbyRB4ZpE",
+  "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+  "channel_name": "스마트튜브(스튜TV)",
+  "title": "넘쳐나는 경제 채널 속에서 투자 정보를 제대로 수용하는 법이란",
+  "published": "2026-11-09T09:30:06+00:00",
+  "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n🔹교보문고 http://app.ac/LqnFfb203\n🔹예스24 http://app.ac/8AGBe3533\n\n50부터 시작하는 은퇴 후 월급 만드는 부동산\n🔹예스24 http://app.ac/MAGu5e523\n🔹교보문고 http://app.ac/1ECnLKS73\n\n#김학렬 #빠숑 #부동산 #아파트 \n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+  "url": "https://www.youtube.com/watch?v=8dPbyRB4ZpE"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/8dPbyRB4ZpE/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1362,
+ "summary": {
+  "headline": "넘쳐나는 경제 채널 속에서 투자 정보를 수용하는 올바른 기준",
+  "thumbnail_text": "넘쳐나는 경제 채널 속, 투자 정보를 제대로 수용하는 법",
+  "thumbnail_answer": "한 채널만 보지 않고 광고성 구매 유도를 경계하며 스스로 공부해야 한다.",
+  "conclusion": "투자 정보는 한 채널에 의존하지 않고 여러 채널을 객관적으로 비교해야 한다. 철저한 분석과 본인의 기준이 있어야 실패하지 않는다. 부동산은 실거주를 목적으로 삼고 꾸준히 공부하는 것이 안전하다.",
+  "key_points": [
+   "유튜브 채널은 여러 개를 비교하며 편향을 경계해야 한다.",
+   "광고성 구매 유도나 무조건 사라는 정보는 피해야 한다.",
+   "부동산 투자는 확정 수익률보다 실거주와 안전성을 우선해야 한다.",
+   "AI 시대에도 브랜드와 오리지널리티가 있는 정보가 살아남는다.",
+   "악플이나 시기 질투는 조회수와 관심의 반증일 뿐이다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "투자 정보 수용의 어려움",
+    "points": [
+     "유튜브 등 투자 정보 채널이 넘쳐난다.",
+     "시청자는 어떤 채널을 봐야 할지 고민한다."
+    ]
+   },
+   {
+    "seconds": 120,
+    "title": "투자 채널을 선택하고 보는 기준",
+    "points": [
+     "한 채널만 맹신하지 않는다.",
+     "광고성 구매 유도를 주의한다."
+    ]
+   },
+   {
+    "seconds": 360,
+    "title": "부동산 투자와 확정 수익률의 진실",
+    "points": [
+     "확정 수익률을 내세우는 분양은 위험하다.",
+     "수익형 부동산보다 실거주 목적의 접근이 안전하다."
+    ]
+   },
+   {
+    "seconds": 720,
+    "title": "부동산 전문가로서의 정체성",
+    "points": [
+     "직업 정체성은 통계 분석가이자 연구자이다.",
+     "글쓰기와 통계 분석을 기반으로 활동한다."
+    ]
+   },
+   {
+    "seconds": 800,
+    "title": "AI 시대의 경제 정보 시장",
+    "points": [
+     "AI가 정보를 대체하는 시대가 왔다.",
+     "오리지널 브랜드와 실무 경험이 중요하다."
+    ]
+   }
+  ],
+  "tags": [
+   "부동산",
+   "투자정보",
+   "김학렬",
+   "스마트튜브",
+   "재테크"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 125838,
+   "output_tokens": 812
+  }
+ },
+ "created_at": "2026-11-10T01:08:16+00:00"
+}
