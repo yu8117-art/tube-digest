@@ -1,0 +1,125 @@
+{
+ "video": {
+  "video_id": "Ni0gE4LeSlc",
+  "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+  "channel_name": "조코딩 JoCoding",
+  "title": "AI뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 젠슨황 불륜, 신경망 가중치 업데이트, GPT 6.2 Astra, Fable 5.5 곧 출시 등",
+  "published": "2026-11-09T13:00:22+00:00",
+  "description": "매주 최신 AI 뉴스를 전달드립니다.\n조코딩의 바이브 코딩 1인 창업: https://youtu.be/P3jFI-VpyLg\nAX 컨설팅 및 교육 문의: https://jocodingax.ai\n조코헌트: https://jocohunt.jocoding.io/\n\n🕖목차\n00:00 METR 리포트, AI 자기개선 가속\n02:44 그렉 브록만 \"죽음은 선택\"\n03:19 GPT 이미지 2.6 공개\n04:24 GPT-6 Astra, 가중치 직접 수정\n05:39 오픈AI Pro 사용량 공개\n05:56 Fable 5.5·GPT 6.2 Astra 소문\n07:13 앤트로픽 \"꿈꾸기\" 메모리\n08:12 제미나이 옴니 1.2 플래시\n09:06 제미나이 3.8 플래시 TTS\n09:36 구글 Meet 실시간 통역\n10:04 REA Video, 영상 역설계\n10:43 하이퍼프레임 영상 역설계 비교\n11:02 Treg, 에이전트용 통합 API\n11:43 하이퍼프레임 유료 업데이트\n12:10 영상 제작 AI 스킬 모음\n12:41 REA Growth, 성장 전략 역설계\n13:14 Raea, 게임엔진 영상 제작\n13:52 터미널 맥, 터미널 속 macOS\n14:14 Siri AI 개발자 공개\n14:55 에어팟 케이스 마우스\n15:05 아이폰 트랙패드 마우스\n15:25 폰 하네스 MCP\n16:05 폰 유즈, 실물 폰 조작 모음\n16:34 딥시크 하네스 크리에이터 모드\n16:58 텐센트 Hy4 오픈웨이트\n17:31 Relay VSR 업스케일링\n17:57 메타 뮤즈 영상통화\n18:23 풀 듀플렉스 음성 모델\n18:55 바이낸스 해킹, 북한 가짜 면접\n19:55 젠슨 황, 중국 스파이와 불륜\n20:16 니케 PC 런처 해킹\n21:13 딥마인드 RSA 취약점 발견\n21:49 GPT-6 Cyber 공개\n22:07 오픈AI 버그 바운티 인상\n22:20 로봇 영상 입력 해킹\n22:51 테슬라 사이버트럭 생산 중단\n23:12 피규어 F.03 로봇\n23:22 조코헌트 이번 주 수상작\n23:42 조코딩의 바이브코딩 1인 창업\n24:00 VVIP감사인사\n\n📌 출처 및 참고자료\nhttps://x.com/METR_Evals/status/2118412183860351084\nhttps://x.com/kimmonismus/status/2119194486135832926\nhttps://x.com/AM09_21/status/2118935698325880999\nhttps://www.google.com/search?q=민주당+데이터센터&sca_esv=48a48a4d64ffe1e8&biw=1518&bih=882&tbm=nws&sxsrf=AKL5yDgkVaE0Iz44LJgM50y-9FZ-2MiVBA:1794127990592&story=Gi8IjAEaKgoTc3RvcnlfbGFiZWxfcGFydGlhbBITQUkg642w7J207YSwIOyEvO2EsDIwCibStfPjnLniudUB6qjQy5zBwID6Ac3OhsyL3tnHZ5y0ovfe6ujZKRD6s7CnEhgFcgIQAg&fcs=APcs-_ty2Tv00EeutNXAKiyaxb5wPoIwhw&sa=X&ved=2ahUKEwjs773M__eXAxVcr1YBHVe8E7IQ7IUHegQIFBAE\nhttps://x.com/elonmusk/status/2117862462976594112\nhttps://x.com/firesidealpha/status/2118216775368396890\nhttps://x.com/OpenAI/status/2118124944928432327\nhttps://x.com/gabrielchua/status/2118135343354720648\nhttps://developers.openai.com/api/docs/guides/image-prompting\nhttps://news.hada.io/topic?id=36478\nhttps://x.com/thsottiaux/status/2119296267545419987\nhttps://x.com/chetaslua/status/2117169796290916732\nhttps://x.com/TokenGremlin/status/2116834891744600291\nhttps://x.com/Octoberry/status/2116918967558095131\nhttps://news.hada.io/topic?id=36775\nhttps://x.com/AnthropicAI/status/2118814753154064501\nhttps://x.com/Google/status/2118390406316728555\nhttps://x.com/Google/status/2118027058794148099\nhttps://x.com/GoogleWorkspace/status/2118071537643209021\nhttps://x.com/CY160909/status/2117837743833145749\nhttps://github.com/JuneYaooo/rea-video\nhttps://github.com/heygen-com/hyperframes\nhttps://x.com/WaterrrMiao/status/2118790987875221905\nhttps://x.com/treg_ai/status/2118660249150427243\nhttps://treg.to/social\nhttps://x.com/HyperFrames_/status/2118049784548495490\nhttps://x.com/Y0urDumble/status/2119023461267833047\nhttps://x.com/jasonzhou1993/status/2116122945605222637\nhttps://raea.io/why/\nhttps://x.com/kirtandopamine/status/2117678349828976746\nhttps://github.com/govijr/terminal-mac\nhttps://developer.apple.com/news/?id=gdk2umrf\nhttps://x.com/instantricecook/status/2117802767557574717\nhttps://x.com/coolerwave/status/2119153549678661905\nhttps://x.com/shawn_pana/status/2117308255517249597\nhttps://github.com/phone-harness/mcp\nhttps://x.com/lxe/status/2118881765704319015\nhttps://x.com/lxe/status/2119264457234993571\nhttps://x.com/DeepSeekHarness/status/2116857257245987236\nhttps://x.com/DeepSeekHarness/status/2117256196227019194\nhttps://x.com/TencentHunyuan/status/2117887087815139440\nhttps://x.com/TencentAI_News/status/2117872859834110067\nhttps://kopperx.github.io/RelayVSR/\nhttps://x.com/alexandr_wang/status/2118411432161403375\nhttps://x.com/ShizukuAILabs/status/2119266216040898635\nhttps://news.hada.io/topic?id=36596\nhttps://x.com/AlphaWireHQ/status/2116893978620555520\nhttps://www.yna.co.kr/view/AKR20261107031200009\nhttps://www.yna.co.kr/view/AKR20261107050000017\nhttps://x.com/Polymarket/status/2118949821037912517\nhttps://news.hada.io/topic?id=36571\nhttps://namu.wiki/w/2026년%20승리의%20여신:%20니케%20PC%20클라이언트%20해킹%20사건\nhttps://x.com/GoogleDeepMind/status/2118755418675765656\nhttps://x.com/OpenAI/status/2118390190246879554\nhttps://news.hada.io/topic?id=36567\nhttps://x.com/robocurve/status/2118791723606593694\nhttps://news.hada.io/topic?id=36710\nhttps://x.com/adcock_brett/status/2119127304265949511\n\nVVIP 멤버십 후원\n그림자그림자님, Sicongbabe님, 정진균님, 시원-r9u님, GomnaStudio님, 천사슥님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#AI뉴스 #AI #인공지능",
+  "url": "https://www.youtube.com/watch?v=Ni0gE4LeSlc"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/Ni0gE4LeSlc/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1451,
+ "summary": {
+  "headline": "AI 스스로 발전 속도 2배 가속, 하드웨어 장벽도 넘는다",
+  "thumbnail_text": "AI 뉴스 METR 실제 발전 속도 기존 예측 미친 속도로 AI 스스로 발전한다",
+  "thumbnail_answer": "METR 조사 결과 앤트로픽 내부 AI 발전 속도는 기존 예측을 뛰어넘어 1.9배 가속화됐다. 데이터센터 건설 지연 등 하드웨어 제약이 생겨도 모델 자체의 개량과 소프트웨어 발전(RSI)으로 폭발적인 성장을 이어간다.",
+  "conclusion": "METR 보고서는 AI가 AI 개발을 가속하는 재귀적 자기개선(RSI)이 실제로 작동하고 있음을 보여준다. 하드웨어 증설 지연 이슈와 무관하게 모델 자체 가중치 수정과 소프트웨어 혁신으로 발전 속도는 유지된다. 동시에 고도화된 AI를 악용한 다단계 사회공학 해킹과 입력 조작 공격 위험도 급격히 커지고 있다.",
+  "key_points": [
+   "METR 조사 결과 앤트로픽 모델 발전 속도는 과거 대비 약 1.9배 빨라져 기존 낙관적 예측 곡선조차 뛰어넘었다.",
+   "데이터센터 건설 지연 등 물리적 한계가 닥쳐도 소프트웨어와 알고리즘 기반 가속이 성장을 견인한다.",
+   "GPT-6 Astra가 다른 모델(Qwen)의 신경망 가중치를 직접 읽고 0.016%만 수정해 수학 성능을 7.9%에서 48.1%로 끌어올렸다.",
+   "오픈AI는 50% 빨라진 GPT Images 2.6을 공개했고, 앤트로픽은 인간처럼 휴식하며 기억을 압축·교정하는 '꿈꾸기' 메모리 개념을 발표했다.",
+   "실물 스마트폰과 맥 환경을 통째로 제어하는 에이전트 도구와 영상 역설계 자동화 툴이 오픈소스로 쏟아졌다.",
+   "북한의 가짜 면접을 통한 바이낸스 63억 달러 해킹, 니케 PC 런처 변조, 딥마인드의 RSA 1024 암호 공격 등 보안 위협이 확산됐다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "METR 리포트와 AI 자기개선(RSI) 현실화",
+    "points": [
+     "앤트로픽 비공개 모델 분석 결과 과거 2년 치 진전이 1년 만에 달성되는 1.9배 가속이 확인됐다.",
+     "데이터센터 신설 지연 등 하드웨어 제약이 생겨도 소프트웨어 자체 발전으로 돌파가 가능하다."
+    ]
+   },
+   {
+    "seconds": 164,
+    "title": "그렉 브록만 인터뷰 및 신규 모델 소식",
+    "points": [
+     "오픈AI 그렉 브록만은 향후 12~18개월 내 AI 질병 치료 발전으로 '죽음이 선택'이 될 수 있다고 주장했다.",
+     "X(트위터)상에서 Fable 5.5 및 조용히 A/B 테스트 중인 GPT 6.2 Astra 정보가 유출됐다."
+    ]
+   },
+   {
+    "seconds": 204,
+    "title": "OpenAI GPT Images 2.6 출시",
+    "points": [
+     "이전 대비 속도가 50% 향상됐으며 고성능 Sunburst와 초고속 Flare 두 모델로 나뉜다.",
+     "스케치를 애니메이션 GIF로 변환할 수 있고 추론 강도에 따른 디테일 제어가 지원된다."
+    ]
+   },
+   {
+    "seconds": 264,
+    "title": "LLM의 신경망 가중치 직접 편집 실험",
+    "points": [
+     "GPT-6 Astra가 Qwen 3.5 가중치를 직접 수정해 MATH-500 점수를 7.9%에서 48.1%로 대폭 개선했다.",
+     "추가 재학습 루프 없이 모델 내부 가중치 미세 조정만으로 성능을 교정하는 가능성을 열었다."
+    ]
+   },
+   {
+    "seconds": 433,
+    "title": "앤트로픽 '꿈꾸기' 에이전트 메모리 관리",
+    "points": [
+     "대화 로그를 무작정 누적하기보다 중요 정보만 골라 복기하고 오류를 바로잡는 과정이 필요하다.",
+     "인간 수면처럼 비작업 시간에 기억을 요약·정리하는 '꿈꾸기' 프로세스를 엔지니어링 블로그에 공유했다."
+    ]
+   },
+   {
+    "seconds": 492,
+    "title": "구글 제미나이 옴니 1.2 플래시 및 실시간 통역",
+    "points": [
+     "30% 저렴한 비용으로 최대 15초 길이의 3D 일관성 비디오를 생성하는 옴니 1.2 플래시가 공개됐다.",
+     "구글 Meet에서 63개 언어를 실시간 더빙 형태로 자동 번역해 주는 기능이 적용됐다."
+    ]
+   },
+   {
+    "seconds": 604,
+    "title": "영상 및 성장 전략 역설계 오픈소스 확산",
+    "points": [
+     "기존 영상을 프롬프트, 편집 리듬, 자막 단위로 분해해 동일하게 재생성하는 REA Video가 등장했다.",
+     "타깃 기업의 마케팅, SEO, 광고 히스토리를 분석해 전략을 복제해 주는 REA Growth가 출시됐다."
+    ]
+   },
+   {
+    "seconds": 854,
+    "title": "Siri AI 전면 개방과 스마트폰 제어 에이전트",
+    "points": [
+     "애플이 서드파티 앱 개발자 고유 동작까지 Siri AI와 연결할 수 있도록 API를 전면 개방했다.",
+     "Phone Harness MCP와 phoneuse를 통해 PC나 에이전트가 실물 아이폰 화면을 직접 보고 조작할 수 있다."
+    ]
+   },
+   {
+    "seconds": 1135,
+    "title": "바이낸스 해킹·니케 침해·RSA 암호 취약점",
+    "points": [
+     "북한 해커가 링크드인 가짜 채용 면접으로 엔지니어 PC에 악성코드를 심어 바이낸스 자산을 탈취했다.",
+     "게임 니케의 PC 런처 CDN 자바스크립트가 변조되어 이용자 정보 탈취 위험이 발생했다.",
+     "구글 딥마인드 AI가 RSA 1024 암호 체계 공격 비용을 3.5배 이상 낮추는 취약 알고리즘을 찾아냈다."
+    ]
+   },
+   {
+    "seconds": 1371,
+    "title": "테슬라 사이버트럭 중단설과 피규어 F.03 로봇",
+    "points": [
+     "테슬라가 판매 부진의 사이버트럭 생산을 단계적으로 줄이고 사이버캡 로보택시에 집중할 방침이다.",
+     "피규어 AI 야외 캠퍼스를 자유롭게 무리 지어 보행하는 휴머노이드 F.03 영상이 공개됐다."
+    ]
+   }
+  ],
+  "tags": [
+   "AI뉴스",
+   "METR",
+   "RSI",
+   "OpenAI",
+   "앤트로픽",
+   "AI보안"
+  ],
+  "_usage": {
+   "model": "gemini-3.8-flash",
+   "input_tokens": 136437,
+   "output_tokens": 1777
+  }
+ },
+ "created_at": "2026-11-11T01:37:42+00:00"
+}

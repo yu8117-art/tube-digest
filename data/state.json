@@ -4713,6 +4713,21 @@
    },
    "wait_checks": 0
   },
+  "DdPS1Y28kbU": {
+   "errors": 0,
+   "first_seen": "2026-11-11T01:34:55+00:00",
+   "published": "2026-11-10T23:02:24+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
+    "channel_name": "소유보다 경험 - 아이언 / 공모주",
+    "description": "이 방송은 하나에어로다이내믹스/하나에어로다이나믹스 공모주 청약의 어니언 5사6입 라이브입니다.\n\n다른 분들과 소통을 원하시면 메인 방송을 이용해주세요.\nhttps://youtube.com/live/RBQPvCIIERE \n\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트(하이브) 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다.\n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
+    "published": "2026-11-10T23:02:24+00:00",
+    "title": "[11/9] 하나에어로다이내믹스 어니언 5사6입 2일차 실시간 공모주 청약경쟁률 LIVE / IBK투자증권 / 하나에어로다이나믹스",
+    "video_id": "DdPS1Y28kbU"
+   },
+   "wait_checks": 0
+  },
   "DdUNQnI3nJ0": {
    "done_at": "2026-10-20T09:29:57+00:00",
    "errors": 0,
@@ -7662,18 +7677,14 @@
    "wait_checks": 0
   },
   "Ni0gE4LeSlc": {
+   "done_at": "2026-11-11T01:37:42+00:00",
    "errors": 0,
    "first_seen": "2026-11-09T17:56:44+00:00",
+   "last_attempt": "2026-11-11T01:34:58+00:00",
+   "notified": "2026-11-11T01:43:05+00:00",
    "published": "2026-11-09T13:00:22+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
-    "channel_name": "조코딩 JoCoding",
-    "description": "매주 최신 AI 뉴스를 전달드립니다.\n조코딩의 바이브 코딩 1인 창업: https://youtu.be/P3jFI-VpyLg\nAX 컨설팅 및 교육 문의: https://jocodingax.ai\n조코헌트: https://jocohunt.jocoding.io/\n\n🕖목차\n00:00 METR 리포트, AI 자기개선 가속\n02:44 그렉 브록만 \"죽음은 선택\"\n03:19 GPT 이미지 2.6 공개\n04:24 GPT-6 Astra, 가중치 직접 수정\n05:39 오픈AI Pro 사용량 공개\n05:56 Fable 5.5·GPT 6.2 Astra 소문\n07:13 앤트로픽 \"꿈꾸기\" 메모리\n08:12 제미나이 옴니 1.2 플래시\n09:06 제미나이 3.8 플래시 TTS\n09:36 구글 Meet 실시간 통역\n10:04 REA Video, 영상 역설계\n10:43 하이퍼프레임 영상 역설계 비교\n11:02 Treg, 에이전트용 통합 API\n11:43 하이퍼프레임 유료 업데이트\n12:10 영상 제작 AI 스킬 모음\n12:41 REA Growth, 성장 전략 역설계\n13:14 Raea, 게임엔진 영상 제작\n13:52 터미널 맥, 터미널 속 macOS\n14:14 Siri AI 개발자 공개\n14:55 에어팟 케이스 마우스\n15:05 아이폰 트랙패드 마우스\n15:25 폰 하네스 MCP\n16:05 폰 유즈, 실물 폰 조작 모음\n16:34 딥시크 하네스 크리에이터 모드\n16:58 텐센트 Hy4 오픈웨이트\n17:31 Relay VSR 업스케일링\n17:57 메타 뮤즈 영상통화\n18:23 풀 듀플렉스 음성 모델\n18:55 바이낸스 해킹, 북한 가짜 면접\n19:55 젠슨 황, 중국 스파이와 불륜\n20:16 니케 PC 런처 해킹\n21:13 딥마인드 RSA 취약점 발견\n21:49 GPT-6 Cyber 공개\n22:07 오픈AI 버그 바운티 인상\n22:20 로봇 영상 입력 해킹\n22:51 테슬라 사이버트럭 생산 중단\n23:12 피규어 F.03 로봇\n23:22 조코헌트 이번 주 수상작\n23:42 조코딩의 바이브코딩 1인 창업\n24:00 VVIP감사인사\n\n📌 출처 및 참고자료\nhttps://x.com/METR_Evals/status/2118412183860351084\nhttps://x.com/kimmonismus/status/2119194486135832926\nhttps://x.com/AM09_21/status/2118935698325880999\nhttps://www.google.com/search?q=민주당+데이터센터&sca_esv=48a48a4d64ffe1e8&biw=1518&bih=882&tbm=nws&sxsrf=AKL5yDgkVaE0Iz44LJgM50y-9FZ-2MiVBA:1794127990592&story=Gi8IjAEaKgoTc3RvcnlfbGFiZWxfcGFydGlhbBITQUkg642w7J207YSwIOyEvO2EsDIwCibStfPjnLniudUB6qjQy5zBwID6Ac3OhsyL3tnHZ5y0ovfe6ujZKRD6s7CnEhgFcgIQAg&fcs=APcs-_ty2Tv00EeutNXAKiyaxb5wPoIwhw&sa=X&ved=2ahUKEwjs773M__eXAxVcr1YBHVe8E7IQ7IUHegQIFBAE\nhttps://x.com/elonmusk/status/2117862462976594112\nhttps://x.com/firesidealpha/status/2118216775368396890\nhttps://x.com/OpenAI/status/2118124944928432327\nhttps://x.com/gabrielchua/status/2118135343354720648\nhttps://developers.openai.com/api/docs/guides/image-prompting\nhttps://news.hada.io/topic?id=36478\nhttps://x.com/thsottiaux/status/2119296267545419987\nhttps://x.com/chetaslua/status/2117169796290916732\nhttps://x.com/TokenGremlin/status/2116834891744600291\nhttps://x.com/Octoberry/status/2116918967558095131\nhttps://news.hada.io/topic?id=36775\nhttps://x.com/AnthropicAI/status/2118814753154064501\nhttps://x.com/Google/status/2118390406316728555\nhttps://x.com/Google/status/2118027058794148099\nhttps://x.com/GoogleWorkspace/status/2118071537643209021\nhttps://x.com/CY160909/status/2117837743833145749\nhttps://github.com/JuneYaooo/rea-video\nhttps://github.com/heygen-com/hyperframes\nhttps://x.com/WaterrrMiao/status/2118790987875221905\nhttps://x.com/treg_ai/status/2118660249150427243\nhttps://treg.to/social\nhttps://x.com/HyperFrames_/status/2118049784548495490\nhttps://x.com/Y0urDumble/status/2119023461267833047\nhttps://x.com/jasonzhou1993/status/2116122945605222637\nhttps://raea.io/why/\nhttps://x.com/kirtandopamine/status/2117678349828976746\nhttps://github.com/govijr/terminal-mac\nhttps://developer.apple.com/news/?id=gdk2umrf\nhttps://x.com/instantricecook/status/2117802767557574717\nhttps://x.com/coolerwave/status/2119153549678661905\nhttps://x.com/shawn_pana/status/2117308255517249597\nhttps://github.com/phone-harness/mcp\nhttps://x.com/lxe/status/2118881765704319015\nhttps://x.com/lxe/status/2119264457234993571\nhttps://x.com/DeepSeekHarness/status/2116857257245987236\nhttps://x.com/DeepSeekHarness/status/2117256196227019194\nhttps://x.com/TencentHunyuan/status/2117887087815139440\nhttps://x.com/TencentAI_News/status/2117872859834110067\nhttps://kopperx.github.io/RelayVSR/\nhttps://x.com/alexandr_wang/status/2118411432161403375\nhttps://x.com/ShizukuAILabs/status/2119266216040898635\nhttps://news.hada.io/topic?id=36596\nhttps://x.com/AlphaWireHQ/status/2116893978620555520\nhttps://www.yna.co.kr/view/AKR20261107031200009\nhttps://www.yna.co.kr/view/AKR20261107050000017\nhttps://x.com/Polymarket/status/2118949821037912517\nhttps://news.hada.io/topic?id=36571\nhttps://namu.wiki/w/2026년%20승리의%20여신:%20니케%20PC%20클라이언트%20해킹%20사건\nhttps://x.com/GoogleDeepMind/status/2118755418675765656\nhttps://x.com/OpenAI/status/2118390190246879554\nhttps://news.hada.io/topic?id=36567\nhttps://x.com/robocurve/status/2118791723606593694\nhttps://news.hada.io/topic?id=36710\nhttps://x.com/adcock_brett/status/2119127304265949511\n\nVVIP 멤버십 후원\n그림자그림자님, Sicongbabe님, 정진균님, 시원-r9u님, GomnaStudio님, 천사슥님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#AI뉴스 #AI #인공지능",
-    "published": "2026-11-09T13:00:22+00:00",
-    "title": "AI뉴스 - METR 리포트, 죽음은 선택사항, GPT Images 2.6, 젠슨황 불륜, 신경망 가중치 업데이트, GPT 6.2 Astra, Fable 5.5 곧 출시 등",
-    "video_id": "Ni0gE4LeSlc"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "NiQsrUeL6g8": {
@@ -8500,6 +8511,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "Pus54X3425Q": {
+   "errors": 0,
+   "first_seen": "2026-11-11T01:34:55+00:00",
+   "published": "2026-11-10T22:51:40+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
+    "channel_name": "소유보다 경험 - 아이언 / 공모주",
+    "description": "바로팜 공모주 상장일의 실시간 동시호가, 주가 현황을 실시간 라이브로 제공합니다.\n특히 이번부터 기존의 상장라이브 시스템을 개편하여, 조금 더 가독성이 높고 양질의 정보를 제공하도록 새롭게 제공되니 참고부탁드립니다.\n-\n상장 전과 직후에는 음성 안내가 진행되고, 이후에는 AI음성안내와 음악이 함께 제공됩니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
+    "published": "2026-11-10T22:51:40+00:00",
+    "title": "[11/11] 바로팜 상장일 실시간 동시호가, 주가 현황  LIVE / 미래에셋증권",
+    "video_id": "Pus54X3425Q"
+   },
+   "wait_checks": 0
+  },
   "PvXdC-iM1Rs": {
    "done_at": "2026-10-28T12:58:42+00:00",
    "errors": 0,
@@ -8974,6 +9000,21 @@
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-09-27T09:04:49+00:00",
    "status": "baseline"
+  },
+  "RBQPvCIIERE": {
+   "errors": 0,
+   "first_seen": "2026-11-11T01:34:55+00:00",
+   "published": "2026-11-10T22:56:09+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
+    "channel_name": "소유보다 경험 - 아이언 / 공모주",
+    "description": "하나에어로다이내믹스/하나에어로다이나믹스 2일차를 실시간 공모주 경쟁률 라이브로 제공합니다.\n자세한 정보는 유튜브 영상과 블로그를 참고해주세요.\nhttps://blog.naver.com/msql/\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다. \n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
+    "published": "2026-11-10T22:56:09+00:00",
+    "title": "[11/11] 하나에어로다이내믹스 2일차 실시간 공모주 청약경쟁률 LIVE / 하나에어로다이나믹스",
+    "video_id": "RBQPvCIIERE"
+   },
+   "wait_checks": 0
   },
   "RCG4m04EUNE": {
    "errors": 0,
@@ -10724,6 +10765,21 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "WJ8OVNzjp6w": {
+   "errors": 0,
+   "first_seen": "2026-11-11T01:34:55+00:00",
+   "published": "2026-11-10T23:04:04+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
+    "channel_name": "소유보다 경험 - 아이언 / 공모주",
+    "description": "아이언의 공모주청약 대시보드 실시간청약경쟁률 LIVE 입니다.\n\n다른 분들과 소통을 원하시면 메인 방송을 이용해주세요.\nhttps://youtube.com/live/RBQPvCIIERE \n\n어니언 자동계산은 어니언 방송을 이용해주세요. \nhttps://youtube.com/live/DdPS1Y28kbU\n\n-\n실시간으로 경쟁률을 보고 싶어하시는 분들을 위해,\n2020년 빅히트엔터테인먼트(하이브) 청약부터 블로그 게시물과 댓글로 제공되던 정보를 유튜브라이브로 공개합니다.\n\n청약에 도움이 되었으면 좋겠습니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
+    "published": "2026-11-10T23:04:04+00:00",
+    "title": "[11/11] 아이언의 공모주청약 대시보드 실시간청약경쟁률 LIVE / 하나에어로다이내믹스, 하나에어로다이나믹스",
+    "video_id": "WJ8OVNzjp6w"
+   },
+   "wait_checks": 0
+  },
   "WM76m1GByyg": {
    "done_at": "2026-10-27T11:42:01+00:00",
    "errors": 0,
@@ -10784,6 +10840,21 @@
     "published": "2026-10-19T11:00:35+00:00",
     "title": "용산공원 부지를 밀고 아파트로?",
     "video_id": "WbJARnQFzuk"
+   },
+   "wait_checks": 0
+  },
+  "WbeV1oz8mys": {
+   "errors": 0,
+   "first_seen": "2026-11-11T01:34:49+00:00",
+   "published": "2026-11-10T23:00:00+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCFhF5oooL5ugxHKvTxBD75Q",
+    "channel_name": "땅집고",
+    "description": "🏠 잠깐 살아도 단단하게, 단단홈즈\n\n비어 있는 방을 임대하고 싶을 때도,\n출장·이사·인테리어로 잠깐 살 집이 필요할 때도!\n단단홈즈에서 더 안심하고 단기임대를 시작해 보세요.\n\n🔑 [호스트] 내 방 등록하고 단기임대 시작하기\n🔗 https://ader.dandanhomes.com/bsve9r\n\n🏡 [게스트] 필요한 기간만큼 살 집 찾기\n🔗 https://ader.dandanhomes.com/tvt76qo\n\n🏢 “내 개발사업에 AI를 어디까지 활용할 수 있을까?”\n개발계획·사업성 검토·인허가부터\n에너지·보안·주차 운영까지\n현업 사례로 배우는 AI 부동산 실전교육\n👉 신청하기 ▼ https://zipgobiz.com/\n\n📌 땅집고TV 구독하고 남들보다 빠른 부동산 안목을 키우세요\n​👉 지금 바로 구독·좋아요·알림설정까지! http://bit.ly/3RmNLky\n오늘 영상에 대한 여러분의 의견도 댓글로 자유롭게 남겨주세요💬",
+    "published": "2026-11-10T23:00:00+00:00",
+    "title": "무시받던 강남 끝 판자촌...대체 왜 22억 주고 살까? #shorts",
+    "video_id": "WbeV1oz8mys"
    },
    "wait_checks": 0
   },
@@ -11320,6 +11391,21 @@
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-07-29T08:00:03+00:00",
    "status": "baseline"
+  },
+  "Yd-gK2ZRZe4": {
+   "errors": 0,
+   "first_seen": "2026-11-11T01:34:56+00:00",
+   "published": "2026-11-10T22:00:10+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCDSj40X9FFUAnx1nv7gQhcA",
+    "channel_name": "월급쟁이부자들TV",
+    "description": "📍 김성일님과 함께 나눈 이야기 (촬영일자 : 2026. 8. 26)\n00:00 연금저축·IRP·ISA 계좌 활용법\n02:10 어디서부터 어떻게 시작할까?\n05:08 900만원, 이 숫자를 모르면 손해\n06:16 대출까지 받아서 넣어도 될까?\n08:45 연봉 5,500만원, 이 숫자가 갈림길\n10:20 중간에 깨면 얼마나 손해 볼까?\n13:41 ISA 만기 목돈, 이렇게 쓰면 손해\n15:54 오늘 당장 뭐부터 해야 할까?\n\n📌 ISA, IRP, 연금저축 뭐가 다른지 아직도 모르세요? 이렇게 하면 매년 200만원 절세됩니다!\n👉🏻 [프메퍼 무료 칼럼 보러가기] https://link.weolbu.com/4e8yEDW\n\n📌 (7분 만에 마감된) 나에게 딱 맞는 재테크 찾는 법!\n👉🏻 너나위의 [재테크 입문반] https://link.weolbu.com/4BDOVuq\n\n(오디오가 고르지 못한 점 양해 부탁드립니다.)\n\n#ISA #직장인재테크 #연금저축 #IRP #노후대비 #김성일 #월부강의 #월부후기",
+    "published": "2026-11-10T22:00:10+00:00",
+    "title": "\"나만 빼고 다 알고 있다\" 모르면 무조건 손해 보는 계좌 활용법, 연금저축·IRP·ISA 이렇게 써야 합니다!",
+    "video_id": "Yd-gK2ZRZe4"
+   },
+   "wait_checks": 0
   },
   "YgqDNIqQcIg": {
    "errors": 0,
@@ -17278,6 +17364,21 @@
    "transcript_status": "blocked:RequestBlocked",
    "wait_checks": 0
   },
+  "paBKlgscxRQ": {
+   "errors": 0,
+   "first_seen": "2026-11-11T01:34:54+00:00",
+   "published": "2026-11-10T22:30:36+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n28년 29년 지나면 전월세 진짜 난리나는 이유\n\n☞촬영일: 26년 11월 2일",
+    "published": "2026-11-10T22:30:36+00:00",
+    "title": "28년 29년 지나면 전월세 진짜 난리나는 이유 [김건우 대표]",
+    "video_id": "paBKlgscxRQ"
+   },
+   "wait_checks": 0
+  },
   "pdiiGVBF0ks": {
    "errors": 0,
    "first_seen": "2026-10-23T11:09:44+00:00",
@@ -19794,6 +19895,7 @@
   "xXPFM_PAnFk": {
    "errors": 0,
    "first_seen": "2026-11-09T17:56:42+00:00",
+   "last_attempt": "2026-11-11T01:37:42+00:00",
    "published": "2026-11-09T13:30:10+00:00",
    "status": "pending",
    "video": {
