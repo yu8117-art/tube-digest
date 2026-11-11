@@ -20,7 +20,7 @@ import html
 import re
 
 from . import pipeline
-from .config import ROOT, Channel, load_channels, load_config, save_channels
+from .config import DATA_DIR, ROOT, Channel, load_channels, load_config, save_channels
 from .gitsync import git_publish, git_pull
 from .notifier import notify, telegram_chat_ids, telegram_messages
 from .state import DONE, RunLock, State, load_all_articles, now_iso, save_article
@@ -45,6 +45,17 @@ def setup_logging() -> None:
 def cmd_run(args) -> None:
     with RunLock():
         pipeline.run(load_config(), dry_run=args.dry_run, do_notify=not args.no_notify)
+
+
+def cmd_telegram(args) -> None:
+    """텔레그램으로 받은 유튜브 링크를 요약해 답장한다 (telegram.yml이 5분마다 호출)."""
+    from .inbox import process_inbox
+    cfg = load_config()
+    with RunLock(DATA_DIR / "inbox.lock"):  # 구독 확인(run)과는 따로 돈다
+        n = process_inbox(cfg)
+        if cfg.git_push:  # 처리 위치(offset)와 요약을 저장해야 다음 실행이 같은 메시지를 다시 처리하지 않는다
+            git_publish("digest: 텔레그램 요청 처리", paths=("data/telegram.json", "data/articles"))
+    print(f"텔레그램 요청 {n}건 요약·전송")
 
 
 def cmd_notify(args) -> None:
@@ -196,6 +207,8 @@ def main() -> None:
     r.add_argument("--no-notify", action="store_true", help="알림은 나중에 notify 명령으로")
     r.set_defaults(func=cmd_run)
     sub.add_parser("notify", help="아직 안 보낸 알림 전송").set_defaults(func=cmd_notify)
+    sub.add_parser("telegram", help="텔레그램으로 받은 유튜브 링크 요약·답장 (Actions가 5분마다 호출)"
+                   ).set_defaults(func=cmd_telegram)
     a = sub.add_parser("add", help="채널 추가 (@핸들, 채널 URL, UC… ID) → GitHub 반영까지")
     a.add_argument("refs", nargs="+")
     a.set_defaults(func=cmd_add)

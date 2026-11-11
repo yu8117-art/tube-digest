@@ -30,9 +30,13 @@ def git_publish(message: str, paths: tuple[str, ...] = ("data",)) -> bool:
     ahead = _git("rev-list", "--count", "@{u}..HEAD")
     if ahead.returncode == 0 and ahead.stdout.strip() == "0":
         return False
-    # GitHub Actions가 먼저 기록을 커밋해 둔 경우 그 위에 얹는다
-    git_pull()
-    p = _git("push")
-    if p.returncode != 0:
-        raise RuntimeError(f"git push 실패: {p.stderr.strip()}")
-    return True
+    # 다른 실행(구독 확인 / 텔레그램 요청)이 먼저 커밋해 둔 경우 그 위에 얹는다. 둘이 거의 동시에 push하면
+    # 받아온 직후에도 원격이 앞서 있을 수 있어 몇 번 다시 시도한다.
+    for attempt in range(3):
+        git_pull()
+        p = _git("push")
+        if p.returncode == 0:
+            return True
+        if "rejected" not in p.stderr and "fetch first" not in p.stderr:
+            break
+    raise RuntimeError(f"git push 실패: {p.stderr.strip()}")

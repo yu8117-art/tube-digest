@@ -1,0 +1,42 @@
+# 텔레그램 봇에 보낸 유튜브 링크를 요약해서 답장한다. 5분마다 봇의 새 메시지를 확인한다.
+# 상시 서버가 없어 웹훅 대신 주기 확인을 쓰므로 답장까지 보통 5~15분 걸린다 (예약 실행은 늦어질 수 있음).
+# 구독 채널 확인(digest.yml)과는 따로 돈다. 서로 다른 파일(data/telegram.json vs data/state.json)을 커밋한다.
+name: telegram-requests
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telegram-requests
+  cancel-in-progress: false
+
+jobs:
+  inbox:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      # 시작 시점의 최신 main을 받는다 (앞 실행이 올린 처리 위치를 봐야 같은 메시지를 두 번 처리하지 않는다)
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: |
+          git config user.name "tube-digest-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: 텔레그램 요청 요약·답장
+        run: python -m tubedigest telegram
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

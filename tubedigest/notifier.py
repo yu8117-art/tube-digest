@@ -25,9 +25,10 @@ def _visible_len(html_text: str) -> int:
     return len(html.unescape(re.sub(r"<[^>]+>", "", html_text)))
 
 
-def notify(cfg: Config, article: dict) -> None:
+def notify(cfg: Config, article: dict, reply_to: int | None = None) -> None:
+    """요약을 보낸다. reply_to를 주면 텔레그램에서 그 메시지(링크를 보낸 메시지)에 답장으로 붙인다."""
     if cfg.notify_provider == "telegram":
-        _telegram(cfg, article)
+        _telegram(cfg, article, reply_to)
     elif cfg.notify_provider == "ntfy":
         _ntfy(cfg, article)
     elif cfg.notify_provider != "none":
@@ -80,10 +81,15 @@ def telegram_messages(article: dict) -> list[str]:
     return msgs
 
 
-def _telegram(cfg: Config, article: dict) -> None:
+def _tg_auth(cfg: Config) -> tuple[str, str]:
     token, chat_id = cfg.secrets["TELEGRAM_BOT_TOKEN"], cfg.secrets["TELEGRAM_CHAT_ID"]
     if not token or not chat_id:
         raise NotifyError("TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID가 없음 (.env 또는 GitHub Secrets)")
+    return token, chat_id
+
+
+def _telegram(cfg: Config, article: dict, reply_to: int | None = None) -> None:
+    token, chat_id = _tg_auth(cfg)
     yt = article["video"]["url"]
     no_preview = {"is_disabled": True}
     for i, text in enumerate(telegram_messages(article)):
@@ -91,24 +97,42 @@ def _telegram(cfg: Config, article: dict) -> None:
             time.sleep(1.1)  # 같은 채팅방에는 초당 1개 정도만 보내야 429를 피한다
         # 첫 메시지에는 유튜브 링크 미리보기(썸네일)를 본문 위에 크게 띄운다
         preview = {"url": yt, "prefer_large_media": True, "show_above_text": True} if i == 0 else no_preview
-        r = _send(token, chat_id, text, preview)
+        reply = reply_to if i == 0 else None
+        r = _send(token, chat_id, text, preview, reply)
         if r.status_code == 429:  # 텔레그램이 알려준 시간만큼 기다렸다가 한 번 더
             time.sleep(_retry_after(r) + 1)
-            r = _send(token, chat_id, text, preview)
+            r = _send(token, chat_id, text, preview, reply)
         if r.status_code == 429 and preview is not no_preview:
             # 특정 영상은 텔레그램이 링크 미리보기를 못 만들어 매번 429를 준다(2026-10-12 실측: 같은 영상이
             # 51번 연속 실패, 미리보기를 끄자 바로 전송). 썸네일 없이라도 요약은 보낸다.
-            r = _send(token, chat_id, text, no_preview)
+            r = _send(token, chat_id, text, no_preview, reply)
         if not r.ok:
             raise NotifyError(f"Telegram 전송 실패 {r.status_code}: {r.text[:200]}")
 
 
-def _send(token: str, chat_id: str, text: str, preview: dict) -> requests.Response:
-    return requests.post(
-        f"https://api.telegram.org/bot{token}/sendMessage",
-        json={"chat_id": chat_id, "text": text, "parse_mode": "HTML", "link_preview_options": preview},
-        timeout=20,
-    )
+def _send(token: str, chat_id: str, text: str, preview: dict, reply_to: int | None = None) -> requests.Response:
+    body = {"chat_id": chat_id, "text": text, "parse_mode": "HTML", "link_preview_options": preview}
+    if reply_to:  # 원래 메시지가 지워졌어도 답장 없이 보낸다
+        body["reply_parameters"] = {"message_id": reply_to, "allow_sending_without_reply": True}
+    return requests.post(f"https://api.telegram.org/bot{token}/sendMessage", json=body, timeout=20)
+
+
+def telegram_text(cfg: Config, text: str, reply_to: int | None = None) -> None:
+    """짧은 안내 메시지(접수 확인, 실패 안내 등). text는 HTML로 해석되니 호출하는 쪽에서 이스케이프한다."""
+    token, chat_id = _tg_auth(cfg)
+    r = _send(token, chat_id, text, {"is_disabled": True}, reply_to)
+    if not r.ok:
+        raise NotifyError(f"Telegram 전송 실패 {r.status_code}: {r.text[:200]}")
+
+
+def telegram_updates(cfg: Config, offset: int) -> list[dict]:
+    """봇이 받은 새 메시지들. offset보다 앞선 것은 텔레그램 쪽에서 처리 완료로 지워진다."""
+    token, _ = _tg_auth(cfg)
+    r = requests.get(f"https://api.telegram.org/bot{token}/getUpdates", timeout=30,
+                     params={"offset": offset, "timeout": 0, "allowed_updates": '["message"]'})
+    if not r.ok:
+        raise NotifyError(f"Telegram getUpdates 실패 {r.status_code}: {r.text[:200]}")
+    return r.json().get("result", [])
 
 
 def _retry_after(r: requests.Response) -> int:

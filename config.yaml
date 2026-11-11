@@ -27,3 +27,8 @@ gemini:
 notify:
   provider: telegram           # telegram | ntfy | none
   ntfy_server: https://ntfy.sh
+
+# 텔레그램 봇에 유튜브 링크를 보내면 요약해서 답장한다 (.github/workflows/telegram.yml이 5분마다 확인)
+inbox:
+  max_links_per_message: 3     # 한 메시지에 링크가 여러 개면 앞에서부터 이만큼만 요약
+  budget_minutes: 15           # 한 번 실행에서 요약에 쓰는 최대 시간. 남은 메시지는 다음 실행에서 처리

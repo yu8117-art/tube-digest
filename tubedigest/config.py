@@ -53,6 +53,8 @@ class Config:
     gemini_pause_sec: int = 60
     gemini_call_timeout_minutes: int = 10
     gemini_wait_hours: float = 24
+    inbox_max_links: int = 3
+    inbox_budget_minutes: int = 15
     notify_provider: str = "none"
     ntfy_server: str = "https://ntfy.sh"
 
@@ -79,7 +81,7 @@ def save_channels(channels: list[Channel]) -> None:
 def load_config() -> Config:
     load_dotenv()
     raw = yaml.safe_load(CONFIG_PATH.read_text(encoding="utf-8")) or {}
-    opt, gm, nt = (raw.get(k) or {} for k in ("options", "gemini", "notify"))
+    opt, gm, nt, ib = (raw.get(k) or {} for k in ("options", "gemini", "notify", "inbox"))
     return Config(
         channels=load_channels(),
         skip_shorts=opt.get("skip_shorts", True),
@@ -95,6 +97,8 @@ def load_config() -> Config:
         gemini_pause_sec=int(gm.get("pause_sec", 60)),
         gemini_call_timeout_minutes=int(gm.get("call_timeout_minutes", 10)),
         gemini_wait_hours=float(gm.get("wait_hours", 24)),
+        inbox_max_links=int(ib.get("max_links_per_message", 3)),
+        inbox_budget_minutes=int(ib.get("budget_minutes", 15)),
         notify_provider=nt.get("provider", "none"),
         ntfy_server=(nt.get("ntfy_server") or "https://ntfy.sh").rstrip("/"),
     )

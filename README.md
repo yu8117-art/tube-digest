@@ -39,6 +39,16 @@ copy .env.example .env
 - `add` / `remove` / `list`는 GitHub에서 최신 채널 목록을 먼저 받아온다. `add`와 `remove`는 바뀐 `channels.yaml`만 커밋해서 GitHub에 올리므로, 다음 Actions 실행(15분 안팎)부터 바로 적용된다. 따로 `git` 명령을 칠 필요가 없다.
 - `td`는 `digest` 폴더 안에 있다. 다른 폴더에서는 `C:\DEV\tube\digest\td add "@핸들"`처럼 경로를 붙인다.
 
+## 텔레그램으로 링크 보내서 요약 받기
+
+텔레그램 봇 대화방에 유튜브 링크를 보내면 요약해서 그 메시지에 답장한다. 구독하지 않은 채널의 영상도 된다.
+
+- 보내는 방법: 유튜브 앱의 **공유 → 텔레그램 → 봇 대화방**, 또는 링크를 붙여넣기. 한 메시지에 링크 여러 개도 된다(최대 3개).
+- 답장까지 보통 **5~15분** 걸린다. GitHub Actions(`.github/workflows/telegram.yml`)가 5분마다 새 메시지를 확인하기 때문이다. 먼저 "요약 중" 답장이 오고, 요약이 끝나면 요약 메시지가 온다.
+- 이미 요약한 영상이면 Gemini를 다시 쓰지 않고 저장된 요약을 보낸다.
+- 등록한 채팅(`TELEGRAM_CHAT_ID`)에서 온 메시지만 처리한다. 다른 사람이 봇에 링크를 보내도 무시한다.
+- 바로 처리하고 싶으면 저장소의 Actions → **telegram-requests → Run workflow**를 누른다.
+
 ## 명령어
 
 | 명령 | 설명 |
@@ -46,6 +56,7 @@ copy .env.example .env
 | `run` | 새 영상 확인 → 요약 → 알림 (Actions가 15분마다 호출). PC에서는 돌리지 않는다 |
 | `summarize <url>` | 특정 영상을 바로 요약해 화면에 출력. `--send`를 붙이면 텔레그램으로도 보낸다 |
 | `notify` | 실패한 알림 재전송 |
+| `telegram` | 텔레그램으로 받은 링크 요약·답장 (Actions가 5분마다 호출) |
 | `add` / `remove` / `list` | 채널 관리 |
 | `test-notify` | 가장 최근 요약을 텔레그램으로 다시 보내 설정 확인 |
 | `telegram-chat-id` | 텔레그램 chat_id 확인 |

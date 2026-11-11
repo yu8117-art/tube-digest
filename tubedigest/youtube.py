@@ -148,17 +148,49 @@ def extract_video_id(ref: str) -> str:
     raise ValueError(f"영상 ID를 찾지 못함: {ref}")
 
 
+VIDEO_URL_RE = re.compile(
+    r"(?:youtube\.com/(?:watch\?(?:[^\s#]*&)?v=|shorts/|live/|embed/)|youtu\.be/)([\w-]{11})")
+
+
+def video_ids_in(text: str) -> list[str]:
+    """글(텔레그램 메시지 등) 속 유튜브 링크들의 영상 ID. 순서 유지, 중복 제거."""
+    return list(dict.fromkeys(VIDEO_URL_RE.findall(text or "")))
+
+
+def _api_video(video_id: str, timeout: int = 20) -> Video | None:
+    items = _api_get("videos", timeout, part="snippet", id=video_id).get("items", [])
+    if not items:
+        return None
+    sn = items[0]["snippet"]
+    return Video(video_id, sn.get("channelId", ""), sn.get("channelTitle", ""), sn.get("title", ""),
+                 sn.get("publishedAt", "").replace("Z", "+00:00"), sn.get("description", ""))
+
+
 def video_from_ref(ref: str, timeout: int = 20) -> Video:
-    """임의의 영상 URL/ID로 Video를 만든다 (수동 요약용). 채널 RSS에 있으면 설명란·게시일도 채운다."""
+    """임의의 영상 URL/ID로 Video를 만든다 (수동 요약·텔레그램 요청용).
+
+    YOUTUBE_API_KEY가 있으면 공식 API로 제목·채널·게시일·설명란을 한 번에 가져온다(1단위).
+    없으면 oEmbed로 제목·채널을 얻고, 채널 RSS에 있으면 설명란·게시일도 채운다.
+    """
     vid = extract_video_id(ref)
+    if _api_key():
+        try:
+            v = _api_video(vid, timeout)
+            if v:
+                return v
+        except (requests.RequestException, RuntimeError, ValueError, KeyError) as e:
+            log.warning("YouTube API 영상 조회 실패, oEmbed로 대체: %s", e)
     o = requests.get("https://www.youtube.com/oembed", headers=UA, timeout=timeout,
                      params={"url": f"https://www.youtube.com/watch?v={vid}", "format": "json"})
     o.raise_for_status()
     meta = o.json()
     cid, _ = resolve_channel_id(meta["author_url"], timeout)
-    for v in fetch_channel_videos(cid, timeout):
-        if v.video_id == vid:
-            return v
+    try:
+        for v in fetch_channel_videos(cid, timeout):
+            if v.video_id == vid:
+                return v
+    except (requests.RequestException, ET.ParseError):  # RSS 장애여도 제목·채널만으로 진행
+        pass
     from datetime import datetime, timezone
     return Video(vid, cid, meta["author_name"], meta["title"],
                  datetime.now(timezone.utc).isoformat(timespec="seconds"))

@@ -10,7 +10,7 @@ from . import gemini
 from .config import Config
 from .gitsync import git_publish
 from .notifier import NotifyError, notify
-from .state import (BASELINE, DONE, FAILED, PENDING, SKIPPED_LIVE, SKIPPED_SHORT, State,
+from .state import (ARTICLES_DIR, BASELINE, DONE, FAILED, PENDING, SKIPPED_LIVE, SKIPPED_SHORT, State,
                     load_article, now_iso, save_article)
 from .youtube import (Video, VideoInfo, fetch_channel_videos, fmt_ts, is_short,
                       thumbnail_url, video_info)
@@ -103,6 +103,13 @@ def process_pending(cfg: Config, state: State, started: float) -> list[str]:
         if attempts >= cfg.max_videos_per_run:  # 시도마다 Gemini 한도를 쓰므로 회차당 상한을 둔다
             break
         video = Video(**rec["video"])
+        if (ARTICLES_DIR / f"{vid}.json").exists() and load_article(vid).get("requested"):
+            # 구독 채널 영상을 사용자가 먼저 텔레그램으로 요청해 이미 요약·전송했다 → 다시 요약하거나 보내지 않는다
+            art = load_article(vid)
+            rec.update(status=DONE, done_at=now_iso(), source=art.get("source"), notified=art["requested"])
+            rec.pop("video", None)
+            log.info("텔레그램 요청으로 이미 보낸 영상: %s", video.title)
+            continue
         info = video_info(video.video_id)
         if info.live_now:
             log.info("방송 중/예정이라 다음에 처리: %s", video.title)

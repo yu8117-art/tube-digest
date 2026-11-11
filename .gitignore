@@ -5,4 +5,5 @@ __pycache__/
 !.env.example
 logs/
 data/run.lock
+data/inbox.lock
 data/state.tmp
