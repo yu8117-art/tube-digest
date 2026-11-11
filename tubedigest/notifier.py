@@ -125,14 +125,30 @@ def telegram_text(cfg: Config, text: str, reply_to: int | None = None) -> None:
         raise NotifyError(f"Telegram 전송 실패 {r.status_code}: {r.text[:200]}")
 
 
+class WebhookActive(NotifyError):
+    """웹훅이 켜져 있으면 텔레그램이 getUpdates를 막는다(409). 메시지는 웹훅 수신기가 직접 넘겨준다."""
+
+
 def telegram_updates(cfg: Config, offset: int) -> list[dict]:
     """봇이 받은 새 메시지들. offset보다 앞선 것은 텔레그램 쪽에서 처리 완료로 지워진다."""
     token, _ = _tg_auth(cfg)
     r = requests.get(f"https://api.telegram.org/bot{token}/getUpdates", timeout=30,
                      params={"offset": offset, "timeout": 0, "allowed_updates": '["message"]'})
+    if r.status_code == 409:
+        raise WebhookActive("웹훅이 켜져 있어 getUpdates를 쓸 수 없음")
     if not r.ok:
         raise NotifyError(f"Telegram getUpdates 실패 {r.status_code}: {r.text[:200]}")
     return r.json().get("result", [])
+
+
+def telegram_api(cfg: Config, method: str, **params) -> dict:
+    """봇 설정용 Bot API 호출 (setWebhook, deleteWebhook, getWebhookInfo)."""
+    token, _ = _tg_auth(cfg)
+    r = requests.post(f"https://api.telegram.org/bot{token}/{method}", json=params, timeout=30)
+    data = r.json()
+    if not data.get("ok"):
+        raise NotifyError(f"Telegram {method} 실패: {data.get('description', r.text[:200])}")
+    return data.get("result")
 
 
 def _retry_after(r: requests.Response) -> int:

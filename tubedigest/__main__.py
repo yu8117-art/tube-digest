@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import os
 import subprocess
 import sys
 from logging.handlers import RotatingFileHandler
@@ -48,14 +49,60 @@ def cmd_run(args) -> None:
 
 
 def cmd_telegram(args) -> None:
-    """텔레그램으로 받은 유튜브 링크를 요약해 답장한다 (telegram.yml이 5분마다 호출)."""
-    from .inbox import process_inbox
+    """텔레그램으로 받은 유튜브 링크를 요약해 답장한다 (telegram.yml이 호출).
+
+    TELEGRAM_UPDATE가 있으면 웹훅 수신기가 넘겨준 메시지 하나를 처리하고, 없으면 getUpdates로 새 메시지를 확인한다.
+    """
+    from .inbox import process_inbox, process_update
     cfg = load_config()
-    with RunLock(DATA_DIR / "inbox.lock"):  # 구독 확인(run)과는 따로 돈다
-        n = process_inbox(cfg)
-        if cfg.git_push:  # 처리 위치(offset)와 요약을 저장해야 다음 실행이 같은 메시지를 다시 처리하지 않는다
-            git_publish("digest: 텔레그램 요청 처리", paths=("data/telegram.json", "data/articles"))
+    update = os.environ.get("TELEGRAM_UPDATE", "").strip()
+    if update:
+        # 웹훅 요청은 메시지마다 실행이 따로 떠서 동시에 돌 수 있다 → 서로 다른 파일(영상별 요약)만 커밋한다
+        n = process_update(cfg, json.loads(update))
+        paths = ("data/articles",)
+    else:
+        with RunLock(DATA_DIR / "inbox.lock"):
+            n = process_inbox(cfg)
+        paths = ("data/telegram.json", "data/articles")  # 처리 위치(offset)를 저장해야 같은 메시지를 다시 처리하지 않는다
+    if cfg.git_push:
+        git_publish("digest: 텔레그램 요청 처리", paths=paths)
     print(f"텔레그램 요청 {n}건 요약·전송")
+
+
+def cmd_webhook(args) -> None:
+    """텔레그램 웹훅 관리. init: 비밀값 생성 / set <주소>: 켜기 / off: 끄기(5분 주기 확인으로) / status: 상태."""
+    import secrets as _secrets
+    from .notifier import telegram_api
+    cfg = load_config()
+    env_path = ROOT / ".env"
+    secret = os.environ.get("TELEGRAM_WEBHOOK_SECRET", "")
+    if args.action in ("init", "set") and not secret:
+        secret = _secrets.token_urlsafe(32)  # 텔레그램 secret_token 허용 문자(A-Z a-z 0-9 _ -)만 나온다
+        with env_path.open("a", encoding="utf-8") as f:
+            f.write(f"\n# 텔레그램 웹훅 비밀값 (Cloudflare Worker의 WEBHOOK_SECRET과 같아야 함)\nTELEGRAM_WEBHOOK_SECRET={secret}\n")
+        print(".env에 TELEGRAM_WEBHOOK_SECRET을 새로 만들었다")
+    if args.action == "set":
+        if not args.url or not args.url.startswith("https://"):
+            sys.exit("Worker 주소(https://…workers.dev)를 같이 넣어라: .\\td webhook set https://…")
+        # 주기 확인으로 이미 처리한 메시지를 텔레그램에 '처리 완료'로 알린다. 안 하면 웹훅으로 다시 와서 두 번 답장한다.
+        from .inbox import _load
+        from .notifier import WebhookActive, telegram_updates
+        try:
+            telegram_updates(cfg, _load()["offset"])
+        except WebhookActive:
+            pass
+        telegram_api(cfg, "setWebhook", url=args.url, secret_token=secret, allowed_updates=["message"],
+                     max_connections=4)
+        print("웹훅을 켰다. 이제 봇에 링크를 보내면 바로 처리된다.")
+    elif args.action == "off":
+        telegram_api(cfg, "deleteWebhook", drop_pending_updates=False)
+        print("웹훅을 껐다. 5분 주기 확인(telegram.yml 예약 실행)으로 돌아간다.")
+    if args.action in ("set", "off", "status"):
+        info = telegram_api(cfg, "getWebhookInfo")
+        print(f"웹훅 주소: {info.get('url') or '(없음 → 주기 확인 방식)'}")
+        print(f"대기 중인 메시지: {info.get('pending_update_count', 0)}")
+        if info.get("last_error_message"):
+            print(f"마지막 오류: {info['last_error_message']} (unix {info.get('last_error_date')})")
 
 
 def cmd_notify(args) -> None:
@@ -207,8 +254,12 @@ def main() -> None:
     r.add_argument("--no-notify", action="store_true", help="알림은 나중에 notify 명령으로")
     r.set_defaults(func=cmd_run)
     sub.add_parser("notify", help="아직 안 보낸 알림 전송").set_defaults(func=cmd_notify)
-    sub.add_parser("telegram", help="텔레그램으로 받은 유튜브 링크 요약·답장 (Actions가 5분마다 호출)"
+    sub.add_parser("telegram", help="텔레그램으로 받은 유튜브 링크 요약·답장 (Actions가 호출)"
                    ).set_defaults(func=cmd_telegram)
+    w = sub.add_parser("webhook", help="텔레그램 웹훅 켜기/끄기/상태 (init | set <Worker 주소> | off | status)")
+    w.add_argument("action", choices=["init", "set", "off", "status"])
+    w.add_argument("url", nargs="?")
+    w.set_defaults(func=cmd_webhook)
     a = sub.add_parser("add", help="채널 추가 (@핸들, 채널 URL, UC… ID) → GitHub 반영까지")
     a.add_argument("refs", nargs="+")
     a.set_defaults(func=cmd_add)

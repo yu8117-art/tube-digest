@@ -44,10 +44,37 @@ copy .env.example .env
 텔레그램 봇 대화방에 유튜브 링크를 보내면 요약해서 그 메시지에 답장한다. 구독하지 않은 채널의 영상도 된다.
 
 - 보내는 방법: 유튜브 앱의 **공유 → 텔레그램 → 봇 대화방**, 또는 링크를 붙여넣기. 한 메시지에 링크 여러 개도 된다(최대 3개).
-- 답장까지 보통 **5~15분** 걸린다. GitHub Actions(`.github/workflows/telegram.yml`)가 5분마다 새 메시지를 확인하기 때문이다. 먼저 "요약 중" 답장이 오고, 요약이 끝나면 요약 메시지가 온다.
+- **웹훅 방식(권장)**: 링크를 보내자마자 "접수했어" 답장이 오고, 1~2분 뒤 요약 답장이 온다. Cloudflare Worker(무료)가 메시지를 받아 GitHub Actions를 바로 실행한다. 설정은 아래 "웹훅 설정"을 따른다.
+- **주기 확인 방식**: 웹훅이 꺼져 있으면 GitHub Actions가 5분마다 새 메시지를 확인한다. 답장까지 5~15분 걸린다.
 - 이미 요약한 영상이면 Gemini를 다시 쓰지 않고 저장된 요약을 보낸다.
 - 등록한 채팅(`TELEGRAM_CHAT_ID`)에서 온 메시지만 처리한다. 다른 사람이 봇에 링크를 보내도 무시한다.
-- 바로 처리하고 싶으면 저장소의 Actions → **telegram-requests → Run workflow**를 누른다.
+
+### 웹훅 설정 (최초 1회)
+
+준비물 (직접 해야 하는 것):
+1. Node.js 설치: `winget install OpenJS.NodeJS.LTS` → 설치 후 터미널을 새로 연다.
+2. Cloudflare 무료 계정: https://dash.cloudflare.com/sign-up
+3. GitHub 토큰: https://github.com/settings/personal-access-tokens/new
+   - Repository access는 **Only select repositories → tube-digest**를 고른다.
+   - Permissions는 **Actions: Read and write** 하나만 준다.
+   - 만료일을 정해야 한다. 만료되면 새로 만들어 3번 명령으로 다시 넣는다.
+
+설정 (`digest\worker` 폴더에서):
+```powershell
+cd C:\DEV\tube\digest
+.\td webhook init                     # 웹훅 비밀값을 .env에 만든다
+cd worker
+npx wrangler login                    # 브라우저에서 Cloudflare 로그인·승인
+npx wrangler deploy                   # 배포 → 출력의 https://…workers.dev 주소를 기억
+npx wrangler secret put GITHUB_TOKEN      # GitHub 토큰 붙여넣기
+npx wrangler secret put TELEGRAM_CHAT_ID  # .env의 TELEGRAM_CHAT_ID 값
+npx wrangler secret put WEBHOOK_SECRET    # .env의 TELEGRAM_WEBHOOK_SECRET 값
+cd ..
+.\td webhook set https://tube-digest-webhook.<계정>.workers.dev
+```
+
+- 상태 확인: `.\td webhook status`
+- 끄기: `.\td webhook off` (5분 주기 확인 방식으로 돌아간다)
 
 ## 명령어
 
