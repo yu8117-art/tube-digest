@@ -548,18 +548,14 @@
    "status": "baseline"
   },
   "0MhGmUTV58A": {
+   "done_at": "2026-11-13T07:01:04+00:00",
    "errors": 0,
    "first_seen": "2026-11-10T16:30:02+00:00",
+   "last_attempt": "2026-11-13T07:00:09+00:00",
+   "notified": "2026-11-13T07:02:13+00:00",
    "published": "2026-11-10T09:30:11+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCAVdqlngIAxHtwlCA2hjv3A",
-    "channel_name": "집코노미",
-    "description": "아파트 분양가가 오른다고 말만 들었지 이렇게 가파르게 올랐을 줄은 모르셨죠😅 지난 10여년의 흐름을 압축해서 보여드립니다. 이 영상은 국가통계포털에 고시된 주택도시보증공사의 지역별 평균 분양가격을 통계를 기반으로 제작됐습니다.\n\n#분양가 #집값 #평당가 #분양가상한제 #로또분양\n\n한국경제신문 구독하기\n📰https://members.hankyung.com/#rep-products\n\n한국경제신문의 새로운 투자 정보 플랫폼 '한경 프리미엄9' 바로가기\n✅http://www.hankyung.com/premium9\n✅'한국경제' 앱에서도 이용할 수 있습니다\n✅한국경제신문·모바일한경 본사 자동이체 구독자는 무료입니다.(이벤트 기간한정)\n프리미엄9만 가입하면 월 2만원(첫 6개월 1만원), 연 10만원입니다\n\n❤비즈니스 문의 jipconomytv@gmail.com\n\nⓒ영상의 저작권리는 한국경제신문에 있으며 무단 도용시 법적 책임을 질 수 있습니다\n영상 내 일부 이미지는 게티이미지뱅크의 정식 라이선스를 받아 사용했습니다\n\n영상의 맥락과 상관없는 비방이나 악의적인 댓글은 예고 없이 삭제됩니다",
-    "published": "2026-11-10T09:30:11+00:00",
-    "title": "아파트 분양가 얼마나 올랐나 | 차트레이스",
-    "video_id": "0MhGmUTV58A"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "0MqEGQDqdy0": {
@@ -5524,18 +5520,14 @@
    "wait_checks": 0
   },
   "FAGKDV-Njr4": {
+   "done_at": "2026-11-13T07:00:09+00:00",
    "errors": 0,
    "first_seen": "2026-11-10T16:29:56+00:00",
+   "last_attempt": "2026-11-13T06:59:50+00:00",
+   "notified": "2026-11-13T07:02:14+00:00",
    "published": "2026-11-10T09:15:16+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "💌 새벽의 축구 전문가 6차 x 씨커트💌\n✔️구매링크 : https://getvenus.co.kr/shop_view?idx=324\n\n사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#at마드리드 #라리가 #챔피언스리그 #축구 #이강인 #시메오네",
-    "published": "2026-11-10T09:15:16+00:00",
-    "title": "“패스 미쳤다“ 이강인 아웃프론트 패스, 스페인 직관 현장반응!! 스페인 현지평가, 한국보다 오히려 좋다?!",
-    "video_id": "FAGKDV-Njr4"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "FBIwZuJuMIQ": {
@@ -5806,6 +5798,21 @@
    "published": "2026-10-07T12:45:27+00:00",
    "status": "baseline"
   },
+  "G0JDVEYjz90": {
+   "errors": 0,
+   "first_seen": "2026-11-13T06:59:41+00:00",
+   "published": "2026-11-13T03:00:45+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#맨유 #프리미어리그 #맨체스터유나이티드 #포체티노",
+    "published": "2026-11-13T03:00:45+00:00",
+    "title": "“맨유 거피셜“ 포채티노, 맨유에서 어떤 전술 사용할까? 변형 3백 + 공격적인 풀백, 맨유랑 어울릴까",
+    "video_id": "G0JDVEYjz90"
+   },
+   "wait_checks": 0
+  },
   "G1b5PxcPyWM": {
    "errors": 0,
    "first_seen": "2026-11-04T07:54:44+00:00",
@@ -5957,6 +5964,21 @@
     "published": "2026-10-29T11:00:37+00:00",
     "title": "심장 두개를 붙이자 발생한 충격적인 결과 ㄷㄷ",
     "video_id": "GKPDJEHVJf4"
+   },
+   "wait_checks": 0
+  },
+  "GKdHISfrhCw": {
+   "errors": 0,
+   "first_seen": "2026-11-13T06:59:50+00:00",
+   "published": "2026-11-13T05:54:28+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCvSbsKwqbjEjsdxw_aW3NWA",
+    "channel_name": "강부기 - 강남바라기의 부동산 이야기",
+    "description": "대한민국 사교육 1번지 대치동, \n임장만으로는 알 수 없는 \n진짜 학원가 분위기와 아이들의 현실은 어떨까요?\n\n대치동 학원가 현직 일타강사님을 직접 찾아가 \n학부모님들이 가장 궁금해하는 질문들을 여쭤보고 왔습니다!\n\n\"평범한 우리 아이, 대치동 가면 정말 성적 바닥을 칠까요?\"\n\"상위 1% 최상위권 아이들은 평소 어떻게 공부할까요?\"\n\"대치동 진입 고민하는 학부모라면 무엇을 준비해야 할까요?\"\n\n학군지 이사 및 대치동 진입을 고민하고 계신 분들, \n자녀 교육 환경 때문에 고민이 많으신 학부모님들께 \n실질적인 도움이 되는 날 것 그대로의 이야기를 담았습니다 :)\n\n꼭 끝까지 시청해주세요!\n\n---\n\n📚 김민정 선생님(초중등국어 전문)의 저서를\n아래 링크에서 만나 보실 수 있습니다!\n\nhttps://buly.kr/3u66wXK \n\n---\n\n#대치동 #대치동학원가 #일타강사 #대치동임장 #학군지 #강남부동산 #자녀교육 #입시전략 #대치동엄마 #부동산투자",
+    "published": "2026-11-13T05:54:28+00:00",
+    "title": "\"우리 아이, 대치동 가면 전교 꼴찌할까요?\" 일타강사에게 직접 물어봤습니다! (대치동 학원가의 민낯)",
+    "video_id": "GKdHISfrhCw"
    },
    "wait_checks": 0
   },
@@ -7030,6 +7052,21 @@
    "first_seen": "2026-10-18T21:34:15+00:00",
    "published": "2026-10-18T21:07:04+00:00",
    "status": "skipped_live",
+   "wait_checks": 0
+  },
+  "JO0P3y_Q5Yg": {
+   "errors": 0,
+   "first_seen": "2026-11-13T06:59:47+00:00",
+   "published": "2026-11-13T03:30:38+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n집값 비싼 동네가 더 오릅니다, 고민 말고 '이런 집' 사세요\n\n☞촬영일: 26년 11월 6일",
+    "published": "2026-11-13T03:30:38+00:00",
+    "title": "집값 비싼 동네가 더 오릅니다, 고민 말고 '이런 집' 사세요 [송희구 작가]",
+    "video_id": "JO0P3y_Q5Yg"
+   },
    "wait_checks": 0
   },
   "JRTjw5L88g8": {
@@ -11044,6 +11081,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "UnW7d8QjNbk": {
+   "errors": 0,
+   "first_seen": "2026-11-13T06:59:41+00:00",
+   "published": "2026-11-13T06:25:21+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-11-13T06:25:21+00:00",
+    "title": "\"주장 무게감? 내려놓고 싶죠\" 손흥민 인터뷰.. \"기자들 더 이상 불화설 질문하지 말아달라\"",
+    "video_id": "UnW7d8QjNbk"
+   },
+   "wait_checks": 0
+  },
   "UqQ0OuPZxk4": {
    "errors": 0,
    "first_seen": "2026-11-04T23:45:44+00:00",
@@ -12171,6 +12223,21 @@
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-07-15T12:00:38+00:00",
    "status": "baseline"
+  },
+  "YNkgni95sQ4": {
+   "errors": 0,
+   "first_seen": "2026-11-13T06:59:39+00:00",
+   "published": "2026-11-11T12:40:36+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC9JrTOkuLwzpyudwQqavXGg",
+    "channel_name": "두선생의 역사공장",
+    "description": "🐎 몽골 제국은 어떻게 유라시아를 정복했고, 왜 분열했을까요? 🌏신장 위구르·티베트·만주와 다르게,  몽골은 왜 중국의 일부가 아닌 독립국으로 남았을까요? 🗺️ 칭기즈 칸의 정복부터 제국의 분열과 현대 몽골의 독립까지, 몽골의 역사를 한 번에 알아보시죠! 💡\n※영상 제작에 '케임브리지 몽골제국사'를 참고했습니다.\n※2026년 5~6월 업로드된 '몽골제국사 시리즈'의 몰아보기 통합본 영상입니다. 참고 부탁드립니다.\nㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ\n🛫[지도로 읽는 유목제국사] 다른 편을 안 보셨다면?!🛬\n지도 총정리 https://youtu.be/pQ5pD4Sjqcs\n계보 총정리 https://youtu.be/VOlmNBJDoTk\n중국사 총정리 https://youtu.be/RIfnCfYMInQ\n1편 스키타이 https://youtu.be/HmryKUkvi9Q\n2편 흉노 https://youtu.be/9SbTW_0x1wU\n3편 선비오환 https://youtu.be/kfmK9p7iCVI\n4편 5호16국시대 https://youtu.be/zg9sP6W0YGo\n5편 신장위구르 https://youtu.be/3HAvWvaOeOc\n6편 돌궐튀르크 https://youtu.be/AEbzPeFrNcs\n7편 토번 https://youtu.be/bDfUbxgXYg8\n몽골 제국 https://youtu.be/YNkgni95sQ4\n고려와 몽골 https://youtu.be/Xi_ksbW2DJw\nㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ\n『두선생의 지도로 읽는 세계사: 동양 편』 구매링크\n- 교보문고  https://bit.ly/3T6Aj1D\n- 예스24 https://bit.ly/45d9a4F\n- 알라딘 https://bit.ly/3T4R7pI\nㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ\n00:00 '기후'가 몽골제국에 끼친 영향\n06:40 '칭기즈칸'의 능력\n14:47 '유목민'의 강점\n23:59 '학살' 제국\n25:30 '몽골의 시대'는 언제일까\n27:50 제국은 어떻게 '분열'했을까\n36:22 칸국 vs 울루스 - 이름 논쟁\n40:35 '왜' 분열했을까\n44:06 '유럽' 정복에 왜 실패했을까\n50:47 기후위기와 전염병\n55:51 몽골의 시대는 무엇을 남겼을까\n59:44 청나라에서 유일하게 독립한 나라\n01:01:13 몽골의 지리, 몽골의 분리\n01:05:01 불교와 왕을 품은 사회주의\n01:11:04 칭기즈칸이 남긴 유산\n01:17:05 러시아(소련)의 역할\n01:19:56 신장 위구르 vs 몽골\n01:26:57 몽골 제국의 부활\n\n#역사 #몽골 #몽골제국 #칭기즈칸 #세계사 #몽골역사 #지정학 #두선생",
+    "published": "2026-11-11T12:40:36+00:00",
+    "title": "몽골의 역사 90분 풀코스｜칭기즈칸은 몽골에 무엇을 남겼나 [지도로 읽는 몽골제국사 통합본] #유목史",
+    "video_id": "YNkgni95sQ4"
+   },
+   "wait_checks": 0
   },
   "YOKc_mgoifY": {
    "done_at": "2026-10-30T12:31:57+00:00",
@@ -16814,6 +16881,21 @@
    "published": "2026-10-09T05:00:08+00:00",
    "status": "baseline"
   },
+  "k2sSb__XGMU": {
+   "errors": 0,
+   "first_seen": "2026-11-13T06:59:38+00:00",
+   "published": "2026-11-13T02:00:05+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "데블스 플랜에서 서출구 님의 예상치 못한 선택에 오현민 님이 화가 났던 이유는 무엇일까요? 함께 움직이기로 했던 출구 님이 상의 없이 '공공의 이익'을 선택하면서 오현민 님의 계획이 틀어졌다고 하는데요. 하지만 오현민 님은 곧바로 새로운 전략을 세웠습니다. 출구 님을 장동민 님에게 보내 정보를 제공하는 조건으로 거래하도록 제안한 것이죠. 장동민 님을 1등으로 만들기 위해 당시 어떤 판단을 내렸는지, 오현민 님이 직접 밝히는 게임의 비하인드! 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#데블스플랜 #넷플릭스 #안될과학 #궤도 #오현민 #장동민 #출구 #데블스플랜리뷰 #서바이벌예능",
+    "published": "2026-11-13T02:00:05+00:00",
+    "title": "서출구의 돌발 행동에 오현민이 화났던 이유?!",
+    "video_id": "k2sSb__XGMU"
+   },
+   "wait_checks": 0
+  },
   "k6CDRTmyAHo": {
    "done_at": "2026-10-29T11:09:41+00:00",
    "errors": 0,
@@ -18863,6 +18945,7 @@
   "ppYizE8agj8": {
    "errors": 0,
    "first_seen": "2026-11-10T16:30:05+00:00",
+   "last_attempt": "2026-11-13T07:01:04+00:00",
    "published": "2026-11-10T10:00:10+00:00",
    "status": "pending",
    "video": {
@@ -21079,6 +21162,21 @@
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-10-01T08:18:30+00:00",
    "status": "baseline"
+  },
+  "wAOvGhF4K7M": {
+   "errors": 0,
+   "first_seen": "2026-11-13T06:59:46+00:00",
+   "published": "2026-11-13T06:30:31+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 \n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-13T06:30:31+00:00",
+    "title": "이런 분들은 집 사지 말아주세요",
+    "video_id": "wAOvGhF4K7M"
+   },
+   "wait_checks": 0
   },
   "wAce9U2pRWI": {
    "first_seen": "2026-10-09T08:14:38+00:00",

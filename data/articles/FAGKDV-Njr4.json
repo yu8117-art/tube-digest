@@ -1,0 +1,67 @@
+{
+ "video": {
+  "video_id": "FAGKDV-Njr4",
+  "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+  "channel_name": "새벽의 축구 전문가",
+  "title": "“패스 미쳤다“ 이강인 아웃프론트 패스, 스페인 직관 현장반응!! 스페인 현지평가, 한국보다 오히려 좋다?!",
+  "published": "2026-11-10T09:15:16+00:00",
+  "description": "💌 새벽의 축구 전문가 6차 x 씨커트💌\n✔️구매링크 : https://getvenus.co.kr/shop_view?idx=324\n\n사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#at마드리드 #라리가 #챔피언스리그 #축구 #이강인 #시메오네",
+  "url": "https://www.youtube.com/watch?v=FAGKDV-Njr4"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/FAGKDV-Njr4/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1030,
+ "summary": {
+  "headline": "아틀레티코 마드리드 대 바르셀로나 직관과 이강인 활약",
+  "thumbnail_text": "직접 본 이강인 패스 진짜 분위기 미쳤다",
+  "thumbnail_answer": "이강인의 환상적인 패스와 활약을 현장 직관으로 생생하게 담아냈으며 현지 평가도 긍정적이다.",
+  "conclusion": "아틀레티코 마드리드와 바르셀로나의 경기는 바르셀로나의 역전승으로 끝났다. 이강인은 뛰어난 경기력을 선보였으나 아쉽게 공격 포인트를 기록하지 못했다. 라리가 직관의 뜨거운 현장 분위기와 몰입감을 전달한다.",
+  "key_points": [
+   "아틀레티코 마드리드와 바르셀로나의 라리가 맞대결 직관",
+   "이강인은 선발 출전해 좋은 컨디션과 위협적인 패스를 선보임",
+   "줄리아노 시메오네의 선제골로 아틀레티코가 앞서감",
+   "바르셀로나는 페르민 로페즈의 멀티골로 경기를 뒤집음",
+   "현지에서는 이강인을 향한 칭찬과 함께 공격 포인트를 요구하는 목소리가 나옴",
+   "후반 60분 이강인이 교체 아웃되고 퓔로트가 투입됨"
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "경기 전 현장 분위기",
+    "points": [
+     "아틀레티코 마드리드와 바르셀로나 경기 직관 현장 소개",
+     "스페인 현지 팬들과의 인터뷰 및 기대감 공유"
+    ]
+   },
+   {
+    "seconds": 715,
+    "title": "전반전 선제골",
+    "points": [
+     "전반 10분 줄리아노 시메오네의 선제골 폭발",
+     "신난 홈팬들과 아틀레티코의 리드"
+    ]
+   },
+   {
+    "seconds": 857,
+    "title": "전반전 동점골",
+    "points": [
+     "전반 45분 페르민 로페즈의 동점골 허용",
+     "1대 1 동점으로 전반전 마무리"
+    ]
+   }
+  ],
+  "tags": [
+   "at마드리드",
+   "라리가",
+   "축구",
+   "이강인",
+   "시메오네"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 95482,
+   "output_tokens": 852
+  }
+ },
+ "created_at": "2026-11-13T07:00:09+00:00"
+}
