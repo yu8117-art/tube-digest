@@ -1,0 +1,92 @@
+{
+ "video": {
+  "video_id": "OQYwyQBf8cs",
+  "channel_id": "UCdUcjkyZtf-1WJyPPiETF1g",
+  "channel_name": "ITSub잇섭",
+  "title": "아이폰 용량이 고민된다면 꼭 보세요! 엄청 편한 아이클라우드 활용법?!",
+  "published": "2026-11-10T11:00:32+00:00",
+  "description": "요즘 256GB도 용량이 부족한 시대가 왔습니다. 그래서 최소 512GB나 1TB로 구입하시는 분들이 많은데요, 예전에야 그렇게 가격이 비싸지 않아서 부담이 덜했지만, 최근엔 너무 비싸진 스마트폰 가격. 조금이라도 더 효율적으로 쓸 수 있는 아이클라우드 개꿀팁을 알려드립니다!\n\n🎵 BGM.\nSunday Struttin' — Nocturnal Spirits\n\n\n⏲️ Timestamps.\n00:00 인트로\n01:23 내 저장공간\n02:03 iCloud+\n03:35 iCloud 사진 보관함\n06:13 아기있는 집\n08:40 단점?\n10:18 오늘의 결론\n\n\n🔖Tags.\n#애플\n#아이클라우드\n#활용법\n\n\n💡 Merch.\n블랙카우랩스 굿즈를 사고 싶다면?\n-https://abit.ly/blackcowlabs\n\n\n📨 Business contacts.\n itsub@itud.io",
+  "url": "https://www.youtube.com/watch?v=OQYwyQBf8cs"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/OQYwyQBf8cs/maxresdefault.jpg",
+ "source": "video",
+ "duration": 668,
+ "summary": {
+  "headline": "아이폰 고용량 대신 아이클라우드로 용량 아끼는 법",
+  "thumbnail_text": "아이폰 고용량 사지말라?",
+  "thumbnail_answer": "비싼 고용량 아이폰을 사는 대신 아이클라우드를 활용해 사진과 영상을 관리하면 훨씬 저렴하고 효율적으로 용량을 아낄 수 있다.",
+  "conclusion": "아이폰 고용량이 부담스럽다면 아이클라우드 사진 보관함과 최적화 기능을 활용해라. 특히 아기가 있는 집에서는 가족 공유 기능이 압도적으로 편리하다. 다만 구독료와 용량 부족 시 백오류에 주의해라.",
+  "key_points": [
+   "스마트폰 가격이 비싸진 만큼 고용량 모델 대신 아이클라우드를 쓰는 것이 효율적이다.",
+   "아이클라우드 플러스는 50GB부터 12TB까지 다양한 유료 요금제를 제공한다.",
+   "아이클라우드 사진 보관함을 쓰면 여러 애플 기기에서 하나의 저장소처럼 사진을 공유할 수 있다.",
+   "아이폰 저장 공간 최적화 기능을 켜면 원본은 클라우드에 두고 기기에는 저화질로 남겨 용량을 크게 아낀다.",
+   "아이가 있는 집에서는 가족 공유와 카메라 공유 보관함 기능이 매우 유용하다.",
+   "구독료가 매달 고정비로 나간다는 점과 용량이 초과되면 백업이 중단되는 점은 단점이다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "인트로",
+    "points": [
+     "비싼 고용량 아이폰 대신 아이클라우드를 추천하는 오프닝"
+    ]
+   },
+   {
+    "seconds": 83,
+    "title": "내 저장공간",
+    "points": [
+     "실제 1TB나 512GB 모델을 쓰면서도 실제 사용량은 300GB 수준인 경우가 많다"
+    ]
+   },
+   {
+    "seconds": 123,
+    "title": "iCloud+",
+    "points": [
+     "애플의 클라우드 서비스인 아이클라우드의 기본 기능과 유료 요금제 소개"
+    ]
+   },
+   {
+    "seconds": 215,
+    "title": "iCloud 사진 보관함",
+    "points": [
+     "여러 애플 기기에서 사진과 영상을 실시간으로 동기화하고 관리하는 방법"
+    ]
+   },
+   {
+    "seconds": 373,
+    "title": "아기있는 집",
+    "points": [
+     "가족 공유와 카메라 공유 보관함을 활용해 아기 사진을 자동으로 공유하는 꿀팁"
+    ]
+   },
+   {
+    "seconds": 520,
+    "title": "단점?",
+    "points": [
+     "매달 발생하는 구독료 부담과 용량 초과 시 백업 중단 위험 등 주의할 점"
+    ]
+   },
+   {
+    "seconds": 618,
+    "title": "오늘의 결론",
+    "points": [
+     "사진과 영상 때문에 고용량 아이폰 구매를 고민하는 이들에게 아이클라우드 활용을 최종 추천"
+    ]
+   }
+  ],
+  "tags": [
+   "아이폰",
+   "아이클라우드",
+   "애플",
+   "스마트폰용량",
+   "ITSub"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 58716,
+   "output_tokens": 817
+  }
+ },
+ "created_at": "2026-11-13T21:27:57+00:00"
+}
