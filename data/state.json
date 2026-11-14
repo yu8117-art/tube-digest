@@ -1422,18 +1422,14 @@
    "wait_checks": 1
   },
   "2kUnk3MUac8": {
+   "done_at": "2026-11-14T19:35:25+00:00",
    "errors": 0,
    "first_seen": "2026-11-11T16:24:47+00:00",
+   "last_attempt": "2026-11-14T19:34:23+00:00",
+   "notified": "2026-11-14T19:36:13+00:00",
    "published": "2026-11-11T09:00:13+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉https://bit.ly/4ow8KOs\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n“규제 이후 대출 완전 바뀌었다” 지금 대출 분위기 이렇습니다\n“대출 규제해도 집값 신고가” 요즘 매수자들의 특이현상\n“집 사고 싶은데 대출이 안 나와요” 대출 때문에 집 못 사는 분들 보세요\n\n☞촬영일: 26년 11월 5일",
-    "published": "2026-11-11T09:00:13+00:00",
-    "title": "“규제 이후 대출 완전 바뀌었다” 지금 대출 분위기 이렇습니다 [레오 김은진 대표 3부]",
-    "video_id": "2kUnk3MUac8"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "2nqLp7ILG6M": {
@@ -13149,18 +13145,14 @@
    "status": "baseline"
   },
   "ZC88MCOP6ew": {
+   "done_at": "2026-11-14T19:34:23+00:00",
    "errors": 0,
    "first_seen": "2026-11-11T16:24:41+00:00",
+   "last_attempt": "2026-11-14T19:33:43+00:00",
+   "notified": "2026-11-14T19:36:14+00:00",
    "published": "2026-11-11T08:30:17+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCFhF5oooL5ugxHKvTxBD75Q",
-    "channel_name": "땅집고",
-    "description": "#재초환 #분담금 #재건축\n\n재건축 부담금 1인당 4억6000만원 예고된 은마, 첫 부과를 앞둔 반포현대까지. 20년 동안 잠들어 있던 재건축초과이익환수제가 다시 깨어났습니다.\n\n집값 안정을 위해 필요하다는 정부와 팔지도 않은 집의 이익에 세금을 매긴다는 조합원들. 재초환이 왜 지금 재건축의 최대 변수가 됐는지 현장의 온도에서 짚어봅니다.\n\n\n🏠 잠깐 살아도 단단하게, 단단홈즈\n\n비어 있는 방을 임대하고 싶을 때도,\n출장·이사·인테리어로 잠깐 살 집이 필요할 때도!\n단단홈즈에서 더 안심하고 단기임대를 시작해 보세요.\n\n🔑 [호스트] 내 방 등록하고 단기임대 시작하기\n🔗 https://ader.dandanhomes.com/bsve9r\n\n🏡 [게스트] 필요한 기간만큼 살 집 찾기\n🔗 https://ader.dandanhomes.com/tvt76qo\n\n🏢 “내 개발사업에 AI를 어디까지 활용할 수 있을까?”\n개발계획·사업성 검토·인허가부터\n에너지·보안·주차 운영까지\n현업 사례로 배우는 AI 부동산 실전교육\n👉 신청하기 ▼ https://zipgobiz.com/\n\n📌 땅집고TV 구독하고 남들보다 빠른 부동산 안목을 키우세요\n​👉 지금 바로 구독·좋아요·알림설정까지! http://bit.ly/3RmNLky\n오늘 영상에 대한 여러분의 의견도 댓글로 자유롭게 남겨주세요💬",
-    "published": "2026-11-11T08:30:17+00:00",
-    "title": "\"분담금 4억에 재초환 4.6억까지\" 조합원들 비명…서울 터지자 지방도 날벼락ㅣ현장의온도",
-    "video_id": "ZC88MCOP6ew"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "ZCYC1FLEGlg": {
@@ -17359,6 +17351,7 @@
   "jYCI9x6bWEU": {
    "errors": 0,
    "first_seen": "2026-11-11T16:24:34+00:00",
+   "last_attempt": "2026-11-14T19:35:25+00:00",
    "published": "2026-11-11T09:00:15+00:00",
    "status": "pending",
    "video": {
