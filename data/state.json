@@ -122,18 +122,14 @@
    "status": "baseline"
   },
   "-4JHrHa6mN8": {
+   "done_at": "2026-11-14T15:01:17+00:00",
    "errors": 0,
    "first_seen": "2026-11-11T08:22:32+00:00",
+   "last_attempt": "2026-11-14T14:56:25+00:00",
+   "notified": "2026-11-14T15:07:19+00:00",
    "published": "2026-11-11T07:30:00+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#손흥민 #황희찬 #송민규 #엄지성 #대표팀 #모레노",
-    "published": "2026-11-11T07:30:00+00:00",
-    "title": "\"엄지성, 황희찬, 송민규\" 중앙에서 뛰는 손흥민, 왼쪽 공격수는 누가 이어 받아야 할까? 사우디전 왼쪽 선발은 누가 될까",
-    "video_id": "-4JHrHa6mN8"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "-4vtbZjNJ4M": {
@@ -188,18 +184,14 @@
    "wait_checks": 0
   },
   "-HyKpr5N1Es": {
+   "done_at": "2026-11-14T14:56:25+00:00",
    "errors": 0,
    "first_seen": "2026-11-11T08:22:40+00:00",
+   "last_attempt": "2026-11-14T14:49:57+00:00",
+   "notified": "2026-11-14T15:07:20+00:00",
    "published": "2026-11-11T07:15:25+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCRCNBeNS8MrOwFV6h6Yjemw",
-    "channel_name": "시황맨TV",
-    "description": "주식 시황. 증시 급반등 원인 집중 분석. 코어위브 실적, 코멘트, 영향 정리. 코스닥이 더 강했던 이유. 이 물량 터지고 급반등. 특징주, 경계 요인. 급등날 물량 담아간 종목들\n\n방송 요약\n증시 급반등 원인 집중 분석. \n코어위브 실적, 코멘트, 영향 정리. \n금리, 연준 인사들 발언 여파는\n주요 매도세 줄어든 원인\n코스닥이 더 강했던 이유. \n이 물량 터지고 급반등\n주요 특징주와 관련 뉴스\n단기적으로 경계할 요인. \n급등날 물량 담아간 종목들\n\n#삼성전자, #테슬라 ,#채권 ,#에코프로비엠 ,#sk하이닉스 ,#주식시황 ,#에코프로 ,#애플 ,#엔비디아 ,#국제유가 ,#증시전망 ,#환율 ,#국채금리 ,#마이크론테크,#코스닥 ,#엘앤에프 ,#미국주식,#해외증시 ,#다우지수 ,#마이크론테크 ,#채권금리 ,#LG에너지솔루션 ,#반도체주식 ,#HBM관련주 ,#FOMC ,#비트코인 ,#LG에너지솔루션 ,#가상화폐 ,#암호화폐 ,#셀트리온,#셀트리온제약 ,#ai관련주 ,#TSMC,#KB금융 ,#저PBR ,#밸류업 ,#기아 ,#한미반도체 ,#파월의장 ,#경기선행지수 ,#한미약품 ,#엘앤에프 , #태양광관련주 ,#구리관련주 ,#TSMC ,#PCE ,#대차대조표 ,#HLB ,#CPI ,#JP모건 ,#모건스탠리 ,#셀트리온 ,#삼성전자HBM ,#CPI ,#달러차트 ,#HLB ,#삼성전자HBM ,#미국고용지표  ,#알테오젠 ,#트럼프 ,#ISM제조업지수 ,#BTS ,#금투세 ,#모건스탠리 ,#밸류업지수 ,#북한 ,#고려아연 ,#금양 ,#엔달러 ,#엔캐리트레이드 ,#로봇관련주 ,#레인보우로보틱스 ,#딥시크 ,#DeepSeek ,#관세 ,#트럼프관세 ,#무역전쟁 ,#관세전쟁 ,#세법개정안 ,#스테이블코인 ,#주식양도세 ,#파운드리 ,#PPI ,#생산자물가지수 ,#데이터센터 ,#양적긴축 ,#부동산정책 ,#부동산대책 ,#FOMC ,#주주환원 ,#관세협상 ,#ADR ,#HBM ,#HBM4 ,#마이클버리 ,#빅쇼트 ,#사이드카 ,#매출채권 ,#제미나이3 ,#TPU ,#오라클 ,#잭슨홀 ,#환헤지 ,#전략적환헤지, #잭슨홀미팅 ,#SMR ,#BTS ,#블루아울 ,#IEEPA ,#국제비상경제권한법 ,#이란전쟁 ,#호르무즈 ,#호르무즈해협 ,#에이비엘바이오 ,#휴전 ,#스페이스X ,#젠슨황 ,#케빈워시 ,#마이크론실적 ,#삼성전자ETF ,#EUV ,#DUV ,#서킷브레이커 ,#아스트라AI ,#CXMT ,#코어위브 ,#중간선거 ,#블루웨이브",
-    "published": "2026-11-11T07:15:25+00:00",
-    "title": "주식 시황. 증시 급반등 원인 집중 분석. 코어위브 실적, 코멘트, 영향 정리. 코스닥이 더 강했던 이유. 이 물량 터지고 급반등. 특징주, 경계 요인. 급등날 물량 담아간 종목들",
-    "video_id": "-HyKpr5N1Es"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "-Mx1BTqeqlc": {
@@ -3434,6 +3426,21 @@
    },
    "wait_checks": 0
   },
+  "82RIiEAiaNE": {
+   "errors": 0,
+   "first_seen": "2026-11-14T14:49:51+00:00",
+   "published": "2026-11-14T11:00:34+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n주식 -50% 폭락에도 계속 들고 있는 사람 심리\n‘‘본전만 복구하자’’는 생각이 계좌를 박살내는 소름돋는 이유\n개미들이 삼전 닉스 탈출 못하는 진짜 이유\n\n☞촬영일: 26년 11월 12일",
+    "published": "2026-11-14T11:00:34+00:00",
+    "title": "주식 -50% 폭락에도 계속 들고 있는 사람 심리 [김경필 작가 1부]",
+    "video_id": "82RIiEAiaNE"
+   },
+   "wait_checks": 0
+  },
   "85PlYho9mHQ": {
    "first_seen": "2026-10-09T08:14:33+00:00",
    "published": "2026-10-08T07:46:34+00:00",
@@ -4493,6 +4500,21 @@
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-10-06T09:09:22+00:00",
    "status": "baseline"
+  },
+  "B3AF6ECJEk4": {
+   "errors": 0,
+   "first_seen": "2026-11-14T14:49:45+00:00",
+   "published": "2026-11-14T09:45:07+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#한국 #사우디 #모레노 #국가대표",
+    "published": "2026-11-14T09:45:07+00:00",
+    "title": "\"손흥민-오현규\" 부진한 투톱, 한 명은 쓰지 않아야 한다.. 모레노의 투톱 전술, 왜 실패할까?",
+    "video_id": "B3AF6ECJEk4"
+   },
+   "wait_checks": 0
   },
   "B3NBhTRaWgs": {
    "done_at": "2026-10-16T13:46:25+00:00",
@@ -5984,6 +6006,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "FnP7VXX_oK4": {
+   "errors": 0,
+   "first_seen": "2026-11-14T14:49:52+00:00",
+   "published": "2026-11-14T08:00:05+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉https://bit.ly/4ow8KOs\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n보던 집이 3억 올랐습니다, 지금이라도 집 사야 할까요?\n\"조금만 더 기다려 볼까요\" 금리 인상, 집값 내려갈까요?\n\"지금 집 사는 게 맞나요\" 조금만 더 지켜볼까요?\n\n☞촬영일: 26년 11월 6일",
+    "published": "2026-11-14T08:00:05+00:00",
+    "title": "보던 집이 3억 올랐습니다, 지금이라도 집 사야 할까요? [송희구 작가 4부]",
+    "video_id": "FnP7VXX_oK4"
+   },
+   "wait_checks": 0
+  },
   "FnVOPoYdxqo": {
    "errors": 0,
    "first_seen": "2026-11-05T23:09:09+00:00",
@@ -6586,6 +6623,21 @@
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-02T11:00:30+00:00",
    "status": "baseline"
+  },
+  "HD5M4GQGm6E": {
+   "errors": 0,
+   "first_seen": "2026-11-14T14:49:50+00:00",
+   "published": "2026-11-14T11:00:10+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 \n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-14T11:00:10+00:00",
+    "title": "내 집 마련 준비할 때 꼭 알아야 하는 것",
+    "video_id": "HD5M4GQGm6E"
+   },
+   "wait_checks": 0
   },
   "HEzzuC2umoQ": {
    "errors": 0,
@@ -7212,6 +7264,21 @@
    "first_seen": "2026-10-09T08:14:33+00:00",
    "published": "2026-07-19T12:50:44+00:00",
    "status": "baseline"
+  },
+  "IuyyNeXB-O0": {
+   "errors": 0,
+   "first_seen": "2026-11-14T14:49:47+00:00",
+   "published": "2026-11-14T08:30:08+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCYgVl2XoMfkvg1BzTFiyOiw",
+    "channel_name": "홈즈 부동산",
+    "description": "홈즈 부동산 밴드(급매 정보, 성남 투자시 필수)\n: https://band.us/band/91293447\n\n홈즈부동산 전화번호*  : 031-752-4984, 010-2082-0826\n(상담 및 매물 접수)\n\n네이버 블로그: https://blog.naver.com/11jhlee1199\n카카오톡 상담 채널: http://pf.kakao.com/_ciEcK\n\n홈즈 부동산 종합 링크 \nhttps://link.inpock.co.kr/homesrealestate\n\n주소: 경기도 성남시 수정구 산성대로 207, 109호(수진역 4번출구)",
+    "published": "2026-11-14T08:30:08+00:00",
+    "title": "서울 아파트 매물 8만 건 돌파… 집주인들이 달라지고 있습니다",
+    "video_id": "IuyyNeXB-O0"
+   },
+   "wait_checks": 0
   },
   "J-Us51eqZfg": {
    "errors": 0,
@@ -10372,6 +10439,21 @@
    "published": "2026-07-10T06:00:29+00:00",
    "status": "baseline"
   },
+  "RfalKxGE0Fo": {
+   "errors": 0,
+   "first_seen": "2026-11-14T14:49:56+00:00",
+   "published": "2026-11-14T14:15:03+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+    "channel_name": "언더스탠딩 : 세상의 모든 지식",
+    "description": "게스트 : [허드슨연구소 우정엽박사]\n\n💡내용 요약\n\n1. 민주당 압승, 트럼프 지지층 이탈\n- 물가 상승과 이란 전쟁 장기화가 공화당 패배의 주요 원인.\n- 트럼프 일가의 부패 의혹까지 겹치며 민심 악화.\n- 전통적인 공화당 지지층마저 등을 돌리기 시작.\n\n2. 트럼프 레임덕 본격화\n- 민주당의 의회 장악으로 트럼프의 정책 추진력 약화.\n- 강경파 인사를 중용하며 내부 결속 강화.\n- 향후 미국 정치는 극심한 대립과 정책 교착 가능성.\n\n3. 이란 전쟁, 끝내기도 계속하기도 어렵다\n- 전쟁 장기화로 유가 상승과 경제적 부담 확대.\n- 트럼프는 패배를 인정하지 않으면서 전쟁을 끝낼 명분이 필요한 상황.\n- 민주당의 예산 견제로 추가 군사작전에도 제약 가능성.\n\n4. 한국에 대한 관세·투자 압박 약해질까?\n- 트럼프의 관세 권한은 여전히 남아 있음.\n- 다만 미국 내부 정치 갈등으로 추가 압박은 어려워질 가능성.\n- 한국의 대미 투자 사업도 승인과 집행이 지연될 수 있다는 전망.\n\n5. AI 데이터센터 투자, 정말 멈추나?\n- 전기요금 상승으로 미국 지역 주민들의 반발 확대.\n- 민주당 전체가 AI 투자를 반대하는 것은 아님.\n- 중국과의 AI 경쟁 때문에 데이터센터 투자는 계속될 가능성이 높음.\n\n📌핵심 주제\n미국 중간선거 민주당 압승, 트럼프의 레임덕과 미국 경제·외교 정책의 변화\n\n\n[AI로 영상을 요약한 내용입니다]\n\n👉언더스탠딩 문의: understanding.officialmail@gmail.com\n👉글로 읽는 \"언더스탠딩 텍스트\".  \nhttps://contents.premium.naver.com/backbriefing/news\n👉언더스탠딩 멤버십 가입\nhttps://www.youtube.com/channel/UCIUni4ScRp4mqPXsxy62L5w/join",
+    "published": "2026-11-14T14:15:03+00:00",
+    "title": "지금 트럼프가 가장 무서워하는 건?",
+    "video_id": "RfalKxGE0Fo"
+   },
+   "wait_checks": 0
+  },
   "RhpG1Vsg1e0": {
    "errors": 0,
    "first_seen": "2026-10-30T14:23:33+00:00",
@@ -11220,6 +11302,21 @@
    "published": "2026-10-30T21:30:37+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "U7l-DQskiUM": {
+   "errors": 0,
+   "first_seen": "2026-11-14T14:49:56+00:00",
+   "published": "2026-11-14T11:55:19+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+    "channel_name": "언더스탠딩 : 세상의 모든 지식",
+    "description": "💡내용 요약\n이번 영상에서는 20년 가까이 논란이 이어져 온 재건축 초과이익 환수제(재초환)가 실제 부담금 부과 단계에 들어서면서 발생한 문제들을 살펴봅니다.\n\n서울 서초구 반포현대아파트(현 반포 센트레빌 아스테리움)에 약 179억 원의 부담금이 사전 통지되면서 조합원들은 1인당 2억 원이 넘는 금액을 부담할 가능성이 생겼습니다.\n\n재초환은 재건축으로 발생한 이익에서 기존 주택 가격, 정상적인 주택 가격 상승분, 건축 비용 등을 제외한 초과이익에 부담금을 부과하는 제도입니다. 2006년 도입된 이후 여러 차례 유예와 제도 개편을 거쳤으며, 현재는 1인당 평균 초과이익 8천만 원을 초과하는 경우 누진적으로 부담금을 부과합니다.\n\n문제는 제도의 취지보다 실제 부담금을 계산하고 징수하는 과정에서 더 큰 논란이 발생하고 있다는 점입니다.\n\n우선 부담금 부과 시점이 불명확합니다. 반포현대는 2021년 준공됐지만 부담금 부과가 지연됐고, 2026년 말까지 부과해야 하는지, 개정법에 따라 2029년까지 가능한지를 놓고 유권해석이 진행되고 있습니다.\n\n또한 준공 당시 소유자가 이미 아파트를 매도했다면 누가 부담금을 내야 하는지도 문제입니다. 법적으로 준공 당시 소유자가 부담 대상이지만, 조합이 과거 소유자에게 돈을 징수하는 과정에서 분쟁이 발생할 가능성이 있습니다.\n\n가장 큰 쟁점은 정상적인 집값 상승분을 계산하는 통계의 적절성입니다. 현재 사용하는 한국부동산원의 주택가격 동향조사 지수는 실거래가 지수보다 상승률이 낮게 나타나는 경향이 있습니다. 이 때문에 재건축으로 발생한 초과이익이 실제보다 크게 계산될 수 있다는 지적이 제기됩니다. 영상에서는 반포현대에 실거래가 지수를 적용할 경우 부담금이 사실상 사라질 수도 있다는 시뮬레이션을 제시합니다.\n\n아울러 집을 팔지 않아 현금 수익이 없는 조합원에게 수억 원의 부담금을 요구하는 것이 적절한지, 재초환이 재건축 사업을 위축시켜 주택 공급에 악영향을 미치는지도 논쟁거리입니다. 반면 재건축 과정에서 공공 인프라와 용적률 완화의 혜택을 받는 만큼 개발이익 일부를 사회에 환원해야 한다는 주장도 존재합니다.\n\n결국 재초환은 단순한 부담금 문제가 아니라 개발이익의 공정한 배분, 재산권 보호, 주택 공급, 조세 형평성이 충돌하는 제도입니다. 향후 유권해석과 소송, 정치권의 제도 개편 논의에 따라 존폐와 부담 수준이 달라질 가능성이 있습니다.\n\n재건축으로 발생한 이익을 사회에 환원해야 한다면, 집을 팔지도 않은 소유자에게 수억 원의 현금을 요구하는 것이 과연 합리적인 방법일까요?\n\n📌핵심 주제\n-재건축 초과이익 환수제의 구조와 부담금\n-재초환 부과 시점과 납부 주체 논란\n-주택가격 통계에 따른 초과이익 산정 문제\n-미실현 이익 환수와 재산권 침해 논쟁\n-재초환의 주택 공급 영향과 제도 개편\n\n[AI로 영상을 요약한 내용입니다]\n\n👉언더스탠딩 문의: understanding.officialmail@gmail.com\n👉글로 읽는 \"언더스탠딩 텍스트\".  \nhttps://contents.premium.naver.com/backbriefing/news\n👉언더스탠딩 멤버십 가입\nhttps://www.youtube.com/channel/UCIUni4ScRp4mqPXsxy62L5w/join",
+    "published": "2026-11-14T11:55:19+00:00",
+    "title": "집 팔지 않았는데 1인당 2억 원씩 '재건축 초과이익 부담금' 통지서. 부과 방식 계산법 두고 논란 본격화 (언더스탠딩 장순원 기자)",
+    "video_id": "U7l-DQskiUM"
+   },
    "wait_checks": 0
   },
   "UC26ggRrYCM": {
@@ -12185,6 +12282,7 @@
   "WofHWSM7xx0": {
    "errors": 0,
    "first_seen": "2026-11-11T08:22:34+00:00",
+   "last_attempt": "2026-11-14T15:05:58+00:00",
    "published": "2026-11-11T08:00:03+00:00",
    "status": "pending",
    "video": {
@@ -13074,6 +13172,21 @@
    "published": "2026-11-09T11:00:20+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "ZEkTerrJa_c": {
+   "errors": 0,
+   "first_seen": "2026-11-14T14:49:52+00:00",
+   "published": "2026-11-14T08:30:31+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n테슬라 로보택시 '이것' 나오면 정말 큰일납니다\n\n☞촬영일: 26년 11월 11일",
+    "published": "2026-11-14T08:30:31+00:00",
+    "title": "테슬라 로보택시 '이것' 나오면 정말 큰일납니다 [테크피드]",
+    "video_id": "ZEkTerrJa_c"
+   },
    "wait_checks": 0
   },
   "ZGCZd30CGrM": {
@@ -16916,18 +17029,14 @@
    "status": "baseline"
   },
   "ijLTC-d1TMs": {
+   "done_at": "2026-11-14T15:02:19+00:00",
    "errors": 0,
    "first_seen": "2026-11-11T08:22:26+00:00",
+   "last_attempt": "2026-11-14T15:01:17+00:00",
+   "notified": "2026-11-14T15:07:20+00:00",
    "published": "2026-11-11T07:43:53+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
-    "channel_name": "안될공학 - IT 테크 신기술",
-    "description": "하루 차이로 공개된 제미나이 4 카본과 클로드 페이블 5.2를 살펴봅니다. 같은 지도 데이터를 바탕으로 만든 도시 로봇부터 실제 코드 수정 과제까지, 두 모델의 결과가 어디서 갈리는지 비교합니다. 커서 평가에서 비슷한 최고점을 낸 두 모델의 비용이 달랐던 이유를 추론 설정과 공개 API 요금으로 짚습니다. 카본의 출시 할인과 캐시 사용, 하네스가 사용자의 청구액에 어떤 영향을 주는지도 구분해 설명합니다.\n\n싼 모델이 항상 유리한지 확인하기 위해 정전 상황을 견뎌야 하는 파일시스템 같은 어려운 과제도 함께 봅니다. 안티그래비티의 스웜과 페이블의 운영체제 시제품은 여러 에이전트가 일을 나누는 방식을 보여줍니다. 수학 증명 검산과 회로 설계 사례에서는 작업자를 늘리는 것과 마지막 문제를 해결하는 능력이 어떻게 다른지 살펴봅니다.\n\n공개 자료로 영업 기회를 찾은 실험과 만화 콘티 제작 후기도 소개합니다. 기업의 자체 시연과 외부 평가, 개인의 체험은 조건과 확인된 범위를 나눠 읽습니다. 반복하는 코드 수정부터 한 번 틀리면 다시 제작해야 하는 일까지, 어떤 작업에 어떤 AI를 먼저 써볼지 정리합니다.\n\nWritten by 패치\nEdited by 이재현\n\nunrealtech2021@gmail.com",
-    "published": "2026-11-11T07:43:53+00:00",
-    "title": "AI 신규 모델 대격돌 | 구글 카본 vs 클로드 페이블 5.2 | 새로 나온 두 AI의 코딩 실력과 실제 비용을 따져봤습니다",
-    "video_id": "ijLTC-d1TMs"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "ikvhiremUZE": {
@@ -17844,15 +17953,7 @@
    "errors": 0,
    "first_seen": "2026-11-11T08:22:34+00:00",
    "published": "2026-11-11T07:23:22+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
-    "channel_name": "스마트튜브(스튜TV)",
-    "description": "11월 14일 오프라인 세미나) 경기도 총정리 & 2027년 절세 전략 (빠숑&제네시스박)\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=657\n\n11월 15일 무료 특강) 2027년 서울 집값, 진짜 승부는 지금부터다\n https://blog.naver.com/ppassong/224464007812\n\n11월 20일부터 3주간 인천 정규강의 오프라인) 3주 만에 끝내는 인천 9개 구 완전정복!\nhttps://www.smarttube.kr/web/82?wmod=detail&idx=648\n\n11월 22일 스마트튜브 부산 세미나 - 전국 투자처 & 레오의 대출 활용법\nhttps://blog.naver.com/ppassong/224457721211\n\n이제부터는 오를 곳만 오른다 \n🔹교보문고 http://app.ac/LqnFfb203\n🔹예스24 http://app.ac/8AGBe3533\n\n부동산 끝판왕, 트루카피의 지금 당장 사야 할 아파트 리스트 200!\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=656\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
-    "published": "2026-11-11T07:23:22+00:00",
-    "title": "제 5차 국가철도망 예상 입지들 집중 탐색합니다! 호재가 될지 안될지 미리 체크해 봅시다!",
-    "video_id": "l9abba2YOlA"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "lB9uAETbRGE": {
@@ -19438,6 +19539,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "pLIPveUWFf4": {
+   "errors": 0,
+   "first_seen": "2026-11-14T14:49:50+00:00",
+   "published": "2026-11-14T09:30:08+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "인천 정규강의 오프라인) 3주 만에 끝내는 인천 9개 구 완전정복!\nhttps://www.smarttube.kr/web/82?wmod=detail&idx=648\n\n11월 오프라인 세미나) 경기도 총정리 & 2027년 절세 전략 (빠숑&제네시스박)\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=657\n\n이제부터는 오를 곳만 오른다 \n🔹교보문고 http://app.ac/LqnFfb203\n🔹예스24 http://app.ac/8AGBe3533\n\n부동산 끝판왕, 트루카피의 지금 당장 사야 할 아파트 리스트 200!\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=656\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
+    "published": "2026-11-14T09:30:08+00:00",
+    "title": "부동산 시장 큰일났습니다! 내년 부동산 시장에 벌어지는 일(구만수 교수)",
+    "video_id": "pLIPveUWFf4"
+   },
+   "wait_checks": 0
+  },
   "pM5jRqbrqz4": {
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-10-05T23:10:21+00:00",
@@ -19609,6 +19725,21 @@
    "published": "2026-10-30T02:30:11+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "plwYnvp4qoY": {
+   "errors": 0,
+   "first_seen": "2026-11-14T14:49:42+00:00",
+   "published": "2026-11-14T11:00:33+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "귀뚜라미 울음소리는 잘 들리는데, 정작 어디서 나는지 찾기 어려웠던 적 있으신가요? 수컷 귀뚜라미는 날개의 공명 구조를 이용해 특정 주파수가 두드러지는 소리를 만들어냅니다. 다양한 주파수가 섞인 소리는 귀에 도달하는 방식의 차이를 통해 위치를 파악하는 데 도움이 될 수 있지만, 특정 주파수에 집중된 소리는 일부 방향 단서를 제한할 수 있는데요. 덕분에 귀뚜라미는 암컷에게 짝짓기 신호를 보내면서도 포식자가 자신의 위치를 파악하기 어렵게 만들 수 있습니다. 작은 곤충의 울음소리에도 놀라운 과학이 숨어 있습니다. 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#귀뚜라미 #곤충 #울음소리 #공명 #소리의과학 #음향학 #동물행동 #안될과학 #과학유튜브",
+    "published": "2026-11-14T11:00:33+00:00",
+    "title": "귀뚜라미 울음소리의 위치를 찾기 어려운 이유?!",
+    "video_id": "plwYnvp4qoY"
+   },
    "wait_checks": 0
   },
   "poEAGTNJ6K4": {
@@ -20742,18 +20873,14 @@
    "wait_checks": 0
   },
   "t8OJHL6q3T4": {
+   "done_at": "2026-11-14T15:05:58+00:00",
    "errors": 0,
    "first_seen": "2026-11-11T08:22:41+00:00",
+   "last_attempt": "2026-11-14T15:02:19+00:00",
+   "notified": "2026-11-14T15:07:21+00:00",
    "published": "2026-11-11T07:55:35+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-    "channel_name": "언더스탠딩 : 세상의 모든 지식",
-    "description": "💡내용 요약\n\n1. AI 투자 과열과 빅테크의 자금 부담으로 주식시장이 큰 조정을 받고 있다.\n2. 데이터센터 투자 지연과 반도체 기업의 미래 이익 감소 우려가 추가 하락 요인이다.\n3. 하지만 AI 산업 자체가 끝난 것은 아니며, 2028년 이후 피지컬 AI가 새로운 성장 동력이 될 수 있다.\n4. 내년 봄까지 시장이 불안정할 수 있어 단기 급반등을 기대하는 투자는 위험하다.\n5. 지금은 좋은 기업을 싸게 모으면서 다음 상승 사이클을 준비할 시기라는 것이 윤지호 센터장의 핵심 주장이다.\n\n📌핵심 주제\n\n“AI 사이클은 끝나지 않았다. 다만 지금은 단기 수익보다 다음 상승장을 준비할 때다.”\n\n[AI로 영상을 요약한 내용입니다]\n\n👉언더스탠딩 문의: understanding.officialmail@gmail.com\n👉글로 읽는 \"언더스탠딩 텍스트\".  \nhttps://contents.premium.naver.com/backbriefing/news\n👉언더스탠딩 멤버십 가입\nhttps://www.youtube.com/channel/UCIUni4ScRp4mqPXsxy62L5w/join",
-    "published": "2026-11-11T07:55:35+00:00",
-    "title": "\"투자를 과학으로 착각하지 마라\" 똑똑한 개미들이 올겨울 하락장에 물리는 이유 (윤지호 경제평론가) [촬영일 26.11.10]",
-    "video_id": "t8OJHL6q3T4"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "t8txM2zzxF0": {
@@ -21740,6 +21867,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "vbBzSkzGUTo": {
+   "errors": 0,
+   "first_seen": "2026-11-14T14:49:41+00:00",
+   "published": "2026-11-14T14:19:32+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "◆ 모어사이언스 신상 굿즈 구경하러 가기!\nhttps://smartstore.naver.com/morescience\n\n◆신상 누리호 항공점퍼, 누리호 뱃지, 포스터, 누리호 텀블러\nhttps://smartstore.naver.com/morescience/search?q=누리호\n\n◆『우리는 어쩌다 과학을 믿게 되었을까?』\n예스24 https://t.ly/E0es4\n알라딘 https://t.ly/WpoQt\n교보문고 https://t.ly/0g_Yd",
+    "published": "2026-11-14T14:19:32+00:00",
+    "title": "스페이스X 스타십 15차 시험 발사 생중계 (스타십 메카질라 캐치시도) [항성의 우주속으로]",
+    "video_id": "vbBzSkzGUTo"
+   },
+   "wait_checks": 0
+  },
   "vbDEHKhogXU": {
    "first_seen": "2026-10-09T08:14:30+00:00",
    "published": "2026-10-01T09:44:51+00:00",
@@ -22183,6 +22325,21 @@
     "published": "2026-10-23T09:00:16+00:00",
     "title": "스타트업을 또 잡아먹어버린 오픈AI",
     "video_id": "wp-hrUFdMiU"
+   },
+   "wait_checks": 0
+  },
+  "wrkW3ro6eXw": {
+   "errors": 0,
+   "first_seen": "2026-11-14T14:49:40+00:00",
+   "published": "2026-11-14T11:00:01+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdUcjkyZtf-1WJyPPiETF1g",
+    "channel_name": "ITSub잇섭",
+    "description": "제가 보조배터리에는 진짜 진심이고 엄청나게 많이 사는데요, 이번에는 유그린에서 진짜 수냉으로 냉각시키는 맥세이프 보조배터리가 있다고 해서 바로 사봤습니다. 가격이 이정도 용량에선 만만치 않은 20만원인데;;; 그래도 돈값 할지 궁금하잖아요??\n\n\n🔋 Specs.\n제품명 : UGREEN MagFlow Pro Qi2 25W\n두께 : 16mm\n무게 : 233g\n입력 : USB-C 최대 30W\n출력 : USB-C 유선 최대 45W / Qi2 무선 최대 25W\n용량 : 10,000mAh\n가격 : $149.99\n\n\n🎵 BGM.\nES_You and Me on Cloud High - Andreas Dahlback\n\n\n⏲️ Timestamps.\n00:00 ㄹㅇㅋㅋ\n00:08 오프닝\n00:48 가격\n01:46 디자인\n05:02 쿨링이 필요한 이유\n07:05 충전\n08:02 무선 충전 테스트\n11:53 유선 충전 테스트\n13:00 보조배터리 충전\n13:34 오늘의 결론\n\n\n🔖Tags.\n#UGREEN\n#보조배터리 \n#맥세이프\n\n\n💡 Merch.\n블랙카우랩스 굿즈를 사고 싶다면?\n-https://abit.ly/blackcowlabs\n\n\n📨 Business contacts.\n itsub@itud.io",
+    "published": "2026-11-14T11:00:01+00:00",
+    "title": "자체 수냉쿨러 탑재한 미친 무선 보조배터리 ㅋㅋ 20만원 주고 과연 살만할까?",
+    "video_id": "wrkW3ro6eXw"
    },
    "wait_checks": 0
   },
@@ -22784,6 +22941,21 @@
    "published": "2026-11-04T11:00:34+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "yagCF3JqwAE": {
+   "errors": 0,
+   "first_seen": "2026-11-14T14:49:38+00:00",
+   "published": "2026-11-14T11:12:16+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "0:00 '기계가 나를 울렸다'\n3:30 AI가 일자리를 파괴한다\n12:12 '대졸 신입 정규직'의 급감\n22:35 답이 없어져가는 20대 취업\n27:19 꿈꾸던 어른이 되었나요?",
+    "published": "2026-11-14T11:12:16+00:00",
+    "title": "수많은 취준생을 울린 '꿈꾸던 어른이 되었나요?'",
+    "video_id": "yagCF3JqwAE"
+   },
    "wait_checks": 0
   },
   "yeWkK-Cljbk": {
