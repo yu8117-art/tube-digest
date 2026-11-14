@@ -1,0 +1,75 @@
+{
+ "video": {
+  "video_id": "Ft8S7v11--4",
+  "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+  "channel_name": "에스오디 SOD",
+  "title": "\"인간은 이해불가\" 경우의 수가 '우주급'... 상식 깬 반도체 등장 ㄷㄷ",
+  "published": "2026-11-11T09:03:22+00:00",
+  "description": "AI가 설계한 반도체가 인간을 뛰어넘는 성능을 냈다는 연구가 발표되었습니다.\n인간의 일자리는 어디까지 위험해질까요?\n\n- 하이젠버그에서 더 자세한 정보를 얻어가세요: https://heisenberg.kr/bai-pdk-rf/\n\n- 인스타그램: https://www.instagram.com/softdragon__/\n\n- Chapter\n0:00 인트로\n0:48 장인의 영역\n4:20 AI가 엔지니어를 이긴 방법\n6:10 앞으로의 미래\n\n- 내용 출처\n1. 라떼연두, \"수십년 노하우가 필요한 무선칩, AI가 6분 만에 설계했다\", 하이젠버그, 2026\n2. Emir Ali Karahan·Zheng Liu·Aggraj Gupta·Zijian Shao·Jonathan Zhou·Uday Khankhoje·Kaushik Sengupta, \"Deep-learning enabled generalized inverse design of multi-port radio-frequency and sub-terahertz passives and integrated circuits\", Nature Communications, 2024\n3. Kaushik Sengupta, \"AI Is Designing Radio Chips That Humans Couldn't Even Imagine\", IEEE Spectrum, 2026\n4. John Sullivan, \"AI slashes cost and time for chip design, but that is not all\", Princeton Engineering, 2025\n5. Demis Hassabis, \"What we learned in Seoul with AlphaGo\", Google Blog, 2016\n6. 김성민, “MS조차 AI發 구조조정... 6만명에 희망퇴직 실시”, 조선일보, 2026\n7. Jonathan Zhou·Emir Ali Karahan·Juho Park·Sherif Ghozzy·Zheng Liu·Hossein Jalili·Kaushik Sengupta, \"End-to-End AI-Enabled mmWave Amplifier Design Combining Reinforcement Learning and Inverse Design\", IEEE Journal of Solid-State Circuits, 2026\n\n- BGM\n1. Albatross - Creative Cut - Minimal by Roie Shpigler\n2. Playing with Light by Roie Shpigler\n3. What The Dog Doing by Out of Flux\n4. Earthquake by Romeo \n5. Rise Above By lumine wave",
+  "url": "https://www.youtube.com/watch?v=Ft8S7v11--4"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/Ft8S7v11--4/maxresdefault.jpg",
+ "source": "video",
+ "duration": 532,
+ "summary": {
+  "headline": "AI가 6분 만에 설계한 반도체, 인간 고정관념 깼다",
+  "thumbnail_text": "반도체 엔지니어들 비상 ㄷㄷ 상식 깬 반도체 등장 \"인간은 이해 못한다\"",
+  "thumbnail_answer": "AI가 인간의 관념을 깬 불규칙한 무늬의 무선 반도체를 6분 만에 설계하고 베테랑 엔지니어보다 높은 성능을 냈다.",
+  "conclusion": "수십 년 경력 베테랑의 노하우가 필요했던 무선 반도체 칩 설계를 AI가 단 6분 만에 완수했다. AI는 인간이 상상조차 못 한 QR코드 모양의 설계를 적용해 기존 최고 성능을 뛰어넘었다. 이에 따라 반도체 업계에서 단순 설계 인력의 입지가 좁아지고 고급 판단력을 갖춘 인재 위주로 채용 시장이 변화할 가능성이 커졌다.",
+  "key_points": [
+   "무선 반도체 칩은 전자기파 간섭과 미세한 금속선 모양 변화로 성능이 확 달라져 설계 난이도가 매우 높다.",
+   "기존에는 CPU 코어 400개로 29일 동안 계산해야 했던 설계를 AI가 6분 만에 끝냈다.",
+   "AI가 설계한 무선 칩은 QR코드 같은 불규칙한 무늬로, 인간이 만든 가지런한 대칭 설계보다 높은 성능을 기록했다.",
+   "프린스턴대 연구진은 AI가 신호 증폭과 회로 연결까지 완수하며 인간의 직관을 뛰어넘었다고 발표했다.",
+   "AI가 숙련된 엔지니어의 영역을 대체하기 시작하면서 반도체 업계의 신입 채용 축소와 구조조정 우려가 제기된다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "인트로",
+    "points": [
+     "AI가 수십 년 노하우가 필요한 반도체 칩을 6분 만에 설계하는 데 성공했다.",
+     "인간이 이해할 수 없는 형태의 무선 반도체가 등장했다."
+    ]
+   },
+   {
+    "seconds": 48,
+    "title": "장인의 영역",
+    "points": [
+     "무선 칩은 금속선 길이와 모양에 따라 성능 변화가 심해 10년 이상 경력자도 설계가 어렵다.",
+     "계산 시뮬레이션 시간이 너무 오래 걸려 기존 엔지니어들은 검증된 몇 가지 모양만 수정해 사용했다."
+    ]
+   },
+   {
+    "seconds": 260,
+    "title": "AI가 엔지니어를 이긴 방법",
+    "points": [
+     "연구진은 무선 칩 성능을 AI에 학습시켜 설계도 평가 속도를 대폭 줄였다.",
+     "29일 걸리던 작업을 6분 만에 끝냈으며 배운 적 없는 신규 금속 구조로 최고 성능을 달성했다."
+    ]
+   },
+   {
+    "seconds": 370,
+    "title": "앞으로의 미래",
+    "points": [
+     "AI발 인원 감축 사례가 늘어나며 반도체 업계 신입 채용 시장도 타격을 받을 수 있다.",
+     "앞으로는 실무 경험 없이도 베테랑급 판단력을 지닌 인재를 요구하는 까다로운 환경이 만들어질 수 있다."
+    ]
+   }
+  ],
+  "tags": [
+   "반도체",
+   "AI설계",
+   "무선칩",
+   "프린스턴대",
+   "테크뉴스",
+   "일자리변화"
+  ],
+  "_usage": {
+   "model": "gemini-3.6-flash",
+   "input_tokens": 50622,
+   "output_tokens": 873
+  }
+ },
+ "created_at": "2026-11-14T23:24:07+00:00"
+}
