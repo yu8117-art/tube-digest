@@ -4288,18 +4288,14 @@
    "wait_checks": 0
   },
   "Ael77Uu-tNo": {
+   "done_at": "2026-11-15T02:57:29+00:00",
    "errors": 0,
    "first_seen": "2026-11-11T16:24:31+00:00",
+   "last_attempt": "2026-11-15T02:55:20+00:00",
+   "notified": "2026-11-15T03:00:14+00:00",
    "published": "2026-11-11T11:00:19+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
-    "channel_name": "안될과학 Unrealscience",
-    "description": "회의 중에도, 밥을 먹다가도 갑자기 잠에 빠지고, 크게 웃으면 다리 힘이 풀려 주저앉는 병이 있습니다.\n\n바로 1형 기면증인데요. 2026년 8월, 미국 FDA가 기면증의 원인을 직접 겨냥한 최초의 치료제로 다케다의 오르제이풀(성분명 오베포렉스톤)을 승인했습니다.\n졸음을 쫓는 약은 이미 많았는데, 오르제이풀은 무엇이 달라서 '최초'라는 말이 붙었을까요?\n\n이번 영상에서는 암페타민에서 모다피닐까지 이어진 졸음 쫓는 약의 역사, 뇌 속 기상 스위치라 불리는 오렉신, 오르제이풀의 임상시험 결과와 부작용, 그리고 ADHD와 신경계 질환 피로까지 넓어지는 오렉신 작용제 시장을 살펴봅니다.\n\n오르제이풀은 제2의 위고비가 될 수 있을까요?\n\n* 이 영상은 정보 제공을 위한 것으로, 약의 복용이나 중단은 반드시 의료진과 상의해 주세요.\n\n#기면증 #오르제이풀 #오렉신 #오렉신작용제 #다케다 #FDA #탈력발작 #졸음 #ADHD #안될과학\n\n◆ Thanks to \nEditor : 이주현\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science \n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience",
-    "published": "2026-11-11T11:00:19+00:00",
-    "title": "졸음 깨는 약은 많았는데, 오르제이풀은 뭐가 달라서 '최초'일까?",
-    "video_id": "Ael77Uu-tNo"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "Aep0Y8EHimA": {
@@ -6422,6 +6418,21 @@
    },
    "wait_checks": 0
   },
+  "GZfTpovi56k": {
+   "errors": 0,
+   "first_seen": "2026-11-15T02:53:30+00:00",
+   "published": "2026-11-15T01:00:38+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉https://bit.ly/4ow8KOs\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"이제 강제로 집 사게 될 겁니다\" 한국 부동산에 나타난 이상현상\n현장은 완전 난리났습니다, 11월 이후 시장 이렇게 될 겁니다\n\"경기 외곽까지 번질 겁니다\" 부동산 시장 결국 이렇게 된다\n\n☞촬영일: 26년 11월 6일",
+    "published": "2026-11-15T01:00:38+00:00",
+    "title": "\"이제 강제로 집 사게 될 겁니다\" 한국 부동산에 나타난 이상현상 [송희구 작가 풀버전]",
+    "video_id": "GZfTpovi56k"
+   },
+   "wait_checks": 0
+  },
   "GZfuM2sDVhs": {
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-07T09:00:30+00:00",
@@ -6727,6 +6738,21 @@
    "first_seen": "2026-10-22T04:00:19+00:00",
    "published": "2026-10-21T10:00:14+00:00",
    "status": "baseline"
+  },
+  "HbQ6WWygS7M": {
+   "errors": 0,
+   "first_seen": "2026-11-15T02:53:27+00:00",
+   "published": "2026-11-14T23:43:18+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "우주에서 돌아온 스타십을 메카질라가 잡아냈습니다! 스타십 15차 시험발사에서 마침내 성공한 메카질라 캐치! 거대한 기체가 발사대로 접근해 타워의 두 팔 사이로 들어오는 긴장감 넘치는 순간과 성공의 환호를 항성의 실시간 해설과 함께 만나보세요. 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#스타십 #스타십15차 #SpaceX #스페이스X #메카질라 #스타십캐치 #타워캐치 #항성 #안될과학",
+    "published": "2026-11-14T23:43:18+00:00",
+    "title": "스타십 15차, 메카질라 캐치 성공의 순간!",
+    "video_id": "HbQ6WWygS7M"
+   },
+   "wait_checks": 0
   },
   "HhFADLkRixQ": {
    "errors": 0,
@@ -7441,6 +7467,21 @@
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-08-07T09:00:11+00:00",
    "status": "baseline"
+  },
+  "JSaKG-vWnzM": {
+   "errors": 0,
+   "first_seen": "2026-11-15T02:53:24+00:00",
+   "published": "2026-11-15T01:59:11+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCoCvTlU0KpNYwnMIgs7MPrA",
+    "channel_name": "보다 BODA",
+    "description": "오늘은 '성유물 미스터리’에 대해 알아봤습니다!\n\n오늘의 출연진\nMC 허준님\n중동학자 박현도 교수님\n유라시아 고고학자 강인욱 교수님\n이집트 고고학자 곽민수 소장님\n성현동성당 하성용 주임신부님\n\n00:00 오프닝\n02:53 교황청 지하에 숨겨진 타임머신의 정체\n19:08 여러 종교에서 묘사하는 지옥의 진짜 모습\n40:29 지금은 교황을 아무도 안 하려고 하는 이유\n\n\n역사를 보다 시리즈의 세계관을 담아낸 2026년 프리미엄 가죽 다이어리 출시!!\n하루가 자연스럽게 역사와 연결되는 특별한 2026년을 선물합니다.\n\n다이어리 보러가기 : https://link24.kr/CB5j952\n\n [역사를 보다2]\n 교보: https://product.kyobobook.co.kr/detail/S000217019951\n yes24: https://www.yes24.com/product/goods/148813806\n 알라딘: https://www.aladin.co.kr/shop/wproduct.aspx?itemid=367582434\n\n[역사를 보다]\n교보문고 https://url.kr/lhXMpm\nyes24 https://url.kr/pz75gT\n알라딘 https://url.kr/3B3tS9\n\n강인욱 교수님의 개인채널\n[고고한 강교수] \n@gogohankang\n\n강인욱 교수님의 저서 [발해, 문명의 빛을 찾아서] 교보문고 \nhttps://product.kyobobook.co.kr/detai...\n예스24\nhttps://www.yes24.com/product/goods/1...\n알라딘\nhttps://www.aladin.co.kr/shop/wproduc...\n\n박현도 교수님의 저서\n[중동을 읽는 40가지 이야기]\n교보문고-https://product.kyobobook.co.kr/detail/S000220693811\nyes24- https://www.yes24.com/product/goods/194502168\n\n궁금하신 부분들을 댓글에 달아주세요!\n저희가 확인하겠습니다! 감사합니다!\n\n출연 및 제휴 문의 : boooda.kr@gmail.com\n\nBODA 인스타 :   / boda_channel\n#보다 #역사 #기독교",
+    "published": "2026-11-15T01:59:11+00:00",
+    "title": "역사상 가장 논란이 많은 성유물의 진실 (예수의 얼굴이..?)ㅣ역사를 보다 EP.171",
+    "video_id": "JSaKG-vWnzM"
+   },
+   "wait_checks": 0
   },
   "JSrc-ois9j4": {
    "done_at": "2026-11-03T09:30:43+00:00",
@@ -9806,6 +9847,7 @@
   "QBSm6BJko4A": {
    "errors": 0,
    "first_seen": "2026-11-11T16:24:28+00:00",
+   "last_attempt": "2026-11-15T02:58:56+00:00",
    "published": "2026-11-11T11:22:17+00:00",
    "status": "pending",
    "video": {
@@ -13168,6 +13210,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "ZAPduG-OZbo": {
+   "errors": 0,
+   "first_seen": "2026-11-15T02:53:27+00:00",
+   "published": "2026-11-14T23:35:56+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "우주에 다녀온 스타십이 발사대로 돌아왔습니다.\n그리고 메카질라가 그 거대한 기체를 잡아냈습니다.\n\n스타십 15차 시험발사에서 기다렸던 캐치 성공의 순간! 궤도에서 지구를 내려다보던 스타십이 다시 대기권으로 들어와 발사대에 도착하기까지, 긴장하며 지켜봤던 귀환비행의 주요 장면을 모았습니다.\n\n우주에서 돌아온 스타십은 어떻게 속도를 줄이고, 거대한 타워의 두 팔 사이로 들어갔을까요?\n\n이번 영상에서는 우주 비행부터 재진입과 하강, 그리고 메카질라 캐치까지 이어지는 과정을 항성의 실시간 해설과 함께 살펴봅니다.\n\n함께 기다리고 환호했던 그 순간을 다시 만나보세요!\n\n#스타십 #스타십15차 #SpaceX #스페이스X #메카질라 #스타십캐치 #타워캐치 #재진입 #우주개발 #하이라이트 #항성 #안될과학\n\n◆ Thanks to\nEditor : 이재현\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science\n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience",
+    "published": "2026-11-14T23:35:56+00:00",
+    "title": "스타십! 드디어 캐치에 성공하다! 🚀 | 15차 시험발사 귀환비행 하이라이트",
+    "video_id": "ZAPduG-OZbo"
+   },
+   "wait_checks": 0
+  },
   "ZBhu1J2VxZI": {
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-09-18T08:00:35+00:00",
@@ -14190,18 +14247,14 @@
    "status": "baseline"
   },
   "b5hO1YLGNrg": {
+   "done_at": "2026-11-15T02:55:20+00:00",
    "errors": 0,
    "first_seen": "2026-11-11T16:24:47+00:00",
+   "last_attempt": "2026-11-15T02:54:47+00:00",
+   "notified": "2026-11-15T03:00:15+00:00",
    "published": "2026-11-11T10:00:34+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉https://bit.ly/4ow8KOs\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"경기 외곽까지 번질 겁니다\" 수도권 집값 이제 이렇게 됩니다\n\"이제 강제로 집 사게 됩니다\" 한국 부동산에 나타난 이상현상\n\"덜 똘똘한 한 채도 오른다\" 살기 위해 집 사고 있습니다\n\n☞촬영일: 26년 11월 6일",
-    "published": "2026-11-11T10:00:34+00:00",
-    "title": "\"경기 외곽까지 번질 겁니다\" 수도권 집값 이제 이렇게 됩니다 [송희구 작가 2부]",
-    "video_id": "b5hO1YLGNrg"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "b6-kyiV1QwE": {
@@ -17846,18 +17899,14 @@
    "wait_checks": 0
   },
   "knJv8MB7S88": {
+   "done_at": "2026-11-15T02:54:47+00:00",
    "errors": 0,
    "first_seen": "2026-11-11T16:24:34+00:00",
+   "last_attempt": "2026-11-15T02:53:33+00:00",
+   "notified": "2026-11-15T03:00:15+00:00",
    "published": "2026-11-11T10:00:22+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCvW8norVMTLt7QN-s2pS4Bw",
-    "channel_name": "조승연의 탐구생활",
-    "description": "오늘은 럭셔리카의 상징 벤틀리에 관하여 얘기를 해봤습니다!\n패밀리카로..꽤 매력적인데요? 궁그미분들은 어떠신가요?\n\n*이 영상에는 벤틀리의 유료광고가 포함되어 있습니다\n\n본 차량은 국내 미인증•미출시 차량으로, 국내 인증 결과에 따라 \n사양 및 제원이 변경될 수 있습니다.\n\n벤틀리 토르칼의 더 자세한 내용은 아래 링크를 통해 확인하실 수 있습니다. \nhttps://bit.ly/BentleyMotorsKorea\n\n채널에 가입하여 혜택을 누려보세요.\nhttps://www.youtube.com/channel/UCvW8norVMTLt7QN-s2pS4Bw/join\n\n배우는 즐거움이 있는 \n본격 취미 탐구 라이프 채널!\n조승연의 탐구생활 🕵🏻‍♂️\n  \n조승연 insta \n / totalintelli  \n\n#벤틀리 #토르칼 #전기차\n\nCopyright © 2026 Studio Episode - All Rights Reserved",
-    "published": "2026-11-11T10:00:22+00:00",
-    "title": "영국인들은 왜 자동차에 진심일까?ㅣ벤틀리로 보는 럭셔리의 역사",
-    "video_id": "knJv8MB7S88"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "kpYGrIs44Rs": {
@@ -18571,15 +18620,7 @@
    "errors": 0,
    "first_seen": "2026-11-11T16:24:50+00:00",
    "published": "2026-11-11T10:54:59+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCHOPWa8g36QPHB00JmdZluw",
-    "channel_name": "채널 제네시스박",
-    "description": "11/11(수) 라이브 입니다. \n\n⏰ 타임라인 \n00:00 인트로 및 라이브 소통 (오프닝 인사 & 멤버십 일정 안내)\n05:32 오늘 다룰 주요 이슈 브리핑\n09:08 [주제 1] 여당 서울 의원 종부세 이견 대립 (완화 vs 현행 유지)\n14:50 지역구별 입장 차이 및 세법 개정안 쟁점 (장특공 개편 분석)\n18:15 공시가격 인상에 따른 보유세 폭탄 시나리오 & 정부 스탠스\n25:10 주제 1 결론: 연말 세법 개정 전 보유·매도 대응 전략\n27:17 중간 휴식 및 실시간 채팅 소통\n33:35 [주제 2] 집값 -6억 vs 전세 +5억, 동남권(강동) 전세 시장 격변\n36:45 올림픽파크포레온 실거주 의무 유예 만료와 전세난 가중\n43:20 분상제 실거주 유예와 장기 거주 세제 개편이 부른 나비효과\n45:50 실제 매각 사례별 양도세 격차 분석 (장기보유특별공제 축소 영향)\n51:39 주제 2 결론: 향후 전월세 시장 전망과 포지션별 대응법\n54:07 실시간 Q&A (시청자 부동산 세무·청약·갈아타기 질문 답변)\n01:14:53 오프라인 특강 안내 및 마무리 인사\n\n📌 유튜브 멤버십 가입하고 질문하기!\nhttps://www.youtube.com/channel/UCHOPWa8g36QPHB00JmdZluw/join\n\n📌 첫 오픈! '매도의 기술 - 잘 팔고, 잘 사는 법' (11/21, 토, 강남역 인근) + 1:1 코칭권 (조기 마감 예상) \nhttps://genesispark.co.kr/classes/323773\n\n📌 명동 본점 롯데백화점 세금 특강! + 1:1 현장 질문 (12/12, 토, 오후 2시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0001&yy=2026&lectSmsterCd=4&lectCd=0351\n\n📌 수원 타임빌라스 롯데백화점 세금 특강! + 1:1 현장 질문 (1/16, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0349&yy=2026&lectSmsterCd=4&lectCd=0245\n\n📌 부산 롯데백화점 세금 특강! + 1:1 현장 질문 (1/30, 토, 오후 4시 30분)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0005&yy=2026&lectSmsterCd=4&lectCd=0718\n\n📌 강남(한티역) 롯데백화점 세금 특강! + 1:1 현장 질문 (2/21, 토, 오전 11시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0013&yy=2026&lectSmsterCd=4&lectCd=0403\n\n📌 관악 롯데백화점 세금 특강! + 1:1 현장 질문 (2/27, 토, 오후 1시)\nhttps://culture.lotteshopping.com/application/search/view.do?brchCd=0006&yy=2026&lectSmsterCd=4&lectCd=0876\n\n📌 강의 공지 및 할인 이벤트 등\n문자 알림 신청하기!\nhttps://forms.gle/FUcrQcijfLk9tcdb8",
-    "published": "2026-11-11T10:54:59+00:00",
-    "title": "여당 의원도 종부세 의견 갈렸다! / 집값은 6억 빠졌는데 전세는 5억 급등한 이곳!",
-    "video_id": "mj9cuPUj08g"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "mjdjePQ59B0": {
@@ -20723,6 +20764,21 @@
    },
    "wait_checks": 0
   },
+  "sVxE3yA5G3A": {
+   "errors": 0,
+   "first_seen": "2026-11-15T02:53:32+00:00",
+   "published": "2026-11-15T01:00:31+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
+    "channel_name": "지식인사이드",
+    "description": "오늘은 최준영 박사님을 모시고\n\n최근 유럽 전역에서 벌어지는 시위와 유럽의 경제 위기에 대해 알아봤습니다.\n\n영상이 유익했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요!\n\n#최준영 #지식인사이드 #유럽 #프랑스 #독일 #영국 #시위 #브렉시트\n\nㅡ\n\n00:00 인트로\n02:29 프랑스·독일 청년들이 동시에 거리로 나온 이유\n06:05 선진국 유럽이 갑자기 무너진 충격적 과정\n08:40 ‘50년 적자’ 프랑스가 빚더미 앉게된 원인\n12:26 중국한테 뒤통수 제대로 맞은 독일 자동차 근황\n16:08 유럽에서 구글·엔비디아가 나오지 않는 이유\n19:26 장인의 나라 이탈리아가 성장을 멈춘 이유\n24:07 ‘브렉시트 10년차’ 자유를 택한 영국의 대가\n28:20 유럽의 심장 독일·프랑스에 켜진 경고등\n31:07 ‘한국 중산층보다 힘들다’ 유럽 중산층의 현실\n32:44 문제를 알면서도 고치지 못하는 유럽의 고질병\n34:54 ‘비상식량 준비’ 유럽이 전쟁 준비하는 이유\n37:31 유럽의 위기가 한국에게 주는 ‘1가지’ 시사점\n\n* 이 영상은 10월 30일에 촬영되었습니다\n\nㅡ\n\n👇지식인사이드에 출연을 원하신다면 여기를 눌러주세요\nhttps://forms.gle/u4LxVcwFdhvkLH8m6\nknowledgeinside7@gmail.com\n\n👇 다양한 채널에서 지식인사이드의 지식을 얻고 싶다면 여기를 눌러주세요\n인스타그램: https://www.instagram.com/knowledgeins_kr/\n페이스북: https://www.facebook.com/knowledgeIns7?mibextid=LQQJ4d\n네이버 TV: https://tv.naver.com/purejboy2\n틱톡: https://www.tiktok.com/@allstorieskr?lang=ko-KR\n네이버 카페: https://cafe.naver.com/knowledgeins\n\nCopyright Ⓒ 지식인사이드. All rights reserved.\n\n본 콘텐츠(영상, 이미지, 음성, 대본, 편집물, 썸네일 포함)는 저작권 및 관련 권리의 보호를 받습니다.\n\n저작권자의 사전 승인 없이 복제, 배포, 수정, 재가공, 업로드, AI 학습 및 데이터셋 구축, 2차 저작물 제작(쇼츠·릴스 포함) 등 일체의 상업적 이용 및 수익화를 금지합니다.\n\n📧 콘텐츠 사용 및 협의 문의: knowledgeinside7@gmail.com",
+    "published": "2026-11-15T01:00:31+00:00",
+    "title": "프랑스와 독일을 무너뜨린 유럽의 치명적인 고질병 '1가지'ㅣ지식인초대석 EP.190 (최준영 박사)",
+    "video_id": "sVxE3yA5G3A"
+   },
+   "wait_checks": 0
+  },
   "sZlawLb5N_M": {
    "errors": 0,
    "first_seen": "2026-11-11T16:24:39+00:00",
@@ -21561,18 +21617,14 @@
    "wait_checks": 0
   },
   "unGzxQ-boB4": {
+   "done_at": "2026-11-15T02:58:56+00:00",
    "errors": 0,
    "first_seen": "2026-11-11T16:24:47+00:00",
+   "last_attempt": "2026-11-15T02:57:29+00:00",
+   "notified": "2026-11-15T03:00:16+00:00",
    "published": "2026-11-11T11:00:24+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "매주 화요일 저녁 8시 생방송 (촬영일 : 26년 11월 10일)\n\n🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"이러다 다 죽겠습니다\" 여당 반발, 부동산 정책 바뀔까\n전월세 극단적 대책 나온다, 앞으로 부동산 시장에 벌어질 일들\n\"종부세 14억으로 갑시다\" 여당 반발, 세제개편안 바뀔까",
-    "published": "2026-11-11T11:00:24+00:00",
-    "title": "\"이러다 다 죽겠습니다\" 여당 반발, 부동산 정책 바뀔까",
-    "video_id": "unGzxQ-boB4"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "uq9O8BdopAI": {
@@ -21740,6 +21792,21 @@
    "published": "2026-11-06T14:29:22+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "vI9uZ3TcNAU": {
+   "errors": 0,
+   "first_seen": "2026-11-15T02:53:25+00:00",
+   "published": "2026-11-15T02:00:25+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCcJsCcWlSPDC5dFNRqVxy_A",
+    "channel_name": "우주먼지의 현자타임즈",
+    "description": "👍 #태양계 #명왕성 #행성 #왜소행성 #planet #dwarfplanet #pluto #solarsystem #천문학 #우주 \n\n우주먼지 신간 ✨ 「지구인에게, 별로부터」 구매 링크 \nYes24 https://m.site.naver.com/26alx \n\n우주먼지 신간 ✨ 「천문학자의 쓸모없음에 관하여」 구매 링크 \n교보문고 https://product.kyobobook.co.kr/detail/S000219143943\nYes24 https://www.yes24.com/product/goods/177181552\n\n우주먼지 신간 ✨ 「천문대에 피아노가 떨어졌다」 구매 링크 \n교보문고 https://product.kyobobook.co.kr/detail/S000219077206\nYes24 https://www.yes24.com/Product/Goods/175307078\n\n우주먼지 신간 ✨ 「우리는 모두 천문학자로 태어난다」 구매 링크 \n교보문고 https://bit.ly/4hvvLNP\n예스24 https://bit.ly/4ouPFeJ\n알라딘 https://bit.ly/47rfZ1X\n\n📝 칼럼 링크 \nhttps://bizhankook.com\n\n🎤 NAVER 오디오클립 팟캐스트 링크   \nhttps://audioclip.naver.com/channels/143   \n\n🎁 BODA X 우주먼지, 콜라보 우주덕후들을 위한 굿즈! \nhttps://smartstore.naver.com/aweplay\n\n레퍼런스 \nhttps://rubinobservatory.org/news/rubin-first-dwarf-planet-candidate\nhttps://arxiv.org/abs/2611.02371\n\n본 컨텐츠는 NAVER 네이버 & 비즈한국의 지원으로 제작됩니다.\n\n헤일메리(@by_hailmary) × 우주먼지 \n에드윈 허블 유리 건판 키링 만나기 \nhttps://byhailmary.com/shop_view/?idx=29",
+    "published": "2026-11-15T02:00:25+00:00",
+    "title": "명왕성 너머, 이번엔 진짜 아홉 번째 행성 발견?!",
+    "video_id": "vI9uZ3TcNAU"
+   },
    "wait_checks": 0
   },
   "vJ72ZFS1F_4": {
