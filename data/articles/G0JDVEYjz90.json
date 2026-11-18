@@ -1,0 +1,43 @@
+{
+ "video": {
+  "video_id": "G0JDVEYjz90",
+  "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+  "channel_name": "새벽의 축구 전문가",
+  "title": "“맨유 거피셜“ 포채티노, 맨유에서 어떤 전술 사용할까? 변형 3백 + 공격적인 풀백, 맨유랑 어울릴까",
+  "published": "2026-11-13T03:00:45+00:00",
+  "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#맨유 #프리미어리그 #맨체스터유나이티드 #포체티노",
+  "url": "https://www.youtube.com/watch?v=G0JDVEYjz90"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/G0JDVEYjz90/maxresdefault.jpg",
+ "source": "video",
+ "duration": 843,
+ "summary": {
+  "headline": "포체티노 맨유 부임설과 전술 분석",
+  "thumbnail_text": "포체티노 맨유 거피셜 어떤 전술 사용할까?",
+  "thumbnail_answer": "포체티노 감독은 변형 3백과 공격적인 풀백을 활용하며, 중앙에 밀집해 있다가 침투하는 전술을 맨유에서도 사용할 것이다.",
+  "conclusion": "포체티노 감독의 맨유 부임은 전술적으로 기대되는 부분이 많지만 스케줄과 수비 안정성 면에서 우려도 존재한다. 맨유 스쿼드와의 조합이 성공할지 지켜봐야 한다.",
+  "key_points": [
+   "캐릭 감독이 경질되고 포체티노 감독이 맨유 선임에 구두 합의했다.",
+   "포체티노 감독은 미국 대표팀 바이아웃 조항을 활용할 예정이다.",
+   "미국 대표팀의 A매치 두 경기를 마친 뒤 맨유로 합류할 예정이다.",
+   "변형 3백과 좌우 풀백의 측면 활용을 바탕으로 한 침투 전술을 쓴다.",
+   "손흥민-델리 알리처럼 침투에 능한 음비모, 쿠냐, 래시포드가 핵심 역할을 맡을 수 있다.",
+   "해리 케인의 역할을 지르크지가, 에릭센의 역할을 브루노 페르난데스가 수행할 수 있다.",
+   "수비 라인의 미스와 집중력 문제를 얼마나 해결할 수 있는지가 관건이다."
+  ],
+  "timeline": [],
+  "tags": [
+   "맨유",
+   "포체티노",
+   "프리미어리그",
+   "전술분석",
+   "맨체스터유나이티드"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 78497,
+   "output_tokens": 413
+  }
+ },
+ "created_at": "2026-11-18T08:57:58+00:00"
+}
