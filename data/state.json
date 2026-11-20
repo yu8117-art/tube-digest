@@ -1505,6 +1505,21 @@
    "published": "2026-09-24T23:00:23+00:00",
    "status": "baseline"
   },
+  "2LDssaaRHG4": {
+   "errors": 0,
+   "first_seen": "2026-11-20T02:44:50+00:00",
+   "published": "2026-11-19T23:00:11+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCYgVl2XoMfkvg1BzTFiyOiw",
+    "channel_name": "홈즈 부동산",
+    "description": "예전 거래입니다.",
+    "published": "2026-11-19T23:00:11+00:00",
+    "title": "지금 나오는 신고가 거래 믿지 마세요",
+    "video_id": "2LDssaaRHG4"
+   },
+   "wait_checks": 0
+  },
   "2N-LSV38m5k": {
    "first_seen": "2026-11-18T08:43:58+00:00",
    "published": "2026-11-17T00:16:56+00:00",
@@ -2539,6 +2554,21 @@
    "first_seen": "2026-10-09T08:14:37+00:00",
    "published": "2026-09-28T12:10:04+00:00",
    "status": "baseline"
+  },
+  "4nOThrCsFAs": {
+   "errors": 0,
+   "first_seen": "2026-11-20T02:44:53+00:00",
+   "published": "2026-11-19T22:00:31+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCDSj40X9FFUAnx1nv7gQhcA",
+    "channel_name": "월급쟁이부자들TV",
+    "description": "📍 11월 3주차 주간머니이슈_경제\n00:00 오늘 나눌 경제 이야기\n00:45 엔비디아, 젠슨 황 사임 후 첫 실적서 '어닝 서프라이즈', 시장 예상 상회\n29:50 실적이 좋아도 주가가 빠질 때 어떻게 해야 할까?\n\n📌 삼성전자 사상 최대 실적, 그런데 주가는 왜 폭락했을까?\n👉 [광화문금융러 무료 칼럼 보러가기] https://link.weolbu.com/4tsIc37\n\n📌 (7분 만에 마감된) 나에게 딱 맞는 재테크 찾는 법!\n👉🏻 너나위의 [재테크 입문반] https://link.weolbu.com/4CgIxK8\n\n#주식 #미국증시 #금리 #직장인재테크 #주간머니이슈 #월부강의 #월부후기",
+    "published": "2026-11-19T22:00:31+00:00",
+    "title": "\"이럴 때 조심해야 합니다\" 실적은 역대급인데, 시장은 왜 이럴까? 이것만 알아도 크게 잃지 않아요! (주간머니이슈_경제편)",
+    "video_id": "4nOThrCsFAs"
+   },
+   "wait_checks": 0
   },
   "4oGPrl2KKGc": {
    "first_seen": "2026-10-09T08:14:37+00:00",
@@ -6624,19 +6654,30 @@
    "published": "2026-10-08T03:00:24+00:00",
    "status": "baseline"
   },
-  "F0EHJthS5KI": {
+  "F-RZ0M6UN1s": {
    "errors": 0,
-   "first_seen": "2026-11-13T15:10:07+00:00",
-   "published": "2026-11-13T09:00:16+00:00",
+   "first_seen": "2026-11-20T02:44:58+00:00",
+   "published": "2026-11-20T00:08:34+00:00",
    "status": "pending",
    "video": {
-    "channel_id": "UCDSj40X9FFUAnx1nv7gQhcA",
-    "channel_name": "월급쟁이부자들TV",
-    "description": "📍 11월 2주차 주간머니이슈_경제\n00:00 오늘 나눌 경제 이야기\n00:31 CPI 충격에 12월 금리인상 확률 100% ‘비둘기파’ 월러도 “빅스텝 고려“\n21:38 \"금리 오르면 주식 팔아야 할까\" 금리 인상기 대응 전략은?\n\n📌 \"금리 오르면 주식 팔아야 할까\" 금리 인상기 대응 전략은?\n👉 [줴러미 무료 칼럼 보러가기] https://link.weolbu.com/4k6Rmj1\n\n📌 (7분 만에 마감된) 나에게 딱 맞는 재테크 찾는 법!\n👉🏻 너나위의 [재테크 입문반] https://link.weolbu.com/4zG4fFr\n\n#금리 #미국증시 #금리인상 #주식 #직장인재테크 #주간머니이슈 #월부강의 #월부후기",
-    "published": "2026-11-13T09:00:16+00:00",
-    "title": "\"금리인상, 공포의 12월이 온다\" 앞으로 벌어질 무서운 시장 시나리오와 지금 꼭 봐야 할 경제 신호 (주간머니이슈_경제편)",
-    "video_id": "F0EHJthS5KI"
+    "channel_id": "UCMnFS27HnroIc1D4ct37TUA",
+    "channel_name": "위폴 WePoll",
+    "description": "00:00 바이킹스\n29:22 버디버디(CMS증권 박상준 이사)\n\n▶︎ 촬영일 : 2026. 11. 20\n     출연자 : 박종훈, 박상준 이사(CMS증권)\n\n🗳️ Wepoll : https://wepoll.kr\n\n▶︎ 바이킹 라이브는 매주 평일 오전 7시20분에 진행됩니다.\n \n#바이킹스 #박종훈 #주식 #미장 #S&P #나스닥 #다우존스 #트럼프 #박상준 #CMS증권",
+    "published": "2026-11-20T00:08:34+00:00",
+    "title": "[바이킹스] 뒷통수 쎄게 친 앤트로픽 상장 기대감  | [버디버디] 양극화 되고 있는 전세계 (CMS증권 박상준 이사)",
+    "video_id": "F-RZ0M6UN1s"
    },
+   "wait_checks": 0
+  },
+  "F0EHJthS5KI": {
+   "done_at": "2026-11-20T02:46:40+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-13T15:10:07+00:00",
+   "last_attempt": "2026-11-20T02:44:58+00:00",
+   "notified": "2026-11-20T02:50:36+00:00",
+   "published": "2026-11-13T09:00:16+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "F1yT-H70-bQ": {
@@ -6644,6 +6685,21 @@
    "first_seen": "2026-11-11T16:24:37+00:00",
    "published": "2026-11-11T11:49:38+00:00",
    "status": "skipped_live",
+   "wait_checks": 0
+  },
+  "F4utyzdpnRQ": {
+   "errors": 0,
+   "first_seen": "2026-11-20T02:44:58+00:00",
+   "published": "2026-11-20T02:30:31+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMnFS27HnroIc1D4ct37TUA",
+    "channel_name": "위폴 WePoll",
+    "description": "▶︎ 촬영일 : 2026. 11. 20\n     출연자 : 박종훈, 박상준 이사 (CMS증권)\n\n🗳️ Wepoll : https://wepoll.kr\n\n▶︎ 미국 시황 바이킹스는 평일 아침 7시 20분!",
+    "published": "2026-11-20T02:30:31+00:00",
+    "title": "미군 기지 10km 앞에 중국이 군사 기지를 지은 이유",
+    "video_id": "F4utyzdpnRQ"
+   },
    "wait_checks": 0
   },
   "F5H7pwMD9Y4": {
@@ -7811,6 +7867,21 @@
     "published": "2026-11-18T23:06:21+00:00",
     "title": "[11/19] 유캐스트 신영증권 5사6입 2일차 실시간 실권주/공모주 청약경쟁률 LIVE / 신영증권",
     "video_id": "HMGlMpQkUCs"
+   },
+   "wait_checks": 0
+  },
+  "HNTsvomxpSk": {
+   "errors": 0,
+   "first_seen": "2026-11-20T02:44:50+00:00",
+   "published": "2026-11-20T01:59:49+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "11월 20일부터 3주간 인천 정규강의 오프라인) 3주 만에 끝내는 인천 9개 구 완전정복!\nhttps://www.smarttube.kr/web/82?wmod=detail&idx=648\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n11월 22일 스마트튜브 부산 세미나 - 전국 투자처 & 레오의 대출 활용법\nhttps://blog.naver.com/ppassong/224457721211\n\n12월 12일! 스마트튜브 2026년 마지막 오프라인 세미나 - 청약/분양권, 정비사업, 그리고 10대 트렌드 발표까지!\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=662\n\n부동산 끝판왕, 트루카피의 지금 당장 사야 할 아파트 리스트 200!\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=656\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
+    "published": "2026-11-20T01:59:49+00:00",
+    "title": "(Q&A) 빠숑이 답변하는 부동산 규제, 앞으로 어떤 일이 벌어질까?",
+    "video_id": "HNTsvomxpSk"
    },
    "wait_checks": 0
   },
@@ -11508,18 +11579,14 @@
    "wait_checks": 0
   },
   "QVV3KupUU98": {
+   "done_at": "2026-11-20T02:48:57+00:00",
    "errors": 0,
    "first_seen": "2026-11-13T15:09:55+00:00",
+   "last_attempt": "2026-11-20T02:48:05+00:00",
+   "notified": "2026-11-20T02:50:37+00:00",
    "published": "2026-11-13T09:30:20+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC7F6UDq3gykPZHWRhrj_BDw",
-    "channel_name": "사물궁이 잡학지식",
-    "description": "스포츠카에 로망을 가진 사람들이 많습니다. 워낙 비싼 가격에 쉽게 타볼 수 없는데, 문득 일반 승용차도 겉모습만 이렇게 만들면 좋겠다는 생각이 듭니다. 성능은 일상 주행에 맞추고, 디자인만 스포츠카처럼 만들면 가격도 낮추면서 멋있게 탈 수 있지 않을까요? 그런데 이런 차는 볼 수 없는 걸까요?\n\n- 사물궁이 유튜브 채널 구독 : https://youtube.com/@사물궁이\n- 사물궁이 시리즈 정주행 : https://youtube.com/playlist?list=PLs8vi5Jd35y55jcjDHMWIXfWjl206sSSF\n- 궁금증 제보 : https://youtube.com/@사물궁이/community\n- E-Mail : facebookspeedwg@gmail.com\n\n※ 참고자료·논문자료·자문 등 도움\n- 원고 : 김진호 전 자동차 칼럼니스트\n\n▪ 배경음악\n: Ether Oar - The Whole Other\n: Nadie Es Ilegal - Ashley Shadow\n: Cartoon Bank Heist (Sting) - Doug Maxwell/Media Right Productions\n: Gunpowder Tea - Mini Vandals\n▪ 애니메이션 감독 : Studio M\n▪ 음향효과 : 상업적 목적으로 이용할 수 있는 공정자료 이용 및 자체제작\n▪ 기타 사진·영상 : 상업적 목적으로 이용할 수 있는 사진과 영상 이용\n\n#사물궁이 #궁금증 #호기심 #잡학 #자동차 #스포츠카 #자동차디자인 #car #슈퍼카\n\nCopyright. 사물궁이 잡학지식. All rights reserved",
-    "published": "2026-11-13T09:30:20+00:00",
-    "title": "스포츠카 디자인의 일반 승용차는 왜 안 만들까?",
-    "video_id": "QVV3KupUU98"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "QXB6qT7RYT0": {
@@ -12751,6 +12818,21 @@
    "published": "2026-10-08T10:00:15+00:00",
    "status": "baseline"
   },
+  "TNWyWIg2Zlw": {
+   "errors": 0,
+   "first_seen": "2026-11-20T02:44:52+00:00",
+   "published": "2026-11-19T23:03:19+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCPHt56f4p6wVsPIDttxXZ2g",
+    "channel_name": "소유보다 경험 - 아이언 / 공모주",
+    "description": "하나에어로다이내믹스  공모주 상장일의 실시간 동시호가, 주가 현황을 실시간 라이브로 제공합니다.\n특히 이번부터 기존의 상장라이브 시스템을 개편하여, 조금 더 가독성이 높고 양질의 정보를 제공하도록 새롭게 제공되니 참고부탁드립니다.\n-\n상장 전과 직후에는 음성 안내가 진행되고, 이후에는 AI음성안내와 음악이 함께 제공됩니다.\n-\n영상이 도움이 되셨거나, 함께 라이브방송으로 스터디를 하고 싶으시면 채널 멤버십에 가입으로 함께해주시면 큰 힘이 됩니다.\nhttps://www.youtube.com/channel/UCPHt56f4p6wVsPIDttxXZ2g/join",
+    "published": "2026-11-19T23:03:19+00:00",
+    "title": "[11/20] 하나에어로다이내믹스(하나에어로다이나믹스) 상장일 실시간 동시호가, 주가 현황  LIVE / IBK투자증권",
+    "video_id": "TNWyWIg2Zlw"
+   },
+   "wait_checks": 0
+  },
   "TPQ0AWSpC_U": {
    "errors": 0,
    "first_seen": "2026-10-14T06:47:36+00:00",
@@ -12936,18 +13018,14 @@
    "wait_checks": 0
   },
   "TnMdZJY4pkc": {
+   "done_at": "2026-11-20T02:47:01+00:00",
    "errors": 0,
    "first_seen": "2026-11-13T15:10:02+00:00",
+   "last_attempt": "2026-11-20T02:46:40+00:00",
+   "notified": "2026-11-20T02:50:38+00:00",
    "published": "2026-11-13T09:00:33+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
-    "channel_name": "스마트튜브(스튜TV)",
-    "description": "인천 정규강의 오프라인) 3주 만에 끝내는 인천 9개 구 완전정복!\nhttps://www.smarttube.kr/web/82?wmod=detail&idx=648\n\n11월 오프라인 세미나) 경기도 총정리 & 2027년 절세 전략 (빠숑&제네시스박)\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=657\n\n이제부터는 오를 곳만 오른다 \n🔹교보문고 http://app.ac/LqnFfb203\n🔹예스24 http://app.ac/8AGBe3533\n\n부동산 끝판왕, 트루카피의 지금 당장 사야 할 아파트 리스트 200!\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=656\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
-    "published": "2026-11-13T09:00:33+00:00",
-    "title": "새 아파트는커녕 길바닥 나앉습니다! '이거' 정말 조심해야 합니다(구만수 교수)",
-    "video_id": "TnMdZJY4pkc"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "Tr7cZIAOVlA": {
@@ -14262,18 +14340,14 @@
    "status": "baseline"
   },
   "WxVHcezxPFs": {
+   "done_at": "2026-11-20T02:50:35+00:00",
    "errors": 0,
    "first_seen": "2026-11-13T15:09:42+00:00",
+   "last_attempt": "2026-11-20T02:48:57+00:00",
+   "notified": "2026-11-20T02:50:38+00:00",
    "published": "2026-11-13T09:47:06+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
-    "channel_name": "안될공학 - IT 테크 신기술",
-    "description": "젠슨 황이 엔비디아를 떠난 뒤, 다음 AI 투자를 누가 이끌지 살펴봅니다. 출발점은 딥시크가 공개한 모델 파일에서 블랙웰과 일치하는 초기화 흔적을 찾았다는 연구입니다. 이 결과가 보여주는 것과, 실제 학습 전체에 쓰인 칩이나 서버 위치까지는 확정할 수 없는 이유를 구분합니다. 공개 모델을 지원하는 엔비디아와 클로드를 만드는 앤트로픽이 협력하면서도 중국에 대한 칩 수출 문제에서는 충돌한 배경을 짚습니다.\n\n엔비디아는 GPU를 파는 데서 그치지 않고 고객의 남는 연산 시간을 사 주거나 특정 데이터센터 계약의 보증을 맡기도 했습니다. 이런 약속이 다음 주문과 자금 조달에 어떻게 연결되는지, 새 경영진이 무엇을 선택할지 살펴봅니다. 전력 연결 지연과 고객 계약, 대출 조건을 따라가며 AI 수요가 늘어도 센터 착공은 늦어질 수 있는 이유를 설명합니다.\n\n한국의 GPU 도입 계획과 중국 기업의 해외 서버 이용, 중국산 AI 칩에 필요한 HBM 공급을 함께 살펴봅니다. 오픈AI의 AMD·브로드컴 협력과 구글 TPU, 머스크와 황이 손잡는다는 가정을 통해 큰 고객이 경쟁자로 바뀌는 경로도 짚습니다. 이미 맺은 계약과 앞으로의 선택을 나누어, 다음 AI 투자의 방향이 어디서 드러날지 안될공학 패치가 살펴봅니다.\n\nWritten by 패치\nEdited by 이재현\n\nunrealtech2021@gmail.com",
-    "published": "2026-11-13T09:47:06+00:00",
-    "title": "젠슨 황 사임이 가져올 AI 판의 변화 | 딥시크의 블랙웰 흔적부터 빅테크의 자체 칩까지",
-    "video_id": "WxVHcezxPFs"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "WzERNoqwZBk": {
@@ -15401,18 +15475,14 @@
    "status": "baseline"
   },
   "_00WhT8Bgq0": {
+   "done_at": "2026-11-20T02:48:05+00:00",
    "errors": 0,
    "first_seen": "2026-11-13T15:10:03+00:00",
+   "last_attempt": "2026-11-20T02:47:01+00:00",
+   "notified": "2026-11-20T02:50:39+00:00",
    "published": "2026-11-13T09:00:36+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉https://bit.ly/4ow8KOs\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n무주택자 이것 모르면 집 사도 평생 모은 돈 날립니다\n\"옆집만 더 올랐어요\" 아파트 잘못 사게 되는 이유\n서울 아파트 vs 경기 아파트, 저라면 지금 '여기' 삽니다\n\n☞촬영일: 26년 11월 6일",
-    "published": "2026-11-13T09:00:36+00:00",
-    "title": "서울 아파트 vs 경기 아파트, 저라면 지금 '여기' 삽니다 [송희구 작가 3부]",
-    "video_id": "_00WhT8Bgq0"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "_041snw0CuU": {
@@ -19911,6 +19981,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "jgPsR8jpPOM": {
+   "errors": 0,
+   "first_seen": "2026-11-20T02:44:52+00:00",
+   "published": "2026-11-19T22:30:19+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n삼성전자 AI한테 물어볼 때 '이것'만은 말하지 마세요\n\n☞촬영일: 26년 11월 16일",
+    "published": "2026-11-19T22:30:19+00:00",
+    "title": "삼성전자 AI한테 물어볼 때 '이것'만은 말하지 마세요 [곽병열 이사]",
+    "video_id": "jgPsR8jpPOM"
+   },
+   "wait_checks": 0
+  },
   "jh4tLSBci2I": {
    "done_at": "2026-10-21T07:15:10+00:00",
    "errors": 0,
@@ -20055,6 +20140,21 @@
    "first_seen": "2026-10-09T08:14:38+00:00",
    "published": "2026-10-02T08:30:13+00:00",
    "status": "baseline"
+  },
+  "k25b-hA-oas": {
+   "errors": 0,
+   "first_seen": "2026-11-20T02:44:50+00:00",
+   "published": "2026-11-20T00:02:52+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "11월 20일부터 3주간 인천 정규강의 오프라인) 3주 만에 끝내는 인천 9개 구 완전정복!\nhttps://www.smarttube.kr/web/82?wmod=detail&idx=648\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n11월 22일 스마트튜브 부산 세미나 - 전국 투자처 & 레오의 대출 활용법\nhttps://blog.naver.com/ppassong/224457721211\n\n12월 12일! 스마트튜브 2026년 마지막 오프라인 세미나 - 청약/분양권, 정비사업, 그리고 10대 트렌드 발표까지!\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=662\n\n부동산 끝판왕, 트루카피의 지금 당장 사야 할 아파트 리스트 200!\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=656\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
+    "published": "2026-11-20T00:02:52+00:00",
+    "title": "서른 한 집.",
+    "video_id": "k25b-hA-oas"
+   },
+   "wait_checks": 0
   },
   "k29BnCBAhpw": {
    "first_seen": "2026-10-09T08:14:39+00:00",
@@ -20801,6 +20901,21 @@
    },
    "wait_checks": 0
   },
+  "loxPI_7TQ3I": {
+   "errors": 0,
+   "first_seen": "2026-11-20T02:44:44+00:00",
+   "published": "2026-11-20T02:00:16+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "서바이벌에서는 처음부터 존재감을 드러내면 안 된다?! 이전 시리즈에서 초반부터 적극적으로 나섰다가 일찍 탈락했던 경험을 통해, 실력을 발휘할 결정적인 순간까지 살아남는 것이 중요하다는 사실을 깨달았다고 하는데요. 참가자가 많을 때는 무리하게 앞서기보다 기회를 기다리는 것도 하나의 전략! 여기에 장동민 연합에 들어가고 싶어도 쉽지 않다는 솔직한 이야기까지 이어집니다ㅋㅋ 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#데블스플랜 #넷플릭스 #안될과학 #궤도 #장동민 #서바이벌 #생존전략 #데블스플랜리뷰",
+    "published": "2026-11-20T02:00:16+00:00",
+    "title": "서바이벌에서 초반부터 나대면 안 되는 이유?!",
+    "video_id": "loxPI_7TQ3I"
+   },
+   "wait_checks": 0
+  },
   "lpiWlIiP2Ts": {
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-08-23T11:01:06+00:00",
@@ -21234,6 +21349,21 @@
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-10-03T05:00:18+00:00",
    "status": "baseline"
+  },
+  "mrshCcXYAwk": {
+   "errors": 0,
+   "first_seen": "2026-11-20T02:44:48+00:00",
+   "published": "2026-11-19T23:00:09+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCFhF5oooL5ugxHKvTxBD75Q",
+    "channel_name": "땅집고",
+    "description": "🏠 잠깐 살아도 단단하게, 단단홈즈\n\n비어 있는 방을 임대하고 싶을 때도,\n출장·이사·인테리어로 잠깐 살 집이 필요할 때도!\n단단홈즈에서 더 안심하고 단기임대를 시작해 보세요.\n\n🔑 [호스트] 내 방 등록하고 단기임대 시작하기\n🔗 https://ader.dandanhomes.com/bsve9r\n\n🏡 [게스트] 필요한 기간만큼 살 집 찾기\n🔗 https://ader.dandanhomes.com/tvt76qo\n\n📌 땅집고TV 구독하고 남들보다 빠른 부동산 안목을 키우세요\n​👉 지금 바로 구독·좋아요·알림설정까지! http://bit.ly/3RmNLky\n오늘 영상에 대한 여러분의 의견도 댓글로 자유롭게 남겨주세요💬",
+    "published": "2026-11-19T23:00:09+00:00",
+    "title": "\"단지 안에 롤러장이 왜 있어?\" 은평 신축 대단지 역대급 커뮤니티 #shorts",
+    "video_id": "mrshCcXYAwk"
+   },
+   "wait_checks": 0
   },
   "mtEAbap9MKQ": {
    "errors": 0,
