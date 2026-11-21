@@ -1,0 +1,92 @@
+{
+ "video": {
+  "video_id": "jwucC3zy7-c",
+  "channel_id": "UChb4gtsgSdwMDktdLukfrfw",
+  "channel_name": "김진짜 Real KIM",
+  "title": "레알이 갑자기 부활한 이유",
+  "published": "2026-11-13T11:00:06+00:00",
+  "description": "《시추에이티드》구매 링크\n- 교보문고: http://product.kyobobook.co.kr/detail/S000221663869\n- 예스24: https://www.yes24.com/product/goods/198974415\n- 알라딘: https://aladin.kr/p/Fhvxl\n\n인스타그램:\nhttps://www.instagram.com/kimjinjja10/?hl=ko\n비즈니스 문의:\nqksdidhkdwk@naver.com",
+  "url": "https://www.youtube.com/watch?v=jwucC3zy7-c"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/jwucC3zy7-c/maxresdefault.jpg",
+ "source": "video",
+ "duration": 690,
+ "summary": {
+  "headline": "무리뉴의 원팀 재건과 맞춤 전술이 이끈 레알의 반등",
+  "thumbnail_text": "무리뉴 감독은 어떻게 위기의 레알 마드리드를 한 달 만에 부활시켰을까?",
+  "thumbnail_answer": "강력한 팀 규율 확립, 경기력 중심의 선수 기용, 디오망데와 벨링엄을 활용한 맞춤 전술로 팀을 재건했다.",
+  "conclusion": "무리뉴 감독은 부임 후 팀 내 규율을 바로잡고 라커룸을 안정시키며 레알 마드리드를 다시 원팀으로 만들었다. 경기력 중심의 용병술과 디오망데라는 신예 발굴, 벨링엄과 귈러의 장점을 극대화한 전술로 8연승을 달성했다.",
+  "key_points": [
+   "단체 식사와 훈련 규율 강화를 통해 분열된 팀 분위기 개선",
+   "비니시우스를 대외적으로 지지하면서도 경기력을 기준으로 기용 여부 결정",
+   "수비 전환과 돌파력이 뛰어난 신예 디오망데를 핵심 자원으로 활용",
+   "벨링엄을 10번 위치에 배치해 공격 전개 및 침투 능력 극대화",
+   "상대 약점을 정교하게 파헤치는 맞춤형 전략으로 주요 승부처 극복"
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "무리뉴 체제 레알의 반등",
+    "points": [
+     "시즌 초 4위 추락 후 챔스 포함 8연승 달성",
+     "라리가 선두 바르셀로나를 3점 차로 추격"
+    ]
+   },
+   {
+    "seconds": 49,
+    "title": "규율 정립을 통한 원팀 만들기",
+    "points": [
+     "선수단 및 코치진 단체 식사 의무화",
+     "구단 내부 의료진 중심 관리로 신뢰 회복",
+     "엄격한 규율 속 자유로운 라커룸 분위기 조성"
+    ]
+   },
+   {
+    "seconds": 132,
+    "title": "비니시우스 관리법과 경기력 기준 기용",
+    "points": [
+     "언론 인터뷰를 통한 대외적 강한 신뢰 표명",
+     "경기력 저하 시 단호한 교체로 철저한 명분 확보"
+    ]
+   },
+   {
+    "seconds": 241,
+    "title": "비밀병기 디오망데의 등장",
+    "points": [
+     "리그 최고 수준의 드리블 성공률과 패스 판단력 보유",
+     "왕성한 수비 가담으로 팀 전체의 수비 부담 감소"
+    ]
+   },
+   {
+    "seconds": 472,
+    "title": "선수 장점을 살리는 맞춤형 전술",
+    "points": [
+     "선수에게 과도한 롤을 주지 않는 4-2-3-1 직관적 전술 사용",
+     "벨링엄의 10번 역할 전담으로 공격력 및 침투 극대화",
+     "귈러의 중앙 배치 및 패스 전개 능력 활용"
+    ]
+   },
+   {
+    "seconds": 598,
+    "title": "승부처 공략과 맞춤형 전략",
+    "points": [
+     "바르셀로나의 높은 수비 라인을 노린 2선 침투 공략",
+     "상대 수비 약점 측면을 집중적으로 흔드는 유기적 공격"
+    ]
+   }
+  ],
+  "tags": [
+   "레알마드리드",
+   "무리뉴",
+   "벨링엄",
+   "디오망데",
+   "축구분석"
+  ],
+  "_usage": {
+   "model": "gemini-3.6-flash",
+   "input_tokens": 64538,
+   "output_tokens": 918
+  }
+ },
+ "created_at": "2026-11-21T00:30:24+00:00"
+}
