@@ -262,6 +262,7 @@
   "-VwAYvm51WE": {
    "errors": 0,
    "first_seen": "2026-11-14T01:31:43+00:00",
+   "last_attempt": "2026-11-21T15:44:28+00:00",
    "published": "2026-11-13T23:00:27+00:00",
    "status": "pending",
    "video": {
@@ -362,6 +363,21 @@
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-05-17T11:08:41+00:00",
    "status": "baseline"
+  },
+  "-jydCZEiocM": {
+   "errors": 0,
+   "first_seen": "2026-11-21T15:36:21+00:00",
+   "published": "2026-11-21T08:52:26+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
+    "channel_name": "지식보관소",
+    "description": "Instagram ID @archiveyoutube\n#양자역학 #위그너의친구 #양자중첩 #지식보관소 #Shorts\n\n게임에서 어떤 캐릭터가 뽑혔는지는 내 화면을 보지 못한 친구에게도 이미 정해져 있습니다. 그런데 외부와 완전히 격리된 양자 실험실에서도 같은 말을 할 수 있을까요?\n\n‘위그너의 친구’ 사고실험에서 안의 연구원은 스핀 측정값 하나를 기록합니다. 밖의 위그너는 연구원과 측정 장치까지 포함한 실험실 전체를 중첩으로 기술할 수 있습니다. 두 사람이 내린 판단을 한데 모으면 어디서 모순이 생길까요? 각 판단이 성립하는 측정 조건을 표시하면 일관된 예측이 가능하다는 이론 연구를 소개합니다.\n\n연구 논문 (Physical Review X)\nhttps://doi.org/10.1103/nqbv-6qgr\n\n원본영상\nhttps://youtu.be/46cgwUb6wl4?si=zm04rAKfaMbMX7O5\n\n------- 본계정(지식보관소) -------\nhttps://www.youtube.com/@지식보관소\n-----------게임 개발 관련-----------\nhttps://asdfg3663-alt.github.io/\n------- 비지니스 문의 -------\nE-Mail : asdfg3663@gmail.com",
+    "published": "2026-11-21T08:52:26+00:00",
+    "title": "하나의 절대적인 사실이 존재한다는 생각 자체가 고정관념인 이유",
+    "video_id": "-jydCZEiocM"
+   },
+   "wait_checks": 0
   },
   "-lICYQy5JLM": {
    "done_at": "2026-11-05T06:39:13+00:00",
@@ -2127,6 +2143,21 @@
    "published": "2026-10-26T07:25:33+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "3iIbCaeSydc": {
+   "errors": 0,
+   "first_seen": "2026-11-21T15:36:19+00:00",
+   "published": "2026-11-21T14:54:08+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-11-21T14:54:08+00:00",
+    "title": "토트넘 vs 입스위치!! 다시 승리 노리는 데제르비, 이기면 7위까지 가능!!",
+    "video_id": "3iIbCaeSydc"
+   },
    "wait_checks": 0
   },
   "3kiVBJSxwgk": {
@@ -3931,6 +3962,21 @@
     "published": "2026-11-18T09:00:16+00:00",
     "title": "\"강남 꺾이고 강북 폭등? 하락장 신호\" 내년 말까지 매물 쏟아집니다 | 배문성 라이프자산운용 이사 1부ㅣ집캐스트",
     "video_id": "7lieYVrZM04"
+   },
+   "wait_checks": 0
+  },
+  "7mCe3KxkORg": {
+   "errors": 0,
+   "first_seen": "2026-11-21T15:36:19+00:00",
+   "published": "2026-11-21T15:30:02+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#수원 #이정효 #k리그 #축구",
+    "published": "2026-11-21T15:30:02+00:00",
+    "title": "\"수원 우승 확정\" 트로피 들어 올린 이정효!! 우승 + 승격? 아직 배고픈 정효볼, 이제부터 시작이다!!",
+    "video_id": "7mCe3KxkORg"
    },
    "wait_checks": 0
   },
@@ -5859,6 +5905,21 @@
    "published": "2026-09-18T09:30:22+00:00",
    "status": "baseline"
   },
+  "CPR4yN6cFu4": {
+   "errors": 0,
+   "first_seen": "2026-11-21T15:36:25+00:00",
+   "published": "2026-11-21T08:30:22+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n전세 만기가 된 분들은 강제로 집 사야 합니다\n\n☞촬영일: 26년 11월 18일",
+    "published": "2026-11-21T08:30:22+00:00",
+    "title": "전세 만기가 된 분들은 강제로 집 사야 합니다 [정민우 대표]",
+    "video_id": "CPR4yN6cFu4"
+   },
+   "wait_checks": 0
+  },
   "CQAMd33smfM": {
    "done_at": "2026-10-26T14:23:46+00:00",
    "errors": 0,
@@ -6552,18 +6613,14 @@
    "wait_checks": 0
   },
   "Dy8kZMjUXe0": {
+   "done_at": "2026-11-21T15:40:42+00:00",
    "errors": 0,
    "first_seen": "2026-11-13T21:24:18+00:00",
+   "last_attempt": "2026-11-21T15:37:08+00:00",
+   "notified": "2026-11-21T15:48:15+00:00",
    "published": "2026-11-13T20:00:11+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#한국 #사우디 #모레노 #국가대표",
-    "published": "2026-11-13T20:00:11+00:00",
-    "title": "\"한국 축구, 어디까지 떨어지나\" 사우디전 충격패, 모레노의 투톱 전술 또 실패했다",
-    "video_id": "Dy8kZMjUXe0"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "E1Wbjfpv24o": {
@@ -8710,6 +8767,21 @@
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-10-02T21:37:12+00:00",
    "status": "baseline"
+  },
+  "IoGFBDbbyNw": {
+   "errors": 0,
+   "first_seen": "2026-11-21T15:36:29+00:00",
+   "published": "2026-11-21T11:55:24+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+    "channel_name": "언더스탠딩 : 세상의 모든 지식",
+    "description": "💡내용 요약\n 김갑진 KAIST 물리학과 교수는 “빛은 무엇인가?”라는 질문에서 양자역학의 출발점을 설명합니다. 영의 이중슬릿 실험에서 나타난 간섭무늬와 맥스웰의 전자기 이론은 빛의 파동성을 보여줬습니다. 그런데 광전효과 실험에서는 빛을 더 세게 비춰도 튀어나오는 전자의 최대 에너지가 커지지 않았고, 빛의 진동수를 높였을 때 커졌습니다. 아인슈타인은 빛이 진동수에 비례하는 에너지를 지닌 알갱이처럼 에너지를 전달한다고 설명했습니다. 밀리컨의 실험은 이 예측을 확인했고, 콤프턴 산란도 빛의 입자성을 뒷받침했습니다.\n\n이야기는 “금속을 차갑게 하면 전기저항은 어떻게 될까?”라는 질문으로 이어집니다. 오네스는 수은을 극저온으로 냉각하다가 저항이 갑자기 사라지는 초전도 현상을 발견했습니다. 이후 BCS 이론은 일부 초전도체에서 전자들이 ‘쿠퍼쌍’을 이루고 집단적으로 움직이면서 저항 없이 전류가 흐르는 원리를 설명했습니다. 조셉슨은 두 초전도체 사이에 얇은 절연층이 있어도 쿠퍼쌍이 양자 터널링으로 건너갈 수 있다고 예측했고, 이 역시 실험에서 확인됐습니다.\n\n이후 연구진은 초전도 회로 전체의 상태도 양자 터널링을 할 수 있다는 사실을 실험으로 보여줬습니다. 원자보다 훨씬 큰 회로에서도 이런 양자 현상이 나타난다는 발견은, 칩 위에 만든 초전도 회로를 인공 원자처럼 다뤄 큐비트로 쓰는 데 토대가 됐습니다. 영상은 이 역사를 따라가며 과학자들이 서로 다른 설명을 내놓고, 그 설명에서 나온 예측을 실험으로 검증하며 합의에 이르는 과정을 보여줍니다.\n\n[AI로 영상을 요약한 내용입니다]\n\n👉언더스탠딩 문의: understanding.officialmail@gmail.com\n👉글로 읽는 \"언더스탠딩 텍스트\".  \nhttps://contents.premium.naver.com/backbriefing/news\n👉언더스탠딩 멤버십 가입\nhttps://www.youtube.com/channel/UCIUni4ScRp4mqPXsxy62L5w/join",
+    "published": "2026-11-21T11:55:24+00:00",
+    "title": "[김갑진의 양자물리학 몰아보기] 아인슈타인이 뒤집은 양자역학의 탄생부터 '저항 0' 초전도체. 양자컴퓨터의 비밀까지 (카이스트 물리학과 김갑진 교수)",
+    "video_id": "IoGFBDbbyNw"
+   },
+   "wait_checks": 0
   },
   "IoTFfUGDddw": {
    "done_at": "2026-11-16T01:36:16+00:00",
@@ -11525,6 +11597,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "PRNldZmsNHM": {
+   "errors": 0,
+   "first_seen": "2026-11-21T15:36:14+00:00",
+   "published": "2026-11-21T11:47:06+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+    "channel_name": "슈카월드",
+    "description": "0:00 인류 최대의 지식창고\n4:14 편집자 급감, 독자 수도 급감\n11:42 정치 묻은 위키피디아\n17:04 집단지성이 아닌 '고인물'의 세계가 되어버린 위키피디아\n23:20 K-위키 나무위키 근황",
+    "published": "2026-11-21T11:47:06+00:00",
+    "title": "정치 묻고 나락가는 인류 최대의 지식창고, 위키피디아",
+    "video_id": "PRNldZmsNHM"
+   },
+   "wait_checks": 0
+  },
   "PSyiT2SK2rc": {
    "done_at": "2026-11-03T09:31:56+00:00",
    "errors": 0,
@@ -11675,6 +11762,21 @@
    "first_seen": "2026-10-09T08:14:30+00:00",
    "published": "2026-10-02T07:54:19+00:00",
    "status": "baseline"
+  },
+  "PnbYC6xytJs": {
+   "errors": 0,
+   "first_seen": "2026-11-21T15:36:24+00:00",
+   "published": "2026-11-21T09:00:39+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "11월 22일 스마트튜브 부산 세미나 - 전국 투자처 & 레오의 대출 활용법\nhttps://blog.naver.com/ppassong/224457721211\n\n11월 20일부터 3주간 인천 정규강의 오프라인) 3주 만에 끝내는 인천 9개 구 완전정복!\nhttps://www.smarttube.kr/web/82?wmod=detail&idx=648\n\n부동산 끝판왕, 트루카피의 지금 당장 사야 할 아파트 리스트 200!\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=656\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.\n\n#김학렬 #빠숑 #부동산 #아파트 \n====================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-21T09:00:39+00:00",
+    "title": "지금 갈아타기 하려고 하면 3가지 포기해야 합니다(월천대사)",
+    "video_id": "PnbYC6xytJs"
+   },
+   "wait_checks": 0
   },
   "PoAkir0i8rY": {
    "errors": 0,
@@ -13810,6 +13912,21 @@
     "published": "2026-11-01T09:05:01+00:00",
     "title": "족발·설렁탕 고기 단면에 푸른빛의 정체가 뭘까?",
     "video_id": "UTq0nsKWzY8"
+   },
+   "wait_checks": 0
+  },
+  "UUpHfX2lG4k": {
+   "errors": 0,
+   "first_seen": "2026-11-21T15:36:16+00:00",
+   "published": "2026-11-21T11:00:10+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "AI가 컴퓨터 과학에서 25년간 중요한 전제로 여겨졌던 가설을 뒤집었다면 어떨까요? 스위치가 늘어날수록 가능한 조합이 기하급수적으로 증가하는 3SAT 문제! 컴퓨터 과학자들은 이런 문제를 푸는 데 필요한 계산 시간을 획기적으로 줄이는 것은 불가능하다고 추측해 왔는데요. 이를 '지수 시간 가설(ETH)'이라고 합니다. 그런데 오픈AI가 이 가설을 반박하는 새로운 알고리즘과 증명을 제시했다고 발표했습니다. 다만 이론적으로 계산량을 줄일 수 있다는 결과이지, 당장 실제 컴퓨터가 빨라진다는 뜻은 아닙니다. 오랫동안 연구의 토대가 된 가설을 AI가 정말 뒤집을 수 있을까요? 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n#인공지능 #오픈AI #컴퓨터과학 #3SAT #지수시간가설 #알고리즘 #수학난제 #안될과학 #과학유튜브",
+    "published": "2026-11-21T11:00:10+00:00",
+    "title": "AI가 25년 된 컴퓨터 과학의 가설을 뒤집었다?!",
+    "video_id": "UUpHfX2lG4k"
    },
    "wait_checks": 0
   },
@@ -16905,6 +17022,21 @@
    },
    "wait_checks": 0
   },
+  "b0EXpjFlSWk": {
+   "errors": 0,
+   "first_seen": "2026-11-21T15:36:19+00:00",
+   "published": "2026-11-21T10:05:29+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#이강인 #at마드리드 #라리가 #축구",
+    "published": "2026-11-21T10:05:29+00:00",
+    "title": "“A매치 끝난 이강인” 곧바로 선발출전 준비! 2연패에 빠진 AT마드리드, 다시 승리 가능할까",
+    "video_id": "b0EXpjFlSWk"
+   },
+   "wait_checks": 0
+  },
   "b183zJozLZE": {
    "first_seen": "2026-10-09T08:14:31+00:00",
    "published": "2026-03-20T09:00:57+00:00",
@@ -18173,18 +18305,14 @@
    "wait_checks": 0
   },
   "dRnL_432Oo4": {
+   "done_at": "2026-11-21T15:37:08+00:00",
    "errors": 0,
    "first_seen": "2026-11-13T15:09:39+00:00",
+   "last_attempt": "2026-11-21T15:36:29+00:00",
+   "notified": "2026-11-21T15:48:15+00:00",
    "published": "2026-11-13T12:37:36+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-    "channel_name": "슈카월드",
-    "description": "0:00 의료보험법 개정에 나선 일본\n5:13 일본 노인 진료비 우대 제도 폐지\n9:06 미용 의료 세금 부과를 고려하는 일본 재무부\n14:55 폭증하는 일본 성형 수요",
-    "published": "2026-11-13T12:37:36+00:00",
-    "title": "급증하는 미용의사, 개혁에 나선 일본",
-    "video_id": "dRnL_432Oo4"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "dTTiz4e7U7M": {
@@ -18310,6 +18438,21 @@
    "first_seen": "2026-10-25T11:34:57+00:00",
    "published": "2026-10-25T11:25:12+00:00",
    "status": "skipped_live",
+   "wait_checks": 0
+  },
+  "dk9XbmazlFk": {
+   "errors": 0,
+   "first_seen": "2026-11-21T15:36:25+00:00",
+   "published": "2026-11-21T08:00:00+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉https://bit.ly/4ow8KOs\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n삼성전자 지금 안 팔고 버티면 장기적으로 ‘이렇게’ 될 겁니다\n삼전, 닉스 역대급 무서운 폭락, 주가는 ‘이때부터’ 다시 폭등한다\n공포에 다 던지기 시작했다, 무서워도 꼭 이렇게 대비하세요 \n\n☞촬영일: 26년 11월 19일",
+    "published": "2026-11-21T08:00:00+00:00",
+    "title": "삼성전자 지금 안 팔고 버티면 장기적으로 ‘이렇게’ 될 겁니다 [박현상 이사 2부]",
+    "video_id": "dk9XbmazlFk"
+   },
    "wait_checks": 0
   },
   "draAlsFf6eM": {
@@ -21615,15 +21758,7 @@
    "errors": 0,
    "first_seen": "2026-11-13T15:09:53+00:00",
    "published": "2026-11-13T14:03:47+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-11-13T14:03:47+00:00",
-    "title": "모레노 또 442 출격!! 손흥민-오현규 투톱 / 한국 vs 사우디",
-    "video_id": "lfcGwNh6hI8"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "lfoH6tYnA9I": {
@@ -22023,6 +22158,21 @@
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-09-23T11:00:00+00:00",
    "status": "baseline"
+  },
+  "mf3Smd1pjl0": {
+   "errors": 0,
+   "first_seen": "2026-11-21T15:36:16+00:00",
+   "published": "2026-11-21T11:00:06+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "머리가 아플 때 먹는 진통제가 아니라, 아프기 전에 편두통을 예방하는 알약이 등장했습니다!\n\n심한 두통은 물론 메스꺼움과 빛·소리에 대한 과민 반응까지, 일상생활을 무너뜨릴 수 있는 편두통. 그런데 과학자들이 편두통 발작에 관여하는 핵심 물질 'CGRP'를 발견하면서 치료의 새로운 가능성이 열렸습니다.\n\n기존에는 주사로 투여하던 CGRP 표적 치료제를 이제는 알약으로도 복용할 수 있게 된 것인데요.\n\n과연 새롭게 등장한 편두통 예방약은 어떤 원리로 작동할까요? 기존 주사제와 비교해 효과는 얼마나 좋을까요?\n\n이번 영상에서는 편두통이 발생하는 과학적 원리부터 CGRP의 발견, 먹는 신약 '아큅타'와 '너텍'의 작용 원리, 실제 임상시험 결과와 부작용, 약값까지 자세히 살펴봅니다.\n\n여러분은 편두통을 경험해 보신 적이 있나요? 댓글로 이야기를 나눠주세요!\n\n※ 본 영상은 과학·의학 정보 제공을 목적으로 제작되었습니다. 의약품의 효과와 부작용은 개인에 따라 다르며, 실제 치료와 복용은 반드시 전문의와 상담하시기 바랍니다.\n#편두통 #CGRP #아큅타 #너텍 #편두통신약 #뇌과학 #의학 #안될과학 #약\n\n◆ Thanks to\nEditor : 박수빈\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science\n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience\n\n◆ 안될과학 문의\nE-MAIL : MoreScience2018@gmail.com",
+    "published": "2026-11-21T11:00:06+00:00",
+    "title": "수십 년간 풀지 못한 편두통의 비밀, 드디어 찾아낸 핵심 물질 CGRP",
+    "video_id": "mf3Smd1pjl0"
+   },
+   "wait_checks": 0
   },
   "mfnH2MuxwMo": {
    "done_at": "2026-11-13T21:27:09+00:00",
@@ -22552,18 +22702,14 @@
    "wait_checks": 0
   },
   "ntofBVQ_FxA": {
+   "done_at": "2026-11-21T15:44:28+00:00",
    "errors": 0,
    "first_seen": "2026-11-14T01:31:51+00:00",
+   "last_attempt": "2026-11-21T15:40:42+00:00",
+   "notified": "2026-11-21T15:48:16+00:00",
    "published": "2026-11-13T22:29:10+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCRCNBeNS8MrOwFV6h6Yjemw",
-    "channel_name": "시황맨TV",
-    "description": "주식 시황. 미 증시 새로운 변수 등장에 혼란. 생산자물가 지수와 금리. 엔비디아 관련 속보들과 월가 분석. 다음주 증시 흔들 뉴스 대기 중. 한국 증시 지표와 다음주 전망\n\n방송 요약\n미 증시 새로운 변수 등장에 혼란. \n생산자물가 지수 결과\n국채 금리 다시 오르는 이유\n금리가 증시 위협할 가능성은\n엔비디아 관련 속보들\n월가에서 보는 엔비디아 상황과 전망\n다음주 증시 흔들 뉴스 대기 중. \n한국 증시 지표와 다음주 전망\n\n#삼성전자, #테슬라 ,#채권 ,#에코프로비엠 ,#sk하이닉스 ,#주식시황 ,#에코프로 ,#애플 ,#엔비디아 ,#국제유가 ,#증시전망 ,#환율 ,#국채금리 ,#마이크론테크,#코스닥 ,#엘앤에프 ,#미국주식,#해외증시 ,#다우지수 ,#마이크론테크 ,#채권금리 ,#LG에너지솔루션 ,#반도체주식 ,#HBM관련주 ,#FOMC ,#비트코인 ,#LG에너지솔루션 ,#가상화폐 ,#암호화폐 ,#셀트리온,#셀트리온제약 ,#ai관련주 ,#TSMC,#KB금융 ,#저PBR ,#밸류업 ,#기아 ,#한미반도체 ,#파월의장 ,#경기선행지수 ,#한미약품 ,#엘앤에프 , #태양광관련주 ,#구리관련주 ,#TSMC ,#PCE ,#대차대조표 ,#HLB ,#CPI ,#JP모건 ,#모건스탠리 ,#셀트리온 ,#삼성전자HBM ,#CPI ,#달러차트 ,#HLB ,#삼성전자HBM ,#미국고용지표  ,#알테오젠 ,#트럼프 ,#ISM제조업지수 ,#BTS ,#금투세 ,#모건스탠리 ,#밸류업지수 ,#북한 ,#고려아연 ,#금양 ,#엔달러 ,#엔캐리트레이드 ,#로봇관련주 ,#레인보우로보틱스 ,#딥시크 ,#DeepSeek ,#관세 ,#트럼프관세 ,#무역전쟁 ,#관세전쟁 ,#세법개정안 ,#스테이블코인 ,#주식양도세 ,#파운드리 ,#PPI ,#생산자물가지수 ,#데이터센터 ,#양적긴축 ,#부동산정책 ,#부동산대책 ,#FOMC ,#주주환원 ,#관세협상 ,#ADR ,#HBM ,#HBM4 ,#마이클버리 ,#빅쇼트 ,#사이드카 ,#매출채권 ,#제미나이3 ,#TPU ,#오라클 ,#잭슨홀 ,#환헤지 ,#전략적환헤지, #잭슨홀미팅 ,#SMR ,#BTS ,#블루아울 ,#IEEPA ,#국제비상경제권한법 ,#이란전쟁 ,#호르무즈 ,#호르무즈해협 ,#에이비엘바이오 ,#휴전 ,#스페이스X ,#젠슨황 ,#케빈워시 ,#마이크론실적 ,#삼성전자ETF ,#EUV ,#DUV ,#서킷브레이커 ,#아스트라AI ,#CXMT ,#코어위브 ,#중간선거 ,#블루웨이브",
-    "published": "2026-11-13T22:29:10+00:00",
-    "title": "주식 시황. 미 증시 새로운 변수 등장에 혼란. 생산자물가 지수와 금리. 엔비디아 관련 속보들과 월가 분석. 다음주 증시 흔들 뉴스 대기 중. 한국 증시 지표와 다음주 전망",
-    "video_id": "ntofBVQ_FxA"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "nu7t21JPcSk": {
@@ -22941,6 +23087,21 @@
    "published": "2026-10-24T11:00:27+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "osIEcsHyUZ0": {
+   "errors": 0,
+   "first_seen": "2026-11-21T15:36:24+00:00",
+   "published": "2026-11-21T11:00:24+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉https://bit.ly/4ow8KOs\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"갈아타기 이제 불가능인가요?\" 지금 1주택자가 해야 할 1가지\n\"집값 왜 안 떨어져요?\" 서울 수도권 아파트 이상현상\n\"지금 집값 거품 아닌가요?\" 기다렸다 집 사고 싶다면 보세요\n\n☞촬영일: 26년 11월 18일",
+    "published": "2026-11-21T11:00:24+00:00",
+    "title": "\"갈아타기 이제 불가능인가요?\" 지금 1주택자가 해야 할 1가지 [정민우 대표 3부]",
+    "video_id": "osIEcsHyUZ0"
+   },
    "wait_checks": 0
   },
   "oswUOfxncQ8": {
@@ -23349,6 +23510,21 @@
     "published": "2026-10-30T02:00:31+00:00",
     "title": "전쟁이 나면 ‘데이터’도 피난을 간다?!",
     "video_id": "pRJuQtkqPdE"
+   },
+   "wait_checks": 0
+  },
+  "pS4yoeRcci8": {
+   "errors": 0,
+   "first_seen": "2026-11-21T15:36:15+00:00",
+   "published": "2026-11-21T11:00:17+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdUcjkyZtf-1WJyPPiETF1g",
+    "channel_name": "ITSub잇섭",
+    "description": "얼마 전 뉴욕에서 젠틀몬스터가 만든 인텔리전트 아이웨어를 첫 공개했습니다. 저도 AI 글래스, 안경에 관심이 많아 바로 현장으로 가서 체험해봤는데요, 확실한건 선글라스는 진짜 대체가 가능하면서 AI 활용이 꽤.. 좋은데요?\n\n\n🔗 Sponsor.\n-본 영상은 '젠틀몬스터'의 유료광고를 포함하고 있습니다. @gentlemonsterofficial \n*뉴욕 팝업 한정으로 도수 렌즈 교체가 투명으로만 가능하였으며, 실 구매 시 한국은 Gentle Monster와 ZEISS의 교육 및 인증 과정을 완료한 안경원을 통해 투명 외 컬러 렌즈 교체가 가능합니다.\n\n*젠틀몬스터 인텔리전트 아이웨어 팝업은 12월 10일부터 하우스 노웨어 서울 및 하우스 노웨어 도산에서 진행되며, 12월 10일부터 젠틀몬스터 공식 온/오프라인 스토어에서만 판매됩니다.\n\n🕶️젠틀몬스터 인텔리전트 아이웨어 \nhttps://visit.gentlemonster.com/2026-ie-itsub\n\n\n🔋 Specs.\n모델명 : 인텔리전트 아이웨어 GGS001~6\n프레임 : 총 6가지, 색상조합 포함 최대 16개\n소재 : 폴리아미드\n무게 : 38~41g\n카메라 : 12MP 3K chkfdud\n스피커 : 2개\n마이크 : 4개\n프로세서 : 스냅드래곤 AR1 Gen1\nRAM : 2GB\n저장공간 : 64GB\n가격 : 650,000원~\n\n\n⏲️ Timestamps.\n00:00 훼이크\n00:11 오프닝\n01:05 디자인\n04:16 체험해보기\n05:41 실시간 통역\n10:50 활용하기\n12:12 스피커\n13:15 체험 후기\n15:18 궁금한 점?\n16:53 출시일&가격\n17:14 오늘의 결론\n\n\n🔖Tags.\n#젠틀몬스터\n#인텔리전트\n#아이웨어\n\n\n🎵 BGM.\nHarry Edvino - No Time for Dignity\nDusty Decks - Lush Hour\n\n\n💡 Merch.\n블랙카우랩스 굿즈를 사고 싶다면?\n-https://abit.ly/blackcowlabs\n\n\n📨 Business contacts.\n itsub@itud.io",
+    "published": "2026-11-21T11:00:17+00:00",
+    "title": "드디어 디자인도 신경쓴 젠틀몬스터 AI 안경? 나오자마자 품절됨 ㄷㄷ",
+    "video_id": "pS4yoeRcci8"
    },
    "wait_checks": 0
   },
@@ -24126,15 +24302,7 @@
    "errors": 0,
    "first_seen": "2026-11-13T15:09:46+00:00",
    "published": "2026-11-13T14:12:55+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
-    "channel_name": "안될과학 Unrealscience",
-    "description": "◆ 모어사이언스 신상 굿즈 구경하러 가기!\nhttps://smartstore.naver.com/morescience\n\n◆신상 누리호 항공점퍼, 누리호 뱃지, 포스터, 누리호 텀블러\nhttps://smartstore.naver.com/morescience/search?q=누리호\n\n◆『우리는 어쩌다 과학을 믿게 되었을까?』\n예스24 https://t.ly/E0es4\n알라딘 https://t.ly/WpoQt\n교보문고 https://t.ly/0g_Yd",
-    "published": "2026-11-13T14:12:55+00:00",
-    "title": "스페이스X 스타십 15차 시험 발사 생중계 (슈퍼헤비 메카질라 캐치시도) [항성의 우주속으로]",
-    "video_id": "rLas47ezYss"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "rO0rYhx08rM": {
@@ -24346,6 +24514,21 @@
    "published": "2026-10-24T13:05:23+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "rwH-qVsxCY8": {
+   "errors": 0,
+   "first_seen": "2026-11-21T15:36:28+00:00",
+   "published": "2026-11-21T14:15:17+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+    "channel_name": "언더스탠딩 : 세상의 모든 지식",
+    "description": "💡내용 요약\n일론 머스크의 스페이스X가 기존의 우주기업을 넘어 AI 중심 기업으로 빠르게 변화하고 있습니다. 영상에서 제시된 3분기 실적에 따르면 스타링크의 매출은 전년 대비 70% 증가했지만, AI 사업 매출은 무려 800% 성장하면서 전체 매출의 52%를 차지했습니다. 특히 AI 서비스 자체보다는 데이터센터의 컴퓨팅 자원을 다른 기업에 빌려주는 클라우드 사업이 실적 성장을 주도했습니다.\n\n스타링크 역시 새로운 성장 국면에 진입하고 있습니다. 가입자가 빠르게 증가하는 가운데, 기존의 별도 안테나를 사용하는 위성 인터넷 서비스에서 일반 휴대전화와 직접 연결되는 이동통신 서비스로 사업을 확장하려 하고 있습니다. 이러한 변화가 현실화된다면 스타링크는 기존 통신사들과 본격적으로 경쟁하며 전 세계 통신시장의 판도를 바꿀 가능성이 있습니다.\n\nAI 사업에서는 막대한 데이터센터 투자가 핵심 전략으로 떠오르고 있습니다. 머스크는 데이터센터를 빠르게 확보한 뒤 당장은 다른 AI 기업에 임대해 수익을 창출하고, 장기적으로는 자체 AI 모델인 그록의 경쟁력을 강화하는 데 활용하려는 것으로 분석됩니다. 그러나 이러한 공격적인 투자는 AI 산업의 성장세가 둔화될 경우 상당한 재무적 부담으로 돌아올 수 있습니다.\n\n미국의 정치적 환경과 지역 규제도 중요한 변수입니다. 로켓 발사장과 데이터센터를 확장하는 과정에서 환경 규제와 인허가 문제가 발생할 수 있기 때문입니다. 머스크는 스타베이스를 독립된 도시로 만들고, 발전시설을 다른 주에 건설하는 등 다양한 방식으로 사업상의 제약을 극복하려 하고 있습니다. 다만 정치적 변화와 지역사회의 반발이 향후 사업 확장에 영향을 미칠 가능성은 여전히 남아 있습니다.\n\n한편 스페이스X와 테슬라의 합병 가능성도 주요 쟁점으로 다뤄졌습니다. 합병 찬성론자들은 AI 반도체, 데이터센터, 자율주행, 로봇 기술을 하나의 기업으로 통합하면 기술적·재무적 시너지를 창출할 수 있다고 주장합니다. 반면 회의론자들은 이미 두 기업이 협력하고 있는 상황에서 합병의 실질적인 이익이 불분명하며, 주식 희석과 기업가치 훼손, 머스크 개인의 지배력 확대 등 이해충돌 문제가 발생할 수 있다고 지적합니다.\n\n특히 국내 테슬라 투자자들에게는 합병 방식에 따른 양도소득세 문제가 중요한 쟁점입니다. 주식 교환 방식으로 합병이 진행될 경우 투자자가 현금을 받지 않더라도 세법상 양도로 인정되어 세금이 발생할 가능성이 있습니다. 이는 해외 주식 투자뿐 아니라 국내 스타트업의 해외 진출 과정에서도 나타날 수 있는 제도적 문제로, 세제 개선의 필요성까지 논의됐습니다.\n\n결국 스페이스X의 미래는 우주사업의 성장뿐 아니라 AI 인프라 투자, 규제 대응, 테슬라와의 합병 여부에 따라 크게 달라질 전망입니다. 머스크가 추진하는 거대한 기업 통합은 새로운 산업 생태계를 만드는 혁신일까요, 아니면 주주들에게 더 큰 위험을 떠넘기는 무리한 확장일까요?\n\n📌핵심 주제\n스페이스X의 AI 중심 기업 전환\n스타링크의 글로벌 이동통신 시장 진출\nAI 데이터센터 투자와 규제 리스크\n테슬라·스페이스X 합병의 시너지와 이해충돌\n해외 주식 교환에 따른 양도소득세 논란\n\n[AI로 영상을 요약한 내용입니다]\n\n👉언더스탠딩 문의: understanding.officialmail@gmail.com\n👉글로 읽는 \"언더스탠딩 텍스트\".  \nhttps://contents.premium.naver.com/backbriefing/news\n👉언더스탠딩 멤버십 가입\nhttps://www.youtube.com/channel/UCIUni4ScRp4mqPXsxy62L5w/join",
+    "published": "2026-11-21T14:15:17+00:00",
+    "title": "테슬라·스페이스X 합병 특별위원회 가동, 한국 주주들 '양도세 폭탄' 논란",
+    "video_id": "rwH-qVsxCY8"
+   },
    "wait_checks": 0
   },
   "rx9oxsjFG9g": {
