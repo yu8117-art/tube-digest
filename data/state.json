@@ -2900,18 +2900,14 @@
    "wait_checks": 0
   },
   "5O6ZL7ZRM7Y": {
+   "done_at": "2026-11-21T21:11:31+00:00",
    "errors": 0,
    "first_seen": "2026-11-14T01:31:51+00:00",
+   "last_attempt": "2026-11-21T21:07:46+00:00",
+   "notified": "2026-11-21T21:12:49+00:00",
    "published": "2026-11-13T23:00:29+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCDSj40X9FFUAnx1nv7gQhcA",
-    "channel_name": "월급쟁이부자들TV",
-    "description": "📍 11월 2주차 주간머니이슈_부동산\n00:00 오늘 나눌 부동산 이야기\n00:30 노도강·성북 월셋값 27% 상승, “경험해보지 못한 폭등”\n09:52 주거비 부담에 서울→경기 이주 1년새 40% 급증\n17:27 사야 할 아파트 vs 사지 말아야 할 아파트\n\n📌 사야 할 아파트 vs 사지 말아야 할 아파트\n👉 [자음과모음 무료 칼럼 보러가기] https://link.weolbu.com/4ixMTVm\n\n🏠 내가 가진 돈으로 어떤 집 사야할지 고민이라면?\n내 돈으로 내게 맞는 가장 좋은 집 사는 법 알려드릴게요!\n👉 너나위의 [내집마련 기초반] https://link.weolbu.com/4jcL0gZ (선착순 신청)\n\n#부동산 #내집마련 #부동산투자 #주간머니이슈 #재테크 #월부강의 #월부후기",
-    "published": "2026-11-13T23:00:29+00:00",
-    "title": "\"한 번도 경험해 본 적 없는 폭등\" 서울 외곽 월세 27% 상승, 앞으로 수도권 집값 더 무서워질 거예요 (주간머니이슈_부동산편)",
-    "video_id": "5O6ZL7ZRM7Y"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "5OkrvGWVly0": {
@@ -5124,15 +5120,7 @@
    "errors": 0,
    "first_seen": "2026-11-14T01:31:47+00:00",
    "published": "2026-11-13T23:46:37+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
-    "channel_name": "스마트튜브(스튜TV)",
-    "description": "11월 15일 무료 특강) 2027년 서울 집값, 진짜 승부는 지금부터다\n https://blog.naver.com/ppassong/224464007812\n\n11월 20일부터 3주간 인천 정규강의 오프라인) 3주 만에 끝내는 인천 9개 구 완전정복!\nhttps://www.smarttube.kr/web/82?wmod=detail&idx=648\n\n11월 22일 스마트튜브 부산 세미나 - 전국 투자처 & 레오의 대출 활용법\nhttps://blog.naver.com/ppassong/224457721211\n\n부동산 끝판왕, 트루카피의 지금 당장 사야 할 아파트 리스트 200!\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=656\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! - 10주 강의!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n8주) 서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
-    "published": "2026-11-13T23:46:37+00:00",
-    "title": "신호등은 발표가 아니라 열쇠를 본다!",
-    "video_id": "ARdZa7lcNtE"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "AVYAaKLLp60": {
@@ -6119,6 +6107,21 @@
    "published": "2026-10-23T09:00:27+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "ChQ77hHMfZA": {
+   "errors": 0,
+   "first_seen": "2026-11-21T21:07:38+00:00",
+   "published": "2026-11-21T19:30:25+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#토트넘 #축구 #프리미어리그 #바넷",
+    "published": "2026-11-21T19:30:25+00:00",
+    "title": "\"손흥민이 보인다\" 바넷 1골 1어시!! 토트넘 새로운 스타 탄생하나?! 최고의 활약을 보여준 바넷",
+    "video_id": "ChQ77hHMfZA"
+   },
    "wait_checks": 0
   },
   "CjWS4ijFhDI": {
@@ -27374,6 +27377,7 @@
   "y6BNpHjg0ms": {
    "errors": 0,
    "first_seen": "2026-11-14T01:31:42+00:00",
+   "last_attempt": "2026-11-21T21:11:32+00:00",
    "published": "2026-11-14T00:00:15+00:00",
    "status": "pending",
    "video": {
