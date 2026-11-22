@@ -276,18 +276,14 @@
    "wait_checks": 0
   },
   "-ZY-KSWaMCo": {
+   "done_at": "2026-11-22T01:24:48+00:00",
    "errors": 0,
    "first_seen": "2026-11-14T07:59:31+00:00",
+   "last_attempt": "2026-11-22T01:24:29+00:00",
+   "notified": "2026-11-22T01:29:29+00:00",
    "published": "2026-11-14T03:49:07+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
-    "channel_name": "안될과학 Unrealscience",
-    "description": "발사한 로켓을 다시 발사대에서 잡아내는 메카질라 캐치.\n스타십 15차 시험발사에서 기대를 모았던 장면인데요. 아쉽게도 이번 비행에서는 캐치 시도가 이뤄지지 못했습니다.\n\n발사대 대신 바다로 내려온 슈퍼헤비. 비행 과정에서 어떤 일이 있었을까요?\n\n이번 영상에서는 스타십이 날아오르는 순간부터 슈퍼헤비의 해상 하강까지, 15차 시험발사의 주요 장면을 모았습니다. 강력한 엔진 점화와 이륙, 그리고 메카질라 캐치를 기다리며 지켜봤던 귀환 과정을 항성의 실시간 해설과 함께 살펴봅니다.\n\n#스타십 #스타십15차 #SpaceX #스페이스X #슈퍼헤비 #메카질라 #타워캐치 #시험발사 #하이라이트 #항성 #안될과학\n\n◆ Thanks to\nEditor : 이재현\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science\n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience",
-    "published": "2026-11-14T03:49:07+00:00",
-    "title": "스타십 15차 발사 하이라이트! 아쉽게 무산된 메카질라 캐치, 과연 슈퍼헤비엔 무슨 일이?!",
-    "video_id": "-ZY-KSWaMCo"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "-Zmpezx4UvI": {
@@ -1770,6 +1766,21 @@
    },
    "wait_checks": 0
   },
+  "2sdbyFT3Dus": {
+   "errors": 0,
+   "first_seen": "2026-11-22T01:13:27+00:00",
+   "published": "2026-11-21T21:51:57+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCRCNBeNS8MrOwFV6h6Yjemw",
+    "channel_name": "시황맨TV",
+    "description": "특집 증시 전망대. 위기의 증시, 급락 원인, 주요 속보, 단기, 중장기 전망 총정리. 역대 약세장과 현재 유사점, 차이점. 최고, 최악 시나리오. 바닥 때 나오는 신호와 수급\n\n방송 요약\n최근 급락 원인들 분석\n주말 사이 나온 속보들\n증권가의 단기, 중장기 전망 총정리. \n역대 약세장과 현재 유사점, 차이점\n현 시점 최고, 최악 시나리오. \n한국 증시, 다른 나라와 추세 비교\n외국인 매도 원인과 컴백 가능성\n부담되는 뉴스, 긍정적 뉴스들 정리\n바닥 때 나오는 신호와 수급\n최근 조정 이용 매수 붙은 종목들\n대만 증시 대책, SK하이닉스 M&A설 영향은\n\n#삼성전자, #테슬라 ,#채권 ,#에코프로비엠 ,#sk하이닉스 ,#주식시황 ,#에코프로 ,#애플 ,#엔비디아 ,#국제유가 ,#증시전망 ,#환율 ,#국채금리 ,#마이크론테크,#코스닥 ,#엘앤에프 ,#미국주식,#해외증시 ,#다우지수 ,#마이크론테크 ,#채권금리 ,#LG에너지솔루션 ,#반도체주식 ,#HBM관련주 ,#FOMC ,#비트코인 ,#LG에너지솔루션 ,#가상화폐 ,#암호화폐 ,#셀트리온,#셀트리온제약 ,#ai관련주 ,#TSMC,#KB금융 ,#저PBR ,#밸류업 ,#기아 ,#한미반도체 ,#파월의장 ,#경기선행지수 ,#한미약품 ,#엘앤에프 , #태양광관련주 ,#구리관련주 ,#TSMC ,#PCE ,#대차대조표 ,#HLB ,#CPI ,#JP모건 ,#모건스탠리 ,#셀트리온 ,#삼성전자HBM ,#CPI ,#달러차트 ,#HLB ,#삼성전자HBM ,#미국고용지표  ,#알테오젠 ,#트럼프 ,#ISM제조업지수 ,#BTS ,#금투세 ,#모건스탠리 ,#밸류업지수 ,#북한 ,#고려아연 ,#금양 ,#엔달러 ,#엔캐리트레이드 ,#로봇관련주 ,#레인보우로보틱스 ,#딥시크 ,#DeepSeek ,#관세 ,#트럼프관세 ,#무역전쟁 ,#관세전쟁 ,#세법개정안 ,#스테이블코인 ,#주식양도세 ,#파운드리 ,#PPI ,#생산자물가지수 ,#데이터센터 ,#양적긴축 ,#부동산정책 ,#부동산대책 ,#FOMC ,#주주환원 ,#관세협상 ,#ADR ,#HBM ,#HBM4 ,#마이클버리 ,#빅쇼트 ,#사이드카 ,#매출채권 ,#제미나이3 ,#TPU ,#오라클 ,#잭슨홀 ,#환헤지 ,#전략적환헤지, #잭슨홀미팅 ,#SMR ,#BTS ,#블루아울 ,#IEEPA ,#국제비상경제권한법 ,#이란전쟁 ,#호르무즈 ,#호르무즈해협 ,#에이비엘바이오 ,#휴전 ,#스페이스X ,#젠슨황 ,#케빈워시 ,#마이크론실적 ,#삼성전자ETF ,#EUV ,#DUV ,#서킷브레이커 ,#아스트라AI ,#CXMT ,#코어위브 ,#중간선거 ,#블루웨이브",
+    "published": "2026-11-21T21:51:57+00:00",
+    "title": "특집 증시 전망대. 위기의 증시, 급락 원인, 주요 속보, 단기, 중장기 전망 총정리. 역대 약세장과 현재 유사점, 차이점. 최고, 최악 시나리오. 바닥 때 나오는 신호와 수급",
+    "video_id": "2sdbyFT3Dus"
+   },
+   "wait_checks": 0
+  },
   "2tBO_Ki1ndE": {
    "errors": 0,
    "first_seen": "2026-11-11T16:24:56+00:00",
@@ -1898,6 +1909,21 @@
     "published": "2026-11-07T03:30:35+00:00",
     "title": "부자들이 돈 주고 사는 건 결국 시간하고 '이것'입니다 [김용섭 소장]",
     "video_id": "39gbhH3sKlQ"
+   },
+   "wait_checks": 0
+  },
+  "3AjSB4K8KBg": {
+   "errors": 0,
+   "first_seen": "2026-11-22T01:13:25+00:00",
+   "published": "2026-11-21T22:30:01+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n주식으로 몇백억 번 부자들이 상반기에 주식 판 진짜 이유\n\n☞촬영일: 26년 11월 19일",
+    "published": "2026-11-21T22:30:01+00:00",
+    "title": "주식으로 몇백억 번 부자들이 상반기에 주식 판 진짜 이유 [박현상 이사]",
+    "video_id": "3AjSB4K8KBg"
    },
    "wait_checks": 0
   },
@@ -2899,6 +2925,21 @@
    },
    "wait_checks": 0
   },
+  "5LEwQxgkIxU": {
+   "errors": 0,
+   "first_seen": "2026-11-22T01:13:23+00:00",
+   "published": "2026-11-22T00:00:14+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCYgVl2XoMfkvg1BzTFiyOiw",
+    "channel_name": "홈즈 부동산",
+    "description": "되기만 하면 알짜배기",
+    "published": "2026-11-22T00:00:14+00:00",
+    "title": "저는 상대원2구역 지금 이렇게 봅니다",
+    "video_id": "5LEwQxgkIxU"
+   },
+   "wait_checks": 0
+  },
   "5O6ZL7ZRM7Y": {
    "done_at": "2026-11-21T21:11:31+00:00",
    "errors": 0,
@@ -2983,18 +3024,14 @@
    "status": "baseline"
   },
   "5iwxgISCXkc": {
+   "done_at": "2026-11-22T01:17:02+00:00",
    "errors": 0,
    "first_seen": "2026-11-14T01:31:52+00:00",
+   "last_attempt": "2026-11-22T01:13:28+00:00",
+   "notified": "2026-11-22T01:29:30+00:00",
    "published": "2026-11-14T01:00:16+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
-    "channel_name": "지식인사이드",
-    "description": "오늘은 김경일 교수님과 이승훈 교수님을 모시고\n\n잠은 부족하고 식습관은 망가졌는데 영양제로 건강을 챙기려는 현대인의 생활이 왜 위험한지와, 몸과 마음을 함께 지키기 위해 어떤 생활습관부터 바꿔야 하는지에 대해 알아봤습니다.\n\n영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요!\n\n#김경일 #이승훈 #지식인사이드 #영양제 #우울증 #건강검진 #수면\n\nㅡ\n\n00:00 인트로\n00:36 구독자 인사\n05:19 술, 담배보다 몸에 더 해로운 최악의 행동\n06:49 잠이 부족할수록 자극적인 사람을 찾게 되는 이유\n08:37 커피 마시고 잘 자는 사람도 안심하면 안 됩니다\n10:43 잠 줄이고 영양제 챙겨 먹는 사람 몸에 생기는 일\n14:59 생활습관 박살났는데 영양제로 버틴 30대의 최후\n20:11 섣부르게 우울증 자가진단하면 진짜 위험한 이유\n24:44 회사에선 멀쩡한데 집에만 오면 무너지는 이유\n27:13 유산균 하나로 우울증까지 좋아진다는 말의 함정\n30:47 연봉 높고 복지 좋아도 1년 안에 퇴사하는 이유\n36:06 AI보다 더 무서운 한국 직장인들의 고민 1위\n39:21 주말에 2시간 더 잤는데 월요일이 더 피곤한 이유\n43:16 사고 싶은 게 생기면 돈을 두 번 써야 하는 이유\n46:08 억지로 참지 않고 과식을 줄이는 가장 효과적인 방법\n51:21서울대 의사가 꼽은 ‘돈 아까운 vs 꼭 필요한’ 건강검진\n57:11 건강한 생활습관 작심삼일로 끝내지 않는 법 \n\n*이 영상은 10월 21일에 촬영되었습니다.\n\nㅡ\n\n👇지식인사이드에 출연을 원하신다면 여기를 눌러주세요\nhttps://forms.gle/u4LxVcwFdhvkLH8m6\nknowledgeinside7@gmail.com\n\n👇 다양한 채널에서 지식인사이드의 지식을 얻고 싶다면 여기를 눌러주세요\n인스타그램: https://www.instagram.com/knowledgeins_kr/\n페이스북: https://www.facebook.com/knowledgeIns7?mibextid=LQQJ4d\n네이버 TV: https://tv.naver.com/purejboy2\n틱톡: https://www.tiktok.com/@allstorieskr?lang=ko-KR\n네이버 카페: https://cafe.naver.com/knowledgeins\n\nCopyright Ⓒ 지식인사이드. All rights reserved.\n\n본 콘텐츠(영상, 이미지, 음성, 대본, 편집물, 썸네일 포함)는 저작권 및 관련 권리의 보호를 받습니다.\n\n저작권자의 사전 승인 없이 복제, 배포, 수정, 재가공, 업로드, AI 학습 및 데이터셋 구축, 2차 저작물 제작(쇼츠·릴스 포함) 등 일체의 상업적 이용 및 수익화를 금지합니다.\n\n📧 콘텐츠 사용 및 협의 문의: knowledgeinside7@gmail.com",
-    "published": "2026-11-14T01:00:16+00:00",
-    "title": "요즘 2030 연봉 높고 복지 좋아도 1년 안에 퇴사하는 진짜 이유ㅣ지식인초대석: 합석 EP.23 (김경일 X 이승훈)",
-    "video_id": "5iwxgISCXkc"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "5kQkgwOQ1RY": {
@@ -5747,6 +5784,21 @@
    "published": "2026-10-07T11:00:13+00:00",
    "status": "baseline"
   },
+  "C9cUg4g30b8": {
+   "errors": 0,
+   "first_seen": "2026-11-22T01:13:27+00:00",
+   "published": "2026-11-22T01:00:25+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
+    "channel_name": "지식인사이드",
+    "description": "오늘은 로만 얌폴스키 교수 님을 모시고\n\n초지능 AI의 위협과 인류가 살아남기 위해 던져야 할 질문에 대해 들어봤습니다.\n\n영상이 유익 했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요!\n\n#지식인사이드 #로만얌폴스키 #AI위협 #초지능 #인공지능\n\n\n00:00 인트로\n00:42 구독자 인사 \n01:20 AI만 15년 연구한 전문가가 AI 발전을 반대하는 이유 \n03:11: 앞으로 AI는 인간을 다람쥐 취급할 겁니다 \n06:20 이때부터 AI는 인간을 배신할 겁니다 \n09:22 AI가 자의적으로 해킹을 시작하면 벌어지는 일 \n13:55 AI기업이 잘 드러내지 않는 AI의 치명적인 허점 \n20:00 AI의 위협을 막기 위해 인간이 할 수 있는 일 \n24:22 AI가 인간을 속이도록 진화하는 이유 \n27:10 AI시대 인간이 반드시 던져야 할 1가지 질문 \n\n* 이 영상은 26년 11월 3일 촬영되었습니다. \n\n\n👇지식인사이드에 출연을 원하신다면 여기를 눌러주세요\nhttps://forms.gle/u4LxVcwFdhvkLH8m6\nknowledgeinside7@gmail.com\n\n👇 다양한 채널에서 지식인사이드의 지식을 얻고 싶다면 여기를 눌러주세요\n인스타그램: https://www.instagram.com/knowledgeins_kr/\n페이스북: https://www.facebook.com/knowledgeIns7?mibextid=LQQJ4d\n네이버 TV: https://tv.naver.com/purejboy2\n틱톡: https://www.tiktok.com/@allstorieskr?lang=ko-KR\n네이버 카페: https://cafe.naver.com/knowledgeins\n\nCopyright Ⓒ 지식인사이드. All rights reserved.\n\n본 콘텐츠(영상, 이미지, 음성, 대본, 편집물, 썸네일 포함)는 저작권 및 관련 권리의 보호를 받습니다.\n\n저작권자의 사전 승인 없이 복제, 배포, 수정, 재가공, 업로드, AI 학습 및 데이터셋 구축, 2차 저작물 제작(쇼츠·릴스 포함) 등 일체의 상업적 이용 및 수익화를 금지합니다.\n\n📧 콘텐츠 사용 및 협의 문의: knowledgeinside7@gmail.com",
+    "published": "2026-11-22T01:00:25+00:00",
+    "title": "AI석학: \"27년부터 통제 불능이다.\" 인류에게 닥칠 3가지 결말 | 글로벌초대석 EP.14 『켄터키 촬영』",
+    "video_id": "C9cUg4g30b8"
+   },
+   "wait_checks": 0
+  },
   "CBj13walc8U": {
    "errors": 0,
    "first_seen": "2026-10-15T07:29:32+00:00",
@@ -7662,18 +7714,14 @@
    "wait_checks": 0
   },
   "GPI93pKFH3o": {
+   "done_at": "2026-11-22T01:24:28+00:00",
    "errors": 0,
    "first_seen": "2026-11-14T07:59:30+00:00",
+   "last_attempt": "2026-11-22T01:21:42+00:00",
+   "notified": "2026-11-22T01:29:30+00:00",
    "published": "2026-11-14T01:59:41+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCoCvTlU0KpNYwnMIgs7MPrA",
-    "channel_name": "보다 BODA",
-    "description": "🚨11월 21일 토요일 ‘오후 1시’ & ‘오후 6시’에 대전에서 ‘과학을 보다 토크콘서트’를 개최합니다!!!!!🚨\n\n✅오늘의 주제: 인류가 놓친 우주 문명의 전성기\n\n✅오늘의 출연자\n1. MC 정영진🎙️\n2. 물리학자 김범준 교수🍞\n3. 천문학자 지웅배 교수🚀\n4. 천문학자 이명현 박사🛰️\n5. 해양생물학자 김동성 박사🐟\n\n✅타임라인\n00:00 오프닝\n03:06 빅뱅이 시간의 시작이 아니라는 물리학계의 새로운 입장\n12:10 우주에서는 불이 없어도 용접이 가능하다?\n15:31 하와이 심해 바닥에서 발견된 노란 벽돌길\n23:18 생물이 빠지는 순간 즉사하는 심해 공간\n26:00 우주 문명의 전성기는 50억년 전 이미 끝났다는 증거\n\n👀BODA 티셔츠 구경하기\nhttps://bodamall.store/ \n\n🚀 ‘과학을 보다’ 질문 게시판  \nhttps://cafe.naver.com/boda100\n\n📘어른을 위한 ‘과학을 보다’ 만화책!📚\n-교보문고: \nhttps://product.kyobobook.co.kr/detai...\n-알라딘: \nhttps://www.aladin.co.kr/shop/wproduc...\n-예스24: \nhttps://www.yes24.com/product/goods/1...\n\n\n✔ 출연 및 제휴 문의: \nboooda.kr@gmail.com \n\n\n✔ BODA 인스타: \n/ boda_channel\n\n\n#보다 #과학 #우주 #문명\n\n\n광고 및 비즈니스 문의:  boooda.kr@gmail.com \n\n\n광고 및 비즈니스 문의:  boooda.kr@gmail.com",
-    "published": "2026-11-14T01:59:41+00:00",
-    "title": "외계 행성을 수천 개나 찾았는데 인류는 왜 아직도 우주에서 혼자일까?ㅣ과학을 보다 EP.228",
-    "video_id": "GPI93pKFH3o"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "GQwzwKydyQQ": {
@@ -14522,6 +14570,21 @@
    },
    "wait_checks": 0
   },
+  "VsCGewACCWo": {
+   "errors": 0,
+   "first_seen": "2026-11-22T01:13:20+00:00",
+   "published": "2026-11-21T23:00:25+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCstI8HwGQsHdqLDgyH0PImw",
+    "channel_name": "최준영 박사의 지구본 연구소",
+    "description": "🌏지구본 연구소 멤버십에 가입하여 혜택을 누려보세요!\nhttps://www.youtube.com/channel/UCstI8HwGQsHdqLDgyH0PImw/join\n\n놀라운 라인업으로 다시 돌아온 위즈덤 칼리지 2026!\n최준영 박사님과 함께 새로운 지혜의 여정이 시작됩니다.\n🎁 최대 할인 + 30만 원 상당의 혜택 전원 증정\n🎓 지금 바로 입학 등록하기 👉 https://bit.ly/3IRcyte\n\n👉https://3protv.page.link/dvgJ\n⏰바빠서 방송 볼 시간이 없다면? 핵심만 콕 짚은 요약본으로 빠르게!\n삼프로 오리지널 뉴스 콘텐츠로 만나보세요.\n👉https://3protv.page.link/dvgJ\n\n#지구본연구소 #최준영박사 #최준영\n\n🌎타임코드🌎\n00:00 명부에서 사라진 1억 3천만 명\n03:43 헌법보다 먼저 만든 유권자 명부\n09:48 투표할 자격은 누가 증명하나\n20:52 명부 삭제가 바꾼 선거 판세\n29:41 누가 선관위원을 고르나\n34:06 바퀴벌레당이 거리로 나온 이유\n39:39 인도 선거의 세 갈림길",
+    "published": "2026-11-21T23:00:25+00:00",
+    "title": "인도 유권자 명부에서 1억 3천만 명이 사라진 이유 f. 인도환타 [지구본 초대석]",
+    "video_id": "VsCGewACCWo"
+   },
+   "wait_checks": 0
+  },
   "VwjhD-cp2N4": {
    "first_seen": "2026-10-09T08:14:40+00:00",
    "published": "2026-05-29T08:41:57+00:00",
@@ -20713,6 +20776,21 @@
    "published": "2026-09-12T14:46:43+00:00",
    "status": "baseline"
   },
+  "jOUrMMmZpZI": {
+   "errors": 0,
+   "first_seen": "2026-11-22T01:13:24+00:00",
+   "published": "2026-11-22T01:00:25+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n현금 있다면 S&P500 이렇게 사세요, 평생 현금 걱정 없어집니다\nS&P500 이렇게 투자하면 10년 뒤 은퇴가 달라집니다\n현금 있으면 S&P500 이렇게 사세요 \"연평균 10% 이상 오릅니다\"\n\n☞촬영일: 26년 11월 16일",
+    "published": "2026-11-22T01:00:25+00:00",
+    "title": "현금 있다면 S&P500 이렇게 사세요, 평생 현금 걱정 없어집니다 [곽병열 이사 풀버전]",
+    "video_id": "jOUrMMmZpZI"
+   },
+   "wait_checks": 0
+  },
   "jQc3O2hbVF8": {
    "errors": 0,
    "first_seen": "2026-11-08T17:44:51+00:00",
@@ -22939,18 +23017,14 @@
    "status": "baseline"
   },
   "oVL1J8K1t_w": {
+   "done_at": "2026-11-22T01:29:28+00:00",
    "errors": 0,
    "first_seen": "2026-11-14T07:59:40+00:00",
+   "last_attempt": "2026-11-22T01:24:48+00:00",
+   "notified": "2026-11-22T01:29:31+00:00",
    "published": "2026-11-14T05:00:00+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n폭락 오든 말든 '이것' 사세요, 은퇴 후 순자산 30억 넘을 겁니다\n폭락 오든 말든 미국주식 이렇게 사세요, 1억으로 순자산 30억 만들 겁니다\n1억으로 이것부터 사세요, 노후자금 무섭게 불어납니다\n\n☞촬영일: 26년 11월 9일",
-    "published": "2026-11-14T05:00:00+00:00",
-    "title": "폭락 오든 말든 '이것' 사세요, 은퇴 후 순자산 30억 넘을 겁니다 [손주부 4부]",
-    "video_id": "oVL1J8K1t_w"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "oVe45o8C1xM": {
@@ -27077,18 +27151,14 @@
    "wait_checks": 0
   },
   "xZyR1sappa4": {
+   "done_at": "2026-11-22T01:21:42+00:00",
    "errors": 0,
    "first_seen": "2026-11-14T01:31:47+00:00",
+   "last_attempt": "2026-11-22T01:17:02+00:00",
+   "notified": "2026-11-22T01:29:32+00:00",
    "published": "2026-11-14T01:00:19+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉https://bit.ly/4ow8KOs\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n“실제 현장은 좀 많이 달라요” 지금 부동산 실제 분위기\n금리 인상, 집값 내려갈까요? 조금만 더 기다려 볼까요\n\"금리 올라도 집 사고 있어요\" 지금 부동산에 나타난 이상현상\n\n☞촬영일: 26년 11월 5일",
-    "published": "2026-11-14T01:00:19+00:00",
-    "title": "“실제 현장은 좀 많이 달라요” 지금 부동산 실제 분위기 [레오 김은진 대표 풀버전]",
-    "video_id": "xZyR1sappa4"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "xaWBzROS_64": {
