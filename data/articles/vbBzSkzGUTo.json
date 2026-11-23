@@ -1,0 +1,40 @@
+{
+ "video": {
+  "video_id": "vbBzSkzGUTo",
+  "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+  "channel_name": "안될과학 Unrealscience",
+  "title": "스페이스X 스타십 15차 시험 발사 생중계 (스타십 메카질라 캐치시도) [항성의 우주속으로]",
+  "published": "2026-11-14T14:19:32+00:00",
+  "description": "◆ 모어사이언스 신상 굿즈 구경하러 가기!\nhttps://smartstore.naver.com/morescience\n\n◆신상 누리호 항공점퍼, 누리호 뱃지, 포스터, 누리호 텀블러\nhttps://smartstore.naver.com/morescience/search?q=누리호\n\n◆『우리는 어쩌다 과학을 믿게 되었을까?』\n예스24 https://t.ly/E0es4\n알라딘 https://t.ly/WpoQt\n교보문고 https://t.ly/0g_Yd",
+  "url": "https://www.youtube.com/watch?v=vbBzSkzGUTo"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/vbBzSkzGUTo/hqdefault.jpg",
+ "source": "metadata",
+ "duration": null,
+ "summary": {
+  "headline": "스페이스X 스타십 15차 발사, 메카질라 포획 성공 여부에 주목한다.",
+  "thumbnail_text": "스타십 15차 시험 발사 메카질라 캐치 성공할까?",
+  "thumbnail_answer": "영상 본문을 분석할 수 없어 메카질라 포획 시도의 최종 결과는 확인할 수 없다.",
+  "conclusion": "스페이스X 스타십 15차 시험 발사 생중계 관련 영상이다. 발사체 재사용을 위한 메카질라 포획 시도가 핵심 주제다. 영상 본문을 분석하지 못해 상세 발사 결과 파악에는 한계가 있다.",
+  "key_points": [
+   "스페이스X 스타십 15차 시험 비행 생중계 방송 내용이다.",
+   "발사체 완전 재사용을 위한 메카질라 젓가락 팔 포획 시도가 핵심이다.",
+   "슈퍼헤비 부스터와 스타십 상단선의 비행 및 회수 메커니즘을 다룬다.",
+   "안될과학 항성 진행의 우주 탐사 라이브 콘텐츠다."
+  ],
+  "timeline": [],
+  "tags": [
+   "스페이스X",
+   "스타십",
+   "메카질라",
+   "우주탐사",
+   "안될과학"
+  ],
+  "_usage": {
+   "model": "gemini-3.6-flash",
+   "input_tokens": 774,
+   "output_tokens": 258
+  }
+ },
+ "created_at": "2026-11-23T01:55:22+00:00"
+}

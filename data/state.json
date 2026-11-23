@@ -397,6 +397,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "-oW_ARqxuwo": {
+   "errors": 0,
+   "first_seen": "2026-11-23T01:52:36+00:00",
+   "published": "2026-11-22T21:25:37+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#맨유 #포체티노 #리버풀 #프리미어리그 #축구",
+    "published": "2026-11-22T21:25:37+00:00",
+    "title": "\"더리흐트 호러쇼\" 포체티노 데뷔전 대참사.. 10분 만에 퇴장 + 2실점, 맨유 눈 뜨고 보기 힘든 경기였다",
+    "video_id": "-oW_ARqxuwo"
+   },
+   "wait_checks": 0
+  },
   "-qPgj8AGJiI": {
    "done_at": "2026-10-28T13:02:14+00:00",
    "errors": 0,
@@ -493,6 +508,21 @@
    "published": "2026-10-26T08:30:13+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "02J8nF80YNc": {
+   "errors": 0,
+   "first_seen": "2026-11-23T01:52:48+00:00",
+   "published": "2026-11-23T01:43:48+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMnFS27HnroIc1D4ct37TUA",
+    "channel_name": "위폴 WePoll",
+    "description": "▶︎ 촬영일 : 2026. 11. 23\n     출연자 : 박종훈\n\n🗳️ Wepoll : https://wepoll.kr\n\n▶︎ 미국 시황 바이킹스는 평일 아침 7시 20분!",
+    "published": "2026-11-23T01:43:48+00:00",
+    "title": "AI, 반도체 폭락장을 보며 박팀장이 느낌 생각",
+    "video_id": "02J8nF80YNc"
+   },
    "wait_checks": 0
   },
   "02LnttLnoPE": {
@@ -3512,18 +3542,14 @@
    "wait_checks": 0
   },
   "6qqadtQtqSk": {
+   "done_at": "2026-11-23T01:56:37+00:00",
    "errors": 0,
    "first_seen": "2026-11-14T23:22:46+00:00",
+   "last_attempt": "2026-11-23T01:55:22+00:00",
+   "notified": "2026-11-23T01:58:34+00:00",
    "published": "2026-11-14T21:40:12+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCRCNBeNS8MrOwFV6h6Yjemw",
-    "channel_name": "시황맨TV",
-    "description": "증시 전망대. 이번주 증시 움직일 뉴스 셋 집중 분석. 앤비디아 속보, 앤트로픽 IPO 영향. 최고, 최악 각 시나리오. 금리, 수급, 주요 특징주. 증시 큰손 11월 매집 주식\n\n방송 요약\n이번주에 나올 큰 뉴스 셋 집중 분석. \n앤비디아 '사태' 현재까지 상황 \n실적 발표 날 예상되는 흐름\n앤트로픽 IPO 영향. \n증시 최고, 최악 각 시나리오. \n금리를 조심해야 하는 이유\n외국인 순매수, 그런데 주말에는. 수급 분석\n주요 특징주. 지수 보다 강한 종목들\n국내 증시 큰손들 11월 매집 주식\n\n#삼성전자, #테슬라 ,#채권 ,#에코프로비엠 ,#sk하이닉스 ,#주식시황 ,#에코프로 ,#애플 ,#엔비디아 ,#국제유가 ,#증시전망 ,#환율 ,#국채금리 ,#마이크론테크,#코스닥 ,#엘앤에프 ,#미국주식,#해외증시 ,#다우지수 ,#마이크론테크 ,#채권금리 ,#LG에너지솔루션 ,#반도체주식 ,#HBM관련주 ,#FOMC ,#비트코인 ,#LG에너지솔루션 ,#가상화폐 ,#암호화폐 ,#셀트리온,#셀트리온제약 ,#ai관련주 ,#TSMC,#KB금융 ,#저PBR ,#밸류업 ,#기아 ,#한미반도체 ,#파월의장 ,#경기선행지수 ,#한미약품 ,#엘앤에프 , #태양광관련주 ,#구리관련주 ,#TSMC ,#PCE ,#대차대조표 ,#HLB ,#CPI ,#JP모건 ,#모건스탠리 ,#셀트리온 ,#삼성전자HBM ,#CPI ,#달러차트 ,#HLB ,#삼성전자HBM ,#미국고용지표  ,#알테오젠 ,#트럼프 ,#ISM제조업지수 ,#BTS ,#금투세 ,#모건스탠리 ,#밸류업지수 ,#북한 ,#고려아연 ,#금양 ,#엔달러 ,#엔캐리트레이드 ,#로봇관련주 ,#레인보우로보틱스 ,#딥시크 ,#DeepSeek ,#관세 ,#트럼프관세 ,#무역전쟁 ,#관세전쟁 ,#세법개정안 ,#스테이블코인 ,#주식양도세 ,#파운드리 ,#PPI ,#생산자물가지수 ,#데이터센터 ,#양적긴축 ,#부동산정책 ,#부동산대책 ,#FOMC ,#주주환원 ,#관세협상 ,#ADR ,#HBM ,#HBM4 ,#마이클버리 ,#빅쇼트 ,#사이드카 ,#매출채권 ,#제미나이3 ,#TPU ,#오라클 ,#잭슨홀 ,#환헤지 ,#전략적환헤지, #잭슨홀미팅 ,#SMR ,#BTS ,#블루아울 ,#IEEPA ,#국제비상경제권한법 ,#이란전쟁 ,#호르무즈 ,#호르무즈해협 ,#에이비엘바이오 ,#휴전 ,#스페이스X ,#젠슨황 ,#케빈워시 ,#마이크론실적 ,#삼성전자ETF ,#EUV ,#DUV ,#서킷브레이커 ,#아스트라AI ,#CXMT ,#코어위브 ,#중간선거 ,#블루웨이브",
-    "published": "2026-11-14T21:40:12+00:00",
-    "title": "증시 전망대. 이번주 증시 움직일 뉴스 셋 집중 분석. 앤비디아 속보, 앤트로픽 IPO 영향. 최고, 최악 각 시나리오. 금리, 수급, 주요 특징주. 증시 큰손 11월 매집 주식",
-    "video_id": "6qqadtQtqSk"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "6rJ6ixMR_Qs": {
@@ -7525,6 +7551,21 @@
    "published": "2026-11-01T01:00:19+00:00",
    "source": "video_notes",
    "status": "done",
+   "wait_checks": 0
+  },
+  "FzGAt2F_LLw": {
+   "errors": 0,
+   "first_seen": "2026-11-23T01:52:40+00:00",
+   "published": "2026-11-23T01:14:11+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "12월 5일 청주 무료 세미나) 세종, 대전, 충북, 충남의 투자처만 골라서 추천합니다!\nhttps://blog.naver.com/ppassong/224478260115\n\n12월 12일! 스마트튜브 2026년 마지막 오프라인 세미나 - 청약/분양권, 정비사업, 그리고 10대 트렌드 발표까지!\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=662\n\n인천 정규강의 온라인) 3주 만에 끝내는 인천 9개 구 완전정복!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=663\n\n서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! \nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n부동산 끝판왕, 트루카피의 지금 당장 사야 할 아파트 리스트 200!\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=656\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
+    "published": "2026-11-23T01:14:11+00:00",
+    "title": "(이승민 대표) 지금 조정장이라던데 여긴 더 오른다구요?",
+    "video_id": "FzGAt2F_LLw"
+   },
    "wait_checks": 0
   },
   "G-8cDsHLrD0": {
@@ -12504,18 +12545,14 @@
    "wait_checks": 0
   },
   "QogJ2Llc4ig": {
+   "done_at": "2026-11-23T01:57:43+00:00",
    "errors": 0,
    "first_seen": "2026-11-14T23:22:39+00:00",
+   "last_attempt": "2026-11-23T01:56:38+00:00",
+   "notified": "2026-11-23T01:58:34+00:00",
    "published": "2026-11-14T23:00:38+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCstI8HwGQsHdqLDgyH0PImw",
-    "channel_name": "최준영 박사의 지구본 연구소",
-    "description": "🌏지구본 연구소 멤버십에 가입하여 혜택을 누려보세요!\nhttps://www.youtube.com/channel/UCstI8HwGQsHdqLDgyH0PImw/join\n\n놀라운 라인업으로 다시 돌아온 위즈덤 칼리지 2026!\n최준영 박사님과 함께 새로운 지혜의 여정이 시작됩니다.\n🎁 최대 할인 + 30만 원 상당의 혜택 전원 증정\n🎓 지금 바로 입학 등록하기 👉 https://bit.ly/3IRcyte\n\n👉https://3protv.page.link/dvgJ\n⏰바빠서 방송 볼 시간이 없다면? 핵심만 콕 짚은 요약본으로 빠르게!\n삼프로 오리지널 뉴스 콘텐츠로 만나보세요.\n👉https://3protv.page.link/dvgJ\n\n#지구본연구소 #최준영박사 #최준영\n\n🌎타임코드🌎\n00:00 러시아군 45만 명 사망설\n04:43 한국전쟁과 비교한 희생\n08:15 전사자 통계에 숨은 시차\n12:00 전쟁을 지속하는 힘\n16:21 점령지보다 큰 전쟁의 대가\n18:38 전쟁은 언제 끝날까?",
-    "published": "2026-11-14T23:00:38+00:00",
-    "title": "러시아군 사망자 45만 명... 우크라이나 전쟁의 참혹한 통계 [지구본 회의실]",
-    "video_id": "QogJ2Llc4ig"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "QovrqJx1goM": {
@@ -12624,6 +12661,21 @@
     "published": "2026-11-19T09:00:38+00:00",
     "title": "택시보다 훨씬 좋은 테슬라 사이버캡 직접 탑승해보았습니다 / 오목교 전자상가",
     "video_id": "R4RTmD8efOA"
+   },
+   "wait_checks": 0
+  },
+  "R5z6dIxhqb0": {
+   "errors": 0,
+   "first_seen": "2026-11-23T01:52:48+00:00",
+   "published": "2026-11-22T23:39:58+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCMnFS27HnroIc1D4ct37TUA",
+    "channel_name": "위폴 WePoll",
+    "description": "00:00 바이킹스\n45:35 버디버디(IBK투자증권 함정남 차장)\n\n▶︎ 촬영일 : 2026. 11. 23\n     출연자 : 박종훈, 함정남 차장(IBK투자증권)\n\n🗳️ Wepoll : https://wepoll.kr\n\n▶︎ 바이킹 라이브는 매주 평일 오전 7시20분에 진행됩니다.\n \n#바이킹스 #박종훈 #주식 #미장 #S&P #나스닥 #다우존스 #트럼프 #함정남 #IBK투자증권",
+    "published": "2026-11-22T23:39:58+00:00",
+    "title": "[바이킹스] 미국 AI 주식 폭락 | [버디버디] 갓정남이 정리 해주는 시장 전략(IBK투자증권 함정남 차장)",
+    "video_id": "R5z6dIxhqb0"
    },
    "wait_checks": 0
   },
@@ -13976,18 +14028,14 @@
    "wait_checks": 0
   },
   "U7l-DQskiUM": {
+   "done_at": "2026-11-23T01:55:13+00:00",
    "errors": 0,
    "first_seen": "2026-11-14T14:49:56+00:00",
+   "last_attempt": "2026-11-23T01:52:48+00:00",
+   "notified": "2026-11-23T01:58:35+00:00",
    "published": "2026-11-14T11:55:19+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-    "channel_name": "언더스탠딩 : 세상의 모든 지식",
-    "description": "💡내용 요약\n이번 영상에서는 20년 가까이 논란이 이어져 온 재건축 초과이익 환수제(재초환)가 실제 부담금 부과 단계에 들어서면서 발생한 문제들을 살펴봅니다.\n\n서울 서초구 반포현대아파트(현 반포 센트레빌 아스테리움)에 약 179억 원의 부담금이 사전 통지되면서 조합원들은 1인당 2억 원이 넘는 금액을 부담할 가능성이 생겼습니다.\n\n재초환은 재건축으로 발생한 이익에서 기존 주택 가격, 정상적인 주택 가격 상승분, 건축 비용 등을 제외한 초과이익에 부담금을 부과하는 제도입니다. 2006년 도입된 이후 여러 차례 유예와 제도 개편을 거쳤으며, 현재는 1인당 평균 초과이익 8천만 원을 초과하는 경우 누진적으로 부담금을 부과합니다.\n\n문제는 제도의 취지보다 실제 부담금을 계산하고 징수하는 과정에서 더 큰 논란이 발생하고 있다는 점입니다.\n\n우선 부담금 부과 시점이 불명확합니다. 반포현대는 2021년 준공됐지만 부담금 부과가 지연됐고, 2026년 말까지 부과해야 하는지, 개정법에 따라 2029년까지 가능한지를 놓고 유권해석이 진행되고 있습니다.\n\n또한 준공 당시 소유자가 이미 아파트를 매도했다면 누가 부담금을 내야 하는지도 문제입니다. 법적으로 준공 당시 소유자가 부담 대상이지만, 조합이 과거 소유자에게 돈을 징수하는 과정에서 분쟁이 발생할 가능성이 있습니다.\n\n가장 큰 쟁점은 정상적인 집값 상승분을 계산하는 통계의 적절성입니다. 현재 사용하는 한국부동산원의 주택가격 동향조사 지수는 실거래가 지수보다 상승률이 낮게 나타나는 경향이 있습니다. 이 때문에 재건축으로 발생한 초과이익이 실제보다 크게 계산될 수 있다는 지적이 제기됩니다. 영상에서는 반포현대에 실거래가 지수를 적용할 경우 부담금이 사실상 사라질 수도 있다는 시뮬레이션을 제시합니다.\n\n아울러 집을 팔지 않아 현금 수익이 없는 조합원에게 수억 원의 부담금을 요구하는 것이 적절한지, 재초환이 재건축 사업을 위축시켜 주택 공급에 악영향을 미치는지도 논쟁거리입니다. 반면 재건축 과정에서 공공 인프라와 용적률 완화의 혜택을 받는 만큼 개발이익 일부를 사회에 환원해야 한다는 주장도 존재합니다.\n\n결국 재초환은 단순한 부담금 문제가 아니라 개발이익의 공정한 배분, 재산권 보호, 주택 공급, 조세 형평성이 충돌하는 제도입니다. 향후 유권해석과 소송, 정치권의 제도 개편 논의에 따라 존폐와 부담 수준이 달라질 가능성이 있습니다.\n\n재건축으로 발생한 이익을 사회에 환원해야 한다면, 집을 팔지도 않은 소유자에게 수억 원의 현금을 요구하는 것이 과연 합리적인 방법일까요?\n\n📌핵심 주제\n-재건축 초과이익 환수제의 구조와 부담금\n-재초환 부과 시점과 납부 주체 논란\n-주택가격 통계에 따른 초과이익 산정 문제\n-미실현 이익 환수와 재산권 침해 논쟁\n-재초환의 주택 공급 영향과 제도 개편\n\n[AI로 영상을 요약한 내용입니다]\n\n👉언더스탠딩 문의: understanding.officialmail@gmail.com\n👉글로 읽는 \"언더스탠딩 텍스트\".  \nhttps://contents.premium.naver.com/backbriefing/news\n👉언더스탠딩 멤버십 가입\nhttps://www.youtube.com/channel/UCIUni4ScRp4mqPXsxy62L5w/join",
-    "published": "2026-11-14T11:55:19+00:00",
-    "title": "집 팔지 않았는데 1인당 2억 원씩 '재건축 초과이익 부담금' 통지서. 부과 방식 계산법 두고 논란 본격화 (언더스탠딩 장순원 기자)",
-    "video_id": "U7l-DQskiUM"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "UC26ggRrYCM": {
@@ -16132,18 +16180,14 @@
    "wait_checks": 0
   },
   "ZAPduG-OZbo": {
+   "done_at": "2026-11-23T01:58:33+00:00",
    "errors": 0,
    "first_seen": "2026-11-15T02:53:27+00:00",
+   "last_attempt": "2026-11-23T01:57:44+00:00",
+   "notified": "2026-11-23T01:58:35+00:00",
    "published": "2026-11-14T23:35:56+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
-    "channel_name": "안될과학 Unrealscience",
-    "description": "우주에 다녀온 스타십이 발사대로 돌아왔습니다.\n그리고 메카질라가 그 거대한 기체를 잡아냈습니다.\n\n스타십 15차 시험발사에서 기다렸던 캐치 성공의 순간! 궤도에서 지구를 내려다보던 스타십이 다시 대기권으로 들어와 발사대에 도착하기까지, 긴장하며 지켜봤던 귀환비행의 주요 장면을 모았습니다.\n\n우주에서 돌아온 스타십은 어떻게 속도를 줄이고, 거대한 타워의 두 팔 사이로 들어갔을까요?\n\n이번 영상에서는 우주 비행부터 재진입과 하강, 그리고 메카질라 캐치까지 이어지는 과정을 항성의 실시간 해설과 함께 살펴봅니다.\n\n함께 기다리고 환호했던 그 순간을 다시 만나보세요!\n\n#스타십 #스타십15차 #SpaceX #스페이스X #메카질라 #스타십캐치 #타워캐치 #재진입 #우주개발 #하이라이트 #항성 #안될과학\n\n◆ Thanks to\nEditor : 이재현\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science\n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience",
-    "published": "2026-11-14T23:35:56+00:00",
-    "title": "스타십! 드디어 캐치에 성공하다! 🚀 | 15차 시험발사 귀환비행 하이라이트",
-    "video_id": "ZAPduG-OZbo"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "ZBhu1J2VxZI": {
@@ -18488,6 +18532,21 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "d5lMh-If7MA": {
+   "errors": 0,
+   "first_seen": "2026-11-23T01:52:36+00:00",
+   "published": "2026-11-22T22:37:23+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-11-22T22:37:23+00:00",
+    "title": "이강인 교체출전!! 헤타페 vs AT마드리드 : 공격 포인트 나올까?",
+    "video_id": "d5lMh-If7MA"
+   },
+   "wait_checks": 0
+  },
   "d68PY0J5SMA": {
    "first_seen": "2026-11-18T08:43:58+00:00",
    "published": "2026-11-16T08:30:35+00:00",
@@ -20526,6 +20585,21 @@
    "published": "2026-11-01T04:10:36+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "i6optiPpX9I": {
+   "errors": 0,
+   "first_seen": "2026-11-23T01:52:42+00:00",
+   "published": "2026-11-22T22:30:40+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n'나도 이런 거 해봤어' 하는 분들, 30대 중반 넘으면 정말 큰일납니다\n\n☞촬영일: 26년 11월 18일",
+    "published": "2026-11-22T22:30:40+00:00",
+    "title": "'나도 이런 거 해봤어' 하는 분들, 30대 중반 넘으면 정말 큰일납니다 [박종경 변호사]",
+    "video_id": "i6optiPpX9I"
+   },
    "wait_checks": 0
   },
   "i796Be0UJaQ": {
@@ -26728,18 +26802,15 @@
    "wait_checks": 0
   },
   "vbBzSkzGUTo": {
+   "done_at": "2026-11-23T01:55:22+00:00",
    "errors": 0,
    "first_seen": "2026-11-14T14:49:41+00:00",
+   "last_attempt": "2026-11-23T01:55:14+00:00",
+   "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
+   "notified": "2026-11-23T01:58:36+00:00",
    "published": "2026-11-14T14:19:32+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
-    "channel_name": "안될과학 Unrealscience",
-    "description": "◆ 모어사이언스 신상 굿즈 구경하러 가기!\nhttps://smartstore.naver.com/morescience\n\n◆신상 누리호 항공점퍼, 누리호 뱃지, 포스터, 누리호 텀블러\nhttps://smartstore.naver.com/morescience/search?q=누리호\n\n◆『우리는 어쩌다 과학을 믿게 되었을까?』\n예스24 https://t.ly/E0es4\n알라딘 https://t.ly/WpoQt\n교보문고 https://t.ly/0g_Yd",
-    "published": "2026-11-14T14:19:32+00:00",
-    "title": "스페이스X 스타십 15차 시험 발사 생중계 (스타십 메카질라 캐치시도) [항성의 우주속으로]",
-    "video_id": "vbBzSkzGUTo"
-   },
+   "source": "metadata",
+   "status": "done",
    "wait_checks": 0
   },
   "vbDEHKhogXU": {
@@ -28120,6 +28191,21 @@
    "published": "2026-10-22T01:41:40+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "ypJdBQ6AW9Q": {
+   "errors": 0,
+   "first_seen": "2026-11-23T01:52:39+00:00",
+   "published": "2026-11-22T22:30:03+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCYgVl2XoMfkvg1BzTFiyOiw",
+    "channel_name": "홈즈 부동산",
+    "description": "뭘까",
+    "published": "2026-11-22T22:30:03+00:00",
+    "title": "신흥3구역 급매 안나오는 이유",
+    "video_id": "ypJdBQ6AW9Q"
+   },
    "wait_checks": 0
   },
   "yqoxtk3b8ak": {
