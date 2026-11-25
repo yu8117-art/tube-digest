@@ -1,0 +1,116 @@
+{
+ "video": {
+  "video_id": "LxonB5WnVVU",
+  "channel_id": "UCPhCZKu2U52ycP5PHyR4otA",
+  "channel_name": "1분코딩",
+  "title": "Claude 5시간 제한 끝·Codex 12월부터 한도 한 통 | 이번 주 AI 뉴스 13가지",
+  "published": "2026-11-08T09:00:25+00:00",
+  "description": "Claude Max 20x가 Ultra로 바뀌고 인증 계정은 5시간 제한이 사라졌습니다(주간 한도는 그대로). OpenAI는 Codex 한도를 2배로 늘린 이틀 뒤, 12월부터 ChatGPT와 Codex가 한도 하나를 같이 쓴다고 공지했습니다.\nGitHub Copilot Fusion(비용 약 절반), Cursor 마켓 Claude Code 변조본 SSH 뒷문, 먼저 고치는 DeepSeek Super-Agent, 카파시의 코드 0줄 HackerTube, 모든 앱에 열린 Siri AI, 그리고 짧은 뉴스 6개까지 — 개발자 관점으로 정리합니다. 끝에 12월 Codex 한도를 지키는 설정 하나.\n\n⏱ 챕터\n0:00 인트로 · 이번 주 목차\n0:19 01 Anthropic — Ultra · 5시간 제한 끝\n1:10 02 OpenAI — Codex 2배 · 12월 한 통\n2:00 03 GitHub — Fusion · 비용 절반\n2:45 04 Cursor — 확장 변조본 SSH 뒷문\n3:34 05 DeepSeek — 먼저 고치는 에이전트\n4:24 06 Karpathy — 코드 0줄 유튜브\n5:11 07 Apple — Siri AI 모든 앱 개방\n5:54 짧은 뉴스\n7:16 이번 주 정리 · 다음 주 예고\n\n📎 출처\n- Anthropic — Claude 요금제(Ultra): https://claude.com/pricing\n- CellCog — Claude Max 20x renamed Ultra: https://cellcog.ai/blog/claude-max-ultra-rename/\n- Data Studios — Ultra 5-hour limit, verified accounts: https://www.datastudios.org/post/claude-max-20x-renamed-ultra-removes-5-hour-limit-verified-accounts\n- BleepingComputer — OpenAI doubles ChatGPT Pro usage limits: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/\n- OpenAI 도움말 — Understanding ChatGPT and Codex usage limits: https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits\n- GitHub 변경 로그 — Copilot Fusion: https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/\n- Cursor — Claude Code extension security notice: https://cursor.com/blog/claude-code-extension-security-notice\n- BleepingComputer — Malicious Claude Code extension on Cursor: https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/\n- DeepSeek — dsh-superagent-prototype: https://github.com/deepseek-ai/dsh-superagent-prototype\n- Bloomberg — DeepSeek drops enhanced coding agent: https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic\n- Andrej Karpathy — HackerTube: https://karpathy.bearblog.dev/hacker-tube/\n- Apple Developer — Siri AI is now open to all developers: https://developer.apple.com/news/?id=gdk2umrf\n- Google Search Central — AI training control: https://developers.google.com/search/blog/2026/10/ai-training-control\n- Anthropic — Smart reports, surveys, pooled budgets: https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets\n- Hume AI — Audio Decision API: https://www.hume.ai/blog/introducing-hume-audio-decision-api\n- TechCrunch — Anthropic warns it's very close to RSI capability: https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/\n- Forbes — Google turns off Search and Gemini for K-12 students by default: https://www.forbes.com/sites/gabrielalinzainescu/2026/11/05/google-turns-off-search-and-gemini-for-k-12-students-by-default/\n- OpenAI — Introducing Images 2.6: https://openai.com/index/introducing-images-2-6\n\n매주 토요일 오전 10시 · 1분코딩 WEEKLY\n#AI뉴스 #개발자 #1분코딩",
+  "url": "https://www.youtube.com/watch?v=LxonB5WnVVU"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/LxonB5WnVVU/maxresdefault.jpg",
+ "source": "video",
+ "duration": 483,
+ "summary": {
+  "headline": "Claude 5시간 제한 폐지와 12월 AI 주요 업데이트 핵심 정리",
+  "thumbnail_text": "Claude 5시간 제한 끝났다",
+  "thumbnail_answer": "인증된 Ultra 요금제 계정은 5시간 사용 제한이 완전히 사라졌다.",
+  "conclusion": "앤트로픽이 클로드 울트라의 5시간 제한을 없앴고, 오픈에이아이와 깃헙 등도 기능을 개편했다. 12월에는 토큰 기반 통합 한도가 도입되므로 사용량 관리가 중요하다. 개발자들은 보안 이슈와 새로운 에이전트 도구들을 주의 깊게 살펴봐야 한다.",
+  "key_points": [
+   "앤트로픽이 월 200달러 Ultra 요금제에서 5시간 사용 제한을 폐지했다.",
+   "오픈에이아이는 12월부터 ChatGPT와 Codex가 토큰 기준 공용 한도를 같이 쓴다.",
+   "깃헙이 비용을 절반으로 낮춘 Copilot Fusion을 정식 출시했다.",
+   "커서 마켓의 클로드 코드 확장 프로그램에 SSH 뒷문 보안 이슈가 발생했다.",
+   "딥시크가 대화 기반 자동 작업 에이전트 Super-Agent 프로토타입을 공개했다.",
+   "안드레이 카파시가 코딩 없이 클로드 코드로만 유튜브 서비스를 완성했다.",
+   "애플이 iOS 27.3 베타에서 Siri AI를 모든 개발자에게 전면 개방했다."
+  ],
+  "timeline": [
+   {
+    "seconds": 0,
+    "title": "인트로",
+    "points": [
+     "이번 주 주요 AI 뉴스 목차를 소개한다."
+    ]
+   },
+   {
+    "seconds": 19,
+    "title": "Anthropic",
+    "points": [
+     "월 200달러 Ultra 요금제의 5시간 사용 제한이 사라졌다.",
+     "주간 한도와 인증 계정 조건은 유지된다."
+    ]
+   },
+   {
+    "seconds": 70,
+    "title": "OpenAI",
+    "points": [
+     "Codex 한도를 2배 늘렸다가 12월부터 ChatGPT와 토큰을 통합 공용으로 쓴다고 공지했다."
+    ]
+   },
+   {
+    "seconds": 120,
+    "title": "GitHub",
+    "points": [
+     "Copilot Fusion을 출시해 비용을 절반 수준으로 줄였다."
+    ]
+   },
+   {
+    "seconds": 165,
+    "title": "Cursor",
+    "points": [
+     "클로드 코드 확장 프로그램 변조본에서 SSH 뒷문 보안 사고가 발생했다."
+    ]
+   },
+   {
+    "seconds": 214,
+    "title": "DeepSeek",
+    "points": [
+     "팀 메시지를 듣고 먼저 고치는 Super-Agent를 공개했다."
+    ]
+   },
+   {
+    "seconds": 264,
+    "title": "Karpathy",
+    "points": [
+     "카파시가 코딩 없이 클로드 코드로만 유튜브를 완성한 사례를 공유했다."
+    ]
+   },
+   {
+    "seconds": 311,
+    "title": "Apple",
+    "points": [
+     "iOS 27.3 베타에서 Siri AI를 모든 앱에 개방했다."
+    ]
+   },
+   {
+    "seconds": 354,
+    "title": "짧은 뉴스",
+    "points": [
+     "robots.txt 학습 거부 신호, 앤트로픽 공시 새 경고 등 짧은 소식을 전한다."
+    ]
+   },
+   {
+    "seconds": 436,
+    "title": "이번 주 정리",
+    "points": [
+     "12월 공용 한도 대응법과 다음 주 일정을 예고한다."
+    ]
+   }
+  ],
+  "tags": [
+   "AI뉴스",
+   "Claude",
+   "OpenAI",
+   "GitHub",
+   "개발자"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 46747,
+   "output_tokens": 966
+  }
+ },
+ "created_at": "2026-11-25T20:36:31+00:00",
+ "requested": "2026-11-25T20:36:31+00:00"
+}
