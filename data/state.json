@@ -10059,18 +10059,14 @@
    "wait_checks": 0
   },
   "LRYv58fLy8A": {
+   "done_at": "2026-11-25T10:21:07+00:00",
    "errors": 0,
    "first_seen": "2026-11-25T10:04:38+00:00",
+   "last_attempt": "2026-11-25T10:20:19+00:00",
+   "notified": "2026-11-25T10:22:09+00:00",
    "published": "2026-11-25T10:00:18+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n중국 기습 배터리 포기 선언, 전세계가 한국 배터리만 찾는 이유\n중국 기습 “배터리 포기 선언” 지금 한국 배터리 난리난 이유\nK배터리 하반기 수주 대폭발! ‘이 기업’ 모아가세요\n\n☞촬영일: 26년 11월 20일",
-    "published": "2026-11-25T10:00:18+00:00",
-    "title": "중국 기습 배터리 포기 선언, 전세계가 한국 배터리만 찾는 이유 [윤석천 경제평론가 3부]",
-    "video_id": "LRYv58fLy8A"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "LRdv-o1SATU": {
@@ -11784,18 +11780,14 @@
    "wait_checks": 0
   },
   "PRCkFQQB4hI": {
+   "done_at": "2026-11-25T10:20:19+00:00",
    "errors": 0,
    "first_seen": "2026-11-25T10:04:33+00:00",
+   "last_attempt": "2026-11-25T10:19:39+00:00",
+   "notified": "2026-11-25T10:22:10+00:00",
    "published": "2026-11-25T10:00:21+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCvW8norVMTLt7QN-s2pS4Bw",
-    "channel_name": "조승연의 탐구생활",
-    "description": "오늘은 메타인지에 관해 이야기를 해봤습니다! \n저도 저를 알기 어렵던데ㅋ 여러분들은 어떠신가요?\n\n*이 영상에는 오우라링의 유료광고가 포함되어 있습니다\n\n⭐️11/20(금)~11/30(월)⭐️\n오우라링5 세계 최초 블랙프라이데이 행사 중!\n\n*무려 15만 원 일괄 할인\n*단 5일 남은 기회!\n\n지금 바로 아래 링크를 확인해 보세요!\n📍블랙프라이데이 팝업 장소 및 혜택 안내: https://ourasalesch.co.kr/\n\n채널에 가입하여 혜택을 누려보세요.\nhttps://www.youtube.com/channel/UCvW8norVMTLt7QN-s2pS4Bw/join\n\n배우는 즐거움이 있는 \n본격 취미 탐구 라이프 채널!\n조승연의 탐구생활 🕵🏻‍♂️\n  \n조승연 insta \n / totalintelli  \n\n#메타인지 #오우라링 #블랙프라이데이\n\nCopyright © 2026 Studio Episode - All Rights Reserved",
-    "published": "2026-11-25T10:00:21+00:00",
-    "title": "나를 아는 게 지능이야ㅋ 에 대한 솔직한 생각 털어보기",
-    "video_id": "PRCkFQQB4hI"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "PRNldZmsNHM": {
@@ -14176,6 +14168,7 @@
   "UYmSEyGpxiQ": {
    "errors": 0,
    "first_seen": "2026-11-25T10:04:34+00:00",
+   "last_attempt": "2026-11-25T10:21:07+00:00",
    "published": "2026-11-25T10:00:12+00:00",
    "status": "pending",
    "video": {
