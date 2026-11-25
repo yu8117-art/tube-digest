@@ -9956,7 +9956,7 @@
   "LCjzBZS0bXc": {
    "errors": 0,
    "first_seen": "2026-11-25T15:04:35+00:00",
-   "last_attempt": "2026-11-25T15:04:40+00:00",
+   "last_attempt": "2026-11-25T19:49:44+00:00",
    "published": "2026-11-25T15:00:15+00:00",
    "status": "pending",
    "video": {
@@ -26451,6 +26451,21 @@
    "first_seen": "2026-10-09T08:14:35+00:00",
    "published": "2026-10-07T12:00:14+00:00",
    "status": "baseline"
+  },
+  "uyGdseXDb1w": {
+   "errors": 0,
+   "first_seen": "2026-11-25T19:49:36+00:00",
+   "published": "2026-11-25T19:48:38+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-11-25T19:48:38+00:00",
+    "title": "이정효 감독, 수원 우승기념 미디어데이!! 💙🤍❤️",
+    "video_id": "uyGdseXDb1w"
+   },
+   "wait_checks": 0
   },
   "v2cv6IqvPBM": {
    "errors": 0,
