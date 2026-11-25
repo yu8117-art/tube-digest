@@ -2839,18 +2839,14 @@
    "status": "baseline"
   },
   "4ycgI5NJuoQ": {
+   "done_at": "2026-11-25T13:20:01+00:00",
    "errors": 0,
    "first_seen": "2026-11-23T21:52:29+00:00",
+   "last_attempt": "2026-11-25T13:19:40+00:00",
+   "notified": "2026-11-25T13:28:09+00:00",
    "published": "2026-11-23T13:50:24+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/",
-    "published": "2026-11-23T13:50:24+00:00",
-    "title": "“5대리그 최다실점“ 맨유 수비진의 호러쇼, 진짜 너무할 정도.. 수비 안 고치면 정말 강등싸움 한다",
-    "video_id": "4ycgI5NJuoQ"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "50ieEF6DVlA": {
@@ -26792,7 +26788,7 @@
   "vglWdH8Lxek": {
    "errors": 0,
    "first_seen": "2026-11-24T16:23:42+00:00",
-   "last_attempt": "2026-11-25T08:53:06+00:00",
+   "last_attempt": "2026-11-25T13:20:01+00:00",
    "published": "2026-11-24T12:25:20+00:00",
    "status": "pending",
    "video": {
