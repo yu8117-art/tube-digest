@@ -17497,6 +17497,21 @@
    "published": "2026-09-09T13:46:51+00:00",
    "status": "baseline"
   },
+  "bCL-XoA7r8s": {
+   "errors": 0,
+   "first_seen": "2026-11-25T22:19:40+00:00",
+   "published": "2026-11-25T22:05:24+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCMnFS27HnroIc1D4ct37TUA",
+    "channel_name": "위폴 WePoll",
+    "description": "▶︎ 촬영일 : 2026. 11. 25\n     출연자 : 박종훈, 서영재 과장(NH투자증권 자산관리컨설팅센터)\n\n🗳️ Wepoll : https://wepoll.kr\n\n▶︎ 바이킹 라이브는 매주 평일 오전 7시20분에 진행됩니다.\n \n#바이킹스 #박종훈 #주식 #미장 #S&P #나스닥 #다우존스 #트럼프 #서영재 #NH투자증권",
+    "published": "2026-11-25T22:05:24+00:00",
+    "title": "[바이킹스] 바닥 찍고 끌어올린 미국 시장 | [버디버디] 영재오빠의 광고-클라우드 산업 세미나 (NH투자증권 서영재 과장)",
+    "video_id": "bCL-XoA7r8s"
+   },
+   "wait_checks": 0
+  },
   "bDIX66FJt3Y": {
    "done_at": "2026-10-12T09:35:59+00:00",
    "errors": 0,
@@ -26849,7 +26864,7 @@
   "vglWdH8Lxek": {
    "errors": 0,
    "first_seen": "2026-11-24T16:23:42+00:00",
-   "last_attempt": "2026-11-25T18:19:43+00:00",
+   "last_attempt": "2026-11-25T22:19:40+00:00",
    "published": "2026-11-24T12:25:20+00:00",
    "status": "pending",
    "video": {
