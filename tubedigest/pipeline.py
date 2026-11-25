@@ -10,8 +10,8 @@ from . import gemini
 from .config import Config
 from .gitsync import git_publish
 from .notifier import NotifyError, notify
-from .state import (ARTICLES_DIR, BASELINE, DONE, FAILED, PENDING, SKIPPED_LIVE, SKIPPED_SHORT, State,
-                    load_article, now_iso, save_article)
+from .state import (ARTICLES_DIR, BASELINE, DONE, FAILED, PENDING, SKIPPED_LIVE, SKIPPED_OLD, SKIPPED_SHORT,
+                    State, load_article, now_iso, save_article)
 from .youtube import (Video, VideoInfo, fetch_channel_videos, fmt_ts, is_short,
                       thumbnail_url, video_info)
 
@@ -96,8 +96,20 @@ def process_pending(cfg: Config, state: State, started: float) -> list[str]:
         return done
     deadline = started + cfg.run_budget_minutes * 60
     gemini.set_deadline(deadline)  # 예산이 끝나면 실패한 모델 다음 모델로 넘어가지 않는다
-    # 최근에 시도했다 실패한 영상은 뒤로 보낸다. 한 영상이 매번 맨 앞에서 실패하며 나머지를 막지 않게.
-    queue = sorted(state.pending(), key=lambda kv: (kv[1].get("last_attempt", ""), kv[1].get("published", "")))
+    # 너무 오래된 영상은 요약하지 않는다. 늦게 도착한 알림보다 새 영상에 한도를 쓰는 게 낫다.
+    # (2026-11 실측: GitHub 예약 실행이 하루 3~5번으로 밀리고 Gemini 무료 한도가 바닥나 대기 영상이 322개 쌓였고,
+    #  오래된 것부터 처리하느라 새 영상 알림이 며칠씩 밀렸다)
+    stale = 0
+    for vid, rec in state.pending():
+        if _age_hours(rec.get("published") or now_iso()) > cfg.max_age_hours:
+            rec["status"] = SKIPPED_OLD
+            rec.pop("video", None)
+            stale += 1
+    if stale:
+        log.info("%d시간 지난 대기 영상 %d개는 건너뜀", cfg.max_age_hours, stale)
+    # 새 영상부터 처리한다. 다만 최근에 시도했다 실패한 영상은 뒤로 보내 한 영상이 매번 맨 앞에서 막지 않게 한다.
+    queue = sorted(state.pending(), key=lambda kv: kv[1].get("published", ""), reverse=True)
+    queue.sort(key=lambda kv: kv[1].get("last_attempt", ""))  # 안정 정렬: 시도한 적 없는 것("")이 앞, 그 안에선 최신순
     attempts = 0
     for vid, rec in queue:
         if attempts >= cfg.max_videos_per_run:  # 시도마다 Gemini 한도를 쓰므로 회차당 상한을 둔다

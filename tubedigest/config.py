@@ -44,7 +44,8 @@ class Config:
     skip_shorts: bool = True
     skip_live: bool = True
     max_video_minutes: int = 180
-    max_videos_per_run: int = 5
+    max_videos_per_run: int = 10
+    max_age_hours: int = 48
     run_budget_minutes: int = 35
     backfill_on_first_run: int = 0
     git_push: bool = False
@@ -87,7 +88,8 @@ def load_config() -> Config:
         skip_shorts=opt.get("skip_shorts", True),
         skip_live=opt.get("skip_live", True),
         max_video_minutes=int(opt.get("max_video_minutes", 180)),
-        max_videos_per_run=int(opt.get("max_videos_per_run", 5)),
+        max_videos_per_run=int(opt.get("max_videos_per_run", 10)),
+        max_age_hours=int(opt.get("max_age_hours", 48)),
         run_budget_minutes=int(opt.get("run_budget_minutes", 35)),
         backfill_on_first_run=int(opt.get("backfill_on_first_run", 0)),
         git_push=bool(opt.get("git_push", False)),

@@ -8,7 +8,7 @@ name: telegram-requests
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "2-59/5 * * * *"   # 매시 정각을 피한다 (웹훅이 켜져 있으면 바로 끝남)
   workflow_dispatch:
     inputs:
       update:

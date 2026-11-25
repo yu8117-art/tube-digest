@@ -22,6 +22,7 @@ DONE = "done"                # 기사 발행 완료
 BASELINE = "baseline"        # 채널 첫 등록 시 이미 있던 영상 (요약 안 함)
 SKIPPED_SHORT = "skipped_short"
 SKIPPED_LIVE = "skipped_live"  # 라이브 방송 다시보기 (skip_live)
+SKIPPED_OLD = "skipped_old"    # 요약하기 전에 max_age_hours가 지나 버린 영상
 FAILED = "failed"            # 재시도 한도 초과
 
 

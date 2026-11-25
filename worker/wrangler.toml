@@ -1,8 +1,12 @@
-# 텔레그램 웹훅 수신기 배포 설정. 비밀값은 여기 두지 말고 `npx wrangler secret put <이름>`으로 넣는다 (worker.js 상단 참고).
+# tube-digest 실행기 배포 설정. 비밀값은 여기 두지 말고 `npx wrangler secret put <이름>`으로 넣는다 (worker.js 상단 참고).
 name = "tube-digest-webhook"
 main = "worker.js"
 compatibility_date = "2025-09-01"
 workers_dev = true
+
+# 15분마다 구독 채널 확인(digest.yml)을 실행시킨다. 매시 정각을 피해 GitHub 쪽 혼잡을 덜 탄다.
+[triggers]
+crons = ["4,19,34,49 * * * *"]
 
 [vars]
 GITHUB_REPO = "yu8117-art/tube-digest"

@@ -5,7 +5,9 @@ name: tube-digest
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # Actions 예약 실행은 수 분~수십 분 늦을 수 있다
+    # 매시 정각은 GitHub 예약 실행이 몰려 밀리거나 빠지기 쉬워 피한다. 그래도 2026-11에는 하루 3~5번만 돌았다
+    # → Cloudflare Worker(worker/)의 15분 주기 실행이 주력이고, 이건 예비다
+    - cron: "4,19,34,49 * * * *"
   workflow_dispatch:
 
 permissions:
