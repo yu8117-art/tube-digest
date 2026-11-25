@@ -16302,15 +16302,7 @@
    "first_seen": "2026-11-24T05:40:19+00:00",
    "last_attempt": "2026-11-25T22:04:40+00:00",
    "published": "2026-11-23T22:48:32+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
-    "channel_name": "안될과학 Unrealscience",
-    "description": "리만 가설이 정말 풀린 걸까요?\n\n2026년 11월, AI 클로드가 167년 난제의 증명을 찾아냈다는 발표가 나왔습니다. 형식 검증은 통과했지만, 아직 수학자들이 증명의 핵심 아이디어를 이해하고 정리하는 과정이 남아 있는데요.\n\nAI가 정말 리만 가설을 증명한 것인지, 현재까지의 검증 상황을 정리해봤습니다.\n\n#리만가설 #클로드 #난제 #수학 #수학난제 #안될과학 #항성",
-    "published": "2026-11-23T22:48:32+00:00",
-    "title": "167년 된 난제, 리만가설은 정말 증명되었나? 그 속에 남은 진실은?",
-    "video_id": "ZWf1aMyMyWU"
-   },
+   "status": "skipped_old",
    "wait_checks": 0
   },
   "Z_B0XlqRPGM": {
@@ -22393,7 +22385,7 @@
   "lkL0EeO5pMw": {
    "errors": 0,
    "first_seen": "2026-11-24T16:23:13+00:00",
-   "last_attempt": "2026-11-25T18:42:47+00:00",
+   "last_attempt": "2026-11-25T22:49:49+00:00",
    "published": "2026-11-24T11:00:00+00:00",
    "status": "pending",
    "video": {
