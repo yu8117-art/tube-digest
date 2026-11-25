@@ -1,0 +1,43 @@
+{
+ "video": {
+  "video_id": "8BDqe2Mlv-E",
+  "channel_id": "UCDrRFkOXKPdwQEKYtmrOBsw",
+  "channel_name": "영어는V김지영",
+  "title": "영어가 늘기 시작한 건 이 방법을 알고부터였습니다",
+  "published": "2026-08-20T11:02:59+00:00",
+  "description": "✌️ 2027 김지영T 인강\nhttps://www.megastudy.net/teacher_v2/main.asp?tec_cd=sayyeah97\n\n✌🏻 2027 김지영T 현강\n\n1. 대치 러셀\n→ https://russeldc.megastudy.net/russel/teacher/teacher_home.asp?code=1485\n\n2. 목동 러셀\n→ https://russelmd.megastudy.net/russel/teacher/teacher_home.asp?code=1758\n\n3. 분당 러셀\n→ https://russelbd.megastudy.net/russel/teacher/teacher_home.asp?code=1758",
+  "url": "https://www.youtube.com/watch?v=8BDqe2Mlv-E"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/8BDqe2Mlv-E/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1135,
+ "summary": {
+  "headline": "영어 해석 능력을 높이는 핵심 독해 방법",
+  "thumbnail_text": "나를 영어 괴물로 만든 미친 문장 해석법",
+  "thumbnail_answer": "동사를 기준으로 앞뒤 문장을 누적하며 이해하는 방식이다.",
+  "conclusion": "영어 해석이 어려운 이유는 단순히 단어가 부족해서가 아니라 동사를 기준으로 좌우측 누적 처리 연습을 하지 않았기 때문이다. 매일 한 지문씩 동사를 위주로 누적하는 연습을 반복하면 해석 실력이 무조건 늘어난다. 수식어까지 무시하지 말고 의미를 이해하는 연습을 해야 한다.",
+  "key_points": [
+   "문장 해석의 핵심은 동사에 있다.",
+   "동사를 기점으로 앞의 문두는 동사를 기대하며 정보를 누적한다.",
+   "동사 이후는 동사에 맞게 나머지 내용을 기대하며 정보를 누적한다.",
+   "단어 암기나 어법 공부만큼 실질적인 해석 능력을 키우는 누적 연습이 중요하다.",
+   "문단 전체를 유기적으로 연결하는 연습을 병행해야 한다.",
+   "해설지 감상이 아닌 실제 해석 능력을 키우는 공부를 해야 한다."
+  ],
+  "timeline": [],
+  "tags": [
+   "영어공부",
+   "독해법",
+   "수능영어",
+   "김지영",
+   "영어해석"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 105145,
+   "output_tokens": 325
+  }
+ },
+ "created_at": "2026-11-25T20:32:38+00:00",
+ "requested": "2026-11-25T20:32:38+00:00"
+}
