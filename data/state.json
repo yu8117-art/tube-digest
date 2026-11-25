@@ -1796,6 +1796,13 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "2eaIz92bO20": {
+   "errors": 0,
+   "first_seen": "2026-11-25T13:04:33+00:00",
+   "published": "2026-11-04T15:11:36+00:00",
+   "status": "skipped_old",
+   "wait_checks": 0
+  },
   "2fwKOJAuW3I": {
    "errors": 0,
    "first_seen": "2026-11-03T09:29:21+00:00",
@@ -3534,15 +3541,7 @@
    "errors": 0,
    "first_seen": "2026-11-23T21:52:30+00:00",
    "published": "2026-11-23T13:02:23+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
-    "channel_name": "소수몽키",
-    "description": "🌟[모집중!]매일 수시로 소몽 코멘트/자료 받아보고 싶다면?\n🔮소수의견 구독하기(26년 4분기, 10월~)\nhttps://naver.me/x3cR96Yl\n\n🏆[입문] 소몽의 [미국주식 베이직클래스] 신청하러 가기\nhttps://us-campus.co.kr/products/academy237\n\n🌟[실전] 소몽의 실전 투자 노하우를 담은 \n[미국주식 마스터클래스] 신청하러 가기\nhttps://us-campus.co.kr/products/academy177\n\n🐵비즈니스/협업 문의somongmanager@gmail.com\n⚠️소수몽키 공식 채널 외 별도의 '리딩방' 및 'SNS'를 운영하지 않습니다\n사칭에 절대 유의하시기 바랍니다⚠️",
-    "published": "2026-11-23T13:02:23+00:00",
-    "title": "나스닥-20%, 엔비디아 -48% 극단적 공포 구간에 진입한 증시, 기회일까",
-    "video_id": "6amgLtc9IgU"
-   },
+   "status": "skipped_old",
    "wait_checks": 0
   },
   "6bQzP4_T4WU": {
@@ -9478,15 +9477,7 @@
    "errors": 0,
    "first_seen": "2026-11-23T21:52:31+00:00",
    "published": "2026-11-23T21:23:37+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
-    "channel_name": "스마트튜브(스튜TV)",
-    "description": "12월 5일 청주 무료 세미나) 세종, 대전, 충북, 충남의 투자처만 골라서 추천합니다!\nhttps://blog.naver.com/ppassong/224478260115\n\n12월 12일! 스마트튜브 2026년 마지막 오프라인 세미나 - 청약/분양권, 정비사업, 그리고 10대 트렌드 발표까지!\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=662\n\n인천 정규강의 온라인) 3주 만에 끝내는 인천 9개 구 완전정복!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=663\n\n서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! \nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n부동산 끝판왕, 트루카피의 지금 당장 사야 할 아파트 리스트 200!\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=656\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
-    "published": "2026-11-23T21:23:37+00:00",
-    "title": "그래도 저녁에는 불이 켜진다!",
-    "video_id": "JuZXJQixlKE"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "Jwy_cN7SyiQ": {
@@ -9565,6 +9556,7 @@
   "K8y9zyC-jeY": {
    "errors": 0,
    "first_seen": "2026-11-23T21:52:43+00:00",
+   "last_attempt": "2026-11-25T13:06:01+00:00",
    "published": "2026-11-23T14:15:00+00:00",
    "status": "pending",
    "video": {
@@ -11314,18 +11306,14 @@
    "wait_checks": 0
   },
   "OQmGM3k76Gg": {
+   "done_at": "2026-11-25T13:06:00+00:00",
    "errors": 0,
    "first_seen": "2026-11-23T21:52:40+00:00",
+   "last_attempt": "2026-11-25T13:04:58+00:00",
+   "notified": "2026-11-25T13:07:14+00:00",
    "published": "2026-11-23T21:35:50+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCRCNBeNS8MrOwFV6h6Yjemw",
-    "channel_name": "시황맨TV",
-    "description": "모닝 브리핑. 젠슨 황 전격 컴백. 비하인드 스토리 공개. 증시 기록적인 급등. 월가 반응. AI 추세 반전론 VS 일시적 숏커버. 우리 증시 영향은? 젠슨 황 다음 이어질 변수들\n\n방송 요약\n젠슨 황 전격 컴백. \n복귀 과정 비하인드 스토리 공개. \n증시 역대급 급등. 주요 기록들 정리\n월가 반응. AI 추세 반전론 VS 일시적 숏커버. \n젠슨 황 효과 우리 증시 영향은? \n오전과 오후 시황 주목하는 이유\n젠슨 황 다음 이어질 변수들\n한국 경제, 증시 주목하는 외국인 시각\n\n#삼성전자, #테슬라 ,#채권 ,#에코프로비엠 ,#sk하이닉스 ,#주식시황 ,#에코프로 ,#애플 ,#엔비디아 ,#국제유가 ,#증시전망 ,#환율 ,#국채금리 ,#마이크론테크,#코스닥 ,#엘앤에프 ,#미국주식,#해외증시 ,#다우지수 ,#마이크론테크 ,#채권금리 ,#LG에너지솔루션 ,#반도체주식 ,#HBM관련주 ,#FOMC ,#비트코인 ,#LG에너지솔루션 ,#가상화폐 ,#암호화폐 ,#셀트리온,#셀트리온제약 ,#ai관련주 ,#TSMC,#KB금융 ,#저PBR ,#밸류업 ,#기아 ,#한미반도체 ,#파월의장 ,#경기선행지수 ,#한미약품 ,#엘앤에프 , #태양광관련주 ,#구리관련주 ,#TSMC ,#PCE ,#대차대조표 ,#HLB ,#CPI ,#JP모건 ,#모건스탠리 ,#셀트리온 ,#삼성전자HBM ,#CPI ,#달러차트 ,#HLB ,#삼성전자HBM ,#미국고용지표  ,#알테오젠 ,#트럼프 ,#ISM제조업지수 ,#BTS ,#금투세 ,#모건스탠리 ,#밸류업지수 ,#북한 ,#고려아연 ,#금양 ,#엔달러 ,#엔캐리트레이드 ,#로봇관련주 ,#레인보우로보틱스 ,#딥시크 ,#DeepSeek ,#관세 ,#트럼프관세 ,#무역전쟁 ,#관세전쟁 ,#세법개정안 ,#스테이블코인 ,#주식양도세 ,#파운드리 ,#PPI ,#생산자물가지수 ,#데이터센터 ,#양적긴축 ,#부동산정책 ,#부동산대책 ,#FOMC ,#주주환원 ,#관세협상 ,#ADR ,#HBM ,#HBM4 ,#마이클버리 ,#빅쇼트 ,#사이드카 ,#매출채권 ,#제미나이3 ,#TPU ,#오라클 ,#잭슨홀 ,#환헤지 ,#전략적환헤지, #잭슨홀미팅 ,#SMR ,#BTS ,#블루아울 ,#IEEPA ,#국제비상경제권한법 ,#이란전쟁 ,#호르무즈 ,#호르무즈해협 ,#에이비엘바이오 ,#휴전 ,#스페이스X ,#젠슨황 ,#케빈워시 ,#마이크론실적 ,#삼성전자ETF ,#EUV ,#DUV ,#서킷브레이커 ,#아스트라AI ,#CXMT ,#코어위브 ,#중간선거 ,#블루웨이브",
-    "published": "2026-11-23T21:35:50+00:00",
-    "title": "모닝 브리핑. 젠슨 황 전격 컴백. 비하인드 스토리 공개. 증시 기록적인 급등. 월가 반응. AI 추세 반전론 VS 일시적 숏커버. 우리 증시 영향은? 젠슨 황 다음 이어질 변수들",
-    "video_id": "OQmGM3k76Gg"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "OT9TlRpIpeI": {
@@ -24769,18 +24757,14 @@
    "wait_checks": 0
   },
   "rBVIYHvPkxY": {
+   "done_at": "2026-11-25T13:04:58+00:00",
    "errors": 0,
    "first_seen": "2026-11-24T05:40:38+00:00",
+   "last_attempt": "2026-11-25T13:04:42+00:00",
+   "notified": "2026-11-25T13:07:14+00:00",
    "published": "2026-11-23T22:00:10+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCDSj40X9FFUAnx1nv7gQhcA",
-    "channel_name": "월급쟁이부자들TV",
-    "description": "[이재용 회계사의 주식 스터디] 타임라인\n00:00 삼성전자, 하이닉스 이제 사도 될까요?\n02:01 뉴스에서는 잘 나오지 않지만, 오히려 기회인 주식\n04:56 저는 OOOO표로 기업을 봅니다\n06:31 반등 직전 알아내는 방법\n08:38 미국주식이 결국 더 오르는 이유\n11:01 기업을 판단하는 3가지 숫자\n\n📌 하루 만에 뒤집힌 미국 증시, 그러나 주가보다 먼저 확인해야 할 한 가지 (소요시간 : 3분)\n👉 [무료 칼럼] https://link.weolbu.com/4eSDyoU\n\n📌 계좌 개설부터 ETF 선택, 포트폴리오 구성까지 미국주식의 전 과정을 순서대로 알려드립니다.\n👉 https://link.weolbu.com/49fHQDi\n\n📖 이재용님 신간 『재무덕후 이재용의 숫자로 기업 읽기』\n👉 https://aladin.kr/p/ShgGa\n\n#주식 #코스피 #재무제표 #직장인재테크 #이재용 #월부강의 #월부후기",
-    "published": "2026-11-23T22:00:10+00:00",
-    "title": "삼전닉스 물려도 팔지마세요 앞으로 이렇게 될겁니다 (이재용 회계사)",
-    "video_id": "rBVIYHvPkxY"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "rC6CqzvFQy8": {
