@@ -1,0 +1,42 @@
+{
+ "video": {
+  "video_id": "cjuYfos37qg",
+  "channel_id": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+  "channel_name": "JTBC News",
+  "title": "한국인 1만명 '유전체 지도' 공개…부계는 비슷·모계는 다양, 중국·일본과도 달라｜지금 이 뉴스",
+  "published": "2026-11-25T01:44:52+00:00",
+  "description": "울산과학기술원(UNIST) 게놈센터 박종화 교수 연구팀이 미국 하버드 의대 등과 한국인 1만명의 유전체를 분석한 결과, 아버지들의 조상은 유전적으로 비슷한 반면 어머니들의 조상은 다양한 것으로 나타났습니다. 연구진은 청동기시대 정복전쟁 등으로 한반도에 특정 남성 집단이 지배하는 변화가 있었을 것으로 분석하고 있습니다. 또 한국인이 중국의 한족, 일본인과도 유전적 차이를 보인다는 결과가 나왔습니다.\n\n📢 지금, 이슈의 현장을 실시간으로!\n☞JTBC 모바일라이브 시청하기 https://www.youtube.com/@jtbc_news/streams\n\n☞JTBC유튜브 구독하기 (https://www.youtube.com/user/JTBC10news)\n☞JTBC유튜브 커뮤니티 (https://www.youtube.com/user/JTBC10news/community)\n\n#JTBC뉴스 공식 페이지 https://news.jtbc.co.kr\n\n페이스북 https://www.facebook.com/jtbcnews\nX(트위터) https://twitter.com/JTBC_news\n인스타그램 https://www.instagram.com/jtbcnews\n\n☏ 제보하기 https://news.jtbc.co.kr/report\n방송사 : JTBC (https://jtbc.co.kr)",
+  "url": "https://www.youtube.com/watch?v=cjuYfos37qg"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/cjuYfos37qg/maxresdefault.jpg",
+ "source": "video",
+ "duration": 91,
+ "summary": {
+  "headline": "한국인 1만명 유전체 지도 공개…부계 2개 계통·모계는 다양",
+  "thumbnail_text": "한국인 1만명 유전체 지도 부계 2개 계통, 특정 집단이...",
+  "thumbnail_answer": "한국인의 부계 유전 정보는 두 개 계통으로 유사한 반면 모계는 다양하게 나타났다.",
+  "conclusion": "울산과학기술원 연구팀이 한국인 1만여 명의 유전체 지도를 구축하고 분석 결과를 공개했다. 한국인은 중국 한족이나 일본인과 뚜렷한 유전적 차이를 보였다. 부계는 2개 계통으로 유사한 반면 모계는 다양하며 청동기시대 정복전쟁 등의 영향이 있었을 것으로 분석된다.",
+  "key_points": [
+   "UNIST와 국내외 연구진이 한국인 1만여 명의 유전체 분석 데이터를 공개했다.",
+   "한국인의 아버지 쪽 유전 정보는 2개 계통으로 유사하게 나타났다.",
+   "어머니 쪽 유전 정보는 동아시아 계통을 중심으로 다양하게 확인되었다.",
+   "청동기시대 정복전쟁 등으로 특정 남성 집단이 한반도를 지배한 변화가 있었을 것으로 본다.",
+   "한국인은 중국 한족 및 일본인과 면역 유전자 등에서 유전적 차이를 보인다."
+  ],
+  "timeline": [],
+  "tags": [
+   "유전체지도",
+   "한국인",
+   "UNIST",
+   "유전자분석",
+   "청동기시대"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 10217,
+   "output_tokens": 378
+  }
+ },
+ "created_at": "2026-11-25T20:31:45+00:00",
+ "requested": "2026-11-25T20:31:45+00:00"
+}
