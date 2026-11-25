@@ -299,7 +299,7 @@
   "-YmOzIIhZSo": {
    "errors": 0,
    "first_seen": "2026-11-25T10:04:41+00:00",
-   "last_attempt": "2026-11-25T10:34:38+00:00",
+   "last_attempt": "2026-11-25T15:19:41+00:00",
    "published": "2026-11-25T10:00:05+00:00",
    "status": "pending",
    "video": {
@@ -21148,15 +21148,7 @@
    "errors": 0,
    "first_seen": "2026-11-25T14:04:35+00:00",
    "published": "2026-11-25T13:25:34+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCCQPdv4o4ywVZQkAMOlvFbw",
-    "channel_name": "오목교 전자상가",
-    "description": "※ 이 제품은 연구 목적으로 국내에 입수된 것으로,\n영상 제작에 앞서 보안당국 및 관계 당국과 협의를 마쳤음을 밝힙니다.\n\n2026년, 세계에서 가장 폐쇄적인 국가로 꼽히는 북한에도 최초의 폴드형 스마트폰이 공식 등장했습니다. 오목교 전자상가는 국내에서 좀처럼 실물을 접하기 힘든 북한의 최신형 폴더블 스마트폰을 직접 입수해 살펴봤습니다.\n\n외관부터 상당히 인상적입니다. 중국의 프리미엄 폴더블 스마트폰인 아너 매직 V2 RSR 포르쉐 디자인과 놀라울 정도로 유사한 디자인을 갖추고 있는데요. 단순히 전화와 문자만 가능한 스마트폰일 것이라는 예상과 달리 인공지능, 음성 인식, 사진 번역, 전자지갑, QR 결제 등 다양한 기능까지 탑재하고 있었습니다.\n\n하지만 스마트폰 내부를 하나씩 살펴볼수록 우리가 일상적으로 사용하는 스마트폰과는 전혀 다른 모습이 드러났습니다. 특정 단어의 입력을 제한하거나 다른 표현으로 바꿔버리는 키보드부터 국가의 전자서명을 검사하는 시스템, 사용자가 보고 있는 화면을 자동으로 기록하는 기능까지 발견할 수 있었습니다.\n\n특히 화면이 언제 기록됐는지는 확인할 수 있지만, 정작 어떤 화면이 기록됐는지 사용자가 직접 확인하거나 삭제하는 것은 불가능했습니다. 개발자 옵션과 USB 디버깅 등 안드로이드 스마트폰의 기본적인 분석 기능도 막혀 있었는데요.\n\n과연 북한 주민들은 스마트폰으로 무엇을 할 수 있고, 무엇을 할 수 없을까요? 북한의 스마트폰 기술은 우리가 생각했던 것보다 얼마나 발전했으며, 북한 당국은 안드로이드 운영체제를 어떻게 바꿔놓았을까요?\n\n그리고 오목교 전자상가는 이러한 의문을 해결하기 위해 또 한 대의 특별한 스마트폰을 확보했습니다. 외관은 똑같지만 내부는 완전히 다른 제품입니다.\n\n쉽게 접할 수 없었던 북한의 최신 스마트폰을 통해 북한의 IT 기술 수준과 디지털 통제 시스템을 직접 살펴봤습니다.\n\n자세한 내용은 영상을 통해 확인해 주세요.\n\n\nCopyright © 2026 SBS · STUDIO161. All rights reserved.\n본 영상에 포함된 모든 콘텐츠(영상, 이미지, 음원, 자막 등)의 저작권은 SBS · STUDIO161에 있으며, 저작권법의 보호를 받습니다. 당사의 사전 서면 동의 없이 본 영상의 전부 또는 일부를 무단 복제, 배포, 전송, 2차 가공 및 상업적으로 이용하는 행위를 일체 금합니다.\nCopyright © 2026 SBS · STUDIO161. All rights reserved.\nAll content included in this video (video, images, audio, subtitles, etc.) is the exclusive property of SBS · STUDIO161 and is protected by copyright laws. Any unauthorized reproduction, distribution, transmission, modification, or commercial use of this video, in whole or in part, without prior written consent is strictly prohibited.\n\n\n보안 필수 ‘노드VPN’ 블랙 프라이데이 특가🔥\n할인 링크 👉 https://nordvpn.com/omgvpn\n최대 84% 할인 + 4개월 보너스 (쿠폰코드: omgvpn)\n30일내 환불도 보장되니 부담없이 사용해보세요!",
-    "published": "2026-11-25T13:25:34+00:00",
-    "title": "세계최초 북한의 폴드형 스마트폰 마두산 2222 리뷰 / 오목교 전자상가",
-    "video_id": "jCl7TS4kyKk"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "jFIaeQN6PTM": {
