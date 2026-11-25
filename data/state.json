@@ -4353,6 +4353,7 @@
   "8C939IsoKac": {
    "errors": 0,
    "first_seen": "2026-11-24T16:23:13+00:00",
+   "last_attempt": "2026-11-25T08:56:24+00:00",
    "published": "2026-11-24T11:18:25+00:00",
    "status": "pending",
    "video": {
@@ -15606,15 +15607,7 @@
    "errors": 0,
    "first_seen": "2026-11-24T16:23:23+00:00",
    "published": "2026-11-24T11:36:33+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-11-24T11:36:33+00:00",
-    "title": "축구협회, 내일 모레노 재계약 회의한다!! 평가기준은? / 이강인 챔스 선발 나올까?",
-    "video_id": "YPjeaPVZVjs"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "YQDGKxVCqLA": {
@@ -19087,6 +19080,21 @@
    "published": "2026-11-02T09:00:36+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "egOF__fbJvc": {
+   "errors": 0,
+   "first_seen": "2026-11-25T08:54:25+00:00",
+   "published": "2026-11-25T08:30:30+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n지금 주식 잠깐 뺐다 사려는 분들 사고 싶어도 못 삽니다\n\n☞촬영일: 26년 11월 19일",
+    "published": "2026-11-25T08:30:30+00:00",
+    "title": "지금 주식 잠깐 뺐다 사려는 분들 사고 싶어도 못 삽니다 [박현상 이사]",
+    "video_id": "egOF__fbJvc"
+   },
    "wait_checks": 0
   },
   "egXQdAJxlTQ": {
@@ -24416,18 +24424,14 @@
    "wait_checks": 0
   },
   "qgWIDIuiJYE": {
+   "done_at": "2026-11-25T08:56:24+00:00",
    "errors": 0,
    "first_seen": "2026-11-24T16:23:22+00:00",
+   "last_attempt": "2026-11-25T08:54:28+00:00",
+   "notified": "2026-11-25T08:56:51+00:00",
    "published": "2026-11-24T12:15:20+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#모레노 #국가대표 #축구",
-    "published": "2026-11-24T12:15:20+00:00",
-    "title": "\"모레노 계약연장\" 축구협회, 내일 회의한다! 모레노 어떻게 평가 받을까?",
-    "video_id": "qgWIDIuiJYE"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "qiyrfp3UWjM": {
