@@ -4024,6 +4024,7 @@
   "7_LuK90TURQ": {
    "errors": 0,
    "first_seen": "2026-11-24T16:23:15+00:00",
+   "last_attempt": "2026-11-25T09:49:41+00:00",
    "published": "2026-11-24T10:15:15+00:00",
    "status": "pending",
    "video": {
@@ -12858,15 +12859,7 @@
    "errors": 0,
    "first_seen": "2026-11-23T09:57:53+00:00",
    "published": "2026-11-23T09:39:28+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCoCvTlU0KpNYwnMIgs7MPrA",
-    "channel_name": "보다 BODA",
-    "description": "📖『세계사를 바꾼 그날』 랜선 팬사인회 사인본 구매 안내\n👉 구매 링크\nhttps://product.kyobobook.co.kr/detail/S000222035681\n\n\n- 11월 23일(월) 오후 7시부터 구매 가능합니다.\n- 반드시 교보문고 ‘랜선 팬사인회 전용 상품’을 구매해주셔야 친필 사인본이 제공됩니다.\n- 행사 당일 안내되는 종료 시각까지 입금이 완료된 주문에 한해 사인본이 제공됩니다.\n- 이세환·윤영휘·허준·짱재 작가 중 1명의 친필 사인이 랜덤으로 제공되며, 작가 선택은 불가합니다.\n- 구매자 성함은 별도로 기재하지 않고 저자의 친필 사인만 제공됩니다.\n- 1회 결제당 1권 구매 가능하며, 여러 권 구매 시 각각 결제해주셔야 합니다.\n- 짱재 작가는 라이브에는 참석하지 않으며 친필 사인은 별도로 진행됩니다.\n- 사인본은 주문 후 취소·변경이 어려울 수 있으며, 배송까지 최대 2주 정도 소요될 수 있습니다.\n\n\n자세한 사항은 교보문고 구매 페이지에서 확인해주세요!",
-    "published": "2026-11-23T09:39:28+00:00",
-    "title": "그날을 보다 '첫' 번째 LIVE, 세계사를 바꾼 그날 랜선 팬사인회",
-    "video_id": "Rg1yF9TQ8to"
-   },
+   "status": "skipped_old",
    "wait_checks": 0
   },
   "RhU-0oZ2KIg": {
@@ -13926,15 +13919,7 @@
    "errors": 0,
    "first_seen": "2026-11-25T08:16:23+00:00",
    "published": "2026-11-25T05:53:17+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-11-25T05:53:17+00:00",
-    "title": "이정효 감독, 수원 우승기념 미디어데이!! 💙🤍❤️",
-    "video_id": "UCKlePPaZ48"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "UCahOJEiEd0": {
