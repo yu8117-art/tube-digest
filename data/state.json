@@ -125,6 +125,7 @@
   "-1Vki92B0mA": {
    "errors": 0,
    "first_seen": "2026-11-24T16:23:42+00:00",
+   "last_attempt": "2026-11-25T12:05:03+00:00",
    "published": "2026-11-24T07:55:20+00:00",
    "status": "pending",
    "video": {
@@ -6070,15 +6071,7 @@
    "errors": 0,
    "first_seen": "2026-11-23T21:52:29+00:00",
    "published": "2026-11-23T11:52:50+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-11-23T11:52:50+00:00",
-    "title": "축협 모레노 연임 가능성 논의중.. 연장 가능성은? / 맨유 유럽 5대리그 최다실점.. 해도 해도 너무하다 / 파주 선수들, 급여 못받아서 구단 소송한다",
-    "video_id": "CLoy0Rt7G8s"
-   },
+   "status": "skipped_old",
    "wait_checks": 0
   },
   "CMDzZTFnO80": {
@@ -7583,6 +7576,17 @@
     "title": "기초연금 줄인다고 했는데 결국 '이렇게' 됐습니다 [김경필 작가]",
     "video_id": "FoNj7bJ-xKw"
    },
+   "wait_checks": 0
+  },
+  "FoZGuT5uAO4": {
+   "done_at": "2026-11-25T12:05:02+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-25T12:04:41+00:00",
+   "last_attempt": "2026-11-25T12:04:47+00:00",
+   "notified": "2026-11-25T12:06:02+00:00",
+   "published": "2026-11-25T11:54:28+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "Ft8S7v11--4": {
