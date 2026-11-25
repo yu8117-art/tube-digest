@@ -3329,6 +3329,17 @@
    "published": "2026-09-30T09:00:01+00:00",
    "status": "baseline"
   },
+  "6AqFQFJvsTE": {
+   "done_at": "2026-11-25T11:35:36+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-25T11:34:36+00:00",
+   "last_attempt": "2026-11-25T11:34:44+00:00",
+   "notified": "2026-11-25T11:36:48+00:00",
+   "published": "2026-11-25T11:20:28+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "6BBteaP8dHc": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-08-12T10:00:31+00:00",
@@ -5541,15 +5552,7 @@
    "errors": 0,
    "first_seen": "2026-11-25T09:34:45+00:00",
    "published": "2026-11-25T07:51:32+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
-    "channel_name": "언더스탠딩 : 세상의 모든 지식",
-    "description": "제작 지원\n(주) 고래사 / 듀오 주식회사 / 어슈런스(주) / 한화자산운용(주) / 언론진흥재단\n\n▶ https://www.musinsa.com/curator/shop/GyVEuRcF\n*본 링크는 무신사 큐레이터 활동의 일환으로 링크를 통해 구매가 발생할 경우 일정 수수료를 제공 받습니다",
-    "published": "2026-11-25T07:51:32+00:00",
-    "title": "11/25(수) 딥시크는 시작에 불과했다 중국이 천재를 쓰는 법 [이벌찬 기자/조선일보 베이징특파원]",
-    "video_id": "Au2jZfQ9-kU"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "AvYV9wObjOg": {
@@ -16196,6 +16199,7 @@
   "ZJNAjcHSevg": {
    "errors": 0,
    "first_seen": "2026-11-24T16:23:21+00:00",
+   "last_attempt": "2026-11-25T11:35:37+00:00",
    "published": "2026-11-24T09:00:11+00:00",
    "status": "pending",
    "video": {
@@ -17864,15 +17868,7 @@
    "errors": 0,
    "first_seen": "2026-11-23T21:52:41+00:00",
    "published": "2026-11-23T11:22:01+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
-    "channel_name": "지식인사이드",
-    "description": "오늘은 연금 전문가 이영주 대표님을 모시고\n국민연금 수령액을 늘리는 방법부터 평생 안정적인 노후 소득을 만드는 연금 활용법까지 알아봤습니다.\n영상이 유익했다면 구독!! 영상이 재밌으셨다면 좋아요 버튼을 눌러주세요!\n#이영주 #지식인사이드 #지식인클래스 #국민연금 #연금수령 #추후납부 #퇴직연금 #주택연금 #노후준비\n\n00:00 인트로\n00:27 구독자 인사\n01:01 50대 후반도 국민연금 2배로 늘린 방법\n07:58 국민연금 추납, ‘이때’하면 환급받을 수 있습니다\n12:07 국민연금 수령액 50% 이상 올리는 숨겨진 방법?\n14:23 부부가 국민연금 받다가 한명이 사망하면 어떻게 될까?\n17:25 미혼자의 국민연금은 사망 후 어떻게 될까?\n18:43 평범한 50대 부부가 은퇴 후 ‘월 500’ 만드는 법\n23:07 5년간 1억 넣고 뽕뽑는 ‘초고속 연금’ 수령법?\n27:05 노후에 목돈 쌓아두면 오히려 위험할 수 있습니다\n\n\n👇지식인사이드에 출연을 원하신다면 여기를 눌러주세요\nhttps://forms.gle/u4LxVcwFdhvkLH8m6\nknowledgeinside7@gmail.com\n\n👇 다양한 채널에서 지식인사이드의 지식을 얻고 싶다면 여기를 눌러주세요\n인스타그램: https://www.instagram.com/knowledgeins_kr/\n페이스북: https://www.facebook.com/knowledgeIns7?mibextid=LQQJ4d\n네이버 TV: https://tv.naver.com/purejboy2\n틱톡: https://www.tiktok.com/@allstorieskr?lang=ko-KR\n네이버 카페: https://cafe.naver.com/knowledgeins\n\nCopyright Ⓒ 지식인사이드. All rights reserved.\n\n본 콘텐츠(영상, 이미지, 음성, 대본, 편집물, 썸네일 포함)는 저작권 및 관련 권리의 보호를 받습니다.\n\n저작권자의 사전 승인 없이 복제, 배포, 수정, 재가공, 업로드, AI 학습 및 데이터셋 구축, 2차 저작물 제작(쇼츠·릴스 포함) 등 일체의 상업적 이용 및 수익화를 금지합니다.\n\n📧 콘텐츠 사용 및 협의 문의: knowledgeinside7@gmail.com",
-    "published": "2026-11-23T11:22:01+00:00",
-    "title": "평범한 50대 부부가 은퇴 후 ‘월 500’ 만드는 법ㅣ지식인 클래스 EP.39 (이영주 박사 2부)",
-    "video_id": "c0Z0ti5QZjU"
-   },
+   "status": "skipped_old",
    "wait_checks": 0
   },
   "c1TJvkH41lU": {
@@ -18649,6 +18645,21 @@
    "first_seen": "2026-11-03T02:28:18+00:00",
    "published": "2026-11-03T02:19:46+00:00",
    "status": "skipped_live",
+   "wait_checks": 0
+  },
+  "dLltd5czA6M": {
+   "errors": 0,
+   "first_seen": "2026-11-25T11:34:42+00:00",
+   "published": "2026-11-25T11:30:11+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 \n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-25T11:30:11+00:00",
+    "title": "전세 사는 분들이 지금 당장! 확인해야 할 것!",
+    "video_id": "dLltd5czA6M"
+   },
    "wait_checks": 0
   },
   "dLv8BBcDNVw": {
