@@ -260,6 +260,17 @@
    "published": "2026-10-06T03:15:10+00:00",
    "status": "baseline"
   },
+  "-NbMQ1IesK0": {
+   "done_at": "2026-11-25T11:06:14+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-25T11:04:40+00:00",
+   "last_attempt": "2026-11-25T11:05:09+00:00",
+   "notified": "2026-11-25T11:10:00+00:00",
+   "published": "2026-11-25T11:00:23+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "-TI5Uxv7yyY": {
    "done_at": "2026-10-29T08:41:48+00:00",
    "errors": 0,
@@ -1569,15 +1580,7 @@
    "errors": 0,
    "first_seen": "2026-11-23T21:52:25+00:00",
    "published": "2026-11-23T11:00:36+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
-    "channel_name": "안될과학 Unrealscience",
-    "description": "데뷔 10주년, 정규 6집 [DREAM AFTER DREAM]과 타이틀곡 'Boogie Woogie'로 돌아온 NCT DREAM의 재민, 지성 님이 궤도의 과학속으로를 찾았습니다!\n꿈에서 깼는데 또 꿈이었던 '꿈속의 꿈' 이야기부터 나이가 들수록 시간이 빨리 가는 이유, 도플갱어와 반입자, 그리고 우리가 지구 멸망설에 끌리는 이유까지.\n'크래시2'로 첫 드라마에 도전한 지성 님의 이야기까지 담긴 궤도의 과학속으로, 지금 만나 보세요!\n\n#NCTDREAM #엔시티드림 #재민 #지성 #DREAM_AFTER_DREAM #Boogie_Woogie #크래시2 #궤과속 #궤도의과학속으로 #궤도\n\n◆ Thanks to \nEditor : 박수빈\nStudio : 서울스트리밍스테이션\nGuest : NCT DREAM 재민, 지성\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science \n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience\n\n◆ 안될과학 문의\nE-MAIL : MoreScience2018@gmail.com",
-    "published": "2026-11-23T11:00:36+00:00",
-    "title": "꿈에서 깼는데 또 꿈이라고? 'DREAM AFTER DREAM' 속 진짜 과학 [궤과속 - NCT DREAM 초대석]",
-    "video_id": "2CvEPsI13N4"
-   },
+   "status": "skipped_old",
    "wait_checks": 0
   },
   "2FYFahPNaLA": {
@@ -1658,18 +1661,14 @@
    "status": "baseline"
   },
   "2O2Zf9m0Pw8": {
+   "done_at": "2026-11-25T11:08:38+00:00",
    "errors": 0,
    "first_seen": "2026-11-24T16:23:27+00:00",
+   "last_attempt": "2026-11-25T11:07:43+00:00",
+   "notified": "2026-11-25T11:09:58+00:00",
    "published": "2026-11-24T10:09:13+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
-    "channel_name": "소수몽키",
-    "description": "🌟[모집중!]매일 수시로 소몽 코멘트/자료 받아보고 싶다면?\n🔮소수의견 구독하기(26년 4분기, 10월~)https://naver.me/x3cR96Yl\n\n🏆[입문] 소몽의 [미국주식 베이직클래스] 신청하러 가기\nhttps://us-campus.co.kr/products/academy237\n\n🌟[실전] 소몽의 실전 투자 노하우를 담은 \n[미국주식 마스터클래스] 신청하러 가기\nhttps://us-campus.co.kr/products/academy177\n\n🐵비즈니스/협업 문의somongmanager@gmail.com\n⚠️소수몽키 공식 채널 외 별도의 '리딩방' 및 'SNS'를 운영하지 않습니다\n사칭에 절대 유의하시기 바랍니다⚠️",
-    "published": "2026-11-24T10:09:13+00:00",
-    "title": "결국 증시 바닥은 트럼프의 입에서 나온다? 트럼프 1기 평행이론 적중할까",
-    "video_id": "2O2Zf9m0Pw8"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "2On5TLhsyCQ": {
@@ -1947,6 +1946,17 @@
     "title": "터미널에 맥OS를 띄워버림",
     "video_id": "33_JIZWdDb8"
    },
+   "wait_checks": 0
+  },
+  "35yC7-wweGE": {
+   "done_at": "2026-11-25T11:05:09+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-25T11:04:33+00:00",
+   "last_attempt": "2026-11-25T11:04:43+00:00",
+   "notified": "2026-11-25T11:09:59+00:00",
+   "published": "2026-11-25T11:00:32+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "36DQ--oLtxs": {
@@ -8220,15 +8230,7 @@
    "errors": 0,
    "first_seen": "2026-11-25T08:16:25+00:00",
    "published": "2026-11-25T02:07:40+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCYgVl2XoMfkvg1BzTFiyOiw",
-    "channel_name": "홈즈 부동산",
-    "description": "2026년 성남 재개발 특강!\nhttps://homesclass.com/\n\n홈즈 부동산 밴드(급매 정보, 성남 투자시 필수)\n: https://band.us/band/91293447\n\n홈즈부동산 전화번호*  : 031-752-4984, 010-2082-0826\n(상담 및 매물 접수)\n\n네이버 블로그: https://blog.naver.com/11jhlee1199\n카카오톡 상담 채널: http://pf.kakao.com/_ciEcK\n\n홈즈 부동산 종합 링크 \nhttps://link.inpock.co.kr/homesrealestate\n\n\n주소: 경기도 성남시 수정구 산성대로 207, 109호(수진역 4번출구)",
-    "published": "2026-11-25T02:07:40+00:00",
-    "title": "현재 부동산 어디까지 빠졌을까? (LIVE)(feat. 공명)",
-    "video_id": "H4bE5_eEVHU"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "H5BSEsTFADI": {
@@ -15400,6 +15402,17 @@
    },
    "wait_checks": 0
   },
+  "XaRX42BEh1Y": {
+   "done_at": "2026-11-25T11:07:43+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-25T11:04:33+00:00",
+   "last_attempt": "2026-11-25T11:06:14+00:00",
+   "notified": "2026-11-25T11:09:59+00:00",
+   "published": "2026-11-25T11:00:16+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "XbdN0EaXxks": {
    "errors": 0,
    "first_seen": "2026-11-11T22:52:25+00:00",
@@ -19774,15 +19787,7 @@
    "errors": 0,
    "first_seen": "2026-11-23T21:52:32+00:00",
    "published": "2026-11-23T11:00:26+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n전세난보다 무서운 일이 옵니다, 내년 부동산 시장이 위험한 이유\n경기·인천까지 번지고 있어요, 앞으로 집값 무서울 겁니다\n전월세 극단적 대책 나온다? 부동산 여기서 더 무서워질 겁니다\n\n☞촬영일: 26년 11월 20일",
-    "published": "2026-11-23T11:00:26+00:00",
-    "title": "전세난보다 무서운 일이 옵니다, 내년 부동산 시장이 위험한 이유 [한문도 교수 1부]",
-    "video_id": "gCtXDtgmWI8"
-   },
+   "status": "skipped_old",
    "wait_checks": 0
   },
   "gEHV4hlWhyA": {
@@ -20550,6 +20555,21 @@
    "published": "2026-11-08T04:40:27+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "i3h2VFWo2dk": {
+   "errors": 0,
+   "first_seen": "2026-11-25T11:04:35+00:00",
+   "published": "2026-11-25T11:00:38+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+    "channel_name": "에스오디 SOD",
+    "description": "#에스오디 #로봇 #휴머노이드 #페르소나ai #소버린ai",
+    "published": "2026-11-25T11:00:38+00:00",
+    "title": "한국에게 소버린AI가 유일한 희망이다",
+    "video_id": "i3h2VFWo2dk"
+   },
    "wait_checks": 0
   },
   "i4mb5xpNJjg": {
@@ -22978,15 +22998,7 @@
    "errors": 0,
    "first_seen": "2026-11-23T21:52:24+00:00",
    "published": "2026-11-23T11:00:36+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdUcjkyZtf-1WJyPPiETF1g",
-    "channel_name": "ITSub잇섭",
-    "description": "이제 곧 몇 달 뒤면 삼성 갤럭시 S27 시리즈가 출시될 예정이죠. 하지만 거기에 들어갈 신형 프로세서는 이미 출시했는데요, 그래서 그 프로세서를 탑재한 샤오미 스마트폰을 대여해와서 성능 테스트해보니.... 이.. 이건 미쳤는데요?\n\n🔗 Sponsor.\n-본 영상의 제품은 테스트를 위해 'Xiaomi'로부터 대여받았습니다.\n\n\n🔋 Specs.\n제품명 : Snapdragon 8 Elite Extreme Gen 6\n제조사 : Qualcomm\n제조 공정 : 2nm\nCPU : Qualcomm Oryon 8코어 (프라임 2개 최대 5 GHz, 고성능 6개)\nGPU : Qualcomm Adreno\nNPU : Qualcomm Hexagon\n5G 모뎀 : Qualcomm X105 5G Modem-RF\n\n\n⏲️ Timestamps.\n00:00 쟤 건들지마;;\n00:10 오프닝\n01:11 Xiaomi 18 Pro Max\n03:09 스냅드래곤\n05:16 패키징 기술\n06:05 CPU 성능\n08:44 GPU 성능\n10:49 게임 테스트\n12:49 오늘의 결론\n\n\n🔖Tags.\n#갤럭시S27\n#퀄컴스냅드래곤\n#성능\n\n\n🎵 BGM.\nAGST - Look\nCollin Lim, Adelyn Paik - Love Hour (Instrumental Version)\n\n\n💡 Merch.\n블랙카우랩스 굿즈를 사고 싶다면?\n-https://abit.ly/blackcowlabs\n\n\n📨 Business contacts.\n itsub@itud.io",
-    "published": "2026-11-23T11:00:36+00:00",
-    "title": "갤럭시 S27 성능 진짜 큰일났다;; 신형 퀄컴 스냅드래곤 성능 테스트 해봤습니다.",
-    "video_id": "nKLUKBxlFdQ"
-   },
+   "status": "skipped_old",
    "wait_checks": 0
   },
   "nLSh7E2xEEY": {
@@ -25442,6 +25454,7 @@
   "sj3lBn7Wx4g": {
    "errors": 0,
    "first_seen": "2026-11-24T16:23:28+00:00",
+   "last_attempt": "2026-11-25T11:08:57+00:00",
    "published": "2026-11-24T09:30:01+00:00",
    "status": "pending",
    "video": {
@@ -27839,18 +27852,14 @@
    "wait_checks": 0
   },
   "xpmERd8pUcw": {
+   "done_at": "2026-11-25T11:08:57+00:00",
    "errors": 0,
    "first_seen": "2026-11-24T16:23:33+00:00",
+   "last_attempt": "2026-11-25T11:08:38+00:00",
+   "notified": "2026-11-25T11:09:58+00:00",
    "published": "2026-11-24T10:00:19+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n\"예전과 완전히 다릅니다\" 금리 올라도 집값 폭락 없는 이유\n\"집값 폭락 가능성 높다?\" 계속된 경고 메시지의 의미\n\"지금 서울 집값 이상합니다\" 우리가 알던 흐름과 달라졌다\n\n☞촬영일: 26년 11월 20일",
-    "published": "2026-11-24T10:00:19+00:00",
-    "title": "\"예전과 완전히 다릅니다\" 금리 올라도 집값 폭락 없는 이유 [한문도 교수 2부]",
-    "video_id": "xpmERd8pUcw"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "xqRCDYCy04I": {
