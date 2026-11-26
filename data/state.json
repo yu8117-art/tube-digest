@@ -445,19 +445,14 @@
    "wait_checks": 0
   },
   "-r6nO4hUjEg": {
+   "done_at": "2026-11-26T13:51:56+00:00",
    "errors": 0,
    "first_seen": "2026-11-26T08:34:46+00:00",
-   "last_attempt": "2026-11-26T08:36:55+00:00",
+   "last_attempt": "2026-11-26T13:51:10+00:00",
+   "notified": "2026-11-26T13:52:46+00:00",
    "published": "2026-11-26T08:33:26+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC0Ircmn8TqkVEqBhJhPOGzQ",
-    "channel_name": "에셋플러스자산운용",
-    "description": "※ 촬영 일시 : 2026년 10월 22일\n\n00:13 인사 및 중국 시장 돌아보기\n02:27 차이나리치투게더 3분기 운용 성과\n03:45 K자형 소비와 주목하는 소비재\n06:19 기업 사례: 이하이·프리미엄 분유\n09:08 중국 바이오와 혁신약 기술이전\n12:29 중국 경제 전망과 향후 운용 방향\n\n  ◾ 펀드앱 다운로드 : https://www.assetplus.co.kr/main2.do\n  ◾ 홈페이지(PC) : https://www.assetplus.co.kr\n  ◾ 홈페이지(모바일) : https://m.assetplus.co.kr/main.do\n  ◾ 1:1 방문예약 : https://booking.naver.com/booking/6/bizes/760834\n\n#에셋플러스자산운용 #리치투게더펀드 #강방천 #자산운용 #펀드 #주식 #해외ETF  #차이나리치투게더 #투전위 #중국투자 #중국증시 #3분기운용보고 #K자형소비 #프리미엄소비 #이하이 #중국바이오 #바텀업투자",
-    "published": "2026-11-26T08:33:26+00:00",
-    "title": "[에셋플러스자산운용 리치투게더펀드] 2026년 3분기 차이나 리치투게더펀드 투자 전략 운용 보고ㅣ 중국 투자, AI 조정 속 어디에 주목할까?",
-    "video_id": "-r6nO4hUjEg"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "-rKrxyFwMkU": {
@@ -13310,6 +13305,17 @@
    },
    "wait_checks": 0
   },
+  "Rso1AFBkM5s": {
+   "done_at": "2026-11-26T13:51:09+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-26T13:49:34+00:00",
+   "last_attempt": "2026-11-26T13:50:37+00:00",
+   "notified": "2026-11-26T13:52:47+00:00",
+   "published": "2026-11-26T13:35:35+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "RssZO2FK0XI": {
    "first_seen": "2026-10-09T08:14:32+00:00",
    "published": "2026-10-07T06:06:39+00:00",
@@ -21879,6 +21885,17 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "jdtiNnHRMB8": {
+   "done_at": "2026-11-26T13:50:37+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-26T13:49:35+00:00",
+   "last_attempt": "2026-11-26T13:49:41+00:00",
+   "notified": "2026-11-26T13:52:47+00:00",
+   "published": "2026-11-26T13:44:06+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "jeFVFk58K7k": {
    "done_at": "2026-11-07T09:28:15+00:00",
    "errors": 0,
@@ -25609,7 +25626,7 @@
   "rxRgBZTbC5c": {
    "errors": 0,
    "first_seen": "2026-11-26T08:34:37+00:00",
-   "last_attempt": "2026-11-26T08:50:02+00:00",
+   "last_attempt": "2026-11-26T13:51:56+00:00",
    "published": "2026-11-26T08:30:50+00:00",
    "status": "pending",
    "video": {

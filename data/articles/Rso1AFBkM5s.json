@@ -1,0 +1,42 @@
+{
+ "video": {
+  "video_id": "Rso1AFBkM5s",
+  "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+  "channel_name": "새벽의 축구 전문가",
+  "title": "\"충격적인 골키퍼 기름손\" 포체티노, 첫 승 실패.. 벌써부터 불안한 맨유, 감독교체 효과도 없나",
+  "published": "2026-11-26T13:35:35+00:00",
+  "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#맨유 #포체티노 #축구 #챔피언스리그",
+  "url": "https://www.youtube.com/watch?v=Rso1AFBkM5s"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/Rso1AFBkM5s/maxresdefault.jpg",
+ "source": "video",
+ "duration": 633,
+ "summary": {
+  "headline": "포체티노의 맨유, 전술적 한계와 치명적인 실수로 불안한 행보",
+  "thumbnail_text": "충격적인 골키퍼 기름손 포체티노 벌써 불안하다",
+  "thumbnail_answer": "골키퍼의 치명적인 실수와 선수단의 낮은 기동력 및 수비 라인 불안정으로 첫 승에 실패했다.",
+  "conclusion": "포체티노 감독은 높은 에너지 레벨과 전방 압박을 중시하지만, 맨유 선수들의 역량과 수비 라인 조율에 한계를 드러내고 있다. 잦은 선수 실수와 낮은 기동력 지표로 인해 앞으로의 일정에서 큰 어려움이 예상된다.",
+  "key_points": [
+   "포체티노 부임 이후에도 맨유는 선수 개인 실수와 수비 불안이 반복되고 있다.",
+   "기동력과 에너지 레벨을 중시하는 전술 탓에 수비 라인을 너무 높게 형성한다.",
+   "골키퍼 라멘스의 롱킥 활용 비중이 늘었으나 세컨드 볼 싸움에서 자주 밀린다.",
+   "전방 압박 실패 시 뒷공간이 쉽게 허용되어 치명적인 위기를 맞이한다.",
+   "맨유는 스프린트 횟수 16위, 활동량 19위로 기동력 관련 지표가 하위권이다.",
+   "챔피언스리그와 프리미어리그를 병행해야 하는 상황에서 체력적 부담이 크다."
+  ],
+  "timeline": [],
+  "tags": [
+   "맨유",
+   "포체티노",
+   "챔피언스리그",
+   "축구전술",
+   "프리미어리그"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 59370,
+   "output_tokens": 408
+  }
+ },
+ "created_at": "2026-11-26T13:51:09+00:00"
+}
