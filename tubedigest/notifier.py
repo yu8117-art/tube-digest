@@ -4,6 +4,7 @@ from __future__ import annotations
 import html
 import re
 import time
+from datetime import datetime, timedelta, timezone
 
 import requests
 
@@ -11,6 +12,16 @@ from .config import Config
 from .youtube import fmt_ts
 
 TG_LIMIT = 4096  # 텔레그램 메시지 한 개의 최대 글자 수 (태그 제외한 보이는 글자 기준)
+KST = timezone(timedelta(hours=9))  # 한국은 서머타임이 없어 고정 오프셋으로 충분
+
+
+def upload_date(published: str) -> str:
+    """유튜브 업로드 시각(ISO, UTC)을 한국 시간으로: '2026.11.25 (수) 17:30'. 읽을 수 없으면 빈 문자열."""
+    try:
+        d = datetime.fromisoformat(published.replace("Z", "+00:00")).astimezone(KST)
+    except (ValueError, AttributeError):
+        return ""
+    return f"{d:%Y.%m.%d} ({'월화수목금토일'[d.weekday()]}) {d:%H:%M}"
 
 
 class NotifyError(Exception):
@@ -44,6 +55,8 @@ def telegram_messages(article: dict) -> list[str]:
             f'<a href="{html.escape(yt)}"><b>{e(v["title"])}</b></a>']
     if article.get("duration"):
         head[-1] += f" ({fmt_ts(article['duration'])})"
+    if uploaded := upload_date(v.get("published", "")):
+        head.append(f"📅 {uploaded} 업로드")
     head += ["", f"📰 <b>{e(s['headline'])}</b>"]
     if article.get("source") == "metadata":
         head.append("⚠️ 영상 분석 실패 · 제목/설명/썸네일 기반 요약")
@@ -166,7 +179,9 @@ def _ntfy(cfg: Config, article: dict) -> None:
     headers = {}
     if cfg.secrets["NTFY_TOKEN"]:
         headers["Authorization"] = f"Bearer {cfg.secrets['NTFY_TOKEN']}"
-    lines = [f"썸네일: {s['thumbnail_text']}", f"→ {s['thumbnail_answer']}", "", "[결론]", s["conclusion"], "",
+    uploaded = upload_date(v.get("published", ""))
+    lines = ([f"업로드: {uploaded}", ""] if uploaded else []) + [
+             f"썸네일: {s['thumbnail_text']}", f"→ {s['thumbnail_answer']}", "", "[결론]", s["conclusion"], "",
              "[핵심 요약]", *[f"• {p}" for p in s["key_points"]], "", "[타임라인]",
              *[f"{fmt_ts(t['seconds'])} {t['title']}" for t in s.get("timeline", [])]]
     r = requests.post(
