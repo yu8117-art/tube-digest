@@ -2597,6 +2597,21 @@
    },
    "wait_checks": 0
   },
+  "4TVSq76sDLo": {
+   "errors": 0,
+   "first_seen": "2026-11-26T05:04:39+00:00",
+   "published": "2026-11-26T05:02:56+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMnFS27HnroIc1D4ct37TUA",
+    "channel_name": "위폴 WePoll",
+    "description": "▶︎ 촬영일 : 2026. 11. 26\n     출연자 : 박종훈, 서영재 과장(NH투자증권)\n\n🗳️ Wepoll : https://wepoll.kr\n\n▶︎ 미국 시황 바이킹스는 평일 아침 7시 20분!",
+    "published": "2026-11-26T05:02:56+00:00",
+    "title": "어려운 숏 감마, 최대한 쉽게 이해해보기",
+    "video_id": "4TVSq76sDLo"
+   },
+   "wait_checks": 0
+  },
   "4Unus1LQgnw": {
    "done_at": "2026-10-24T01:33:35+00:00",
    "errors": 0,
@@ -11092,6 +11107,21 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "NcszWzRapQk": {
+   "errors": 0,
+   "first_seen": "2026-11-26T05:04:35+00:00",
+   "published": "2026-11-26T05:01:30+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n2027년, 무조건 매수해야 할 부동산\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=662\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 #2027 \n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-26T05:01:30+00:00",
+    "title": "집값 상승의 신호를 보는 법",
+    "video_id": "NcszWzRapQk"
+   },
+   "wait_checks": 0
+  },
   "NhOvoRUvHA0": {
    "errors": 0,
    "first_seen": "2026-11-18T17:34:47+00:00",
@@ -16259,7 +16289,7 @@
   "ZJNAjcHSevg": {
    "errors": 0,
    "first_seen": "2026-11-24T16:23:21+00:00",
-   "last_attempt": "2026-11-26T01:04:44+00:00",
+   "last_attempt": "2026-11-26T05:04:53+00:00",
    "published": "2026-11-24T09:00:11+00:00",
    "status": "pending",
    "video": {
