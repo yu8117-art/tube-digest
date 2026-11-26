@@ -3987,19 +3987,14 @@
    "wait_checks": 0
   },
   "7Jua7YFrtjo": {
+   "done_at": "2026-11-26T17:49:54+00:00",
    "errors": 0,
    "first_seen": "2026-11-26T07:04:38+00:00",
-   "last_attempt": "2026-11-26T13:04:41+00:00",
+   "last_attempt": "2026-11-26T17:49:41+00:00",
+   "notified": "2026-11-26T17:50:51+00:00",
    "published": "2026-11-26T07:00:39+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#K리그 #파주 #황보관",
-    "published": "2026-11-26T07:00:39+00:00",
-    "title": "\"인기에 비해 과도한 연봉\" 월급 못주는 시민구단? 이제 제대로 잡겠다.. K리그 쇄신안 발표",
-    "video_id": "7Jua7YFrtjo"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "7KKBhovDNJU": {
@@ -17568,7 +17563,7 @@
   "a_1OnZ1LjwU": {
    "errors": 0,
    "first_seen": "2026-11-26T07:34:48+00:00",
-   "last_attempt": "2026-11-26T13:21:05+00:00",
+   "last_attempt": "2026-11-26T17:49:54+00:00",
    "published": "2026-11-26T07:30:58+00:00",
    "status": "pending",
    "video": {
