@@ -1,0 +1,74 @@
+{
+ "video": {
+  "video_id": "HqQsZiSJFI8",
+  "channel_id": "UCC3yfxS5qC6PCwDzetUuEWg",
+  "channel_name": "소수몽키",
+  "title": "이번 하락장 이후 올라갈 주식은 정해졌다? 기회가 될 주식들의 특징",
+  "published": "2026-11-26T08:06:28+00:00",
+  "description": "⭐️오늘 영상에서 소개해드린 RISE 미국초대형주TOP10 ETF\n매수 인증하고 이벤트 참여하기!\nhttps://www.riseetf-event.com/event42\n📘장기 투자라면, 어떤 계좌에 담을지도 중요하니까!\nRISE ETF : 내 연금 사용설명서\nhttps://kbam.co.kr/pension/guide/pension-guide-2026",
+  "url": "https://www.youtube.com/watch?v=HqQsZiSJFI8"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/HqQsZiSJFI8/maxresdefault.jpg",
+ "source": "video",
+ "duration": 1581,
+ "summary": {
+  "headline": "하락장 이후 돈이 몰릴 주식의 조건",
+  "thumbnail_text": "지금이 가장 안 좋을 때입니다 하락이 끝나면 결국 돈 몰릴 주식들",
+  "thumbnail_answer": "AI 시대의 승자는 미국 초대형주 TOP10이며, 주인이 이끄는 방향으로 강아지 같은 주가도 결국 따라 올라간다.",
+  "conclusion": "AI 시대의 산업은 미국과 초대형주 위주로 K자 양극화가 심화된다. 하락장 속에서도 미국 초대형주 TOP10에 집중 투자하는 것이 유리하다.",
+  "key_points": [
+   "AI 산업은 미국과 초대형주 중심으로 K자 양극화가 심화된다.",
+   "유동성 증가와 정보 속도 빨라짐으로 주가와 기업의 괴리가 커졌다.",
+   "미국은 인적 자본, 자본, 세금 등 모든 면에서 압도적인 경쟁력을 가진다.",
+   "미국 기업들은 법인세 감세 혜택으로 설비 투자 여력이 매우 높다.",
+   "AI 시대의 승자는 결국 미국 초대형주이며, 포트폴리오는 시가총액 순서대로 구성하는 것이 좋다."
+  ],
+  "timeline": [
+   {
+    "seconds": 45,
+    "title": "현재 투자자 입장에서 주목해야 할 부분",
+    "points": [
+     "단기 트레이딩보다 장기적인 관점에서 산업적 측면에 집중해야 한다.",
+     "AI 산업은 파괴적이고 좁아지며 국가·기업 간 격차가 심화된다."
+    ]
+   },
+   {
+    "seconds": 234,
+    "title": "요즘 AI 주식들이 크게 흔들리는 이유",
+    "points": [
+     "과거 3미터였던 목줄이 AI 시대 들어 30미터로 길어졌다.",
+     "유동성 증가와 빠른 정보 속도가 목줄이 길어진 이유다."
+    ]
+   },
+   {
+    "seconds": 628,
+    "title": "K자 양극화가 현재 어떤 양상으로 나타나고 있나요?",
+    "points": [
+     "국가, 기업, 개인 간의 K자 양극화가 더욱 심화되고 있다.",
+     "미국을 제외한 유럽 등은 R&D 투자 부족과 규제로 뒤처지고 있다."
+    ]
+   },
+   {
+    "seconds": 1102,
+    "title": "K자의 위쪽, 즉 어디에 투자하면 될까요?",
+    "points": [
+     "미국은 인적 자본, 자본, 세금 세 가지 측면에서 압도적이다.",
+     "글로벌 시총 상위 기업과 자본시장은 미국에 집중되어 있다."
+    ]
+   }
+  ],
+  "tags": [
+   "미국주식",
+   "초대형주",
+   "ETF",
+   "K자양극화",
+   "AI투자"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 145592,
+   "output_tokens": 890
+  }
+ },
+ "created_at": "2026-11-26T21:36:30+00:00"
+}
