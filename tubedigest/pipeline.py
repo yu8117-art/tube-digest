@@ -193,6 +193,16 @@ def run(cfg: Config, dry_run: bool = False, do_notify: bool = True) -> list[str]
     discover(cfg, state)
     state.save()
 
+    # 텔레그램으로 요청했다가 Gemini 한도 초과·과부하로 대기열에 들어간 영상을 먼저, 요청 순서대로 처리한다.
+    # 사용자가 직접 요청한 것이라 구독 영상보다 앞에 둔다. 답장은 원래 링크 메시지에 붙는다.
+    if not dry_run and gemini.available():
+        from .inbox import process_queue  # inbox가 pipeline을 가져다 쓰므로 순환을 피해 여기서 가져온다
+        deadline = started + cfg.run_budget_minutes * 60
+        gemini.set_deadline(deadline)
+        answered = process_queue(cfg, deadline)
+        if answered:
+            log.info("대기열 요청 %d건 요약·답장", answered)
+
     done = process_pending(cfg, state, started)
     state.save()
     if dry_run:

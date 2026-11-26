@@ -22,8 +22,12 @@ def git_pull() -> None:
 
 def git_publish(message: str, paths: tuple[str, ...] = ("data",)) -> bool:
     """paths의 변경분만 커밋하고, 아직 안 올라간 커밋이 있으면 push한다. push했으면 True."""
-    _git("add", "--", *paths)
-    if _git("diff", "--cached", "--quiet", "--", *paths).returncode != 0:
+    # 디스크에도 저장소에도 없는 경로(예: 아직 아무것도 안 들어간 data/queue)를 넘기면 git이 add·commit 전체를
+    # 거절해 다른 변경까지 저장되지 않는다. 그런 경로는 뺀다. 지워진 파일은 저장소에 있으니 남는다.
+    paths = tuple(p for p in paths if (ROOT / p).exists() or _git("ls-files", "--", p).stdout.strip())
+    if paths:
+        _git("add", "--", *paths)
+    if paths and _git("diff", "--cached", "--quiet", "--", *paths).returncode != 0:
         c = _git("commit", "-m", message, "--", *paths)  # 다른 파일의 변경은 섞지 않는다
         if c.returncode != 0:
             raise RuntimeError(f"git commit 실패: {c.stderr.strip()}")

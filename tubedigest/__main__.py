@@ -59,11 +59,11 @@ def cmd_telegram(args) -> None:
     if update:
         # 웹훅 요청은 메시지마다 실행이 따로 떠서 동시에 돌 수 있다 → 서로 다른 파일(영상별 요약)만 커밋한다
         n = process_update(cfg, json.loads(update))
-        paths = ("data/articles",)
+        paths = ("data/articles", "data/queue")
     else:
         with RunLock(DATA_DIR / "inbox.lock"):
             n = process_inbox(cfg)
-        paths = ("data/telegram.json", "data/articles")  # 처리 위치(offset)를 저장해야 같은 메시지를 다시 처리하지 않는다
+        paths = ("data/telegram.json", "data/articles", "data/queue")  # 처리 위치(offset)를 저장해야 같은 메시지를 다시 처리하지 않는다
     if cfg.git_push:
         git_publish("digest: 텔레그램 요청 처리", paths=paths)
     print(f"텔레그램 요청 {n}건 요약·전송")
