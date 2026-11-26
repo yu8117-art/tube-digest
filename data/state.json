@@ -862,6 +862,22 @@
    },
    "wait_checks": 0
   },
+  "0_Ri0IWfDZg": {
+   "errors": 0,
+   "first_seen": "2026-11-26T03:04:40+00:00",
+   "last_attempt": "2026-11-26T03:05:04+00:00",
+   "published": "2026-11-26T03:00:05+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCDSj40X9FFUAnx1nv7gQhcA",
+    "channel_name": "월급쟁이부자들TV",
+    "description": "🏠 대한민국에서 직장인이 부동산으로 부를 일구는 과정\n나도 전환점을 만들고 싶다면?\nhttps://link.weolbu.com/48Gcq96 (선착순 마감됩니다)\n\n구해줘월부 사연 타임라인\n- \n\n#부동산 #내집마련 #부동산사연 #부동산재테크 #구해줘월부 #월부강의 #월부후기",
+    "published": "2026-11-26T03:00:05+00:00",
+    "title": "\"이 집은'돈이 아니라 '독'이에요\" 이런 집은 제발 사면 안 됩니다... (구해줘월부 사연)",
+    "video_id": "0_Ri0IWfDZg"
+   },
+   "wait_checks": 0
+  },
   "0aDCWyUcvm4": {
    "done_at": "2026-10-15T22:05:05+00:00",
    "errors": 0,
