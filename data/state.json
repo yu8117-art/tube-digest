@@ -871,19 +871,14 @@
    "wait_checks": 0
   },
   "0_Ri0IWfDZg": {
+   "done_at": "2026-11-26T10:39:56+00:00",
    "errors": 0,
    "first_seen": "2026-11-26T03:04:40+00:00",
-   "last_attempt": "2026-11-26T03:05:04+00:00",
+   "last_attempt": "2026-11-26T10:38:59+00:00",
+   "notified": "2026-11-26T10:41:22+00:00",
    "published": "2026-11-26T03:00:05+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCDSj40X9FFUAnx1nv7gQhcA",
-    "channel_name": "월급쟁이부자들TV",
-    "description": "🏠 대한민국에서 직장인이 부동산으로 부를 일구는 과정\n나도 전환점을 만들고 싶다면?\nhttps://link.weolbu.com/48Gcq96 (선착순 마감됩니다)\n\n구해줘월부 사연 타임라인\n- \n\n#부동산 #내집마련 #부동산사연 #부동산재테크 #구해줘월부 #월부강의 #월부후기",
-    "published": "2026-11-26T03:00:05+00:00",
-    "title": "\"이 집은'돈이 아니라 '독'이에요\" 이런 집은 제발 사면 안 됩니다... (구해줘월부 사연)",
-    "video_id": "0_Ri0IWfDZg"
-   },
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "0aDCWyUcvm4": {
@@ -2584,15 +2579,7 @@
    "errors": 0,
    "first_seen": "2026-11-26T08:04:45+00:00",
    "published": "2026-11-26T07:50:57+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCFhF5oooL5ugxHKvTxBD75Q",
-    "channel_name": "땅집고",
-    "description": "#부동산 #전망 #김학렬\n💚김학렬 소장님의 신간 '이제부터는 오를 곳만 오른다' 이벤트 참여하기👉https://naver.me/x1ulsmS8",
-    "published": "2026-11-26T07:50:57+00:00",
-    "title": "[특집LIVE] 서울·경기·지방 공통 공식, 내년 집값 오를 곳은 '전세'에서 티가 납니다ㅣ김학렬 소장",
-    "video_id": "4Np7Zmd9YbE"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "4O4tolNO4Jk": {
@@ -10910,18 +10897,14 @@
    "wait_checks": 0
   },
   "Mp0M5y1YuG8": {
+   "done_at": "2026-11-26T10:38:59+00:00",
    "errors": 0,
    "first_seen": "2026-11-26T10:04:42+00:00",
+   "last_attempt": "2026-11-26T10:36:42+00:00",
+   "notified": "2026-11-26T10:41:22+00:00",
    "published": "2026-11-26T10:00:18+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
-    "channel_name": "부읽남TV_내집마련부터건물주까지",
-    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n중국 기습 배터리 포기 선언, 전 세계가 한국 배터리만 찾는 이유\n“중국 반도체, 로봇 다 소용없다” 사상초월 파국이 눈앞에 닥쳤다\n“싸다고 BYD 샀다가 발칵” 지금 중국 전기차 난리난 이유\n\n☞촬영일: 26년 11월 20일",
-    "published": "2026-11-26T10:00:18+00:00",
-    "title": "중국 기습 배터리 포기 선언, 전 세계가 한국 배터리만 찾는 이유 [윤석천 경제평론가 풀버전]",
-    "video_id": "Mp0M5y1YuG8"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "MquyQrOqYuI": {
@@ -17147,15 +17130,7 @@
    "errors": 0,
    "first_seen": "2026-11-26T09:04:40+00:00",
    "published": "2026-11-26T08:49:53+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-11-26T08:49:53+00:00",
-    "title": "\"이강인 오프더볼, 영향력 더 있어야 한다\" 쓴소리 나오기 시작한 스페인 평가 / 맨유 또 키퍼실수,, 포체티노 높은 수비라인 / K리그 아챔 실패이유는?",
-    "video_id": "_YU9Zogrw_s"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "_Yv88ytA6VA": {
@@ -28742,7 +28717,7 @@
   "yru3KU-EdeE": {
    "errors": 0,
    "first_seen": "2026-11-25T10:04:31+00:00",
-   "last_attempt": "2026-11-26T03:35:08+00:00",
+   "last_attempt": "2026-11-26T10:39:56+00:00",
    "published": "2026-11-25T10:00:33+00:00",
    "status": "pending",
    "video": {
