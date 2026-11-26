@@ -10325,7 +10325,7 @@
   "LivyGdY2LQM": {
    "errors": 0,
    "first_seen": "2026-11-25T12:34:39+00:00",
-   "last_attempt": "2026-11-25T21:50:14+00:00",
+   "last_attempt": "2026-11-26T01:57:40+00:00",
    "published": "2026-11-25T12:25:04+00:00",
    "status": "pending",
    "video": {
@@ -10461,6 +10461,21 @@
     "published": "2026-11-20T09:00:09+00:00",
     "title": "50번만에 사람의 정밀함을 따라잡는 로봇 ㄷㄷ",
     "video_id": "LwSECD5SGAI"
+   },
+   "wait_checks": 0
+  },
+  "M4RPyt_uTlA": {
+   "errors": 0,
+   "first_seen": "2026-11-26T01:57:40+00:00",
+   "published": "2026-11-26T01:52:06+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMnFS27HnroIc1D4ct37TUA",
+    "channel_name": "위폴 WePoll",
+    "description": "▶︎ 촬영일 : 2026. 11. 26\n     출연자 : 박종훈\n\n🗳️ Wepoll : https://wepoll.kr\n\n▶︎ 미국 시황 바이킹스는 평일 아침 7시 20분!",
+    "published": "2026-11-26T01:52:06+00:00",
+    "title": "누가 뭐라 해도 미국은 미국이다",
+    "video_id": "M4RPyt_uTlA"
    },
    "wait_checks": 0
   },
