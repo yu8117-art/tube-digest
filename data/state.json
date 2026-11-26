@@ -5509,7 +5509,7 @@
   "AdhU8hA8iC8": {
    "errors": 0,
    "first_seen": "2026-11-26T11:04:34+00:00",
-   "last_attempt": "2026-11-26T19:49:38+00:00",
+   "last_attempt": "2026-11-26T22:22:26+00:00",
    "published": "2026-11-26T11:00:28+00:00",
    "status": "pending",
    "video": {
@@ -14558,19 +14558,14 @@
    "wait_checks": 0
   },
   "UYmSEyGpxiQ": {
+   "done_at": "2026-11-26T22:22:26+00:00",
    "errors": 0,
    "first_seen": "2026-11-25T10:04:34+00:00",
-   "last_attempt": "2026-11-26T19:34:40+00:00",
+   "last_attempt": "2026-11-26T22:19:37+00:00",
+   "notified": "2026-11-26T22:24:42+00:00",
    "published": "2026-11-25T10:00:12+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCstI8HwGQsHdqLDgyH0PImw",
-    "channel_name": "최준영 박사의 지구본 연구소",
-    "description": "🌏지구본 연구소 멤버십에 가입하여 혜택을 누려보세요!\nhttps://www.youtube.com/channel/UCstI8HwGQsHdqLDgyH0PImw/join\n\n놀라운 라인업으로 다시 돌아온 위즈덤 칼리지 2026!\n최준영 박사님과 함께 새로운 지혜의 여정이 시작됩니다.\n🎁 최대 할인 + 30만 원 상당의 혜택 전원 증정\n🎓 지금 바로 입학 등록하기 👉 https://bit.ly/3IRcyte\n\n👉https://3protv.page.link/dvgJ\n⏰바빠서 방송 볼 시간이 없다면? 핵심만 콕 짚은 요약본으로 빠르게!\n삼프로 오리지널 뉴스 콘텐츠로 만나보세요.\n👉https://3protv.page.link/dvgJ\n\n#지구본연구소 #최준영박사 #최준영\n\n🌎타임코드🌎\n00:00 미중러 회담과 신얄타\n03:17 APEC와 미중 무역전쟁\n11:33 탄소중립과 석유의 셈법\n15:57 정상 합의와 제재의 현실\n26:41 강대국 질서와 한국의 선택\n35:28 제재 시대, 기업의 대응\n39:53 2027년 세계 질서 전망",
-    "published": "2026-11-25T10:00:12+00:00",
-    "title": "미·중·러 정상회담, 한국에 이득이 되는 내용은? f. 법무법인 율촌 [지구본 초대석]",
-    "video_id": "UYmSEyGpxiQ"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "UbIJkPFbFyM": {
