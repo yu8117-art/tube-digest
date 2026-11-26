@@ -732,7 +732,7 @@
   "0JWvZlIRTG4": {
    "errors": 0,
    "first_seen": "2026-11-25T11:19:31+00:00",
-   "last_attempt": "2026-11-26T20:34:39+00:00",
+   "last_attempt": "2026-11-26T22:52:14+00:00",
    "published": "2026-11-25T11:05:29+00:00",
    "status": "pending",
    "video": {
@@ -12203,19 +12203,14 @@
    "wait_checks": 0
   },
   "PYkG_gWR44M": {
+   "done_at": "2026-11-26T22:52:14+00:00",
    "errors": 0,
    "first_seen": "2026-11-25T10:04:35+00:00",
-   "last_attempt": "2026-11-26T20:19:40+00:00",
+   "last_attempt": "2026-11-26T22:49:38+00:00",
+   "notified": "2026-11-26T22:54:53+00:00",
    "published": "2026-11-25T10:00:01+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCuKKkBSGK4e9fuaquWXorJg",
-    "channel_name": "B tv 이동진의 파이아키아",
-    "description": "🤔진정한 이해는 오해를 이해하는 거라고?!\n(출연자 : 이동진 평론가, SK브로드밴드 현호준 매니저)\n\n📚오랜만에 돌아온 [이동진의 베스트북]!!\n'그들은 그렇게 말하지 않았다'\n\n그게 갈릴레이가 한 말이 아니라고?\n알렉스 퍼거슨은 그렇게 말한 게 아니라고?\n\n근데 중요한 건 사실을 바로잡는게 아니라고?\n\n이동진 평론가와 함께 책 이야기로 떠나고 싶은 파이안이라면?\n지금 영상에서 확인하세요!\n\n통신비 얼마나 아낄 수 있을까요?\n👉 호준 매니저가 상세히 알려주는 3사 통신비 할인 총정리: https://www.youtube.com/watch?v=2i0GoFPsS6g\n👉 사은품 대신 할인 받는 바로할인 요금제: https://bit.ly/4zYcrRp\n\n콘텐츠, 가성비, 동시시청 모두 MAX\nOTT 비교할수록 결론은 B tv+ max!\n👉 B tv+ max 더 알아보기: https://bit.ly/4f2UI2a\n\n※ 욕설, 비방, 광고성 댓글은 삭제될 수 있습니다\n※ 이미지 출처 \nⒸ Getty Images / 게티이미지코리아",
-    "published": "2026-11-25T10:00:01+00:00",
-    "title": "모두가 알지만, 아무도 몰랐던 명언 Best 8",
-    "video_id": "PYkG_gWR44M"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "PYzd86R1Ios": {
