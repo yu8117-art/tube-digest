@@ -291,7 +291,7 @@
   "-YmOzIIhZSo": {
    "errors": 0,
    "first_seen": "2026-11-25T10:04:41+00:00",
-   "last_attempt": "2026-11-26T20:04:39+00:00",
+   "last_attempt": "2026-11-26T22:37:02+00:00",
    "published": "2026-11-25T10:00:05+00:00",
    "status": "pending",
    "video": {
@@ -10193,19 +10193,14 @@
    "wait_checks": 0
   },
   "LCjzBZS0bXc": {
+   "done_at": "2026-11-26T22:37:02+00:00",
    "errors": 0,
    "first_seen": "2026-11-25T15:04:35+00:00",
-   "last_attempt": "2026-11-26T19:50:27+00:00",
+   "last_attempt": "2026-11-26T22:34:44+00:00",
+   "notified": "2026-11-26T22:39:58+00:00",
    "published": "2026-11-25T15:00:15+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
-    "channel_name": "안될과학 Unrealscience",
-    "description": "데블스플랜 시즌1의 준우승자 궤도와 함께하는 데블스플랜3, 데플3 11~14화 리뷰!\n\n모든 메인매치에서 1위를 기록한 서바이벌의 신 장동민!\n그런 그가 결승전에서 처음으로 우승을 놓친 이유는 무엇일까요?\n\nAI를 활용한 히든워드 게임부터 치열했던 심리전, 결승전의 결정적 순간, 그리고 수학 공부의 중요성까지!\n방송만으로는 알 수 없었던 플레이어들의 전략과 당시의 속마음도 들어봤습니다.\n\n장동민, 서출구, 김동재 그리고 궤도가 함께하는 데블스플랜3 파이널 리뷰! 지금 시작합니다.\n#데플3 #데블스플랜3 #데블스플랜\n\n※ 본 영상에는 데블스 플랜: 데드 어게인 6~10화의 스포일러가 포함되어 있습니다.\n\n◆ Thanks to \nEditor : 권다혜\nGuest : 장동민, 서출구, 김동재\n\n◆ 안될과학-모어사이언스 스마트스토어 (과학굿즈)\nhttps://m.site.naver.com/1Yjdj\n\n◆ 안될과학 인스타그램\nhttps://www.instagram.com/unreal.science \n\n◆ 안될과학 커뮤니티\nhttps://cafe.naver.com/unrealscience\n\n◆ 안될과학 문의\nE-MAIL : MoreScience2018@gmail.com",
-    "published": "2026-11-25T15:00:15+00:00",
-    "title": "데블스 플랜: 데드 어게인 11~14화 리뷰 l 궤도, 장동민, 서출구, 김동재 l 서바이벌 최강자 장동민도 피하지 못한 수학의 함정 데블스플랜3 데플3",
-    "video_id": "LCjzBZS0bXc"
-   },
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "LDOuqa0H4UA": {
@@ -15307,6 +15302,21 @@
    },
    "wait_checks": 0
   },
+  "WCNOiGXIfms": {
+   "errors": 0,
+   "first_seen": "2026-11-26T22:34:38+00:00",
+   "published": "2026-11-26T22:30:37+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCYgVl2XoMfkvg1BzTFiyOiw",
+    "channel_name": "홈즈 부동산",
+    "description": "11/26 촬영 영상입니다.\n어떻게 될까요?",
+    "published": "2026-11-26T22:30:37+00:00",
+    "title": "금리 3.25% 부동산 시장 괜찮을까?",
+    "video_id": "WCNOiGXIfms"
+   },
+   "wait_checks": 0
+  },
   "WDPbO0Ll40I": {
    "done_at": "2026-11-14T23:23:16+00:00",
    "errors": 0,
@@ -20347,6 +20357,21 @@
    "published": "2026-11-02T09:10:18+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "gOjocsbEhkU": {
+   "errors": 0,
+   "first_seen": "2026-11-26T22:34:40+00:00",
+   "published": "2026-11-26T22:30:37+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n삼전 닉스 두 종목만 들고 있으면 정말 큰일납니다\n\n☞촬영일: 26년 11월 20일",
+    "published": "2026-11-26T22:30:37+00:00",
+    "title": "삼전 닉스 두 종목만 들고 있으면 정말 큰일납니다 [윤석천 경제평론가]",
+    "video_id": "gOjocsbEhkU"
+   },
    "wait_checks": 0
   },
   "gPc6uRSZ588": {
