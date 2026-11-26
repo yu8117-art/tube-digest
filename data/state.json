@@ -6302,6 +6302,21 @@
    "published": "2026-10-20T12:30:35+00:00",
    "status": "baseline"
   },
+  "C_OcbEZZZ-w": {
+   "errors": 0,
+   "first_seen": "2026-11-26T03:34:41+00:00",
+   "published": "2026-11-26T03:30:21+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n강남 아닌 곳 재건축 가지고 계시면 지금 빨리 집 파세요\n\n☞촬영일: 26년 11월 20일",
+    "published": "2026-11-26T03:30:21+00:00",
+    "title": "강남 아닌 곳 재건축 가지고 계시면 지금 빨리 집 파세요 [한문도 교수]",
+    "video_id": "C_OcbEZZZ-w"
+   },
+   "wait_checks": 0
+  },
   "Cbqb5TS_2mY": {
    "errors": 0,
    "first_seen": "2026-11-19T13:44:36+00:00",
@@ -28334,7 +28349,7 @@
   "yru3KU-EdeE": {
    "errors": 0,
    "first_seen": "2026-11-25T10:04:31+00:00",
-   "last_attempt": "2026-11-25T23:34:55+00:00",
+   "last_attempt": "2026-11-26T03:35:08+00:00",
    "published": "2026-11-25T10:00:33+00:00",
    "status": "pending",
    "video": {
