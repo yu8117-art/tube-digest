@@ -12852,6 +12852,21 @@
    },
    "wait_checks": 0
   },
+  "QqAFBOECxzc": {
+   "errors": 0,
+   "first_seen": "2026-11-27T03:34:50+00:00",
+   "published": "2026-11-27T03:30:39+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n10년 만에 결혼이 반으로 줄면 핵심지 말고는 결국 '이렇게' 됩니다\n\n☞촬영일: 26년 11월 20일",
+    "published": "2026-11-27T03:30:39+00:00",
+    "title": "10년 만에 결혼이 반으로 줄면 핵심지 말고는 결국 '이렇게' 됩니다 [한문도 교수]",
+    "video_id": "QqAFBOECxzc"
+   },
+   "wait_checks": 0
+  },
   "Qsv8miZJpbU": {
    "errors": 0,
    "first_seen": "2026-10-12T06:13:04+00:00",
@@ -17898,7 +17913,7 @@
   "b9oEBJlxBHM": {
    "errors": 0,
    "first_seen": "2026-11-27T01:34:38+00:00",
-   "last_attempt": "2026-11-27T03:19:41+00:00",
+   "last_attempt": "2026-11-27T03:34:55+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-27T01:26:51+00:00",
    "status": "pending",
@@ -17910,7 +17925,7 @@
     "title": "(윤지해) 서울 집값은 멈췄는데, 왜 내가 구하는 집은 더 비싸졌을까?",
     "video_id": "b9oEBJlxBHM"
    },
-   "wait_checks": 2
+   "wait_checks": 3
   },
   "bCL-XoA7r8s": {
    "errors": 0,
@@ -27092,7 +27107,7 @@
   "ut1fQthTf3c": {
    "errors": 0,
    "first_seen": "2026-11-26T10:04:43+00:00",
-   "last_attempt": "2026-11-27T03:19:44+00:00",
+   "last_attempt": "2026-11-27T03:34:57+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-26T09:54:37+00:00",
    "status": "pending",
@@ -27104,7 +27119,7 @@
     "title": "[구해줘월부 라이브] “집값 감당 못해” 서울 떠나 경기도로 떠나는 사람들 40% 급증했다. 부동산 시장에 미칠 영향은?",
     "video_id": "ut1fQthTf3c"
    },
-   "wait_checks": 18
+   "wait_checks": 19
   },
   "uvDniF5al8E": {
    "first_seen": "2026-10-09T08:14:35+00:00",
