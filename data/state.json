@@ -17965,7 +17965,7 @@
   "b9oEBJlxBHM": {
    "errors": 0,
    "first_seen": "2026-11-27T01:34:38+00:00",
-   "last_attempt": "2026-11-27T07:20:53+00:00",
+   "last_attempt": "2026-11-27T07:34:40+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-27T01:26:51+00:00",
    "status": "pending",
@@ -17977,7 +17977,7 @@
     "title": "(윤지해) 서울 집값은 멈췄는데, 왜 내가 구하는 집은 더 비싸졌을까?",
     "video_id": "b9oEBJlxBHM"
    },
-   "wait_checks": 18
+   "wait_checks": 19
   },
   "bCL-XoA7r8s": {
    "errors": 0,
@@ -27274,7 +27274,7 @@
   "ut1fQthTf3c": {
    "errors": 0,
    "first_seen": "2026-11-26T10:04:43+00:00",
-   "last_attempt": "2026-11-27T07:21:42+00:00",
+   "last_attempt": "2026-11-27T07:34:42+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-26T09:54:37+00:00",
    "status": "pending",
@@ -27286,7 +27286,7 @@
     "title": "[구해줘월부 라이브] “집값 감당 못해” 서울 떠나 경기도로 떠나는 사람들 40% 급증했다. 부동산 시장에 미칠 영향은?",
     "video_id": "ut1fQthTf3c"
    },
-   "wait_checks": 34
+   "wait_checks": 35
   },
   "uvDniF5al8E": {
    "first_seen": "2026-10-09T08:14:35+00:00",
