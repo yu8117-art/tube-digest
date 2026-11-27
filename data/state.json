@@ -7460,6 +7460,21 @@
    },
    "wait_checks": 0
   },
+  "FEWWqK4oplE": {
+   "errors": 0,
+   "first_seen": "2026-11-27T02:04:39+00:00",
+   "published": "2026-11-27T02:00:34+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+    "channel_name": "안될과학 Unrealscience",
+    "description": "나로호 1, 2차 발사 실패 이후 연구진은 어떤 시간을 보냈을까요? 발사체의 실물을 회수할 수 없는 상황에서 연구진에게 남은 것은 비행 중 전송된 텔레메트리(원격측정) 데이터뿐이었습니다. 제한된 데이터를 바탕으로 수많은 가설을 세우고 검증하며 실패 원인을 찾아야 했는데요. 원인을 규명하고 개선 사항을 입증하기 위해 400회 이상의 시험을 진행했다고 합니다. 두 번의 발사 실패를 극복하기 위해 끊임없이 노력했던 과학자들의 이야기를 만나보세요! 자세한 이야기가 궁금하다면, 유튜브 안될과학 채널에서 본 영상을 시청해 주세요!\n\n제작 지원: 방송미디어통신위원회 방송통신발전기금\n\n#극한의과학자들 #한국항공우주연구원 #안될과학 #과학다큐멘터리 #나로호 #로켓발사 #한국우주개발 #우주기술 #텔레메트리",
+    "published": "2026-11-27T02:00:34+00:00",
+    "title": "나로호 1, 2차 발사 이후 무슨 일이 있었을까?",
+    "video_id": "FEWWqK4oplE"
+   },
+   "wait_checks": 0
+  },
   "FFfEr4vaIrQ": {
    "first_seen": "2026-10-22T04:00:19+00:00",
    "published": "2026-10-20T10:00:13+00:00",
@@ -27023,7 +27038,7 @@
   "ut1fQthTf3c": {
    "errors": 0,
    "first_seen": "2026-11-26T10:04:43+00:00",
-   "last_attempt": "2026-11-27T01:49:43+00:00",
+   "last_attempt": "2026-11-27T02:04:52+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-26T09:54:37+00:00",
    "status": "pending",
@@ -27035,7 +27050,7 @@
     "title": "[구해줘월부 라이브] “집값 감당 못해” 서울 떠나 경기도로 떠나는 사람들 40% 급증했다. 부동산 시장에 미칠 영향은?",
     "video_id": "ut1fQthTf3c"
    },
-   "wait_checks": 11
+   "wait_checks": 12
   },
   "uvDniF5al8E": {
    "first_seen": "2026-10-09T08:14:35+00:00",
