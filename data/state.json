@@ -27008,7 +27008,7 @@
   "ut1fQthTf3c": {
    "errors": 0,
    "first_seen": "2026-11-26T10:04:43+00:00",
-   "last_attempt": "2026-11-27T00:32:54+00:00",
+   "last_attempt": "2026-11-27T00:43:33+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-26T09:54:37+00:00",
    "status": "pending",
@@ -27020,7 +27020,7 @@
     "title": "[구해줘월부 라이브] “집값 감당 못해” 서울 떠나 경기도로 떠나는 사람들 40% 급증했다. 부동산 시장에 미칠 영향은?",
     "video_id": "ut1fQthTf3c"
    },
-   "wait_checks": 5
+   "wait_checks": 6
   },
   "uvDniF5al8E": {
    "first_seen": "2026-10-09T08:14:35+00:00",
