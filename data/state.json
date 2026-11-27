@@ -24041,6 +24041,21 @@
    "published": "2026-06-25T12:38:13+00:00",
    "status": "baseline"
   },
+  "oSCkk28oe8g": {
+   "errors": 0,
+   "first_seen": "2026-11-27T02:34:44+00:00",
+   "published": "2026-11-27T02:23:46+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#모레노 #전강위 #축협 #파주",
+    "published": "2026-11-27T02:23:46+00:00",
+    "title": "모레노 재계약 논의/ 파주 사태/ 협회장 선거 어떻게 되나 [이준희 기자 초대석]",
+    "video_id": "oSCkk28oe8g"
+   },
+   "wait_checks": 0
+  },
   "oVL1J8K1t_w": {
    "done_at": "2026-11-22T01:29:28+00:00",
    "errors": 0,
@@ -27053,7 +27068,7 @@
   "ut1fQthTf3c": {
    "errors": 0,
    "first_seen": "2026-11-26T10:04:43+00:00",
-   "last_attempt": "2026-11-27T02:19:41+00:00",
+   "last_attempt": "2026-11-27T02:34:51+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-26T09:54:37+00:00",
    "status": "pending",
@@ -27065,7 +27080,7 @@
     "title": "[구해줘월부 라이브] “집값 감당 못해” 서울 떠나 경기도로 떠나는 사람들 40% 급증했다. 부동산 시장에 미칠 영향은?",
     "video_id": "ut1fQthTf3c"
    },
-   "wait_checks": 13
+   "wait_checks": 14
   },
   "uvDniF5al8E": {
    "first_seen": "2026-10-09T08:14:35+00:00",
