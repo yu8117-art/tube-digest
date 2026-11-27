@@ -4922,6 +4922,17 @@
    },
    "wait_checks": 0
   },
+  "99YEE1z18K4": {
+   "done_at": "2026-11-27T07:20:00+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-27T07:19:38+00:00",
+   "last_attempt": "2026-11-27T07:19:41+00:00",
+   "notified": "2026-11-27T07:22:43+00:00",
+   "published": "2026-11-27T07:12:19+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "99kUk8Wohcw": {
    "errors": 0,
    "first_seen": "2026-11-26T12:04:32+00:00",
@@ -17954,7 +17965,7 @@
   "b9oEBJlxBHM": {
    "errors": 0,
    "first_seen": "2026-11-27T01:34:38+00:00",
-   "last_attempt": "2026-11-27T07:05:07+00:00",
+   "last_attempt": "2026-11-27T07:20:53+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-27T01:26:51+00:00",
    "status": "pending",
@@ -17966,7 +17977,7 @@
     "title": "(윤지해) 서울 집값은 멈췄는데, 왜 내가 구하는 집은 더 비싸졌을까?",
     "video_id": "b9oEBJlxBHM"
    },
-   "wait_checks": 17
+   "wait_checks": 18
   },
   "bCL-XoA7r8s": {
    "errors": 0,
@@ -23804,6 +23815,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "nWT1wAJBgn8": {
+   "done_at": "2026-11-27T07:20:53+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-27T07:19:33+00:00",
+   "last_attempt": "2026-11-27T07:20:00+00:00",
+   "notified": "2026-11-27T07:22:42+00:00",
+   "published": "2026-11-27T07:10:31+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "nY8VJOgxVBI": {
    "first_seen": "2026-10-09T08:14:34+00:00",
    "published": "2026-10-09T00:00:09+00:00",
@@ -27252,7 +27274,7 @@
   "ut1fQthTf3c": {
    "errors": 0,
    "first_seen": "2026-11-26T10:04:43+00:00",
-   "last_attempt": "2026-11-27T07:05:40+00:00",
+   "last_attempt": "2026-11-27T07:21:42+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-26T09:54:37+00:00",
    "status": "pending",
@@ -27264,7 +27286,7 @@
     "title": "[구해줘월부 라이브] “집값 감당 못해” 서울 떠나 경기도로 떠나는 사람들 40% 급증했다. 부동산 시장에 미칠 영향은?",
     "video_id": "ut1fQthTf3c"
    },
-   "wait_checks": 33
+   "wait_checks": 34
   },
   "uvDniF5al8E": {
    "first_seen": "2026-10-09T08:14:35+00:00",
