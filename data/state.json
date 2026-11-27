@@ -17913,7 +17913,7 @@
   "b9oEBJlxBHM": {
    "errors": 0,
    "first_seen": "2026-11-27T01:34:38+00:00",
-   "last_attempt": "2026-11-27T03:49:47+00:00",
+   "last_attempt": "2026-11-27T04:04:40+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-27T01:26:51+00:00",
    "status": "pending",
@@ -17925,7 +17925,7 @@
     "title": "(윤지해) 서울 집값은 멈췄는데, 왜 내가 구하는 집은 더 비싸졌을까?",
     "video_id": "b9oEBJlxBHM"
    },
-   "wait_checks": 4
+   "wait_checks": 5
   },
   "bCL-XoA7r8s": {
    "errors": 0,
@@ -24088,15 +24088,7 @@
    "errors": 0,
    "first_seen": "2026-11-27T02:34:44+00:00",
    "published": "2026-11-27T02:23:46+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#모레노 #전강위 #축협 #파주",
-    "published": "2026-11-27T02:23:46+00:00",
-    "title": "모레노 재계약 논의/ 파주 사태/ 협회장 선거 어떻게 되나 [이준희 기자 초대석]",
-    "video_id": "oSCkk28oe8g"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "oVL1J8K1t_w": {
@@ -27122,7 +27114,7 @@
   "ut1fQthTf3c": {
    "errors": 0,
    "first_seen": "2026-11-26T10:04:43+00:00",
-   "last_attempt": "2026-11-27T03:49:48+00:00",
+   "last_attempt": "2026-11-27T04:04:42+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-26T09:54:37+00:00",
    "status": "pending",
@@ -27134,7 +27126,7 @@
     "title": "[구해줘월부 라이브] “집값 감당 못해” 서울 떠나 경기도로 떠나는 사람들 40% 급증했다. 부동산 시장에 미칠 영향은?",
     "video_id": "ut1fQthTf3c"
    },
-   "wait_checks": 20
+   "wait_checks": 21
   },
   "uvDniF5al8E": {
    "first_seen": "2026-10-09T08:14:35+00:00",
