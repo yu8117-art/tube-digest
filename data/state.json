@@ -18168,7 +18168,7 @@
   "b9oEBJlxBHM": {
    "errors": 0,
    "first_seen": "2026-11-27T01:34:38+00:00",
-   "last_attempt": "2026-11-27T11:08:06+00:00",
+   "last_attempt": "2026-11-27T11:19:42+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-27T01:26:51+00:00",
    "status": "pending",
@@ -18180,7 +18180,7 @@
     "title": "(윤지해) 서울 집값은 멈췄는데, 왜 내가 구하는 집은 더 비싸졌을까?",
     "video_id": "b9oEBJlxBHM"
    },
-   "wait_checks": 33
+   "wait_checks": 34
   },
   "bCL-XoA7r8s": {
    "errors": 0,
@@ -20049,15 +20049,7 @@
    "errors": 0,
    "first_seen": "2026-11-27T02:19:34+00:00",
    "published": "2026-11-27T02:19:24+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
-    "channel_name": "새벽의 축구 전문가",
-    "description": "#이강인 #AT마드리드 #국가대표",
-    "published": "2026-11-27T02:19:24+00:00",
-    "title": "\"이강인 오프더볼, 영향력 더 있어야 한다\" 쓴소리 나오기 시작한 스페인 평가 / 맨유 또 키퍼실수,, 포체티노 높은 수비라인 / K리그 아챔 실패이유는?",
-    "video_id": "elbZZa_XxbA"
-   },
+   "status": "skipped_live",
    "wait_checks": 0
   },
   "emJPRnfuk3s": {
@@ -20117,6 +20109,21 @@
     "published": "2026-11-18T07:00:15+00:00",
     "title": "결국 1등을 먹어버린 레전드 AI 음악",
     "video_id": "exznkZb76Qw"
+   },
+   "wait_checks": 0
+  },
+  "ez7YY1yciRk": {
+   "errors": 0,
+   "first_seen": "2026-11-27T11:19:38+00:00",
+   "published": "2026-11-27T11:16:14+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC1Do3xw9OuUk7FQuPTmSVOw",
+    "channel_name": "지식보관소",
+    "description": "Instagram ID @archiveyoutube\n#양자중첩 #양자역학 #양자기준계 #물리학 #지식보관소 #Shorts\n\n실험실에서 보면 입자 하나가 왼쪽과 오른쪽에 동시에 있는 상태입니다. 그런데 좌표의 원점을 그 입자에 놓으면, 이번에는 실험실이 서로 다른 두 위치에 있는 것으로 기술됩니다. 같은 상황을 두 기준에서 어떻게 설명할 수 있을까요? 영상 속 ‘내가 중첩된다’는 질문을 양자 기준계의 관점에서 살펴봅니다.\n\n영상에서 소개한 2019년 이론 연구 (Nature Communications)\nhttps://www.nature.com/articles/s41467-018-08155-0\n\n원본영상\nhttps://youtu.be/Ae9pN-g_3Bs?si=V2MJ2R9UXxx2BhAi\n\n------- 본계정(지식보관소) -------\nhttps://www.youtube.com/@지식보관소\n-----------게임 개발 관련-----------\nhttps://asdfg3663-alt.github.io/\n------- 비지니스 문의 -------\nE-Mail : asdfg3663@gmail.com",
+    "published": "2026-11-27T11:16:14+00:00",
+    "title": "사실 입자가 중첩된게 아니라 상대적 시공간이 종첩된것일수 있다",
+    "video_id": "ez7YY1yciRk"
    },
    "wait_checks": 0
   },
