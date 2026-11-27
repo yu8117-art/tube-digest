@@ -7752,6 +7752,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "FlZRRXlsKe0": {
+   "done_at": "2026-11-27T10:06:27+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-27T10:04:42+00:00",
+   "last_attempt": "2026-11-27T10:04:47+00:00",
+   "notified": "2026-11-27T10:07:33+00:00",
+   "published": "2026-11-27T10:00:20+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "FmchZg8LamE": {
    "errors": 0,
    "first_seen": "2026-11-19T13:44:33+00:00",
@@ -9506,6 +9517,21 @@
     "published": "2026-10-27T09:00:34+00:00",
     "title": "🚨 전세계 70%가 난리난 PHP 취약점 사태",
     "video_id": "J7Bw0hNFBT4"
+   },
+   "wait_checks": 0
+  },
+  "J8LLTy2yTeQ": {
+   "errors": 0,
+   "first_seen": "2026-11-27T10:04:46+00:00",
+   "published": "2026-11-27T10:00:35+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+    "channel_name": "조코딩 JoCoding",
+    "description": "조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418\nAX 컨설팅 및 교육 문의: https://jocodingax.ai\n조코헌트: https://jocohunt.jocoding.io/\n\nVVIP 멤버십 후원\n그림자그림자님, Sicongbabe님, 정진균님, 시원-r9u님, GomnaStudio님, 천사슥님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#ai #비밀번호 #함정",
+    "published": "2026-11-27T10:00:35+00:00",
+    "title": "비밀번호로 함정을 판 사람의 최후",
+    "video_id": "J8LLTy2yTeQ"
    },
    "wait_checks": 0
   },
@@ -18061,7 +18087,7 @@
   "b9oEBJlxBHM": {
    "errors": 0,
    "first_seen": "2026-11-27T01:34:38+00:00",
-   "last_attempt": "2026-11-27T09:49:44+00:00",
+   "last_attempt": "2026-11-27T10:06:28+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-27T01:26:51+00:00",
    "status": "pending",
@@ -18073,7 +18099,7 @@
     "title": "(윤지해) 서울 집값은 멈췄는데, 왜 내가 구하는 집은 더 비싸졌을까?",
     "video_id": "b9oEBJlxBHM"
    },
-   "wait_checks": 28
+   "wait_checks": 29
   },
   "bCL-XoA7r8s": {
    "errors": 0,
@@ -27442,20 +27468,15 @@
    "wait_checks": 0
   },
   "ut1fQthTf3c": {
+   "done_at": "2026-11-27T10:07:32+00:00",
    "errors": 0,
    "first_seen": "2026-11-26T10:04:43+00:00",
-   "last_attempt": "2026-11-27T09:49:45+00:00",
+   "last_attempt": "2026-11-27T10:06:29+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
+   "notified": "2026-11-27T10:07:33+00:00",
    "published": "2026-11-26T09:54:37+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCDSj40X9FFUAnx1nv7gQhcA",
-    "channel_name": "월급쟁이부자들TV",
-    "description": "🏠 “모은 돈이 적은데, 제 돈으로 어디를 사야할까요?” 자음과모음이 부동산 고르는 기준과 원칙을 알려드립니다  \nhttps://link.weolbu.com/4erjlq6\n\n[너나위 칼럼] 부동산, 주식시장 혼란이 극에 달하고 있습니다. 2027년을 이렇게 준비하세요\nhttps://link.weolbu.com/4iCwLls\n\n가족, 친구에게도 말 못한 재테크 고민이 있다면?\n구해줘월부 사연 남기고 너나위, 자음과모음, 잔쟈니님에게 1:1 솔루션을 받으세요\n✏️ https://link.weolbu.com/4geG6yv\n\n#내집마련 #부동산투자 #집값전망 #영끌 #무주택자 #서울아파트  #환율 #직장인투자",
-    "published": "2026-11-26T09:54:37+00:00",
-    "title": "[구해줘월부 라이브] “집값 감당 못해” 서울 떠나 경기도로 떠나는 사람들 40% 급증했다. 부동산 시장에 미칠 영향은?",
-    "video_id": "ut1fQthTf3c"
-   },
+   "source": "metadata",
+   "status": "done",
    "wait_checks": 44
   },
   "uvDniF5al8E": {
