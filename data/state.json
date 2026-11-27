@@ -2318,6 +2318,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "3h2zPF0hkHY": {
+   "done_at": "2026-11-27T09:08:05+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-27T09:04:43+00:00",
+   "last_attempt": "2026-11-27T09:06:12+00:00",
+   "notified": "2026-11-27T09:12:18+00:00",
+   "published": "2026-11-27T09:00:06+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "3hXRMv70gtw": {
    "errors": 0,
    "first_seen": "2026-11-21T07:30:34+00:00",
@@ -8517,6 +8528,21 @@
    },
    "wait_checks": 0
   },
+  "H33d-PuZ0No": {
+   "errors": 0,
+   "first_seen": "2026-11-27T09:04:46+00:00",
+   "published": "2026-11-27T09:00:04+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 \n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-27T09:00:04+00:00",
+    "title": "공급 없이 규제만 늘린 결과",
+    "video_id": "H33d-PuZ0No"
+   },
+   "wait_checks": 0
+  },
   "H4bE5_eEVHU": {
    "errors": 0,
    "first_seen": "2026-11-25T08:16:25+00:00",
@@ -13163,6 +13189,17 @@
    "notified": "2026-10-30T23:29:45+00:00",
    "published": "2026-10-30T23:00:01+00:00",
    "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "RPu6zA90l6I": {
+   "done_at": "2026-11-27T09:06:12+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-27T09:04:46+00:00",
+   "last_attempt": "2026-11-27T09:05:13+00:00",
+   "notified": "2026-11-27T09:12:18+00:00",
+   "published": "2026-11-27T09:00:14+00:00",
+   "source": "video",
    "status": "done",
    "wait_checks": 0
   },
@@ -18024,7 +18061,7 @@
   "b9oEBJlxBHM": {
    "errors": 0,
    "first_seen": "2026-11-27T01:34:38+00:00",
-   "last_attempt": "2026-11-27T08:49:43+00:00",
+   "last_attempt": "2026-11-27T09:10:22+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-27T01:26:51+00:00",
    "status": "pending",
@@ -18036,7 +18073,7 @@
     "title": "(윤지해) 서울 집값은 멈췄는데, 왜 내가 구하는 집은 더 비싸졌을까?",
     "video_id": "b9oEBJlxBHM"
    },
-   "wait_checks": 24
+   "wait_checks": 25
   },
   "bCL-XoA7r8s": {
    "errors": 0,
@@ -22806,6 +22843,23 @@
    "published": "2026-09-30T10:31:21+00:00",
    "status": "baseline"
   },
+  "l8mzxx0DyFU": {
+   "errors": 0,
+   "first_seen": "2026-11-27T09:04:51+00:00",
+   "last_attempt": "2026-11-27T09:08:17+00:00",
+   "last_error": "GeminiError: 구간 노트가 비어 있음 (30:00~31:37)",
+   "published": "2026-11-27T08:52:30+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCMnFS27HnroIc1D4ct37TUA",
+    "channel_name": "위폴 WePoll",
+    "description": "00:00 인트로\n00:16 반등을 기다리는 시장\n01:59 금리와 물가의 부담\n06:27 AI 투자와 자금 조달\n12:37 반등의 조건과 신용위험\n15:25 AI 회복과 소프트웨어\n22:10 ETF 편입 시점의 차이\n24:52 미네소타 와일드 ETF\n26:50 물가와 관세의 변수\n27:24 밸류에이션의 함정\n31:26 아웃트로\n\n▶︎ 촬영일 : 2026. 11. 27 (금)\n출연자 : 박종훈, 하나증권 박승진 실장\n\n🗳️ Wepoll : https://wepoll.kr\n\n▶︎ 미국 시황 바이킹스는 평일 아침 7시 20분!",
+    "published": "2026-11-27T08:52:30+00:00",
+    "title": "시장의 방향을 바꿀 요소가 필요하다...실적으로 증명해야하는 증권인의 ETF 해설 대방출 (하나증권 리서치센터 박승진 실장) / 위폴 버디버디",
+    "video_id": "l8mzxx0DyFU"
+   },
+   "wait_checks": 1
+  },
   "l9abba2YOlA": {
    "errors": 0,
    "first_seen": "2026-11-11T08:22:34+00:00",
@@ -24999,6 +25053,17 @@
    },
    "wait_checks": 0
   },
+  "pemz1qg3YVE": {
+   "done_at": "2026-11-27T09:08:17+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-27T09:04:48+00:00",
+   "last_attempt": "2026-11-27T09:08:05+00:00",
+   "notified": "2026-11-27T09:12:19+00:00",
+   "published": "2026-11-27T09:00:02+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "pgDEK7NlCVc": {
    "first_seen": "2026-10-09T08:14:36+00:00",
    "published": "2026-09-11T10:03:00+00:00",
@@ -27148,6 +27213,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "uVA4DGJxi0g": {
+   "done_at": "2026-11-27T09:05:13+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-27T09:04:40+00:00",
+   "last_attempt": "2026-11-27T09:04:51+00:00",
+   "notified": "2026-11-27T09:12:17+00:00",
+   "published": "2026-11-27T09:00:23+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "uVPI0vjGfMg": {
    "done_at": "2026-10-14T22:16:21+00:00",
    "errors": 0,
@@ -27370,7 +27446,7 @@
   "ut1fQthTf3c": {
    "errors": 0,
    "first_seen": "2026-11-26T10:04:43+00:00",
-   "last_attempt": "2026-11-27T08:49:45+00:00",
+   "last_attempt": "2026-11-27T09:11:17+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-26T09:54:37+00:00",
    "status": "pending",
@@ -27382,7 +27458,7 @@
     "title": "[구해줘월부 라이브] “집값 감당 못해” 서울 떠나 경기도로 떠나는 사람들 40% 급증했다. 부동산 시장에 미칠 영향은?",
     "video_id": "ut1fQthTf3c"
    },
-   "wait_checks": 40
+   "wait_checks": 41
   },
   "uvDniF5al8E": {
    "first_seen": "2026-10-09T08:14:35+00:00",
@@ -28770,6 +28846,21 @@
    "published": "2026-10-28T12:52:47+00:00",
    "source": "video_notes",
    "status": "done",
+   "wait_checks": 0
+  },
+  "xnZKUsY_fC0": {
+   "errors": 0,
+   "first_seen": "2026-11-27T09:04:50+00:00",
+   "published": "2026-11-27T09:00:31+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+    "channel_name": "조코딩 JoCoding",
+    "description": "조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418\nAX 컨설팅 및 교육 문의: https://jocodingax.ai\n조코헌트: https://jocohunt.jocoding.io/\n\nVVIP 멤버십 후원\n그림자그림자님, Sicongbabe님, 정진균님, 시원-r9u님, GomnaStudio님, 천사슥님, bellati272님, happypink81님, kogurean9님 감사드립니다.\nhttps://www.youtube.com/@jocoding/join\n\n#ai #윈도우 #취약점 #해킹",
+    "published": "2026-11-27T09:00:31+00:00",
+    "title": "윈도우 잠금을 우회하는 미친 취약점 발견;;;",
+    "video_id": "xnZKUsY_fC0"
+   },
    "wait_checks": 0
   },
   "xpmERd8pUcw": {
