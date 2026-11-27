@@ -233,6 +233,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "-IkXAyqoPlU": {
+   "done_at": "2026-11-27T08:35:13+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-27T08:34:39+00:00",
+   "last_attempt": "2026-11-27T08:34:45+00:00",
+   "notified": "2026-11-27T08:36:46+00:00",
+   "published": "2026-11-27T08:30:06+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "-J8euydUOzU": {
    "errors": 0,
    "first_seen": "2026-11-24T05:40:28+00:00",
@@ -14320,6 +14331,21 @@
    },
    "wait_checks": 0
   },
+  "TxP0uCKXFqk": {
+   "errors": 0,
+   "first_seen": "2026-11-27T08:34:42+00:00",
+   "published": "2026-11-27T08:30:08+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC2QeHNJFfuQWB4cy3M-745g",
+    "channel_name": "부읽남TV_내집마련부터건물주까지",
+    "description": "🎉부읽남 공식 멤버십 [바이집] 가입하기\n👉http://link.fanding.com/JfMY/bhhsbl94\n\n📌 여러분의 사연을 기다립니다!\n👉https://bit.ly/buiknam_story\n\n📘 『운명을 바꾸는 부동산 투자수업』\n👉http://bit.ly/3tML9k0\n\n배터리 주식 급락에도 안 팔고 버티면 결국 '이렇게' 될 겁니다\n\n☞촬영일: 26년 11월 20일",
+    "published": "2026-11-27T08:30:08+00:00",
+    "title": "배터리 주식 급락에도 안 팔고 버티면 결국 '이렇게' 될 겁니다 [윤석천 경제평론가]",
+    "video_id": "TxP0uCKXFqk"
+   },
+   "wait_checks": 0
+  },
   "TxuzfeSWxdw": {
    "done_at": "2026-11-26T21:22:19+00:00",
    "errors": 0,
@@ -17998,7 +18024,7 @@
   "b9oEBJlxBHM": {
    "errors": 0,
    "first_seen": "2026-11-27T01:34:38+00:00",
-   "last_attempt": "2026-11-27T08:19:36+00:00",
+   "last_attempt": "2026-11-27T08:35:14+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-27T01:26:51+00:00",
    "status": "pending",
@@ -18010,7 +18036,7 @@
     "title": "(윤지해) 서울 집값은 멈췄는데, 왜 내가 구하는 집은 더 비싸졌을까?",
     "video_id": "b9oEBJlxBHM"
    },
-   "wait_checks": 22
+   "wait_checks": 23
   },
   "bCL-XoA7r8s": {
    "errors": 0,
@@ -27344,7 +27370,7 @@
   "ut1fQthTf3c": {
    "errors": 0,
    "first_seen": "2026-11-26T10:04:43+00:00",
-   "last_attempt": "2026-11-27T08:19:38+00:00",
+   "last_attempt": "2026-11-27T08:35:46+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-26T09:54:37+00:00",
    "status": "pending",
@@ -27356,7 +27382,7 @@
     "title": "[구해줘월부 라이브] “집값 감당 못해” 서울 떠나 경기도로 떠나는 사람들 40% 급증했다. 부동산 시장에 미칠 영향은?",
     "video_id": "ut1fQthTf3c"
    },
-   "wait_checks": 38
+   "wait_checks": 39
   },
   "uvDniF5al8E": {
    "first_seen": "2026-10-09T08:14:35+00:00",
