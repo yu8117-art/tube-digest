@@ -1897,6 +1897,17 @@
    },
    "wait_checks": 0
   },
+  "2oQ4qNnfng8": {
+   "done_at": "2026-11-27T11:08:05+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-27T11:04:31+00:00",
+   "last_attempt": "2026-11-27T11:07:06+00:00",
+   "notified": "2026-11-27T11:08:43+00:00",
+   "published": "2026-11-27T10:55:42+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "2sJ6xxQu5_0": {
    "errors": 0,
    "first_seen": "2026-11-25T00:56:23+00:00",
@@ -5333,6 +5344,17 @@
    "published": "2026-09-28T09:47:37+00:00",
    "status": "baseline"
   },
+  "A2CWMx-b968": {
+   "done_at": "2026-11-27T11:06:16+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-27T11:04:38+00:00",
+   "last_attempt": "2026-11-27T11:05:10+00:00",
+   "notified": "2026-11-27T11:08:45+00:00",
+   "published": "2026-11-27T11:00:05+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "A6ywz1cQ3SU": {
    "errors": 0,
    "first_seen": "2026-11-01T23:25:30+00:00",
@@ -5722,6 +5744,21 @@
    "published": "2026-11-12T09:30:06+00:00",
    "source": "video",
    "status": "done",
+   "wait_checks": 0
+  },
+  "Ar5BtpzOHu0": {
+   "errors": 0,
+   "first_seen": "2026-11-27T11:04:39+00:00",
+   "published": "2026-11-27T11:00:26+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자에 대한 가치 상승 하락을 보장하지 않습니다.\n\n이제부터는 오를 곳만 오른다 \n교보문고 http://app.ac/LqnFfb203\n예스24 http://app.ac/8AGBe3533\n\n#김학렬 #빠숑 #부동산 #아파트 \n==========================================================\n🔹스마트튜브 경제아카데미: http://www.smarttube.kr\n🔹네이버 프리미엄 콘텐츠: https://contents.premium.naver.com/smarttube/ppassong\n🔹팟빵에서 듣기: https://bit.ly/2IgK4p5\n🔹스마트튜브 네이버 카페 방문하기: https://bit.ly/2IigqkG\n🔹빠숑의 세상답사기 블로그: https://bit.ly/2XhYEmx",
+    "published": "2026-11-27T11:00:26+00:00",
+    "title": "집값 떨어지는 걸까요?",
+    "video_id": "Ar5BtpzOHu0"
+   },
    "wait_checks": 0
   },
   "Au2jZfQ9-kU": {
@@ -15226,6 +15263,17 @@
    "published": "2026-09-13T02:00:04+00:00",
    "status": "baseline"
   },
+  "Vanm_sGMnNM": {
+   "done_at": "2026-11-27T11:05:10+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-27T11:04:40+00:00",
+   "last_attempt": "2026-11-27T11:04:42+00:00",
+   "notified": "2026-11-27T11:08:45+00:00",
+   "published": "2026-11-27T11:00:24+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "Vc6D7OKqZ34": {
    "done_at": "2026-10-14T10:44:11+00:00",
    "errors": 0,
@@ -15706,6 +15754,17 @@
    "last_attempt": "2026-11-04T10:47:39+00:00",
    "notified": "2026-11-04T10:49:52+00:00",
    "published": "2026-11-04T08:30:36+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "WlvizVh2g54": {
+   "done_at": "2026-11-27T11:07:06+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-27T11:04:32+00:00",
+   "last_attempt": "2026-11-27T11:06:16+00:00",
+   "notified": "2026-11-27T11:08:44+00:00",
+   "published": "2026-11-27T11:00:04+00:00",
    "source": "video",
    "status": "done",
    "wait_checks": 0
@@ -18109,7 +18168,7 @@
   "b9oEBJlxBHM": {
    "errors": 0,
    "first_seen": "2026-11-27T01:34:38+00:00",
-   "last_attempt": "2026-11-27T10:52:13+00:00",
+   "last_attempt": "2026-11-27T11:08:06+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-27T01:26:51+00:00",
    "status": "pending",
@@ -18121,7 +18180,7 @@
     "title": "(윤지해) 서울 집값은 멈췄는데, 왜 내가 구하는 집은 더 비싸졌을까?",
     "video_id": "b9oEBJlxBHM"
    },
-   "wait_checks": 32
+   "wait_checks": 33
   },
   "bCL-XoA7r8s": {
    "errors": 0,
@@ -28658,6 +28717,21 @@
    "first_seen": "2026-11-10T01:00:29+00:00",
    "published": "2026-11-09T20:15:15+00:00",
    "status": "skipped_live",
+   "wait_checks": 0
+  },
+  "xWtpK3-eZlo": {
+   "errors": 0,
+   "first_seen": "2026-11-27T11:04:34+00:00",
+   "published": "2026-11-27T11:00:31+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCSPMRoAphbObUYeDaX367Fg",
+    "channel_name": "에스오디 SOD",
+    "description": "#아이폰 #애플 #중국",
+    "published": "2026-11-27T11:00:31+00:00",
+    "title": "공산주의 아이폰 등장",
+    "video_id": "xWtpK3-eZlo"
+   },
    "wait_checks": 0
   },
   "xXPFM_PAnFk": {
