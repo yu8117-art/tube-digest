@@ -7777,6 +7777,21 @@
    "published": "2026-08-19T13:52:41+00:00",
    "status": "baseline"
   },
+  "FjRf86PB9ts": {
+   "errors": 0,
+   "first_seen": "2026-11-27T11:34:32+00:00",
+   "published": "2026-11-27T11:30:31+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCdUcjkyZtf-1WJyPPiETF1g",
+    "channel_name": "ITSub잇섭",
+    "description": "",
+    "published": "2026-11-27T11:30:31+00:00",
+    "title": "오늘부터 AI 가짜 전문가 광고들 철퇴맞는다;;",
+    "video_id": "FjRf86PB9ts"
+   },
+   "wait_checks": 0
+  },
   "Fjl2CMMHCx8": {
    "done_at": "2026-10-22T11:23:56+00:00",
    "errors": 0,
@@ -23369,6 +23384,22 @@
    "first_seen": "2026-10-12T23:26:58+00:00",
    "published": "2026-10-12T23:08:17+00:00",
    "status": "skipped_live",
+   "wait_checks": 0
+  },
+  "lwb1DLZA5MM": {
+   "errors": 0,
+   "first_seen": "2026-11-27T11:34:34+00:00",
+   "last_attempt": "2026-11-27T11:34:44+00:00",
+   "published": "2026-11-27T11:30:27+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#모레노 #국가대표 #축구",
+    "published": "2026-11-27T11:30:27+00:00",
+    "title": "\"아놀드, 오토아도\" 축구협회, 모레노 후임감독 프로필도 찾고 있다? 모레노 재계약, 어떻게 될까",
+    "video_id": "lwb1DLZA5MM"
+   },
    "wait_checks": 0
   },
   "lwlPiAlecWw": {
