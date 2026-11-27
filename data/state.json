@@ -19721,6 +19721,21 @@
    "status": "done",
    "wait_checks": 0
   },
+  "elbZZa_XxbA": {
+   "errors": 0,
+   "first_seen": "2026-11-27T02:19:34+00:00",
+   "published": "2026-11-27T02:19:24+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+    "channel_name": "새벽의 축구 전문가",
+    "description": "#이강인 #AT마드리드 #국가대표",
+    "published": "2026-11-27T02:19:24+00:00",
+    "title": "\"이강인 오프더볼, 영향력 더 있어야 한다\" 쓴소리 나오기 시작한 스페인 평가 / 맨유 또 키퍼실수,, 포체티노 높은 수비라인 / K리그 아챔 실패이유는?",
+    "video_id": "elbZZa_XxbA"
+   },
+   "wait_checks": 0
+  },
   "emJPRnfuk3s": {
    "done_at": "2026-11-09T18:02:12+00:00",
    "errors": 0,
@@ -27038,7 +27053,7 @@
   "ut1fQthTf3c": {
    "errors": 0,
    "first_seen": "2026-11-26T10:04:43+00:00",
-   "last_attempt": "2026-11-27T02:04:52+00:00",
+   "last_attempt": "2026-11-27T02:19:41+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-26T09:54:37+00:00",
    "status": "pending",
@@ -27050,7 +27065,7 @@
     "title": "[구해줘월부 라이브] “집값 감당 못해” 서울 떠나 경기도로 떠나는 사람들 40% 급증했다. 부동산 시장에 미칠 영향은?",
     "video_id": "ut1fQthTf3c"
    },
-   "wait_checks": 12
+   "wait_checks": 13
   },
   "uvDniF5al8E": {
    "first_seen": "2026-10-09T08:14:35+00:00",
