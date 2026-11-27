@@ -18280,7 +18280,7 @@
   "b9oEBJlxBHM": {
    "errors": 0,
    "first_seen": "2026-11-27T01:34:38+00:00",
-   "last_attempt": "2026-11-27T23:19:42+00:00",
+   "last_attempt": "2026-11-27T23:34:45+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-27T01:26:51+00:00",
    "status": "pending",
@@ -18292,7 +18292,7 @@
     "title": "(윤지해) 서울 집값은 멈췄는데, 왜 내가 구하는 집은 더 비싸졌을까?",
     "video_id": "b9oEBJlxBHM"
    },
-   "wait_checks": 83
+   "wait_checks": 84
   },
   "bCL-XoA7r8s": {
    "errors": 0,
@@ -19403,6 +19403,21 @@
    "first_seen": "2026-11-18T08:43:58+00:00",
    "published": "2026-11-16T08:30:35+00:00",
    "status": "baseline"
+  },
+  "d7vbVo5YDS4": {
+   "errors": 0,
+   "first_seen": "2026-11-27T23:34:39+00:00",
+   "published": "2026-11-27T23:30:00+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCYgVl2XoMfkvg1BzTFiyOiw",
+    "channel_name": "홈즈 부동산",
+    "description": "제 의견은요.",
+    "published": "2026-11-27T23:30:00+00:00",
+    "title": "성지궁전 재건축 드디어 분양합니다",
+    "video_id": "d7vbVo5YDS4"
+   },
+   "wait_checks": 0
   },
   "d7w0gi-Fc14": {
    "errors": 0,
