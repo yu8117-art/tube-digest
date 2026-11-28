@@ -22082,7 +22082,7 @@
   "iSXvOaSD7JU": {
    "errors": 0,
    "first_seen": "2026-11-28T13:04:46+00:00",
-   "last_attempt": "2026-11-28T13:20:10+00:00",
+   "last_attempt": "2026-11-28T13:45:02+00:00",
    "last_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Unable to process input: the file or media data is empty, corrupted, or malformed.', 'code': 'invalid_request'}}",
    "published": "2026-11-28T13:00:17+00:00",
    "status": "pending",
@@ -22094,7 +22094,7 @@
     "title": "겨울 땔감 불멍",
     "video_id": "iSXvOaSD7JU"
    },
-   "wait_checks": 2
+   "wait_checks": 3
   },
   "iU4K3mN817I": {
    "errors": 0,
@@ -25896,6 +25896,17 @@
    "first_seen": "2026-10-09T08:14:33+00:00",
    "published": "2026-09-18T12:16:42+00:00",
    "status": "baseline"
+  },
+  "qKPCNqAx1ww": {
+   "done_at": "2026-11-28T13:45:01+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-28T13:34:48+00:00",
+   "last_attempt": "2026-11-28T13:34:50+00:00",
+   "notified": "2026-11-28T13:47:03+00:00",
+   "published": "2026-11-28T13:20:25+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "qKWbsmby-Z4": {
    "first_seen": "2026-10-09T08:14:38+00:00",
