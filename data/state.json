@@ -7227,6 +7227,17 @@
    "status": "done",
    "wait_checks": 0
   },
+  "EAM_Qkw5nMQ": {
+   "done_at": "2026-11-28T11:06:59+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-28T11:04:40+00:00",
+   "last_attempt": "2026-11-28T11:06:39+00:00",
+   "notified": "2026-11-28T11:07:01+00:00",
+   "published": "2026-11-28T11:00:07+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "EJHGaiEaGew": {
    "done_at": "2026-10-22T21:26:23+00:00",
    "errors": 0,
@@ -25904,6 +25915,17 @@
    "published": "2026-09-30T10:51:15+00:00",
    "status": "baseline"
   },
+  "qYkAL07pNys": {
+   "done_at": "2026-11-28T11:06:39+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-28T11:04:40+00:00",
+   "last_attempt": "2026-11-28T11:04:59+00:00",
+   "notified": "2026-11-28T11:07:01+00:00",
+   "published": "2026-11-28T11:00:23+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
   "qZ-rS86SxVU": {
    "done_at": "2026-10-29T06:59:02+00:00",
    "errors": 0,
@@ -27185,6 +27207,17 @@
     "title": "\"이 가격엔 안 사요\" 740가구 미달 터진 한화포레나 지제역 #shorts",
     "video_id": "tML3tRumFx8"
    },
+   "wait_checks": 0
+  },
+  "tMQHyodvCTM": {
+   "done_at": "2026-11-28T11:04:59+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-28T11:04:35+00:00",
+   "last_attempt": "2026-11-28T11:04:42+00:00",
+   "notified": "2026-11-28T11:07:00+00:00",
+   "published": "2026-11-28T11:00:27+00:00",
+   "source": "video",
+   "status": "done",
    "wait_checks": 0
   },
   "tOUA9SV941g": {
