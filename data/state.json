@@ -18951,6 +18951,21 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "cE3ET_iXBaM": {
+   "errors": 0,
+   "first_seen": "2026-11-28T04:34:41+00:00",
+   "published": "2026-11-28T04:20:44+00:00",
+   "status": "pending",
+   "video": {
+    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
+    "channel_name": "스마트튜브(스튜TV)",
+    "description": "",
+    "published": "2026-11-28T04:20:44+00:00",
+    "title": "스마트튜브(스튜TV)님의 라이브 방송",
+    "video_id": "cE3ET_iXBaM"
+   },
+   "wait_checks": 0
+  },
   "cFbvVSxAEBY": {
    "errors": 0,
    "first_seen": "2026-10-15T10:40:30+00:00",
