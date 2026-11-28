@@ -1,0 +1,42 @@
+{
+ "video": {
+  "video_id": "Al0YauMvCg0",
+  "channel_id": "UCdh5nloZ9eo5YpZ2DRWwIew",
+  "channel_name": "새벽의 축구 전문가",
+  "title": "모리야스-벤투, K리그 온다?! 울산, 전북 부임설!! 이정효, 김기동, 코스타까지.. 기대되는 K리그 감독싸움",
+  "published": "2026-11-28T03:20:21+00:00",
+  "description": "사진 출처 : 이미지코리아\n\n비즈니스 & 기타 문의 :\nfenomino92@gmail.com\ninstagram.com/fenomino_92/\n\n#모리야스 #벤투 #k리그 #축구",
+  "url": "https://www.youtube.com/watch?v=Al0YauMvCg0"
+ },
+ "thumbnail": "https://i.ytimg.com/vi/Al0YauMvCg0/maxresdefault.jpg",
+ "source": "video",
+ "duration": 821,
+ "summary": {
+  "headline": "모리야스와 벤투의 K리그 부임설과 외국인 감독 선호 현상",
+  "thumbnail_text": "모리야스, 벤투까지 초특급 K리그 부임설",
+  "thumbnail_answer": "모리야스 감독은 울산 등의 차기 후보군에 올라 있으나 공식 접촉은 아직 없고, 벤투 감독 역시 전북 등 K리그 구단 후보군에 포함되었다는 루머가 돌고 있다.",
+  "conclusion": "K리그 빅클럽들이 국내 감독 대신 검증된 외국인 감독을 찾는 경향이 뚜렷해지고 있다. 외국인 감독들이 가성비와 전술, 라커룸 장악력에서 우위를 보이면서 K리그 감독 시장에 새로운 바람이 불고 있다. 따라서 국내 지도자들도 경쟁력을 증명해야 하는 시점에 직면했다.",
+  "key_points": [
+   "모리야스 감독의 울산 HD 등 K리그 부임설이 제기되었으나 공식 제안이나 접촉 단계는 아니다.",
+   "파울루 벤투 감독 또한 전북 현대 등의 차기 사령탑 후보군에 포함되었다는 보도가 나오고 있다.",
+   "K리그 1과 2 무대에서 세르지우 코스타, 루이 퀸타 등 외국인 감독들이 뛰어난 성과를 내고 있다.",
+   "외국인 감독들은 국내 감독들과 연봉 차이가 크지 않으면서도 전술적 다양성을 제공한다.",
+   "선수들이 국내 감독보다 외국인 감독의 요구와 전술을 더 신뢰하고 잘 따르는 경향이 있다."
+  ],
+  "timeline": [],
+  "tags": [
+   "모리야스",
+   "벤투",
+   "K리그",
+   "울산HD",
+   "전북현대",
+   "축구감독"
+  ],
+  "_usage": {
+   "model": "gemini-3.5-flash-lite",
+   "input_tokens": 76481,
+   "output_tokens": 428
+  }
+ },
+ "created_at": "2026-11-28T03:34:58+00:00"
+}
