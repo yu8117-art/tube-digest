@@ -11310,6 +11310,21 @@
    "published": "2026-08-23T02:00:14+00:00",
    "status": "baseline"
   },
+  "Mt81Ir2l7CA": {
+   "errors": 0,
+   "first_seen": "2026-11-28T12:04:34+00:00",
+   "published": "2026-11-28T11:52:40+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UC9JrTOkuLwzpyudwQqavXGg",
+    "channel_name": "두선생의 역사공장",
+    "description": "🪙 충무공 이순신 장군은 왜 백 원 동전에 계실까요? 🔎 한국 화폐에 처음 등장한 인물, 실존 인물, 역사적 위인은 각각 누구일까요? 🗺️ 지금 새 지폐를 만든다면, 여러분은 누구를 고르시겠어요? 😲 정체를 알 수 없는 노인에서 이승만 대통령, 세종대왕으로 이어지는 초상의 역사를 살펴봅니다! 📜\n\n#돈 #상식 #한국사 #역사 #두선생",
+    "published": "2026-11-28T11:52:40+00:00",
+    "title": "다 맞히기 어려운 상식 퀴즈",
+    "video_id": "Mt81Ir2l7CA"
+   },
+   "wait_checks": 0
+  },
   "Mxsf5cdyJF8": {
    "errors": 0,
    "first_seen": "2026-10-12T07:32:18+00:00",
@@ -23519,6 +23534,17 @@
    "first_seen": "2026-11-21T00:26:31+00:00",
    "published": "2026-11-21T00:00:23+00:00",
    "status": "skipped_old",
+   "wait_checks": 0
+  },
+  "lY1UJseoDhY": {
+   "done_at": "2026-11-28T12:09:15+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-28T12:04:41+00:00",
+   "last_attempt": "2026-11-28T12:04:42+00:00",
+   "notified": "2026-11-28T12:09:15+00:00",
+   "published": "2026-11-28T11:55:16+00:00",
+   "source": "video_notes",
+   "status": "done",
    "wait_checks": 0
   },
   "lZTq_7H_hDk": {
