@@ -20767,6 +20767,17 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "gAFD8AbdgiI": {
+   "done_at": "2026-11-28T02:06:19+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-28T02:04:39+00:00",
+   "last_attempt": "2026-11-28T02:04:49+00:00",
+   "notified": "2026-11-28T02:06:20+00:00",
+   "published": "2026-11-28T02:02:27+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "gAueYPEPbSA": {
    "errors": 0,
    "first_seen": "2026-11-22T21:25:43+00:00",
