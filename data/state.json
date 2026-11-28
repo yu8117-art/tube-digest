@@ -13074,6 +13074,17 @@
    },
    "wait_checks": 0
   },
+  "QivMoEOZR0k": {
+   "done_at": "2026-11-28T01:07:01+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-28T01:04:41+00:00",
+   "last_attempt": "2026-11-28T01:05:01+00:00",
+   "notified": "2026-11-28T01:07:44+00:00",
+   "published": "2026-11-28T01:00:36+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "QnCSlAIPsIk": {
    "done_at": "2026-10-12T06:39:17+00:00",
    "errors": 0,
@@ -18283,7 +18294,7 @@
   "b9oEBJlxBHM": {
    "errors": 0,
    "first_seen": "2026-11-27T01:34:38+00:00",
-   "last_attempt": "2026-11-28T00:49:40+00:00",
+   "last_attempt": "2026-11-28T01:07:01+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
    "published": "2026-11-27T01:26:51+00:00",
    "status": "pending",
@@ -18295,7 +18306,7 @@
     "title": "(윤지해) 서울 집값은 멈췄는데, 왜 내가 구하는 집은 더 비싸졌을까?",
     "video_id": "b9oEBJlxBHM"
    },
-   "wait_checks": 89
+   "wait_checks": 90
   },
   "bCL-XoA7r8s": {
    "errors": 0,
@@ -24078,6 +24089,17 @@
    "last_attempt": "2026-11-03T11:17:59+00:00",
    "notified": "2026-11-03T11:24:10+00:00",
    "published": "2026-11-03T09:30:13+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
+  },
+  "nCG8Z2vpG70": {
+   "done_at": "2026-11-28T01:05:01+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-28T01:04:38+00:00",
+   "last_attempt": "2026-11-28T01:04:43+00:00",
+   "notified": "2026-11-28T01:07:44+00:00",
+   "published": "2026-11-28T01:00:39+00:00",
    "source": "video",
    "status": "done",
    "wait_checks": 0
