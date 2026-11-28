@@ -10139,6 +10139,21 @@
    },
    "wait_checks": 0
   },
+  "KJLAU8_SYiw": {
+   "errors": 0,
+   "first_seen": "2026-11-28T05:04:37+00:00",
+   "published": "2026-11-28T05:00:00+00:00",
+   "status": "skipped_short",
+   "video": {
+    "channel_id": "UCCQPdv4o4ywVZQkAMOlvFbw",
+    "channel_name": "오목교 전자상가",
+    "description": "",
+    "published": "2026-11-28T05:00:00+00:00",
+    "title": "최신 북한 폴더블폰에 블랙핑크를 쳐보면? #shorts",
+    "video_id": "KJLAU8_SYiw"
+   },
+   "wait_checks": 0
+  },
   "KJtiRciLnZ8": {
    "errors": 0,
    "first_seen": "2026-11-18T23:34:58+00:00",
@@ -25736,6 +25751,17 @@
    "source": "video_notes",
    "status": "done",
    "wait_checks": 1
+  },
+  "qPExQe_Dzc8": {
+   "done_at": "2026-11-28T05:07:45+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-28T05:04:41+00:00",
+   "last_attempt": "2026-11-28T05:04:44+00:00",
+   "notified": "2026-11-28T05:07:46+00:00",
+   "published": "2026-11-28T05:00:06+00:00",
+   "source": "video",
+   "status": "done",
+   "wait_checks": 0
   },
   "qPjSgRR6z8s": {
    "done_at": "2026-10-28T07:46:06+00:00",
