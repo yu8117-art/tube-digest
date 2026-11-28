@@ -11540,6 +11540,17 @@
    "status": "skipped_live",
    "wait_checks": 0
   },
+  "NQzplhxnyCE": {
+   "done_at": "2026-11-28T09:06:01+00:00",
+   "errors": 0,
+   "first_seen": "2026-11-28T09:04:46+00:00",
+   "last_attempt": "2026-11-28T09:04:48+00:00",
+   "notified": "2026-11-28T09:06:02+00:00",
+   "published": "2026-11-28T09:00:28+00:00",
+   "source": "video_notes",
+   "status": "done",
+   "wait_checks": 0
+  },
   "NSK_NYybcQk": {
    "errors": 0,
    "first_seen": "2026-11-08T05:15:08+00:00",
