@@ -18292,20 +18292,15 @@
    "status": "baseline"
   },
   "b9oEBJlxBHM": {
+   "done_at": "2026-11-28T01:34:50+00:00",
    "errors": 0,
    "first_seen": "2026-11-27T01:34:38+00:00",
-   "last_attempt": "2026-11-28T01:19:43+00:00",
+   "last_attempt": "2026-11-28T01:34:46+00:00",
    "last_error": "PermissionDeniedError: Error code: 403 - {'error': {'message': 'The caller does not have permission', 'code': 'permission_denied'}}",
+   "notified": "2026-11-28T01:34:51+00:00",
    "published": "2026-11-27T01:26:51+00:00",
-   "status": "pending",
-   "video": {
-    "channel_id": "UCKosTo5bqKm4v264z2zDnFQ",
-    "channel_name": "스마트튜브(스튜TV)",
-    "description": "12월 5일 청주 무료 세미나) 세종, 대전, 충북, 충남의 투자처만 골라서 추천합니다!\nhttps://blog.naver.com/ppassong/224478260115\n\n12월 12일! 스마트튜브 2026년 마지막 오프라인 세미나 - 청약/분양권, 정비사업, 그리고 10대 트렌드 발표까지!\nhttps://www.smarttube.kr/web/83?wmod=detail&idx=662\n\n인천 정규강의 온라인) 3주 만에 끝내는 인천 9개 구 완전정복!\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=663\n\n서울 25개구 사야 할 아파트 모두 짚어 드립니다! - 훨훨\nhttps://www.smarttube.kr/web/62?wmod=detail&idx=613\n\n경기 정규강의 온라인) 경기도 바닥까지 다 뒤져셔 추천합니다! \nhttps://www.smarttube.kr/web/62?wmod=detail&idx=637\n\n부동산 끝판왕, 트루카피의 지금 당장 사야 할 아파트 리스트 200!\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=656\n\n온라인 한시 특강) 지금 경매에서 돈 버는 사람들의 투자 전략 - 달천 정민우\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=631\n\n온라인 정규강의) 정비사업은 이렇게 하셔야 합니다! - 역사부터 방법, 물건 추천까지! 완벽!\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=597\n\n온라인) 정비사업의 끝판왕들이 제안하는 정비사업 절대 투자 노하우! - 한형기 & 이장원\nhttps://www.smarttube.kr/web/64?wmod=detail&idx=589\n\n온라인) 미국 부동산 투자 및 자녀 영주권 확보 전략\nhttps://www.smarttube.kr/web/61?wmod=detail&idx=607\n\n스마트튜브 공식 단톡방입니다!\nhttps://open.kakao.com/o/gZknawQg\n\n* 출연신청 & 제휴 및 광고 문의 : ppassongst@gmail.com\n* 이 영상은 투자 판단에 대한 조언일 뿐, 투자 결과에 대한 보장은 하지 않습니다.",
-    "published": "2026-11-27T01:26:51+00:00",
-    "title": "(윤지해) 서울 집값은 멈췄는데, 왜 내가 구하는 집은 더 비싸졌을까?",
-    "video_id": "b9oEBJlxBHM"
-   },
+   "source": "metadata",
+   "status": "done",
    "wait_checks": 91
   },
   "bCL-XoA7r8s": {
